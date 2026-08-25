@@ -1,0 +1,155 @@
+name: Recoger noticias
+
+on:
+  schedule:
+    # Cada dos horas. El descubrimiento va por RSS, asi que cada corrida
+    # recoge lo publicado desde la anterior.
+    - cron: "0 */2 * * *"
+  workflow_dispatch:
+    inputs:
+      modo:
+        description: "incremental (solo lo nuevo) o full (tambien los sitemaps)"
+        type: choice
+        options: [incremental, full]
+        default: incremental
+      fuentes:
+        description: "Claves separadas por coma (vacio = todas)"
+        type: string
+        default: ""
+      vias:
+        description: "rss,sitemap,crawl (vacio = segun modo)"
+        type: string
+        default: ""
+      max_articulos:
+        description: "Maximo de articulos en esta corrida (0 = sin limite)"
+        type: string
+        default: "0"
+      presupuesto:
+        description: "Segundos maximos antes de guardar y salir"
+        type: string
+        default: "3000"
+      desde:
+        description: "Descarta noticias anteriores a esta fecha (AAAA-MM-DD)"
+        type: string
+        default: ""
+      saltar_descubrimiento:
+        description: "Solo vaciar la cola pendiente"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+# Nunca dos corridas a la vez: comparten el estado versionado en el repositorio.
+concurrency:
+  group: recoger-noticias
+  cancel-in-progress: false
+
+jobs:
+  recoger:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: requirements.txt
+
+      - name: Instalar dependencias
+        run: pip install -r requirements.txt
+
+      - name: Ejecutar el scraper
+        env:
+          MODO: ${{ inputs.modo || 'incremental' }}
+          FUENTES: ${{ inputs.fuentes || '' }}
+          VIAS: ${{ inputs.vias || '' }}
+          MAX_ARTICULOS: ${{ inputs.max_articulos || '0' }}
+          PRESUPUESTO: ${{ inputs.presupuesto || '3000' }}
+          DESDE: ${{ inputs.desde || '' }}
+          SALTAR: ${{ inputs.saltar_descubrimiento || 'false' }}
+          SITE_URL: https://gigantum.net
+        run: |
+          set -euo pipefail
+          args=(
+            scrape
+            --modo "$MODO"
+            --max-articulos "$MAX_ARTICULOS"
+            --presupuesto "$PRESUPUESTO"
+            --resumen run-summary.json
+          )
+          [ -n "$FUENTES" ] && args+=(--fuentes "$FUENTES")
+          [ -n "$VIAS" ] && args+=(--vias "$VIAS")
+          [ -n "$DESDE" ] && args+=(--desde "$DESDE")
+          [ "$SALTAR" = "true" ] && args+=(--saltar-descubrimiento)
+          python -m scraper "${args[@]}"
+
+      - name: Resumen de la corrida
+        if: always()
+        run: |
+          {
+            echo "## Recogida de noticias"
+            echo
+            if [ -f run-summary.json ]; then
+              python - <<'PY'
+          import json
+          with open("run-summary.json", encoding="utf-8") as f:
+              r = json.load(f)
+          print(f"**{r['saved']} noticias nuevas** de {r['sources']} fuentes "
+                f"en {r['duration_seconds']}s · {r['total_articles']} en total\n")
+          print("| Fuente | Descubiertas | Guardadas | Fallos | Sin cuerpo |")
+          print("| --- | ---: | ---: | ---: | ---: |")
+          for clave, s in sorted(r.get("source_health", {}).items(),
+                                 key=lambda kv: -kv[1]["saved"]):
+              print(f"| {clave} | {s['discovered']} | {s['saved']} | "
+                    f"{s['failed']} | {s['empty']} |")
+          print("\n**Por nicho:** " + ", ".join(
+              f"{k} {v}" for k, v in sorted(r.get("verticals", {}).items())))
+          PY
+            else
+              echo "La corrida no llego a producir un resumen."
+            fi
+          } >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Publicar el dataset
+        if: always()
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data state
+
+          if git diff --cached --quiet; then
+            echo "Sin cambios que publicar."
+            exit 0
+          fi
+
+          total=$(python -c "import json;print(json.load(open('data/index.json'))['total_articles'])" 2>/dev/null || echo "?")
+          nuevas=$(python -c "import json;print(json.load(open('run-summary.json'))['saved'])" 2>/dev/null || echo "?")
+          git commit -m "data: +${nuevas} noticias (total ${total})"
+
+          for intento in 1 2 3 4 5; do
+            if git push origin HEAD:${GITHUB_REF_NAME}; then
+              echo "Publicado en el intento ${intento}."
+              exit 0
+            fi
+            echo "Push fallido (intento ${intento}); reintegrando el remoto."
+            git pull --rebase --autostash origin "${GITHUB_REF_NAME}" || true
+            sleep $((2 ** intento))
+          done
+
+          echo "No se pudo publicar tras 5 intentos." >&2
+          exit 1
+
+      - name: Guardar el resumen como artefacto
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: run-summary
+          path: run-summary.json
+          if-no-files-found: ignore
