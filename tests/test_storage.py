@@ -92,6 +92,23 @@ def test_la_portada_agrupa_y_solo_cuenta_medios(tmp_path):
     assert set(historia["also"][0]) == {"id", "category", "title", "published_at"}
 
 
+def test_cada_tarjeta_lleva_marcada_su_historia(tmp_path):
+    """Es lo que permite al sitio no repetir una noticia en ningun listado."""
+    almacen = Almacen(tmp_path, tam_parte=10)
+    almacen.anadir(noticia("a1", titulo="Real Madrid beat Barcelona in the Clasico", fuente="uno"))
+    almacen.anadir(noticia("a2", titulo="Real Madrid beats Barcelona in the Clasico", fuente="dos"))
+    almacen.anadir(noticia("b1", titulo="Una noticia que no tiene nada que ver", fuente="uno"))
+    almacen.volcar()
+    almacen.reconstruir_indices()
+
+    tarjetas = json.loads((tmp_path / "latest.json").read_text())["articles"]
+    porid = {t["id"]: t["story"] for t in tarjetas}
+    assert porid["a1"] == porid["a2"], "las dos coberturas comparten historia"
+    assert porid["b1"] != porid["a1"]
+    # Y la marca no dice de que medio salio cada una.
+    assert all(not t["story"].startswith(("uno", "dos")) for t in tarjetas)
+
+
 def test_fuentes_json_recoge_la_salud(tmp_path):
     almacen = Almacen(tmp_path, tam_parte=10)
     almacen.anadir(noticia("a1"))
@@ -154,3 +171,14 @@ def test_cada_fuente_lleva_su_propia_carpeta(tmp_path):
     assert (tmp_path / "fuentes" / "cnn" / "pending.txt").exists()
     resumen = json.loads((tmp_path / "run.json").read_text())
     assert resumen["pending"] == 2
+
+
+def test_publica_los_hosts_de_imagen(tmp_path):
+    """El sitio los necesita para no acabar siendo un proxy abierto."""
+    almacen = Almacen(tmp_path, tam_parte=10)
+    almacen.anadir(noticia("a1"))
+    almacen.volcar()
+    almacen.reconstruir_indices()
+
+    imagenes = json.loads((tmp_path / "imagenes.json").read_text())
+    assert imagenes["hosts"] == ["x.test"]

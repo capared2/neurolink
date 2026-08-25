@@ -10,6 +10,7 @@ Que hay en ``data/``::
     latest.json                   ultimas noticias, sin cuerpo (listados)
     portada.json                  historias agrupadas: el rio universal
     fuentes.json                  salud de cada fuente en la ultima ejecucion
+    imagenes.json                 hosts de imagen que el sitio puede servir
     <vertical>/<tema>/part-NNNN.json
     <vertical>/<tema>/lookup.json  id de noticia -> fichero que la contiene
     seo/sitemap*.xml
@@ -29,6 +30,7 @@ import os
 import threading
 from datetime import datetime, timezone
 from pathlib import Path
+from urllib.parse import urlsplit
 
 from . import config, dedupe, taxonomy
 
@@ -181,6 +183,7 @@ class Almacen:
         categorias: list[dict] = []
         recientes: list[dict] = []
         lookups: dict[str, dict[str, int]] = {}
+        hosts_imagen: set[str] = set()
         self.entradas_sitemap = []
         total = 0
 
@@ -202,6 +205,10 @@ class Almacen:
                     "modified_at": articulo.get("modified_at"),
                     "language": articulo.get("language"),
                 })
+                for imagen in articulo.get("images") or []:
+                    host = urlsplit(imagen.get("url", "")).netloc.lower()
+                    if host:
+                        hosts_imagen.add(host)
                 tarjeta = _tarjeta(articulo)
                 # La vertical y la fuente hacen falta para agrupar; la fuente se
                 # quita justo despues, antes de escribir nada.
@@ -265,6 +272,16 @@ class Almacen:
         }
         escribir_json(self.data_dir / "index.json", indice)
 
+        # El sitio sirve las imagenes por su propio dominio para no delatar de
+        # donde sale cada noticia. Publicar aqui los hosts que de verdad
+        # aparecen en el dataset le permite comprobarlos y no acabar siendo un
+        # proxy abierto por el que colar cualquier URL.
+        escribir_json(self.data_dir / "imagenes.json", {
+            "generated_at": ahora(),
+            "count": len(hosts_imagen),
+            "hosts": sorted(hosts_imagen),
+        })
+
         if salud_fuentes is not None:
             escribir_json(self.data_dir / "fuentes.json", {
                 "generated_at": ahora(),
@@ -284,10 +301,19 @@ class Almacen:
         for tarjeta in recientes:
             tarjeta["source"] = tarjeta.get("_source")
 
+        agrupadas = dedupe.agrupar(recientes)
+
+        # Cada tarjeta se queda marcada con la historia a la que pertenece. Es
+        # lo que le permite al sitio no repetir una misma noticia en un listado
+        # sin tener que recalcular nada: cinco medios contando lo mismo son
+        # cinco tarjetas con la misma marca.
+        for historia in agrupadas:
+            for pieza in historia.piezas:
+                pieza["story"] = historia.clave
+
         historias = []
-        for historia in dedupe.agrupar(recientes)[: config.PORTADA_LIMIT]:
-            principal = {c: historia.principal.get(c) for c in (*CAMPOS_TARJETA, "image")}
-            principal["story"] = historia.clave
+        for historia in agrupadas[: config.PORTADA_LIMIT]:
+            principal = {c: historia.principal.get(c) for c in (*CAMPOS_TARJETA, "image", "story")}
             principal["coverage"] = historia.fuentes
             # Otras versiones de la misma historia, sin decir de quien son.
             principal["also"] = [
