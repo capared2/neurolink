@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <sitemap>
+    <loc>https://gigantum.net/sitemap-secciones.xml</loc>
+    <lastmod>2026-08-26T00:53:53.148942Z</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://gigantum.net/sitemap-news.xml</loc>
+    <lastmod>2026-08-26T00:53:53.148948Z</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://gigantum.net/sitemap-noticias-0001.xml</loc>
+    <lastmod>2026-08-26T00:53:53.148950Z</lastmod>
+  </sitemap>
+</sitemapindex>
