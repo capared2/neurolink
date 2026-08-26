@@ -8,7 +8,7 @@ def test_todas_las_fuentes_estan_bien_formadas():
     for fuente in sources.FUENTES:
         assert fuente.clave and fuente.clave.islower()
         assert fuente.hosts, f"{fuente.clave} no declara hosts"
-        assert fuente.vertical in ("noticias", "deportes", "gamer", "tecnologia")
+        assert fuente.vertical in ("news", "sports", "gaming", "tech")
         # Una fuente sin ninguna via de descubrimiento no aportaria nada.
         assert fuente.feeds or fuente.sitemaps or fuente.semillas, fuente.clave
 

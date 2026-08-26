@@ -110,7 +110,7 @@ FUENTES: tuple[Fuente, ...] = (
     # ---------------------------------------------------------------- Noticias
     Fuente(
         clave="bbc", nombre="BBC", home="https://www.bbc.com",
-        vertical="noticias", idioma="en", pais="GB",
+        vertical="news", idioma="en", pais="GB",
         hosts=frozenset({"bbc.com", "bbc.co.uk"}),
         feeds=(
             "https://feeds.bbci.co.uk/news/rss.xml",
@@ -131,7 +131,7 @@ FUENTES: tuple[Fuente, ...] = (
     ),
     Fuente(
         clave="globo", nombre="Globo", home="https://g1.globo.com",
-        vertical="noticias", idioma="pt", pais="BR",
+        vertical="news", idioma="pt", pais="BR",
         hosts=frozenset({"g1.globo.com", "ge.globo.com", "oglobo.globo.com", "globo.com"}),
         feeds=(
             "https://g1.globo.com/rss/g1/",
@@ -147,7 +147,7 @@ FUENTES: tuple[Fuente, ...] = (
     ),
     Fuente(
         clave="nytimes", nombre="The New York Times", home="https://www.nytimes.com",
-        vertical="noticias", idioma="en", pais="US",
+        vertical="news", idioma="en", pais="US",
         hosts=frozenset({"nytimes.com"}),
         feeds=(
             "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
@@ -173,7 +173,7 @@ FUENTES: tuple[Fuente, ...] = (
     ),
     Fuente(
         clave="cnn", nombre="CNN", home="https://edition.cnn.com",
-        vertical="noticias", idioma="en", pais="US",
+        vertical="news", idioma="en", pais="US",
         hosts=frozenset({"cnn.com", "edition.cnn.com"}),
         feeds=(
             "http://rss.cnn.com/rss/edition.rss",
@@ -190,7 +190,7 @@ FUENTES: tuple[Fuente, ...] = (
     ),
     Fuente(
         clave="foxnews", nombre="Fox News", home="https://www.foxnews.com",
-        vertical="noticias", idioma="en", pais="US",
+        vertical="news", idioma="en", pais="US",
         hosts=frozenset({"foxnews.com"}),
         feeds=(
             "https://moxie.foxnews.com/google-publisher/latest.xml",
@@ -208,7 +208,7 @@ FUENTES: tuple[Fuente, ...] = (
     ),
     Fuente(
         clave="toi", nombre="Times of India", home="https://timesofindia.indiatimes.com",
-        vertical="noticias", idioma="en", pais="IN",
+        vertical="news", idioma="en", pais="IN",
         hosts=frozenset({"timesofindia.indiatimes.com"}),
         feeds=(
             "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
@@ -225,13 +225,13 @@ FUENTES: tuple[Fuente, ...] = (
     ),
     Fuente(
         clave="thehill", nombre="The Hill", home="https://thehill.com",
-        vertical="noticias", idioma="en", pais="US",
+        vertical="news", idioma="en", pais="US",
         hosts=frozenset({"thehill.com"}),
         feeds=("https://thehill.com/feed/",),
         semillas=("/policy", "/homenews", "/business"),
         articulo=(r"^/[a-z0-9-]+/(?:[a-z0-9-]+/)?\d{6,}-[a-z0-9-]+/?$",),
         cuerpo=(".article__text", ".content-wrp", "article"),
-        tema_por_defecto="noticias/politica",
+        tema_por_defecto="news/politics",
         activa=False,
         nota="Apagada: su feed funciona --descubre sesenta URLs-- pero ni la "
              "portada ni los articulos se dejan descargar. Mismo caso que NYT: "
@@ -239,7 +239,7 @@ FUENTES: tuple[Fuente, ...] = (
     ),
     Fuente(
         clave="aljazeera", nombre="Al Jazeera", home="https://www.aljazeera.com",
-        vertical="noticias", idioma="en", pais="QA",
+        vertical="news", idioma="en", pais="QA",
         hosts=frozenset({"aljazeera.com"}),
         feeds=("https://www.aljazeera.com/xml/rss/all.xml",),
         semillas=("/news", "/economy", "/sports"),
@@ -249,7 +249,7 @@ FUENTES: tuple[Fuente, ...] = (
     ),
     Fuente(
         clave="nbcnews", nombre="NBC News", home="https://www.nbcnews.com",
-        vertical="noticias", idioma="en", pais="US",
+        vertical="news", idioma="en", pais="US",
         hosts=frozenset({"nbcnews.com"}),
         feeds=(
             "https://feeds.nbcnews.com/nbcnews/public/news",
@@ -265,7 +265,7 @@ FUENTES: tuple[Fuente, ...] = (
     ),
     Fuente(
         clave="yahoo", nombre="Yahoo News", home="https://www.yahoo.com",
-        vertical="noticias", idioma="en", pais="US",
+        vertical="news", idioma="en", pais="US",
         hosts=frozenset({"yahoo.com", "news.yahoo.com", "sports.yahoo.com", "finance.yahoo.com"}),
         feeds=(
             "https://news.yahoo.com/rss/world",
@@ -282,7 +282,7 @@ FUENTES: tuple[Fuente, ...] = (
     # ---------------------------------------------------------------- Deportes
     Fuente(
         clave="espn", nombre="ESPN", home="https://www.espn.com",
-        vertical="deportes", idioma="en", pais="US",
+        vertical="sports", idioma="en", pais="US",
         hosts=frozenset({"espn.com"}),
         feeds=(
             "https://www.espn.com/espn/rss/news",
@@ -306,13 +306,13 @@ FUENTES: tuple[Fuente, ...] = (
     ),
     Fuente(
         clave="fifa", nombre="FIFA", home="https://www.fifa.com",
-        vertical="deportes", idioma="en", pais="CH",
+        vertical="sports", idioma="en", pais="CH",
         hosts=frozenset({"fifa.com", "inside.fifa.com"}),
         sitemaps=("https://www.fifa.com/sitemap.xml", "https://inside.fifa.com/sitemap.xml"),
         semillas=("/en/news", "/es/news", "/articles"),
         articulo=(r"/articles/", r"/news/[a-z0-9-]{10,}"),
         cuerpo=("article", ".ff-mt-0", "main"),
-        tema_por_defecto="deportes/futbol",
+        tema_por_defecto="sports/soccer",
         activa=False,
         nota="Apagada: sus sitemaps si funcionan --sesenta URLs en la revision "
              "del 26/08/2026-- pero las paginas se montan enteras con "
@@ -321,7 +321,7 @@ FUENTES: tuple[Fuente, ...] = (
     ),
     Fuente(
         clave="marca", nombre="Marca", home="https://www.marca.com",
-        vertical="deportes", idioma="es", pais="ES",
+        vertical="sports", idioma="es", pais="ES",
         hosts=frozenset({"marca.com"}),
         feeds=(
             "https://e00-marca.uecdn.es/rss/portada.xml",
@@ -345,7 +345,7 @@ FUENTES: tuple[Fuente, ...] = (
     ),
     Fuente(
         clave="skysports", nombre="Sky Sports", home="https://www.skysports.com",
-        vertical="deportes", idioma="en", pais="GB",
+        vertical="sports", idioma="en", pais="GB",
         hosts=frozenset({"skysports.com"}),
         feeds=(
             "https://www.skysports.com/rss/12040",
@@ -360,7 +360,7 @@ FUENTES: tuple[Fuente, ...] = (
     ),
     Fuente(
         clave="bleacherreport", nombre="Bleacher Report", home="https://bleacherreport.com",
-        vertical="deportes", idioma="en", pais="US",
+        vertical="sports", idioma="en", pais="US",
         hosts=frozenset({"bleacherreport.com"}),
         # El feed clasico ya no responde; el que vale lo anuncia la portada y lo
         # recoge solo el descubrimiento.
@@ -373,7 +373,7 @@ FUENTES: tuple[Fuente, ...] = (
     # ------------------------------------------------------------------ Gamer
     Fuente(
         clave="ign", nombre="IGN", home="https://www.ign.com",
-        vertical="gamer", idioma="en", pais="US",
+        vertical="gaming", idioma="en", pais="US",
         hosts=frozenset({"ign.com"}),
         feeds=(
             "https://feeds.feedburner.com/ign/all",
@@ -386,19 +386,19 @@ FUENTES: tuple[Fuente, ...] = (
     ),
     Fuente(
         clave="faceit", nombre="FACEIT", home="https://www.faceit.com",
-        vertical="gamer", idioma="en", pais="GB",
+        vertical="gaming", idioma="en", pais="GB",
         hosts=frozenset({"faceit.com", "blog.faceit.com"}),
         feeds=("https://blog.faceit.com/feed/", "https://blog.faceit.com/rss/"),
         semillas=("/en/news", "/en"),
         cuerpo=("article", ".post-content", "main"),
-        tema_por_defecto="gamer/esports",
+        tema_por_defecto="gaming/esports",
         nota="faceit.com es una aplicacion de una sola pagina y sus datos de "
              "competicion van por API con clave. Aqui solo se recoge su blog; "
              "si el doctor lo da por muerto, desactiva la fuente.",
     ),
     Fuente(
         clave="twitch", nombre="Twitch", home="https://blog.twitch.tv",
-        vertical="gamer", idioma="en", pais="US",
+        vertical="gaming", idioma="en", pais="US",
         hosts=frozenset({"blog.twitch.tv", "twitch.tv"}),
         # Los dos RSS del blog estan muertos; el sitemap si responde.
         feeds=(),
@@ -406,14 +406,14 @@ FUENTES: tuple[Fuente, ...] = (
         semillas=("/en/", "/en/news/"),
         articulo=(r"^/[a-z]{2}/\d{4}/\d{2}/\d{2}/",),
         cuerpo=("article", ".post-body", "main"),
-        tema_por_defecto="gamer/streaming",
+        tema_por_defecto="gaming/streaming",
         nota="Lo que pasa en directo (canales, espectadores, categorias) solo se "
              "lee por la API Helix con credenciales de aplicacion, que este "
              "scraper no usa: de Twitch se recoge su blog oficial.",
     ),
     Fuente(
         clave="steam", nombre="Steam", home="https://store.steampowered.com",
-        vertical="gamer", idioma="en", pais="US",
+        vertical="gaming", idioma="en", pais="US",
         hosts=frozenset({"store.steampowered.com", "steamcommunity.com", "steampowered.com"}),
         feeds=(
             "https://store.steampowered.com/feeds/news.xml",
@@ -422,13 +422,13 @@ FUENTES: tuple[Fuente, ...] = (
         semillas=("/news/", "/news/collection/steam"),
         articulo=(r"/news/(app|group)/\d+/view/\d+", r"/news/[a-z0-9-]{8,}"),
         cuerpo=(".newsPostBlock", ".body", "article", "main"),
-        tema_por_defecto="gamer/juegos",
+        tema_por_defecto="gaming/games",
     ),
 
     # ------------------------------------------------------------- Tecnologia
     Fuente(
         clave="theverge", nombre="The Verge", home="https://www.theverge.com",
-        vertical="tecnologia", idioma="en", pais="US",
+        vertical="tech", idioma="en", pais="US",
         hosts=frozenset({"theverge.com"}),
         feeds=("https://www.theverge.com/rss/index.xml",),
         semillas=("/tech", "/news"),
@@ -438,14 +438,14 @@ FUENTES: tuple[Fuente, ...] = (
     ),
     Fuente(
         clave="techcrunch", nombre="TechCrunch", home="https://techcrunch.com",
-        vertical="tecnologia", idioma="en", pais="US",
+        vertical="tech", idioma="en", pais="US",
         hosts=frozenset({"techcrunch.com"}),
         feeds=("https://techcrunch.com/feed/",),
         semillas=("/", "/category/artificial-intelligence/", "/category/startups/"),
         articulo=(r"^/\d{4}/\d{2}/\d{2}/",),
         denegar=(r"^/(events|video|podcast)/",),
         cuerpo=(".article-content", ".entry-content", "article"),
-        tema_por_defecto="tecnologia/empresas",
+        tema_por_defecto="tech/companies",
     ),
 )
 

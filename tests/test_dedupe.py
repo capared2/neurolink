@@ -2,7 +2,7 @@
 from scraper import dedupe
 
 
-def articulo(id_, titulo, fuente, vertical="deportes", cuando="2026-08-25T10:00:00Z"):
+def articulo(id_, titulo, fuente, vertical="sports", cuando="2026-08-25T10:00:00Z"):
     return {"id": id_, "title": titulo, "source": fuente, "vertical": vertical,
             "published_at": cuando, "category": f"{vertical}/futbol"}
 
@@ -20,7 +20,7 @@ def test_junta_lo_que_es_la_misma_historia():
 def test_no_junta_lo_que_no_tiene_que_ver():
     historias = dedupe.agrupar([
         articulo("1", "Real Madrid beat Barcelona in the Clasico", "a"),
-        articulo("2", "El Congreso aprueba la reforma de las pensiones", "b", vertical="noticias"),
+        articulo("2", "El Congreso aprueba la reforma de las pensiones", "b", vertical="news"),
     ])
     assert len(historias) == 2
 
@@ -36,8 +36,8 @@ def test_una_misma_fuente_no_cuenta_dos_veces():
 def test_una_historia_grande_cruza_verticales():
     """Una compra millonaria es economia y es tecnologia: es la misma historia."""
     historias = dedupe.agrupar([
-        articulo("1", "Apple compra una startup de inteligencia artificial", "a", vertical="tecnologia"),
-        articulo("2", "Apple compra una startup de inteligencia artificial", "b", vertical="noticias"),
+        articulo("1", "Apple compra una startup de inteligencia artificial", "a", vertical="tech"),
+        articulo("2", "Apple compra una startup de inteligencia artificial", "b", vertical="news"),
     ])
     assert len(historias) == 1
     assert historias[0].fuentes == 2
@@ -50,14 +50,14 @@ def test_entre_verticales_se_pide_mas_parecido():
         "Apple compra una empresa de inteligencia artificial hoy",
     )
     mismo_nicho = dedupe.agrupar([
-        articulo("1", parecidas[0], "a", vertical="tecnologia"),
-        articulo("2", parecidas[1], "b", vertical="tecnologia"),
+        articulo("1", parecidas[0], "a", vertical="tech"),
+        articulo("2", parecidas[1], "b", vertical="tech"),
     ])
     assert len(mismo_nicho) == 1
 
     distinto_nicho = dedupe.agrupar([
-        articulo("1", parecidas[0], "a", vertical="tecnologia"),
-        articulo("2", parecidas[1], "b", vertical="noticias"),
+        articulo("1", parecidas[0], "a", vertical="tech"),
+        articulo("2", parecidas[1], "b", vertical="news"),
     ])
     assert len(distinto_nicho) == 2
 

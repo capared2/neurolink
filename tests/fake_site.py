@@ -34,7 +34,7 @@ PARRAFOS = [
 
 DIARIO = Fuente(
     clave="diario", nombre="Diario Uno", home="https://diario.test",
-    vertical="noticias", idioma="es", pais="ES",
+    vertical="news", idioma="es", pais="ES",
     hosts=frozenset({"diario.test"}),
     feeds=("https://diario.test/rss.xml",),
     semillas=("/",),
@@ -45,7 +45,7 @@ DIARIO = Fuente(
 
 CANCHA = Fuente(
     clave="cancha", nombre="Cancha", home="https://cancha.test",
-    vertical="deportes", idioma="es", pais="AR",
+    vertical="sports", idioma="es", pais="AR",
     hosts=frozenset({"cancha.test"}),
     feeds=("https://cancha.test/feed.xml",),
     semillas=("/futbol",),
@@ -56,13 +56,13 @@ CANCHA = Fuente(
 
 PIXEL = Fuente(
     clave="pixel", nombre="Pixel", home="https://pixel.test",
-    vertical="gamer", idioma="en", pais="US",
+    vertical="gaming", idioma="en", pais="US",
     hosts=frozenset({"pixel.test"}),
     sitemaps=("https://pixel.test/sitemap.xml",),
     semillas=("/news",),
     # Sin `cuerpo`: a proposito, para que tenga que salvarlo la densidad.
     delay=0.0,
-    tema_por_defecto="gamer/juegos",
+    tema_por_defecto="gaming/games",
 )
 
 FUENTES = (DIARIO, CANCHA, PIXEL)

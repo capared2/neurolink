@@ -6,7 +6,7 @@ from scraper.seo import construir
 ESPACIO = "{http://www.sitemaps.org/schemas/sitemap/0.9}"
 
 
-def _articulo(id_, categoria="deportes/futbol", cuando="2026-08-25T10:00:00Z"):
+def _articulo(id_, categoria="sports/soccer", cuando="2026-08-25T10:00:00Z"):
     return {"id": id_, "category": categoria, "title": f"Titular {id_}",
             "published_at": cuando, "modified_at": None, "language": "es"}
 
@@ -19,8 +19,8 @@ def _locs(ruta):
 def test_escribe_todos_los_sitemaps(tmp_path):
     manifiesto = construir(
         tmp_path, "https://gigantum.net",
-        [_articulo("a1"), _articulo("b1", "noticias/mundo")],
-        [{"category": "deportes/futbol"}, {"category": "noticias/mundo"}],
+        [_articulo("a1"), _articulo("b1", "news/world")],
+        [{"category": "sports/soccer"}, {"category": "news/world"}],
     )
     seo = tmp_path / "seo"
     assert (seo / "sitemap.xml").exists()
@@ -32,16 +32,16 @@ def test_escribe_todos_los_sitemaps(tmp_path):
 
 def test_las_rutas_son_las_del_sitio(tmp_path):
     construir(tmp_path, "https://gigantum.net", [_articulo("a1")],
-              [{"category": "deportes/futbol"}])
+              [{"category": "sports/soccer"}])
 
     noticias = _locs(tmp_path / "seo" / "sitemap-noticias-0001.xml")
-    assert noticias == ["https://gigantum.net/noticia/deportes/futbol/a1"]
+    assert noticias == ["https://gigantum.net/article/sports/soccer/a1"]
 
     secciones = _locs(tmp_path / "seo" / "sitemap-secciones.xml")
     assert "https://gigantum.net/" in secciones
-    assert "https://gigantum.net/temas" in secciones
-    assert "https://gigantum.net/deportes" in secciones          # la vertical entera
-    assert "https://gigantum.net/deportes/futbol" in secciones   # y el tema
+    assert "https://gigantum.net/topics" in secciones
+    assert "https://gigantum.net/sports" in secciones            # la vertical entera
+    assert "https://gigantum.net/sports/soccer" in secciones   # y el tema
 
 
 def test_google_news_solo_lleva_lo_reciente(tmp_path):
@@ -51,7 +51,7 @@ def test_google_news_solo_lleva_lo_reciente(tmp_path):
 
     construir(tmp_path, "https://gigantum.net",
               [_articulo("nueva", cuando=reciente), _articulo("vieja", cuando=viejo)],
-              [{"category": "deportes/futbol"}])
+              [{"category": "sports/soccer"}])
 
     locs = _locs(tmp_path / "seo" / "sitemap-news.xml")
     assert any("nueva" in u for u in locs)
@@ -59,7 +59,7 @@ def test_google_news_solo_lleva_lo_reciente(tmp_path):
 
 
 def test_el_indice_agrupa_a_los_demas(tmp_path):
-    construir(tmp_path, "https://gigantum.net", [_articulo("a1")], [{"category": "deportes/futbol"}])
+    construir(tmp_path, "https://gigantum.net", [_articulo("a1")], [{"category": "sports/soccer"}])
     contenido = (tmp_path / "seo" / "sitemap.xml").read_text()
     assert "sitemap-secciones.xml" in contenido
     assert "sitemap-news.xml" in contenido
@@ -73,5 +73,5 @@ def test_el_titular_se_escapa(tmp_path):
     from datetime import datetime, timezone
     articulo["published_at"] = datetime.now(timezone.utc).isoformat().replace("+00:00", "Z")
 
-    construir(tmp_path, "https://gigantum.net", [articulo], [{"category": "noticias/economia"}])
+    construir(tmp_path, "https://gigantum.net", [articulo], [{"category": "news/business"}])
     ElementTree.parse(tmp_path / "seo" / "sitemap-news.xml")   # revienta si no es valido

@@ -21,10 +21,10 @@ import unicodedata
 from dataclasses import dataclass, field
 
 VERTICALES = {
-    "noticias": "Noticias",
-    "deportes": "Deportes",
-    "gamer": "Gamer",
-    "tecnologia": "Tecnología",
+    "news": "News",
+    "sports": "Sports",
+    "gaming": "Gaming",
+    "tech": "Tech",
 }
 
 
@@ -61,7 +61,7 @@ def _t(clave: str, nombre: str, alias: str, claves: str = "", generico: bool = F
 # espanol, ingles y portugues porque el dataset mezcla los tres idiomas.
 TEMAS: tuple[Tema, ...] = (
     # -- Deportes ----------------------------------------------------------
-    _t("deportes/futbol", "Fútbol",
+    _t("sports/soccer", "Soccer",
        "futbol football soccer futebol laliga primera-division segunda-division "
        "premier-league champions-league europa-league bundesliga serie-a ligue-1 "
        "liga-francesa copa-del-rey seleccion futbol-internacional futbol-femenino "
@@ -69,93 +69,93 @@ TEMAS: tuple[Tema, ...] = (
        "world-cup mundial eurocopa concacaf conmebol",
        "futbol football soccer futebol liga laliga champions uefa fifa gol goles goal golo "
        "delantero portero entrenador midfielder striker matchday clasico derbi"),
-    _t("deportes/baloncesto", "Baloncesto",
+    _t("sports/basketball", "Basketball",
        "baloncesto basketball basquete nba acb euroliga euroleague basquetbol ncaa wnba",
        "baloncesto basketball basquete nba canasta triple rebote playoffs dunk"),
-    _t("deportes/nfl", "NFL",
+    _t("sports/nfl", "NFL",
        "nfl american-football futebol-americano superbowl super-bowl",
        "nfl quarterback touchdown superbowl draft"),
-    _t("deportes/beisbol", "Béisbol",
+    _t("sports/baseball", "Baseball",
        "beisbol baseball mlb besibol",
        "beisbol baseball mlb pitcher home-run innings"),
-    _t("deportes/tenis", "Tenis",
+    _t("sports/tennis", "Tennis",
        "tenis tennis atp wta roland-garros wimbledon us-open australian-open",
        "tenis tennis atp wta grand-slam raqueta"),
-    _t("deportes/motor", "Motor",
+    _t("sports/motorsport", "Motorsport",
        "motor formula1 f1 formula-1 motogp motor-racing racing nascar rally indycar",
        "formula1 motogp circuito parrilla pole piloto grand-prix escuderia"),
-    _t("deportes/golf", "Golf", "golf pga masters-golf ryder-cup", "golf birdie putt green pga"),
-    _t("deportes/ciclismo", "Ciclismo",
+    _t("sports/golf", "Golf", "golf pga masters-golf ryder-cup", "golf birdie putt green pga"),
+    _t("sports/cycling", "Cycling",
        "ciclismo cycling tour-de-france vuelta giro",
        "ciclismo cycling pelotón maillot etapa velodromo"),
-    _t("deportes/combate", "Deportes de combate",
+    _t("sports/combat", "Combat sports",
        "boxeo boxing mma ufc lucha wrestling artes-marciales",
        "boxeo boxing ufc mma knockout octagono cinturon"),
-    _t("deportes/cricket", "Cricket",
+    _t("sports/cricket", "Cricket",
        "cricket ipl test-cricket",
        "cricket wicket batsman bowler ipl innings"),
-    _t("deportes/rugby", "Rugby", "rugby rugby-union six-nations", "rugby scrum try lineout"),
-    _t("deportes/olimpismo", "Olimpismo",
+    _t("sports/rugby", "Rugby", "rugby rugby-union six-nations", "rugby scrum try lineout"),
+    _t("sports/olympics", "Olympics",
        "juegos-olimpicos olympics olimpiadas atletismo athletics natacion swimming "
        "balonmano handball voleibol volleyball hockey esqui",
        "olimpicos olympic medalla podio atletismo natacion"),
-    _t("deportes/otros", "Más deporte", "deportes sport sports esporte mas-deporte otros-deportes", "",
+    _t("sports/more", "More sport", "deportes sport sports esporte mas-deporte otros-deportes", "",
        generico=True),
 
     # -- Gamer -------------------------------------------------------------
-    _t("gamer/juegos", "Videojuegos",
+    _t("gaming/games", "Video games",
        "juegos games gaming videojuegos videogames game reviews playstation xbox "
        "nintendo switch pc-gaming steam",
        "videojuego videojuegos gameplay consola playstation xbox nintendo "
        "steam dlc jugabilidad rpg shooter"),
-    _t("gamer/esports", "Esports",
+    _t("gaming/esports", "Esports",
        "esports e-sports faceit competitive csgo cs2 valorant lol league-of-legends "
        "dota overwatch rainbow-six",
        "esports csgo cs2 valorant dota torneo clan roster major hltv"),
-    _t("gamer/streaming", "Streaming",
+    _t("gaming/streaming", "Streaming",
        "streaming streamers twitch creators live",
        "twitch streamer streaming directo subs raid"),
 
     # -- Tecnologia --------------------------------------------------------
-    _t("tecnologia/ia", "Inteligencia artificial",
+    _t("tech/ai", "Artificial intelligence",
        "ai artificial-intelligence inteligencia-artificial ia machine-learning",
        "inteligencia-artificial openai anthropic chatgpt llm modelo algoritmo machine-learning"),
-    _t("tecnologia/gadgets", "Gadgets",
+    _t("tech/gadgets", "Gadgets",
        "gadgets reviews-tech hardware phones smartphones moviles wearables audio laptops tv",
        "iphone android smartphone portatil auriculares pantalla bateria chip procesador"),
-    _t("tecnologia/empresas", "Empresas tecnológicas",
+    _t("tech/companies", "Companies",
        "startups venture fundraising apps enterprise fintech",
        "startup ronda inversion adquisicion valoracion ipo unicornio"),
-    _t("tecnologia/ciencia", "Ciencia y espacio",
+    _t("tech/science", "Science & space",
        "ciencia science space espacio nasa spacex clima climate energia transport",
        "espacio nasa spacex cohete satelite investigacion estudio cientificos"),
-    _t("tecnologia/software", "Software y seguridad",
+    _t("tech/software", "Software & security",
        "software security seguridad cyber privacy internet web policy",
        "software actualizacion vulnerabilidad hackers ciberataque privacidad codigo"),
-    _t("tecnologia/cripto", "Cripto", "crypto criptomonedas bitcoin blockchain web3",
+    _t("tech/crypto", "Crypto", "crypto criptomonedas bitcoin blockchain web3",
        "bitcoin ethereum cripto blockchain token wallet"),
 
     # -- Noticias ----------------------------------------------------------
-    _t("noticias/mundo", "Mundo",
+    _t("news/world", "World",
        "world mundo internacional international mundo-news africa asia europe "
        "middle-east latin-america americas uk us-news india brasil",
        "guerra conflicto frontera gobierno onu tratado refugiados embajada"),
-    _t("noticias/politica", "Política",
+    _t("news/politics", "Politics",
        "politics politica politica-nacional elections elecciones congress senate "
        "white-house parlamento gobierno campaign",
        "elecciones presidente parlamento senado congreso partido ministro campana voto"),
-    _t("noticias/economia", "Economía",
+    _t("news/business", "Business",
        "business economia economy negocios finance markets mercados empresas "
        "money economia-y-negocios",
        "economia inflacion mercados bolsa banco empleo pib impuestos aranceles"),
-    _t("noticias/sociedad", "Sociedad",
+    _t("news/society", "Society",
        "society sociedad sucesos crime justicia justice courts education educacion "
        "inmigracion cotidiano",
        "juicio tribunal policia detenido investigacion protesta manifestacion"),
-    _t("noticias/salud", "Salud",
+    _t("news/health", "Health",
        "health salud bienestar medicine wellness",
        "salud hospital virus vacuna medico enfermedad pacientes sanidad"),
-    _t("noticias/cultura", "Cultura y espectáculos",
+    _t("news/culture", "Culture",
        "entertainment cultura culture arts celebrity celebridades cine movies music "
        "musica tv-shows television pop-culture tiramillas famosos",
        "pelicula serie estreno album concierto festival actor actriz oscar"),
@@ -165,10 +165,10 @@ TEMAS_POR_CLAVE = {tema.clave: tema for tema in TEMAS}
 
 # Tema al que va a parar lo que no encaja en ningun sitio, por vertical.
 POR_DEFECTO = {
-    "noticias": "noticias/mundo",
-    "deportes": "deportes/otros",
-    "gamer": "gamer/juegos",
-    "tecnologia": "tecnologia/gadgets",
+    "news": "news/world",
+    "sports": "sports/more",
+    "gaming": "gaming/games",
+    "tech": "tech/gadgets",
 }
 
 # Pesos de cada senal. La URL manda porque es la unica que el medio elige de
@@ -256,7 +256,7 @@ def clasificar(
 
     if tema_por_defecto and tema_por_defecto in TEMAS_POR_CLAVE:
         return tema_por_defecto
-    return POR_DEFECTO.get(vertical_por_defecto, "noticias/mundo")
+    return POR_DEFECTO.get(vertical_por_defecto, "news/world")
 
 
 def nombre_tema(clave: str) -> str:

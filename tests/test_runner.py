@@ -32,11 +32,11 @@ def test_de_las_fuentes_al_dataset(tmp_path, fetcher, fuentes_falsas):
     assert indice["total_articles"] == 8
 
     # Las tres verticales estan representadas: es un agregador multinicho.
-    assert set(resumen["verticals"]) == {"noticias", "deportes", "gamer"}
+    assert set(resumen["verticals"]) == {"news", "sports", "gaming"}
 
     # Y cada noticia acabo en la carpeta de su tema.
-    assert (datos / "deportes" / "futbol").is_dir()
-    assert (datos / "gamer").is_dir()
+    assert (datos / "sports" / "soccer").is_dir()
+    assert (datos / "gaming").is_dir()
 
 
 def test_la_portada_mezcla_todo_y_agrupa(tmp_path, fetcher, fuentes_falsas):
@@ -101,7 +101,7 @@ def test_min_palabras_descarta_lo_que_no_trae_cuerpo(tmp_path, fetcher, fuentes_
 def test_se_puede_scrapear_una_sola_fuente(tmp_path, fetcher, fuentes_falsas):
     resumen = ejecutar(_opciones(tmp_path, fuentes=["cancha"]))
     assert resumen["sources"] == 1
-    assert set(resumen["verticals"]) == {"deportes"}
+    assert set(resumen["verticals"]) == {"sports"}
 
 
 def test_una_fuente_rota_no_se_lleva_a_las_demas(tmp_path, fetcher, fuentes_falsas, monkeypatch):
@@ -118,7 +118,7 @@ def test_una_fuente_rota_no_se_lleva_a_las_demas(tmp_path, fetcher, fuentes_fals
 
     resumen = ejecutar(_opciones(tmp_path))
     assert resumen["saved"] == 4          # las dos fuentes sanas siguen publicando
-    assert "deportes" in resumen["verticals"]
+    assert "sports" in resumen["verticals"]
 
 
 def test_desde_descarta_lo_viejo(tmp_path, fetcher, fuentes_falsas):

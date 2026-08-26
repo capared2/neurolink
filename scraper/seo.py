@@ -7,10 +7,10 @@ cada peticion (Cloudflare Workers corta a los 10 ms en el plan gratuito).
 Las rutas tienen que coincidir con las del sitio::
 
     /                                   el rio universal
-    /temas                              directorio de temas
+    /topics                             directorio de temas
     /<vertical>                         un nicho entero
     /<vertical>/<tema>                  un tema
-    /noticia/<vertical>/<tema>/<id>     una noticia
+    /article/<vertical>/<tema>/<id>     una noticia
 """
 from __future__ import annotations
 
@@ -82,7 +82,7 @@ def construir(
         lote = ordenados[comienzo : comienzo + config.URLS_POR_SITEMAP]
         urls = [
             _entrada(
-                f"{base}/noticia/{a['category']}/{a['id']}",
+                f"{base}/article/{a['category']}/{a['id']}",
                 a.get("modified_at") or a.get("published_at"),
                 # El primer trozo es lo mas reciente: es donde interesa que el
                 # rastreador vuelva a menudo.
@@ -99,7 +99,7 @@ def construir(
     # -- secciones ----------------------------------------------------------
     fijas = [
         _entrada(f"{base}/", _ahora(), "1.0", "hourly"),
-        _entrada(f"{base}/temas", _ahora(), "0.6", "weekly"),
+        _entrada(f"{base}/topics", _ahora(), "0.6", "weekly"),
     ]
     verticales = {c["category"].split("/")[0] for c in categorias}
     for vertical in sorted(verticales):
@@ -124,7 +124,7 @@ def construir(
         idioma = (a.get("language") or "es").split("-")[0]
         recientes.append(
             _entrada(
-                f"{base}/noticia/{a['category']}/{a['id']}",
+                f"{base}/article/{a['category']}/{a['id']}",
                 publicada,
                 extra=(
                     "    <news:news>\n"

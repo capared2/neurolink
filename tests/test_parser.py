@@ -19,7 +19,7 @@ def test_peldano_1_json_ld(sitio):
     assert "cumbre" in articulo["tags"]
     assert articulo["word_count"] > 50
     assert articulo["images"], "la imagen del JSON-LD deberia estar"
-    assert articulo["category"] == "noticias/mundo"
+    assert articulo["category"] == "news/world"
 
 
 def test_peldano_2_selectores_de_la_fuente(sitio):
@@ -29,7 +29,7 @@ def test_peldano_2_selectores_de_la_fuente(sitio):
 
     assert articulo["title"] == "Victoria en el clasico con un gol en el descuento"
     assert articulo["word_count"] > 50
-    assert articulo["category"] == "deportes/futbol"
+    assert articulo["category"] == "sports/soccer"
     assert articulo["published_at"] == "2026-08-25T20:00:00Z"
 
 

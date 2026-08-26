@@ -175,7 +175,7 @@ def _mandar_doctor(args) -> int:
 
 def _mandar_fuentes() -> int:
     print(f"{len(sources.FUENTES)} fuentes declaradas\n")
-    for vertical in ("noticias", "deportes", "gamer", "tecnologia"):
+    for vertical in ("news", "sports", "gaming", "tech"):
         delvertical = [f for f in sources.FUENTES if f.vertical == vertical]
         if not delvertical:
             continue

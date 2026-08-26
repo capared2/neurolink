@@ -4,7 +4,7 @@ import json
 from scraper.storage import Almacen, Estado, EstadoFuente
 
 
-def noticia(id_, categoria="deportes/futbol", titulo="Un titular", cuando="2026-08-25T10:00:00Z",
+def noticia(id_, categoria="sports/soccer", titulo="Un titular", cuando="2026-08-25T10:00:00Z",
             fuente="diario"):
     vertical, tema = categoria.split("/")
     return {
@@ -24,7 +24,7 @@ def test_parte_lo_que_pasa_del_tamano(tmp_path):
         almacen.anadir(noticia(f"a{i}"))
     almacen.volcar()
 
-    partes = sorted((tmp_path / "deportes" / "futbol").glob("part-*.json"))
+    partes = sorted((tmp_path / "sports" / "soccer").glob("part-*.json"))
     assert len(partes) == 3
     assert json.loads(partes[0].read_text())["count"] == 2
     assert json.loads(partes[-1].read_text())["count"] == 1
@@ -40,17 +40,17 @@ def test_no_guarda_dos_veces_la_misma_url(tmp_path):
 
 def test_los_indices_cuadran(tmp_path):
     almacen = Almacen(tmp_path, tam_parte=10)
-    almacen.anadir(noticia("a1", "deportes/futbol"))
-    almacen.anadir(noticia("a2", "deportes/futbol"))
-    almacen.anadir(noticia("b1", "noticias/mundo"))
+    almacen.anadir(noticia("a1", "sports/soccer"))
+    almacen.anadir(noticia("a2", "sports/soccer"))
+    almacen.anadir(noticia("b1", "news/world"))
     almacen.volcar()
 
     indice = almacen.reconstruir_indices()
     assert indice["total_articles"] == 3
     assert indice["total_categories"] == 2
-    assert {v["vertical"] for v in indice["verticals"]} == {"deportes", "noticias"}
+    assert {v["vertical"] for v in indice["verticals"]} == {"sports", "news"}
 
-    lookup = json.loads((tmp_path / "deportes" / "futbol" / "lookup.json").read_text())
+    lookup = json.loads((tmp_path / "sports" / "soccer" / "lookup.json").read_text())
     assert lookup["parts"]["a1"] == 1
 
 
@@ -123,7 +123,7 @@ def test_un_json_corrupto_no_tumba_la_reconstruccion(tmp_path):
     almacen = Almacen(tmp_path, tam_parte=10)
     almacen.anadir(noticia("a1"))
     almacen.volcar()
-    (tmp_path / "deportes" / "futbol" / "part-0002.json").write_text("{ esto no es JSON")
+    (tmp_path / "sports" / "soccer" / "part-0002.json").write_text("{ esto no es JSON")
 
     indice = almacen.reconstruir_indices()
     assert indice["total_articles"] == 1
