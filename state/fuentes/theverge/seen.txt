@@ -101,6 +101,7 @@ https://theverge.com/ai-artificial-intelligence/984606/gas-power-projects-data-c
 https://theverge.com/ai-artificial-intelligence/984747/now-openais-former-head-of-data-centers-is-out
 https://theverge.com/ai-artificial-intelligence/984875/chatgpt-work-can-now-work-more-autonomously
 https://theverge.com/ai-artificial-intelligence/984890/the-most-powerful-arduino-yet-is-a-299-board-for-autonomous-robots
+https://theverge.com/ai-artificial-intelligence/984923/bill-gates-is-deeply-worried-about-ai-and-hes-no-longer-staying-quiet
 https://theverge.com/antitrust/982578/google-just-showed-off-its-new-prototype-of-how-third-party-app-stores-will-look
 https://theverge.com/bulletin/795051/verge-podcast-ad-free-set-up-how-to
 https://theverge.com/business/922788/spirit-airlines-shutdown
@@ -143,6 +144,8 @@ https://theverge.com/entertainment/984822/meet-the-new-robocop-dan-stevens
 https://theverge.com/entertainment/984911/super-mario-lego-minifig-unveiled
 https://theverge.com/gadgets/906883/whoop-bevel-lawsuit-fitness-tech
 https://theverge.com/gadgets/947310/gadget-veteran-travel-gear
+https://theverge.com/gadgets/968682/samsung-galaxy-z-fold-flip-8-specs-features-hardware-comparison
+https://theverge.com/gadgets/968716/samsung-galaxy-z-flip-fold-8-ultra-how-to-buy-preorder-price-release-date
 https://theverge.com/gadgets/972456/dji-osmo-pocket-4p-review
 https://theverge.com/gadgets/973886/sharge-disk-pro-2-hands-on-switch-2-hdmi-usb-c-dock
 https://theverge.com/gadgets/974436/summer-travel-tech-gadget-gift-guide
@@ -156,6 +159,7 @@ https://theverge.com/gadgets/978314/honor-robot-phone-hands-on-impressions-test-
 https://theverge.com/gadgets/980064/sony-a7r-vi-6-hands-on-impressions-review
 https://theverge.com/gadgets/980275/elektron-model-cycles-model-samples-groovebox-electronic-music-instruments-review
 https://theverge.com/gadgets/980547/samsung-galaxy-h1-over-ear-headphones
+https://theverge.com/gadgets/981738/my-big-fat-technophobic-cat
 https://theverge.com/gadgets/981868/new-googlebook-announcements-are-coming-in-september
 https://theverge.com/gadgets/982598/death-by-audio-rainger-fx-amp-crash-guitar-pedal-review
 https://theverge.com/gadgets/984096/mac-mini-mac-studio-m5-m6-ultra-preorder
@@ -226,6 +230,8 @@ https://theverge.com/games/984660/watch-out-for-weapons
 https://theverge.com/games/984680/the-witcher-3-wild-hunt-remastered-launch-date-trailer
 https://theverge.com/games/984805/the-indie-studio-that-made-journey-is-getting-into-game-publishing
 https://theverge.com/games/984869/ikea-xbox-yxstaby-collection-thumbstick-stool
+https://theverge.com/games/984959/gta-vi-leaks-rockstar-games-official-statement-heartbreaking
+https://theverge.com/games/984984/gta-6-cyberleak-rideout-customs
 https://theverge.com/health/688503/rfk-jr-vaccines
 https://theverge.com/health/981670/daniel-eks-body-scanning-clinic-neko-health-will-open-in-nyc-on-september-24th
 https://theverge.com/logitech/652423/logitech-price-increases-mouse-keyboard-accessories
@@ -361,6 +367,7 @@ https://theverge.com/tech/893907/facebook-marketplace-ai-auto-reply-listings
 https://theverge.com/tech/897420/android-sideloading-unverified-developers-process
 https://theverge.com/tech/897471/meta-ai-moderation
 https://theverge.com/tech/897915/amazon-transformer-alexa-phone
+https://theverge.com/tech/898282/gemini-task-automation-uber-doordash-hands-on
 https://theverge.com/tech/907856/iphone-fold-dummy-design-delay-production
 https://theverge.com/tech/909617/meta-removes-ads-from-lawyers-seeking-plaintiffs-for-social-media-addiction-cases
 https://theverge.com/tech/911617/amazon-globalstar-apple-iphone-watch-satellite-internet
@@ -408,6 +415,7 @@ https://theverge.com/tech/967738/watch-this-susan-kare-doc
 https://theverge.com/tech/967983/lg-monitors-mcafee-adware-gamers-nexus
 https://theverge.com/tech/968459/fire-tv-now-easier-to-view-and-navigate
 https://theverge.com/tech/968535/philips-hues-latest-camera-might-be-for-your-tv
+https://theverge.com/tech/968663/samsung-galaxy-z-fold-8-wide-hands-on
 https://theverge.com/tech/969373/samsungs-galaxy-unpacked-in-15-minutes
 https://theverge.com/tech/969382/samsung-google-smart-glasses-gentle-monster-warby-parker
 https://theverge.com/tech/969445/amazon-is-cutting-jobs-on-its-agi-team
@@ -516,6 +524,7 @@ https://theverge.com/tech/981483/honestly-id-take-the-powerbook-duo
 https://theverge.com/tech/981504/apple-app-store-eu-rules-core-technology-commission
 https://theverge.com/tech/981537/pixel-11-pro-fold-watch-5-ama
 https://theverge.com/tech/981647/androids-advanced-sideloading-flow-is-now-live
+https://theverge.com/tech/981669/dji-osmo-pocket-4-pro-us-ban-black-market
 https://theverge.com/tech/981694/epic-calls-apples-new-eu-rates-junk-fees
 https://theverge.com/tech/981701/ikea-xbox-microsoft-collaboration
 https://theverge.com/tech/981713/google-pixel-11-pro-review
@@ -575,7 +584,9 @@ https://theverge.com/tech/984463/instagram-first-draft-edit-reels
 https://theverge.com/tech/984616/nokias-new-dumbphone-doubles-as-a-smartphone-charger
 https://theverge.com/tech/984706/googles-adding-controls-for-its-ai-meeting-notes-on-google-meet-hardware
 https://theverge.com/tech/984731/bluesky-10-minute-video-v2-update
+https://theverge.com/tech/984764/bose-quietcomfort-headphones-gen-2-review
 https://theverge.com/tech/984819/nitter-which-let-you-read-x-posts-without-using-x-is-offline
+https://theverge.com/tech/984838/ring-take-encryption-throw-away-the-key-law-enforcement
 https://theverge.com/transportation/805247/tesla-q3-earnings-elon-musk-robot-army-pay-package
 https://theverge.com/transportation/881873/tesla-cybertruck-awd-price-cut
 https://theverge.com/transportation/907976/elon-musk-terafab-intel-ai-chip-spacex-tesla
