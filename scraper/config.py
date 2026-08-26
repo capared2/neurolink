@@ -33,9 +33,13 @@ DEFAULT_TIMEOUT = 25
 DEFAULT_RETRIES = 3
 
 # Articulos por fichero JSON. El frontend parsea el fichero entero para pintar
-# una noticia y Cloudflare Workers corta a los 10 ms de CPU por peticion en el
-# plan gratuito, asi que este numero es un limite de rendimiento, no de estilo.
-DEFAULT_SHARD_SIZE = 100
+# una sola noticia, y Cloudflare Workers corta a los 10 ms de CPU por peticion
+# en el plan gratuito: esto es un limite de rendimiento, no de estilo.
+#
+# Medido sobre el dataset real: con 100 el fichero mayor llegaba a 965 KB --unos
+# 3 ms solo de parseo, un tercio del presupuesto para no hacer nada util-- y con
+# 50 se queda en la mitad. Si se sube, hay que volver a medir.
+DEFAULT_SHARD_SIZE = 50
 
 # Segundos de ejecucion. El workflow programado corre cada dos horas y el
 # runner de GitHub corta a las 6 h; 50 minutos deja margen de sobra.
@@ -59,7 +63,7 @@ MAX_CRAWL_PAGES = 60
 MAX_URLS_POR_FUENTE = 600
 
 # Cuantas noticias entran en la portada ligera y en la agrupacion por historia.
-LATEST_LIMIT = 240
+LATEST_LIMIT = 160
 PORTADA_LIMIT = 60
 
 # Parametros de sitemaps (limite del protocolo: 50.000 URLs por fichero).

@@ -43,7 +43,7 @@ def test_peldano_4_densidad_de_texto(sitio):
     # Y lo que rodea al cuerpo se queda fuera.
     assert "Trending story" not in articulo["body"]
     assert "All rights reserved" not in articulo["body"]
-    assert "Home" not in articulo["paragraphs"]
+    assert "Home" not in articulo["body"].split("\n\n")
 
 
 def test_el_ruido_no_entra_en_el_cuerpo(sitio):

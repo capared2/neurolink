@@ -38,6 +38,12 @@ log = logging.getLogger(__name__)
 
 PLANTILLA_PARTE = "part-{:04d}.json"
 
+# `paragraphs` no se guarda: es `body` partido por los saltos dobles, y
+# guardarlo aparte doblaba el peso de cada noticia --y con el, los milisegundos
+# de CPU que le cuesta al sitio parsear el fichero para pintar una sola--.
+# El frontend lo reconstruye con un split, que es gratis al lado de eso.
+CAMPOS_DERIVADOS = ("paragraphs",)
+
 # Lo justo para pintar una tarjeta en un listado.
 CAMPOS_TARJETA = (
     "id", "category", "vertical", "topic", "topic_name", "title",
@@ -103,6 +109,8 @@ class Almacen:
         self._buffer: dict[str, list[dict]] = {}
 
     def anadir(self, articulo: dict) -> None:
+        for campo in CAMPOS_DERIVADOS:
+            articulo.pop(campo, None)
         with self._lock:
             self._buffer.setdefault(articulo["category"], []).append(articulo)
 
