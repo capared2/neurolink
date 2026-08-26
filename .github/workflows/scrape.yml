@@ -4,7 +4,11 @@ on:
   schedule:
     # Cada dos horas. El descubrimiento va por RSS, asi que cada corrida
     # recoge lo publicado desde la anterior.
-    - cron: "0 */2 * * *"
+    #
+    # El minuto 13 y no el 0 a proposito: en punto es cuando media GitHub
+    # tiene programadas sus corridas, y las de la cola gratuita se retrasan
+    # ahi bastante mas que en cualquier otro minuto.
+    - cron: "13 */2 * * *"
   workflow_dispatch:
     inputs:
       modo:

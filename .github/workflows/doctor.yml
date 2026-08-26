@@ -4,7 +4,7 @@ name: Revisar fuentes
 # semanal avisa antes de que una fuente lleve un mes sin publicar nada.
 on:
   schedule:
-    - cron: "0 6 * * 1"
+    - cron: "37 6 * * 1"
   workflow_dispatch:
     inputs:
       fuentes:
