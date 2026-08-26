@@ -209,6 +209,27 @@ class Fetcher:
             if c in resp.headers
         )
         detalle["final"] = str(resp.url)
+        if resp.status_code == 200 and "json" in detalle["content_type"].lower():
+            # Que devuelva JSON no basta: hay que saber si trae el cuerpo del
+            # articulo o solo el titular, que es lo que decide si merece la pena
+            # escribir un adaptador para esa API.
+            try:
+                datos = resp.json()
+            except ValueError:
+                datos = None
+            muestra = datos[0] if isinstance(datos, list) and datos else datos
+            if isinstance(muestra, dict):
+                detalle["claves"] = sorted(muestra)[:25]
+                largos = {}
+                for clave, valor in muestra.items():
+                    if isinstance(valor, str) and len(valor) > 200:
+                        largos[clave] = len(valor)
+                    elif isinstance(valor, dict):
+                        for sub, subvalor in valor.items():
+                            if isinstance(subvalor, str) and len(subvalor) > 200:
+                                largos[f"{clave}.{sub}"] = len(subvalor)
+                detalle["campos_largos"] = dict(sorted(largos.items(), key=lambda kv: -kv[1])[:5])
+
         if resp.status_code == 200:
             texto = resp.text
             detalle["json_incrustado"] = sorted(

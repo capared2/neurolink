@@ -183,6 +183,11 @@ def probar_urls(urls: list[str], **opciones_fetcher) -> str:
             lineas.append(f"       {url}")
             if d.get("servidor"):
                 lineas.append(f"       {d['servidor']}")
+            if d.get("claves"):
+                lineas.append(f"       claves: {', '.join(d['claves'])}")
+            if d.get("campos_largos"):
+                lineas.append("       campos con texto largo: " + ", ".join(
+                    f"{k}={v}B" for k, v in d["campos_largos"].items()))
             if d.get("json_incrustado"):
                 lineas.append(f"       JSON incrustado: {', '.join(d['json_incrustado'])}")
     finally:
