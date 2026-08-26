@@ -342,6 +342,131 @@ def _imagenes(sopa: BeautifulSoup, datos: dict, base: str) -> list[dict]:
 
 # ---------------------------------------------------------------------------
 
+def _texto_plano(html: str) -> tuple[str, list[str]]:
+    """Parrafos de un trozo de HTML suelto, sin pagina alrededor."""
+    sopa = BeautifulSoup(html or "", "lxml")
+    for etiqueta in sopa.find_all(ETIQUETAS_FUERA):
+        etiqueta.decompose()
+    for atributo in ("class", "id"):
+        for etiqueta in sopa.find_all(attrs={atributo: RUIDO}):
+            etiqueta.decompose()
+
+    parrafos: list[str] = []
+    vistos: set[str] = set()
+    for hijo in sopa.find_all(["p", "h2", "h3", "h4", "li", "blockquote"]):
+        texto = _texto(hijo)
+        if len(texto) < MIN_PARRAFO or BASURA.match(texto) or texto.lower() in vistos:
+            continue
+        vistos.add(texto.lower())
+        parrafos.append(texto)
+
+    if not parrafos:
+        # Sin marcado de parrafos: al menos el texto corrido.
+        suelto = _texto(sopa)
+        if len(suelto) >= MIN_PARRAFO:
+            parrafos = [suelto]
+
+    return "\n\n".join(parrafos), parrafos
+
+
+def _incrustados(entrada: dict, clave: str) -> list[dict]:
+    incrustado = entrada.get("_embedded") or {}
+    valores = incrustado.get(clave) or []
+    salida: list[dict] = []
+    for valor in valores:
+        if isinstance(valor, list):
+            salida.extend(v for v in valor if isinstance(v, dict))
+        elif isinstance(valor, dict):
+            salida.append(valor)
+    return salida
+
+
+def parsear_wordpress(entrada: dict, fuente: Fuente) -> dict | None:
+    """Convierte una entrada del REST de WordPress en un registro nuestro.
+
+    WordPress publica el articulo ya troceado --titulo, cuerpo, extracto,
+    fechas, firma y terminos--, asi que no hay nada que adivinar: es el mismo
+    registro que sale de una pagina HTML, pero sin heuristica de por medio.
+    """
+    enlace = entrada.get("link")
+    if not isinstance(enlace, str) or not enlace.startswith("http"):
+        return None
+
+    titular = _texto(BeautifulSoup(
+        (entrada.get("title") or {}).get("rendered", ""), "lxml"))
+    if not titular or len(titular) < 8:
+        return None
+
+    canonica = urlutil.normalizar(enlace)
+    cuerpo, parrafos = _texto_plano((entrada.get("content") or {}).get("rendered", ""))
+    resumen = _texto(BeautifulSoup(
+        (entrada.get("excerpt") or {}).get("rendered", ""), "lxml"))
+
+    autores = [
+        a["name"] for a in _incrustados(entrada, "author")
+        if isinstance(a.get("name"), str)
+    ]
+    if not autores and isinstance(entrada.get("byline"), str):
+        autores = [_texto(BeautifulSoup(entrada["byline"], "lxml"))]
+
+    # `wp:term` trae categorias y etiquetas ya con su nombre.
+    terminos = [
+        t["name"] for t in _incrustados(entrada, "wp:term")
+        if isinstance(t.get("name"), str)
+    ]
+    seccion = terminos[0] if terminos else ""
+
+    imagenes: list[dict] = []
+    for medio in _incrustados(entrada, "wp:featuredmedia"):
+        fuente_medio = medio.get("source_url")
+        if isinstance(fuente_medio, str) and fuente_medio.startswith("http"):
+            imagenes.append({
+                "url": fuente_medio,
+                "caption": _texto(BeautifulSoup(
+                    (medio.get("caption") or {}).get("rendered", ""), "lxml")),
+            })
+            break
+
+    categoria = taxonomy.clasificar(
+        segmentos=urlutil.segmentos(canonica),
+        seccion=seccion,
+        etiquetas=terminos,
+        texto=f"{titular} {resumen}",
+        vertical_por_defecto=fuente.vertical,
+        tema_por_defecto=fuente.tema_por_defecto,
+    )
+    vertical, tema = categoria.split("/", 1)
+
+    return {
+        "id": urlutil.identificador(canonica, fuente.clave),
+        "url": canonica,
+        "origen_externo": None,
+        "category": categoria,
+        "vertical": vertical,
+        "topic": tema,
+        "topic_name": taxonomy.nombre_tema(categoria),
+        "section": seccion,
+        "title": titular,
+        "standfirst": "",
+        "summary": resumen,
+        "body": cuerpo,
+        "paragraphs": parrafos,
+        "word_count": len(cuerpo.split()),
+        "authors": autores[:5],
+        "tags": terminos[:20],
+        "published_at": parsear_fecha(entrada.get("date_gmt") or entrada.get("date")),
+        "modified_at": parsear_fecha(entrada.get("modified_gmt") or entrada.get("modified")),
+        "language": fuente.idioma,
+        "country": fuente.pais,
+        "images": imagenes,
+        "videos": [],
+        "is_premium": False,
+        "source": fuente.clave,
+        "source_name": fuente.nombre,
+        "scraped_at": _ahora(),
+    }
+
+
 def parsear(html: str, url: str, fuente: Fuente) -> dict | None:
     """Construye el registro de una noticia. ``None`` si la pagina no lo es."""
     sopa = BeautifulSoup(html, "lxml")

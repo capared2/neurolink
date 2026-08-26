@@ -23,13 +23,13 @@ def _opciones(tmp_path, **extra):
 def test_de_las_fuentes_al_dataset(tmp_path, fetcher, fuentes_falsas):
     resumen = ejecutar(_opciones(tmp_path))
 
-    assert resumen["sources"] == 3
-    assert resumen["saved"] == 8, resumen
+    assert resumen["sources"] == 4
+    assert resumen["saved"] == 10, resumen
     assert resumen["failed"] == 0
 
     datos = tmp_path / "data"
     indice = json.loads((datos / "index.json").read_text())
-    assert indice["total_articles"] == 8
+    assert indice["total_articles"] == 10
 
     # Las tres verticales estan representadas: es un agregador multinicho.
     assert set(resumen["verticals"]) == {"news", "sports", "gaming"}
@@ -73,14 +73,14 @@ def test_se_reanuda_donde_lo_dejo(tmp_path, fetcher, fuentes_falsas):
     segunda = ejecutar(_opciones(tmp_path, saltar_descubrimiento=True))
     assert segunda["saved"] > 0
     total = json.loads((tmp_path / "data" / "index.json").read_text())["total_articles"]
-    assert total == 8
+    assert total == 10
 
 
 def test_no_repite_lo_que_ya_guardo(tmp_path, fetcher, fuentes_falsas):
     ejecutar(_opciones(tmp_path))
     segunda = ejecutar(_opciones(tmp_path))
     assert segunda["saved"] == 0
-    assert json.loads((tmp_path / "data" / "index.json").read_text())["total_articles"] == 8
+    assert json.loads((tmp_path / "data" / "index.json").read_text())["total_articles"] == 10
 
 
 def test_min_palabras_descarta_lo_que_no_trae_cuerpo(tmp_path, fetcher, fuentes_falsas, sitio):
@@ -117,14 +117,15 @@ def test_una_fuente_rota_no_se_lleva_a_las_demas(tmp_path, fetcher, fuentes_fals
     monkeypatch.setattr("scraper.runner.discovery.descubrir", falla_en_diario)
 
     resumen = ejecutar(_opciones(tmp_path))
-    assert resumen["saved"] == 4          # las dos fuentes sanas siguen publicando
+    # Las sanas siguen publicando: dos por paginas y dos por REST.
+    assert resumen["saved"] == 6
     assert "sports" in resumen["verticals"]
 
 
 def test_desde_descarta_lo_viejo(tmp_path, fetcher, fuentes_falsas):
     resumen = ejecutar(_opciones(tmp_path, desde="2026-08-25"))
     assert resumen["skipped_old"] >= 1
-    assert resumen["saved"] < 8
+    assert resumen["saved"] < 10
 
 
 def test_el_presupuesto_corta_pero_deja_todo_guardado(tmp_path, fetcher, fuentes_falsas):
@@ -139,5 +140,26 @@ def test_el_presupuesto_corta_pero_deja_todo_guardado(tmp_path, fetcher, fuentes
 def test_la_salud_de_cada_fuente_queda_publicada(tmp_path, fetcher, fuentes_falsas):
     ejecutar(_opciones(tmp_path))
     salud = json.loads((tmp_path / "data" / "fuentes.json").read_text())
-    assert set(salud["sources"]) == {"diario", "cancha", "pixel"}
+    assert set(salud["sources"]) == {"diario", "cancha", "pixel", "prensa"}
     assert salud["sources"]["diario"]["saved"] == 4
+
+
+def test_una_fuente_por_rest_publica_sin_pasar_por_la_cola(tmp_path, fetcher, fuentes_falsas):
+    """prensa.test no sirve ni portada ni artículos: todo sale de su REST."""
+    resumen = ejecutar(_opciones(tmp_path, fuentes=["prensa"]))
+
+    assert resumen["saved"] == 2, resumen
+    assert resumen["failed"] == 0
+    # No queda nada encolado: la API resuelve descubrimiento y descarga a la vez.
+    assert json.loads((tmp_path / "state" / "run.json").read_text())["pending"] == 0
+
+    indice = json.loads((tmp_path / "data" / "index.json").read_text())
+    assert indice["total_articles"] == 2
+    assert set(resumen["verticals"]) == {"news"}
+
+
+def test_el_rest_no_repite_lo_ya_guardado(tmp_path, fetcher, fuentes_falsas):
+    ejecutar(_opciones(tmp_path, fuentes=["prensa"]))
+    segunda = ejecutar(_opciones(tmp_path, fuentes=["prensa"]))
+    assert segunda["saved"] == 0
+    assert json.loads((tmp_path / "data" / "index.json").read_text())["total_articles"] == 2

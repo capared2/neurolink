@@ -47,6 +47,11 @@ class Fuente:
     articulo: tuple[str, ...] = ()      # regex de path que marcan una noticia
     denegar: tuple[str, ...] = ()       # regex de path propias de la fuente
     cuerpo: tuple[str, ...] = ()        # selectores CSS del cuerpo del articulo
+    # Base del REST de WordPress, si el medio lo publica. Cuando esta puesta se
+    # usa en lugar de descubrir y descargar: la API devuelve el articulo entero
+    # de una vez, y hay medios --The Hill-- cuyo cortafuegos rechaza las
+    # paginas pero deja pasar su propio REST.
+    wordpress: str = ""
     tema_por_defecto: str | None = None
     delay: float = config.DEFAULT_DELAY
     activa: bool = True
@@ -228,13 +233,13 @@ FUENTES: tuple[Fuente, ...] = (
         hosts=frozenset({"thehill.com"}),
         feeds=("https://thehill.com/feed/",),
         semillas=("/policy", "/homenews", "/business"),
+        wordpress="https://thehill.com/wp-json/wp/v2/posts",
         articulo=(r"^/[a-z0-9-]+/(?:[a-z0-9-]+/)?\d{6,}-[a-z0-9-]+/?$",),
         cuerpo=(".article__text", ".content-wrp", "article"),
         tema_por_defecto="news/politics",
-        activa=False,
-        nota="Apagada: su feed funciona --descubre sesenta URLs-- pero ni la "
-             "portada ni los articulos se dejan descargar. Mismo caso que NYT: "
-             "no es robots.txt, es la proteccion antibots.",
+        nota="Sus paginas no se dejan descargar --403 de Varnish, tambien la "
+             "portada-- pero su REST de WordPress si responde y devuelve el "
+             "articulo entero, asi que se lee por ahi.",
     ),
     Fuente(
         clave="aljazeera", nombre="Al Jazeera", home="https://www.aljazeera.com",

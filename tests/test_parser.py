@@ -103,3 +103,28 @@ def test_el_json_ld_con_cuerpo_gana_al_que_no_lo_tiene():
     sopa = BeautifulSoup(html, "lxml")
     from scraper.parser import _articulo_jsonld
     assert _articulo_jsonld(sopa)["headline"] == "Bloque rico"
+
+
+def test_entrada_de_wordpress():
+    """WordPress entrega el artículo ya troceado: no hay nada que adivinar."""
+    from scraper.parser import parsear_wordpress
+    from tests.fake_site import PRENSA, _entrada_wp
+
+    entrada = _entrada_wp(1, "El Senado aprueba la enmienda tras un debate largo",
+                          "2026-08-25T14:00:00", PARRAFOS, ["Politics", "Senate"])
+    articulo = parsear_wordpress(entrada, PRENSA)
+
+    assert articulo["title"].startswith("El Senado")
+    assert articulo["word_count"] > 50
+    assert articulo["published_at"] == "2026-08-25T14:00:00Z"
+    assert articulo["authors"] == ["Firma Invitada"]
+    assert "Politics" in articulo["tags"]
+    assert articulo["images"][0]["caption"] == "Pie de foto."
+    assert articulo["category"] == "news/politics"
+
+
+def test_una_entrada_sin_enlace_se_descarta():
+    from scraper.parser import parsear_wordpress
+    from tests.fake_site import PRENSA
+
+    assert parsear_wordpress({"title": {"rendered": "Sin enlace ninguno aqui"}}, PRENSA) is None

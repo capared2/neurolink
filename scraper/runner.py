@@ -23,7 +23,7 @@ from dataclasses import dataclass, field
 from . import config, discovery, seo, sources
 from . import urls as urlutil
 from .fetcher import Fetcher
-from .parser import parsear
+from .parser import parsear, parsear_wordpress
 from .sources import Fuente
 from .storage import Almacen, Estado
 
@@ -76,6 +76,66 @@ def _descargar(fetcher: Fetcher, fuente: Fuente, url: str) -> tuple[str, Fuente,
     except Exception:      # una pagina malformada no puede tumbar la ejecucion
         log.exception("no se pudo parsear %s", url)
         return url, fuente, None
+
+
+def _leer_por_rest(
+    fuente: Fuente,
+    fetcher: Fetcher,
+    estado: Estado,
+    almacen: Almacen,
+    opciones: "Opciones",
+    resumen: dict,
+    salud: dict,
+    plazo: float | None,
+) -> None:
+    """Fuentes que se leen por su propio REST en vez de por sus paginas.
+
+    No pasan por la cola: la API devuelve el articulo entero de una vez, asi
+    que se descubre y se guarda en el mismo paso. Es lo que permite leer un
+    medio cuyo cortafuegos rechaza las paginas pero deja pasar su REST.
+    """
+    estado_fuente = estado.de(fuente.clave)
+    try:
+        entradas = discovery.desde_wordpress(
+            fuente, fetcher, plazo=plazo, tope=opciones.tope_por_fuente
+        )
+    except Exception:
+        log.exception("fallo el REST de %s", fuente.clave)
+        return
+
+    salud[fuente.clave]["discovered"] = len(entradas)
+    resumen["discovered"] += len(entradas)
+
+    for entrada in entradas:
+        enlace = entrada.get("link")
+        if isinstance(enlace, str) and urlutil.normalizar(enlace) in estado_fuente.vistas:
+            continue
+
+        resumen["fetched"] += 1
+        try:
+            articulo = parsear_wordpress(entrada, fuente)
+        except Exception:
+            log.exception("no se pudo convertir una entrada de %s", fuente.clave)
+            articulo = None
+
+        if articulo is None:
+            resumen["failed"] += 1
+            salud[fuente.clave]["failed"] += 1
+            continue
+        if opciones.desde and (articulo.get("published_at") or "")[:10] < opciones.desde:
+            resumen["skipped_old"] += 1
+            estado_fuente.marcar_vista(articulo["url"])
+            continue
+        if articulo["word_count"] < opciones.min_palabras:
+            resumen["skipped_empty"] += 1
+            salud[fuente.clave]["empty"] += 1
+            estado_fuente.marcar_vista(articulo["url"])
+            continue
+
+        almacen.anadir(articulo)
+        estado_fuente.marcar_vista(articulo["url"])
+        resumen["saved"] += 1
+        salud[fuente.clave]["saved"] += 1
 
 
 def _lote_alternado(estado: Estado, claves: list[str], tam: int) -> list[tuple[str, str]]:
@@ -137,13 +197,24 @@ def ejecutar(opciones: Opciones) -> dict:
             if opciones.presupuesto else None
         )
 
+        # Las que se leen por su propio REST no pasan por la cola: se resuelven
+        # enteras en el paso de descubrimiento.
+        por_rest = [f for f in elegidas if f.wordpress]
+        por_paginas = [f for f in elegidas if not f.wordpress]
+
         # -- 1. descubrimiento, con una rebanada del plazo por fuente --------
         if not opciones.saltar_descubrimiento:
             rebanada = (
                 (fin_descubrimiento - time.monotonic()) / len(elegidas)
                 if fin_descubrimiento else None
             )
-            for fuente in elegidas:
+
+            for fuente in por_rest:
+                plazo = time.monotonic() + rebanada if rebanada else None
+                _leer_por_rest(fuente, fetcher, estado, almacen, opciones,
+                               resumen, salud, plazo)
+
+            for fuente in por_paginas:
                 plazo = time.monotonic() + rebanada if rebanada else None
                 try:
                     encontradas = discovery.descubrir(
@@ -177,7 +248,7 @@ def ejecutar(opciones: Opciones) -> dict:
 
         limite = opciones.max_articulos if opciones.max_articulos > 0 else float("inf")
         desde_volcado = 0
-        claves = [f.clave for f in elegidas]
+        claves = [f.clave for f in por_paginas]
 
         while estado.pendientes and resumen["fetched"] < limite:
             if fin is not None and time.monotonic() > fin:

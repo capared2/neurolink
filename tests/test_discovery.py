@@ -39,3 +39,12 @@ def test_descubrir_junta_las_vias(fetcher):
 
 def test_una_fuente_sin_feeds_no_falla(fetcher):
     assert discovery.desde_feeds(PIXEL, fetcher) == set()
+
+
+def test_rest_de_wordpress(fetcher):
+    """Un medio cuyas páginas no se sirven, leído por su propia API."""
+    from tests.fake_site import PRENSA
+
+    entradas = discovery.desde_wordpress(PRENSA, fetcher)
+    assert len(entradas) == 2
+    assert entradas[0]["title"]["rendered"].startswith("El Senado")

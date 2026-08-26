@@ -15,6 +15,7 @@ medio con un sitemap gigantesco no puede quedarse con la ejecucion entera.
 """
 from __future__ import annotations
 
+import json
 import logging
 import re
 import time
@@ -236,6 +237,56 @@ def desde_crawl(
 
     log.info("%s: %s URLs desde crawl", fuente.clave, len(articulos))
     return articulos
+
+
+# ---------------------------------------------------------------------------
+# REST de WordPress
+# ---------------------------------------------------------------------------
+
+# Cuantas entradas se piden de una vez. WordPress admite hasta 100, pero con
+# `_embed` cada entrada trae ademas su firma, sus terminos y su imagen, y la
+# respuesta se dispara.
+POR_PAGINA = 25
+
+
+def desde_wordpress(
+    fuente: Fuente,
+    fetcher: Fetcher,
+    plazo: float | None = None,
+    tope: int = config.MAX_URLS_POR_FUENTE,
+) -> list[dict]:
+    """Las ultimas entradas publicadas, tal y como las devuelve WordPress.
+
+    Aqui no se descubren URLs para descargarlas despues: la API ya trae el
+    articulo entero, asi que esto devuelve las entradas en crudo y el runner
+    las convierte sin volver a pedir nada. Es lo que permite leer un medio cuyo
+    cortafuegos rechaza las paginas pero no su propio REST.
+
+    ``_embed`` viene con la firma, las categorias y la imagen destacada, que de
+    otro modo serian tres peticiones mas por entrada.
+    """
+    entradas: list[dict] = []
+    pagina = 1
+    while len(entradas) < tope and not _vencido(plazo):
+        cuantas = min(POR_PAGINA, tope - len(entradas))
+        url = f"{fuente.wordpress}?per_page={cuantas}&page={pagina}&_embed=1"
+        resp = fetcher.get(url)
+        if resp is None:
+            break
+        try:
+            lote = json.loads(resp.text)
+        except json.JSONDecodeError:
+            log.warning("%s: el REST no devolvio JSON en la pagina %s", fuente.clave, pagina)
+            break
+        if not isinstance(lote, list) or not lote:
+            break
+        entradas.extend(e for e in lote if isinstance(e, dict))
+        if len(lote) < cuantas:
+            break          # ultima pagina
+        pagina += 1
+
+    log.info("%s: %s entradas desde el REST de WordPress", fuente.clave, len(entradas))
+    return entradas
 
 
 # ---------------------------------------------------------------------------

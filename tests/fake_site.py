@@ -65,7 +65,18 @@ PIXEL = Fuente(
     tema_por_defecto="gaming/games",
 )
 
-FUENTES = (DIARIO, CANCHA, PIXEL)
+# Un medio cuyo cortafuegos rechaza las paginas pero deja pasar su REST: el
+# caso real de The Hill.
+PRENSA = Fuente(
+    clave="prensa", nombre="Prensa", home="https://prensa.test",
+    vertical="news", idioma="en", pais="US",
+    hosts=frozenset({"prensa.test"}),
+    wordpress="https://prensa.test/wp-json/wp/v2/posts",
+    delay=0.0,
+    tema_por_defecto="news/politics",
+)
+
+FUENTES = (DIARIO, CANCHA, PIXEL, PRENSA)
 
 
 # ---------------------------------------------------------------------------
@@ -148,6 +159,27 @@ def _sitemap(base: str, rutas: list[str]) -> str:
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">{urls}</urlset>"""
 
 
+def _entrada_wp(ident: int, titulo: str, fecha: str, cuerpo: str, terminos: list[str]) -> dict:
+    """Una entrada como la que devuelve WordPress con `_embed`."""
+    return {
+        "id": ident,
+        "link": f"https://prensa.test/{fecha[:10]}/{ident}-{titulo.lower().split()[0]}",
+        "date_gmt": fecha,
+        "modified_gmt": fecha,
+        "title": {"rendered": titulo},
+        "content": {"rendered": "".join(f"<p>{p}</p>" for p in cuerpo)},
+        "excerpt": {"rendered": "<p>Un extracto corto de la entrada.</p>"},
+        "_embedded": {
+            "author": [{"name": "Firma Invitada"}],
+            "wp:term": [[{"name": t} for t in terminos]],
+            "wp:featuredmedia": [{
+                "source_url": f"https://prensa.test/img/{ident}.jpg",
+                "caption": {"rendered": "<p>Pie de foto.</p>"},
+            }],
+        },
+    }
+
+
 class SitioFalso:
     """Un servidor de mentira: un diccionario de rutas a respuestas."""
 
@@ -222,6 +254,18 @@ class SitioFalso:
         self.anadir("https://cancha.test/futbol",
                     '<html><body><a href="/futbol/1002-victoria-en-el-clasico">Clasico</a>'
                     '<a href="/futbol">Seccion</a></body></html>')
+
+        # -- prensa.test: solo REST, sus paginas no se sirven ---------------
+        entradas = [
+            _entrada_wp(6001, "El Senado aprueba la enmienda tras un debate largo",
+                        "2026-08-25T14:00:00", PARRAFOS[:4], ["Politics", "Senate"]),
+            _entrada_wp(6002, "La comision cita a los responsables del organismo",
+                        "2026-08-25T11:30:00", PARRAFOS[1:], ["Politics"]),
+        ]
+        self.anadir(f"{PRENSA.wordpress}?per_page=25&page=1&_embed=1",
+                    json.dumps(entradas), xml.replace("xml", "json"))
+        # La portada y los articulos no se sirven a proposito: es justo el caso
+        # que el REST tiene que salvar.
 
         # -- pixel.test: solo densidad, descubierto por sitemap -------------
         articulos_pixel = [

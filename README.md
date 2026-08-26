@@ -49,7 +49,7 @@ python -m scraper fuentes     # lista lo que hay declarado
 
 | Nicho | Medios activos |
 | --- | --- |
-| Noticias | BBC · Globo · CNN · Fox News · Times of India · Al Jazeera · NBC News · Yahoo News · The New York Times |
+| Noticias | BBC · Globo · CNN · Fox News · Times of India · Al Jazeera · NBC News · Yahoo News · The New York Times · The Hill |
 | Deportes | Marca · Sky Sports · Bleacher Report |
 | Gamer | IGN · FACEIT · Twitch · Steam |
 | Tecnología | The Verge · TechCrunch |
@@ -58,19 +58,27 @@ python -m scraper fuentes     # lista lo que hay declarado
 contesta 403 a una parte de las peticiones y deja pasar el resto, así que su
 fila del resumen tendrá bastantes fallos. Lo que entra, entra bien.
 
-Hay tres más declaradas y **apagadas** (`activa=False`). No es una sospecha:
-`python -m scraper doctor --detalle` mide qué contesta cada una.
+**The Hill se lee por su REST, no por sus páginas.** Su cortafuegos devuelve
+`403` a los artículos y también a la portada, pero su
+`wp-json/wp/v2/posts` responde y trae el artículo entero. Cuando una fuente
+declara `wordpress=`, el scraper la resuelve por ahí y se salta la cola: la API
+devuelve todo de una vez, así que no hay nada que descargar después. Media
+prensa del mundo va sobre WordPress, así que ese adaptador sirve para más
+medios que este.
+
+Hay dos declaradas y **apagadas** (`activa=False`). No es una sospecha:
+`python -m scraper doctor --detalle` mide qué contesta cada una, y
+`--probar URL,URL` toca endpoints sueltos para decidir si merece la pena
+escribir un adaptador antes de escribirlo.
 
 | Medio | Lo que contesta | Por qué está apagada |
 | --- | --- | --- |
-| **ESPN** | Portada `202` de CloudFront, los seis feeds caídos | Desafío antibot antes de servir nada |
-| **The Hill** | `403` de Varnish en artículos **y** portada | Bloqueo duro y uniforme |
-| **FIFA** | `200`, pero 4,5 KB **sin `__NEXT_DATA__` ni `ld+json`** | El contenido no viaja en el HTML: lo monta el navegador |
+| **ESPN** | Portada `202` de CloudFront, los seis feeds caídos. Su API pública (`site.api.espn.com`) sí da `200`, pero solo titulares, y los enlaces apuntan al dominio bloqueado | Desafío antibot antes de servir nada |
+| **FIFA** | `200`, pero 4,5 KB **sin `__NEXT_DATA__`, sin `__NUXT__` y sin `ld+json`** | El contenido no viaja en el HTML: lo monta el navegador |
 
-FIFA es la única cerrada de verdad: no es que leamos mal la página, es que lo
-que llega no contiene la noticia. Para ESPN y The Hill la causa tampoco es
-`robots.txt` --no prohíben nada--, sino su protección antibots; recuperarlas
-exigiría hacerse pasar por un navegador, que es una decisión distinta.
+Ninguna de las dos se arregla con más código: harían falta un navegador de
+verdad o saltarse una protección puesta a propósito. En ninguna la causa es
+`robots.txt`, que no prohíbe nada.
 
 Añadir un medio es añadir una entrada en `sources.py`: nada más del scraper
 sabe que existe BBC o IGN. Cada fuente declara dónde buscar (feeds, sitemaps,
