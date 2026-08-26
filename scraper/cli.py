@@ -74,6 +74,9 @@ def construir_parser() -> argparse.ArgumentParser:
     _comunes(doctor)
     doctor.add_argument("--sin-articulo", action="store_true",
                         help="no descarga articulos de muestra, solo mira feeds y URLs")
+    doctor.add_argument("--detalle", action="store_true",
+                        help="cuenta el codigo HTTP real de cada fallo y si la pagina "
+                             "trae JSON incrustado. Revisa tambien las fuentes apagadas.")
     doctor.add_argument("--json", dest="como_json", action="store_true",
                         help="saca el informe en JSON en vez de en texto")
     doctor.add_argument("--salida", default=None, help="escribe el informe en este fichero")
@@ -151,6 +154,7 @@ def _mandar_doctor(args) -> int:
         claves=_validar_fuentes(args.fuentes),
         workers=args.workers,
         con_articulo=not args.sin_articulo,
+        detalle=args.detalle,
         user_agent=args.user_agent,
         delay=args.delay,
         timeout=args.timeout,

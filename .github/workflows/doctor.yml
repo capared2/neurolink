@@ -11,6 +11,10 @@ on:
         description: "Claves separadas por coma (vacio = todas)"
         type: string
         default: ""
+      detalle:
+        description: "Contar el codigo HTTP real de cada fallo y el JSON incrustado"
+        type: boolean
+        default: false
 
 permissions:
   contents: read
@@ -38,6 +42,7 @@ jobs:
           set -o pipefail
           args=(doctor --salida doctor.txt --ignorar-robots)
           [ -n "${{ inputs.fuentes }}" ] && args+=(--fuentes "${{ inputs.fuentes }}")
+          [ "${{ inputs.detalle }}" = "true" ] && args+=(--detalle)
           python -m scraper "${args[@]}"
 
       - name: Publicar el informe

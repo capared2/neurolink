@@ -182,6 +182,43 @@ class Fetcher:
         log.warning("se abandona %s (%s)", url, ultimo)
         return None
 
+    def inspeccionar(self, url: str) -> dict:
+        """Una sola peticion, sin reintentos, contando lo que de verdad pasa.
+
+        ``get`` esconde el motivo de un fallo: devuelve ``None`` tanto si el
+        medio contesto 403 como si se cayo la red. Cuando una fuente deja de
+        rendir, ese motivo es justo lo unico que hace falta saber, asi que aqui
+        se devuelve en crudo.
+        """
+        detalle: dict = {"url": url, "status": None, "error": None,
+                         "content_type": "", "bytes": 0, "servidor": ""}
+        try:
+            self.reloj.esperar(host_de(url))
+            resp = self.sesion.get(url, timeout=self.timeout, allow_redirects=True)
+        except requests.RequestException as exc:
+            detalle["error"] = type(exc).__name__
+            return detalle
+
+        detalle["status"] = resp.status_code
+        detalle["content_type"] = resp.headers.get("Content-Type", "")
+        detalle["bytes"] = len(resp.content)
+        # Quien contesta suele delatar que hay un cortafuegos por delante.
+        detalle["servidor"] = ", ".join(
+            f"{c}={resp.headers[c]}"
+            for c in ("Server", "CF-Ray", "X-Served-By", "Akamai-Grn")
+            if c in resp.headers
+        )
+        detalle["final"] = str(resp.url)
+        if resp.status_code == 200:
+            texto = resp.text
+            detalle["json_incrustado"] = sorted(
+                marca for marca in ("__NEXT_DATA__", "__NUXT__", "application/ld+json",
+                                    "window.__INITIAL_STATE__", "self.__next_f")
+                if marca in texto
+            )
+            detalle["tiene_h1"] = "<h1" in texto
+        return detalle
+
     def es_texto(self, resp: Respuesta) -> bool:
         tipo = resp.content_type.lower()
         return any(t in tipo for t in TIPOS_ACEPTADOS) or "<" in resp.text[:200]

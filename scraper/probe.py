@@ -16,14 +16,15 @@ from concurrent.futures import ThreadPoolExecutor
 from . import discovery
 from .fetcher import Fetcher
 from .parser import parsear
-from .sources import Fuente, activas
+from .sources import FUENTES, Fuente, activas
 
 log = logging.getLogger(__name__)
 
 MUESTRA = 2          # articulos que se descargan por fuente
 
 
-def revisar(fuente: Fuente, fetcher: Fetcher, con_articulo: bool = True) -> dict:
+def revisar(fuente: Fuente, fetcher: Fetcher, con_articulo: bool = True,
+            detalle: bool = False) -> dict:
     """Revision rapida de una sola fuente."""
     informe: dict = {
         "clave": fuente.clave,
@@ -41,6 +42,9 @@ def revisar(fuente: Fuente, fetcher: Fetcher, con_articulo: bool = True) -> dict
         # Lo que conviene arreglar pero no la deja fuera de juego.
         "avisos": [],
     }
+
+    if detalle:
+        informe["portada_detalle"] = fetcher.inspeccionar(fuente.home)
 
     # -- portada -----------------------------------------------------------
     # Que no responda es solo un aviso: hay fuentes que publican desde un
@@ -92,7 +96,10 @@ def revisar(fuente: Fuente, fetcher: Fetcher, con_articulo: bool = True) -> dict
         for url in sorted(urls)[:MUESTRA]:
             resp = fetcher.get(url)
             if resp is None:
-                informe["muestra"].append({"url": url, "estado": "no descarga"})
+                fallo = {"url": url, "estado": "no descarga"}
+                if detalle:
+                    fallo["detalle"] = fetcher.inspeccionar(url)
+                informe["muestra"].append(fallo)
                 continue
             try:
                 articulo = parsear(resp.text, resp.url, fuente)
@@ -100,7 +107,10 @@ def revisar(fuente: Fuente, fetcher: Fetcher, con_articulo: bool = True) -> dict
                 informe["muestra"].append({"url": url, "estado": f"error de parseo: {exc}"})
                 continue
             if articulo is None:
-                informe["muestra"].append({"url": url, "estado": "sin titular"})
+                fallo = {"url": url, "estado": "sin titular"}
+                if detalle:
+                    fallo["detalle"] = fetcher.inspeccionar(url)
+                informe["muestra"].append(fallo)
                 continue
             informe["muestra"].append({
                 "url": url,
@@ -137,15 +147,18 @@ def revisar_todas(
     claves: list[str] | None = None,
     workers: int = 6,
     con_articulo: bool = True,
+    detalle: bool = False,
     **opciones_fetcher,
 ) -> list[dict]:
-    fuentes = activas(claves)
+    # Con --detalle se revisa tambien lo que este apagado: es justo cuando hace
+    # falta saber si sigue sin rendir o ya se puede volver a encender.
+    fuentes = activas(claves) if not detalle or claves else list(FUENTES)
     fetcher = Fetcher(**opciones_fetcher)
     try:
         # Cada fuente es un dominio distinto, asi que el paralelismo aqui no
         # aprieta a nadie: el reloj por host sigue mandando.
         with ThreadPoolExecutor(max_workers=workers) as pool:
-            informes = list(pool.map(lambda f: revisar(f, fetcher, con_articulo), fuentes))
+            informes = list(pool.map(lambda f: revisar(f, fetcher, con_articulo, detalle), fuentes))
     finally:
         fetcher.close()
     return informes
@@ -176,12 +189,25 @@ def formatear(informes: list[dict]) -> str:
                 )
             else:
                 lineas.append(f"       · {muestra['estado']}: {muestra['url']}")
+                d = muestra.get("detalle")
+                if d:
+                    lineas.append(
+                        f"           HTTP {d.get('status')} {d.get('error') or ''} "
+                        f"{d.get('bytes')}B {d.get('content_type','')[:30]} {d.get('servidor','')}"
+                    )
+                    if d.get("json_incrustado"):
+                        lineas.append(f"           JSON incrustado: {', '.join(d['json_incrustado'])}"
+                                      f" | <h1>: {d.get('tiene_h1')}")
         for problema in informe["problemas"]:
             lineas.append(f"       ! {problema}")
         for aviso in informe.get("avisos", []):
             lineas.append(f"       ~ {aviso}")
         if informe["nota"] and not informe["ok"]:
             lineas.append(f"       i {informe['nota']}")
+        portada = informe.get("portada_detalle")
+        if portada and not informe["home_ok"]:
+            lineas.append(f"       > portada: HTTP {portada.get('status')} "
+                          f"{portada.get('error') or ''} {portada.get('servidor','')}")
         for feed in informe["feeds_ko"]:
             lineas.append(f"       x feed caido: {feed}")
 
