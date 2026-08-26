@@ -450,6 +450,7 @@ https://bbc.com/news/articles/c1714xg2vr9o
 https://bbc.com/news/articles/c17jl59zg2ko
 https://bbc.com/news/articles/c17jlngexy9o
 https://bbc.com/news/articles/c1d1v333ewxo
+https://bbc.com/news/articles/c1dl50wk7rpo
 https://bbc.com/news/articles/c1dl7dykrnvo
 https://bbc.com/news/articles/c1e5p51n2p2o
 https://bbc.com/news/articles/c1kx3m2z332o
@@ -505,7 +506,9 @@ https://bbc.com/news/articles/c4grxr0e5gdo
 https://bbc.com/news/articles/c4gvw5z8q0vo
 https://bbc.com/news/articles/c5y6wdr9jdxo
 https://bbc.com/news/articles/c5y6x777gk4o
+https://bbc.com/news/articles/c5y7wgj51gko
 https://bbc.com/news/articles/c5yd3vxpp14o
+https://bbc.com/news/articles/c5yd92gkk7vo
 https://bbc.com/news/articles/c5ydmmyy887o
 https://bbc.com/news/articles/c5ye3ld87y1o
 https://bbc.com/news/articles/c5yednen30go
@@ -553,6 +556,7 @@ https://bbc.com/news/articles/c8e2yp1gg37o
 https://bbc.com/news/articles/c8r6dxxy27eo
 https://bbc.com/news/articles/c8r6xy3ryndo
 https://bbc.com/news/articles/c8rn7y6k44no
+https://bbc.com/news/articles/c8xker87k7do
 https://bbc.com/news/articles/c8xklkeyx88o
 https://bbc.com/news/articles/c8xnxy89gv7o
 https://bbc.com/news/articles/c9340jpngeko
@@ -675,6 +679,7 @@ https://bbc.com/news/articles/cm2g5x7l4mko
 https://bbc.com/news/articles/cm2g6mmjjzdo
 https://bbc.com/news/articles/cm2gme5yqnqo
 https://bbc.com/news/articles/cm2gmrey0e0o
+https://bbc.com/news/articles/cm2q4vp4v16o
 https://bbc.com/news/articles/cm2q4zvjnyno
 https://bbc.com/news/articles/cm2r9y9eleno
 https://bbc.com/news/articles/cn0725ej2xeo
@@ -743,6 +748,7 @@ https://bbc.com/news/articles/cvgy3jplvd3o
 https://bbc.com/news/articles/cvgy58ql288o
 https://bbc.com/news/articles/cvgydn9k4p2o
 https://bbc.com/news/articles/cvgye1999n8o
+https://bbc.com/news/articles/cvgyl62pp1zo
 https://bbc.com/news/articles/cvgyr223dnwo
 https://bbc.com/news/articles/cwyk9exxp2qo
 https://bbc.com/news/articles/cwyl0jkxxryo
@@ -798,6 +804,7 @@ https://bbc.com/news/articles/czdm6m939edo
 https://bbc.com/news/articles/czdmgmzll1ro
 https://bbc.com/news/articles/czdmvr984yyo
 https://bbc.com/news/articles/czdz13elezlo
+https://bbc.com/news/articles/czdz1r1z17zo
 https://bbc.com/news/articles/czez5y3k56lo
 https://bbc.com/news/articles/czr0zmzzp84o
 https://bbc.com/news/articles/czrxrlydyzzo
@@ -820,6 +827,8 @@ https://bbc.com/news/videos/cy0zr8lkr8lo
 https://bbc.com/news/videos/cy452z5j1x1o
 https://bbc.com/news/videos/cy7z8pz25k8o
 https://bbc.com/news/world-radio-and-tv-14563857
+https://bbc.com/sounds/play/live/bbc_world_service_west_africa
+https://bbc.com/sounds/play/live:bbc_world_service_west_africa
 https://bbc.com/sounds/play/m002z735
 https://bbc.com/sounds/play/m002zggr
 https://bbc.com/sounds/play/m002zrmr
@@ -842,13 +851,16 @@ https://bbc.com/sounds/play/w3ct9781
 https://bbc.com/sounds/play/w3ct98hb
 https://bbc.com/sport/american-football/articles/cew9l0j1v5ro
 https://bbc.com/sport/american-football/articles/cew9l95kyp0o
+https://bbc.com/sport/articles/c2e0kp7r19no
 https://bbc.com/sport/articles/c8xkl258871o
+https://bbc.com/sport/articles/cew91j189v2o
 https://bbc.com/sport/articles/cl5q9dk9jl3o
 https://bbc.com/sport/articles/cn0r9xk94l9o
 https://bbc.com/sport/articles/cn33yxd1rz0o
 https://bbc.com/sport/articles/cpd7pwx0233o
 https://bbc.com/sport/athletics/articles/c9989lm0vkro
 https://bbc.com/sport/athletics/articles/cjwp3nnlgqpo
+https://bbc.com/sport/athletics/articles/crerjxyrnp9o
 https://bbc.com/sport/basketball/articles/cy7z6nnm4mdo
 https://bbc.com/sport/boxing/articles/c9w0z9ydre2o
 https://bbc.com/sport/boxing/articles/ckg6pnjdkl6o
@@ -858,6 +870,7 @@ https://bbc.com/sport/cricket/articles/c4g5z5p8w17o
 https://bbc.com/sport/cricket/articles/c5yr18gp9j9o
 https://bbc.com/sport/cricket/articles/c9989723r7xo
 https://bbc.com/sport/cricket/articles/cdj4e277vwxo
+https://bbc.com/sport/cricket/articles/cly4632zw0lo
 https://bbc.com/sport/cricket/articles/clyey486g4eo
 https://bbc.com/sport/cricket/articles/cwyee152xeqo
 https://bbc.com/sport/cricket/articles/cwyz3qp1deno
@@ -880,13 +893,16 @@ https://bbc.com/sport/football/articles/c62kd8027w1o
 https://bbc.com/sport/football/articles/c74x9zd83vlo
 https://bbc.com/sport/football/articles/c7506lkw1gno
 https://bbc.com/sport/football/articles/c750nd2419ko
+https://bbc.com/sport/football/articles/c87v0y2x8wro
 https://bbc.com/sport/football/articles/c8d3jej2lqlo
 https://bbc.com/sport/football/articles/c8jdl0n0r7mo
 https://bbc.com/sport/football/articles/c986ywln1ydo
 https://bbc.com/sport/football/articles/c9v4d2z2p7yo
 https://bbc.com/sport/football/articles/c9v9pgre9p0o
+https://bbc.com/sport/football/articles/cd08z41yl39o
 https://bbc.com/sport/football/articles/cd0m840p7d1o
 https://bbc.com/sport/football/articles/cd696j44jqyo
+https://bbc.com/sport/football/articles/cdj4exv1xgwo
 https://bbc.com/sport/football/articles/cdrvr73egnlo
 https://bbc.com/sport/football/articles/ce8e0l7prg6o
 https://bbc.com/sport/football/articles/ce8e6y90g2jo
@@ -937,6 +953,7 @@ https://bbc.com/sport/formula1/articles/c0rdvxdwwwwo
 https://bbc.com/sport/formula1/articles/c1e1e56q4w5o
 https://bbc.com/sport/formula1/articles/c3v0v4951k6o
 https://bbc.com/sport/golf/articles/c3red51l4vxo
+https://bbc.com/sport/golf/articles/cdr7jn03p2yo
 https://bbc.com/sport/golf/articles/cm2q4n5r98mo
 https://bbc.com/sport/golf/articles/crk5gzgl1rzo
 https://bbc.com/sport/golf/articles/cwyzw89vv5eo
@@ -944,6 +961,8 @@ https://bbc.com/sport/mixed-martial-arts/articles/clyrvq7klw2o
 https://bbc.com/sport/rugby-league/articles/c5yedegw3wpo
 https://bbc.com/sport/rugby-league/articles/cgrvy0n7evvo
 https://bbc.com/sport/rugby-union/articles/cg7k90y8j9no
+https://bbc.com/sport/rugby-union/articles/clyrv4l5jjeo
+https://bbc.com/sport/snooker/articles/c36l1z13z17o
 https://bbc.com/sport/tennis/articles/c1l1r7p1ggeo
 https://bbc.com/sport/tennis/articles/c1mv0m7exxko
 https://bbc.com/sport/tennis/articles/c87nzeepv70o
