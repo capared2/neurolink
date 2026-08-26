@@ -52,7 +52,21 @@ RUIDO = re.compile(
     r"(related|recirc|recommend|newsletter|publicidad|advert|ad-|-ad\b|banner|"
     r"social|share|promo|comment|suscri|subscri|paywall|widget|taboola|outbrain|"
     r"footer|breadcrumb|tags?-list|most-read|lo-mas|trending|nav|menu|sidebar|"
-    r"caption|byline|meta-|toolbar|inline-newsletter|read-more|leia-mais)",
+    r"caption|byline|meta-|toolbar|inline-newsletter|read-more|leia-mais|"
+    r"cookie|consent|gdpr|onetrust|privacy-(banner|notice)|didomi|sp_message)",
+    re.I,
+)
+
+# El aviso de cookies es la trampa mas fea de todas: es largo, sale en todas
+# las paginas del sitio y pasa de sobra cualquier minimo de palabras, asi que
+# se cuela como si fuera el cuerpo de la noticia sin que nada chirrie. Un
+# scraper que lo guarda no falla: publica basura en silencio, que es peor.
+CONSENTIMIENTO = re.compile(
+    r"when you visit any website|store or retrieve information on your browser|"
+    r"strictly necessary cookies|these cookies (are|allow|enable)|"
+    r"your (cookie|privacy) (preferences|settings)|manage consent|"
+    r"utilizamos cookies|uso de cookies|politica de cookies|"
+    r"usamos cookies|aceitar (todos os )?cookies",
     re.I,
 )
 ETIQUETAS_FUERA = (
@@ -261,11 +275,17 @@ def _mejor_contenedor(sopa: BeautifulSoup) -> Tag | None:
     return mejor
 
 
+def _es_consentimiento(texto: str) -> bool:
+    """True si lo que hemos recogido es el aviso de cookies y no la noticia."""
+    return bool(texto) and bool(CONSENTIMIENTO.search(texto[:600]))
+
+
 def extraer_cuerpo(sopa: BeautifulSoup, fuente: Fuente, datos: dict) -> tuple[str, list[str]]:
     """Devuelve ``(cuerpo, parrafos)`` bajando por la escalera de respaldos."""
     # 1. El propio JSON-LD, cuando trae el articulo entero.
     bruto = datos.get("articleBody")
-    if isinstance(bruto, str) and len(bruto.split()) >= MIN_CUERPO_JSONLD:
+    if isinstance(bruto, str) and len(bruto.split()) >= MIN_CUERPO_JSONLD \
+            and not _es_consentimiento(bruto):
         parrafos = [
             re.sub(r"\s+", " ", trozo).strip()
             for trozo in re.split(r"\n{2,}|\r\n{2,}", bruto)
@@ -285,14 +305,20 @@ def extraer_cuerpo(sopa: BeautifulSoup, fuente: Fuente, datos: dict) -> tuple[st
             continue
         parrafos = _parrafos_de(contenedor)
         if len(parrafos) >= 2:
-            return "\n\n".join(parrafos), parrafos
+            cuerpo = "\n\n".join(parrafos)
+            if not _es_consentimiento(cuerpo):
+                return cuerpo, parrafos
 
     # 4. Densidad de texto.
     contenedor = _mejor_contenedor(sopa)
     if contenedor is not None:
         parrafos = _parrafos_de(contenedor)
-        if parrafos:
-            return "\n\n".join(parrafos), parrafos
+        cuerpo = "\n\n".join(parrafos)
+        # Mejor sin cuerpo que con el aviso de cookies: sin cuerpo la descarta
+        # --min-words y se reintenta; con el aviso se guarda como si fuera una
+        # noticia y ya nadie lo mira.
+        if parrafos and not _es_consentimiento(cuerpo):
+            return cuerpo, parrafos
 
     return "", []
 

@@ -128,3 +128,25 @@ def test_una_entrada_sin_enlace_se_descarta():
     from tests.fake_site import PRENSA
 
     assert parsear_wordpress({"title": {"rendered": "Sin enlace ninguno aqui"}}, PRENSA) is None
+
+
+def test_el_aviso_de_cookies_no_cuela_como_cuerpo():
+    """Es largo, sale en todas las páginas y pasa cualquier mínimo de palabras.
+
+    Guardarlo no es fallar: es publicar basura en silencio, que es peor. Pasó de
+    verdad con FIFA leída con navegador: veinticinco noticias con el mismo
+    cuerpo de 419 palabras y ninguna fecha.
+    """
+    aviso = ("When you visit any website, it may store or retrieve information on your "
+             "browser, mostly in the form of cookies. This information might be about you, "
+             "your preferences or your device and is mostly used to make the site work as "
+             "you expect it to. ")
+    html = f"""<html><head><title>Un titular perfectamente normal</title>
+    <meta property="og:title" content="Un titular perfectamente normal"></head>
+    <body><div class="envoltorio-desconocido">
+      <p>{aviso}</p><p>{aviso}</p><p>{aviso}</p><p>{aviso}</p>
+    </div></body></html>"""
+
+    articulo = parsear(html, "https://pixel.test/news/un-titular-perfectamente-normal", PIXEL)
+    assert articulo is not None
+    assert articulo["word_count"] == 0, "el aviso no puede contar como cuerpo"

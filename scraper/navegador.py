@@ -37,6 +37,21 @@ ASENTARSE = 1_200
 
 _ES_DATO = re.compile(r"\.(xml|rss|atom|json)(\?|$)|/rss/|/feeds?/", re.I)
 
+# Botones de "aceptar cookies", por si la pagina no pinta el articulo hasta que
+# alguien responde. Es lo primero que hace cualquier lector, y sin ello lo unico
+# que se recoge es el propio aviso --que es largo y pasa cualquier minimo de
+# palabras, asi que se cuela como si fuera la noticia--.
+CONSENTIMIENTO = (
+    "#onetrust-accept-btn-handler",
+    "button#didomi-notice-agree-button",
+    "button[aria-label*='Accept' i]",
+    "button:has-text('Accept all')",
+    "button:has-text('Accept All')",
+    "button:has-text('I accept')",
+    "button:has-text('Aceptar todas')",
+    "button:has-text('Aceitar todos')",
+)
+
 
 class NavegadorNoDisponible(RuntimeError):
     """Playwright no esta instalado o Chromium no arranca."""
@@ -145,6 +160,7 @@ class Navegador:
     def _pintar(self, url: str) -> Respuesta | None:
         try:
             respuesta = self._pagina.goto(url, timeout=ESPERA, wait_until="domcontentloaded")
+            self._descartar_aviso()
             # Lo que la pagina monta despues de cargar es justo lo que venimos a
             # buscar, asi que hay que darle un momento.
             self._pagina.wait_for_timeout(ASENTARSE)
@@ -162,6 +178,18 @@ class Navegador:
 
         return Respuesta(url=self._pagina.url, status=estado, text=html,
                          content_type="text/html")
+
+    def _descartar_aviso(self) -> None:
+        """Cierra el aviso de cookies si lo hay. Si no lo hay, no pasa nada."""
+        for selector in CONSENTIMIENTO:
+            try:
+                boton = self._pagina.locator(selector).first
+                if boton.is_visible(timeout=600):
+                    boton.click(timeout=1_500)
+                    self._pagina.wait_for_timeout(400)
+                    return
+            except Exception:
+                continue
 
     # -- lo que no es descargar se delega ---------------------------------
     def permitido(self, url: str) -> bool:
