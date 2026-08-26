@@ -150,6 +150,7 @@ https://theverge.com/entertainment/984911/super-mario-lego-minifig-unveiled
 https://theverge.com/entertainment/984926/soundcloud-direct-music-sales-beta-launch
 https://theverge.com/entertainment/985140/netflix-wonkas-golden-ticket-ai-gene-wilder-rupaul
 https://theverge.com/entertainment/985201/ridley-scott-says-hes-still-working-on-his-prometheus-and-alien-covenant-sequel
+https://theverge.com/entertainment/985212/well-miss-you-tim-curry
 https://theverge.com/gadgets/906883/whoop-bevel-lawsuit-fitness-tech
 https://theverge.com/gadgets/947310/gadget-veteran-travel-gear
 https://theverge.com/gadgets/968682/samsung-galaxy-z-fold-flip-8-specs-features-hardware-comparison
@@ -174,8 +175,10 @@ https://theverge.com/gadgets/984096/mac-mini-mac-studio-m5-m6-ultra-preorder
 https://theverge.com/gadgets/984186/cyberpunk-commodore-cyberdeck
 https://theverge.com/gadgets/984243/sony-xperia-10-viii-same-specs-new-price
 https://theverge.com/gadgets/984262/an-ultra-short-4k-projector-for-ultra-rich-gamers
+https://theverge.com/gadgets/984331/switch-2-price-increase-psa
 https://theverge.com/gadgets/984414/bose-soundlink-micro-seagate-game-drive-deal-sale
 https://theverge.com/gadgets/984430/nothing-os-5-launch-android-17
+https://theverge.com/gadgets/984516/pixel-11-promo-code-doom-dark-ages-deal-sale
 https://theverge.com/gadgets/984677/inscryption-humble-daniel-mullins-pony-island-deal-sale
 https://theverge.com/gadgets/984753/garmin-fenix-9-smartwatch-launch
 https://theverge.com/gadgets/984860/fitbit-founders-launch-250-wearable-that-looks-like-a-pair-of-aaa-batteries
@@ -186,6 +189,7 @@ https://theverge.com/games/908072/black-tabby-games-publishing-slay-the-princess
 https://theverge.com/games/910385/pragmata-review-ps5-xbox-switch-2-pc
 https://theverge.com/games/916403/two-more-states-announced-settlements-with-roblox
 https://theverge.com/games/933204/lg-1000hz-1080p-ultragear-25g590b
+https://theverge.com/games/939536/fable-xbox-games-showcase-2026
 https://theverge.com/games/942678/nintendo-ds-rules-for-travel
 https://theverge.com/games/943147/amazon-gaming-strategy-james-bond-snoop-dogg-luna
 https://theverge.com/games/950265/robloxs-new-types-of-accounts-with-increased-restrictions-for-kids-are-rolling-out-globally
@@ -288,6 +292,7 @@ https://theverge.com/news/945359/microsoft-xbox-25th-anniversary-console-control
 https://theverge.com/news/961528/microsoft-layoffs-july-2026-sales-xbox
 https://theverge.com/news/963196/spacex-is-on-track-for-record-setting-starlink-deployments
 https://theverge.com/news/969117/microsoft-xbox-games-pc-backward-compatibility
+https://theverge.com/news/985225/heat-stress-children-climate-change-study
 https://theverge.com/podcast/905198/meta-lawsuits-facebook-instagram-youtube-social-media-addiction-section-230
 https://theverge.com/podcast/971627/ai-smartphones-openai-vergecast
 https://theverge.com/podcast/971855/ai-data-center-backlash-protests-florida-bipartisan
@@ -300,6 +305,7 @@ https://theverge.com/podcast/982463/todays-vergecast-our-pixel-reviewer-roundtab
 https://theverge.com/podcast/982884/vergecast-nilay-jen-smart-home-voice-assistants-alexa-plus-gemini-for-home
 https://theverge.com/podcast/982901/gofundme-ceo-tim-cadogan-fundraising-healthcare-medical-expenses
 https://theverge.com/podcast/984666/todays-vergecast-does-smart-home-tech-work-in-a-college-dorm
+https://theverge.com/podcast/985304/todays-vergecast-we-break-down-metas-kids-safety-settlement
 https://theverge.com/policy/677373/lawyers-chatgpt-hallucinations-ai
 https://theverge.com/policy/799473/facebook-meta-ice-jawboning
 https://theverge.com/policy/880850/social-media-lawsuits-meta-facebook-instagram-tiktok
@@ -336,6 +342,7 @@ https://theverge.com/report/840822/australia-social-media-ban-under-16-response
 https://theverge.com/report/954826/midjourney-medical-ai-ultrasound-body-scanner-lacks-evidence
 https://theverge.com/report/980933/trump-border-wall-big-bend-arizona-cottonwood-tree-sit
 https://theverge.com/report/982414/meta-glasses-work-surveillance-labor-security
+https://theverge.com/reviews/707436/nebula-x1-review-best-portable-projector-price-specs
 https://theverge.com/science/839303/rfk-jr-s-vaccine-committee-says-hepatitis-b-shot-can-wait
 https://theverge.com/science/960442/spacex-phone-prototype-elon-musk
 https://theverge.com/science/960563/amazon-leo-service-tipping-point
@@ -610,6 +617,10 @@ https://theverge.com/tech/984838/ring-take-encryption-throw-away-the-key-law-enf
 https://theverge.com/tech/984936/xbox-disc-to-digital-feature-official
 https://theverge.com/tech/985039/how-metas-plans-for-another-round-of-layoffs-fell-apart
 https://theverge.com/tech/985186/google-gemini-3-5-transcribe-audio-ai
+https://theverge.com/tech/985249/apple-maps-iphone-ads
+https://theverge.com/tech/985268/the-already-incredibly-bright-soundcore-x1-portable-projector-gets-a-boost
+https://theverge.com/tech/985308/flipboard-is-acquiring-graze-which-lets-you-build-custom-feeds-on-the-at-protocol
+https://theverge.com/tech/985329/instagram-facebook-meta-settlement-changes
 https://theverge.com/transportation/805247/tesla-q3-earnings-elon-musk-robot-army-pay-package
 https://theverge.com/transportation/881873/tesla-cybertruck-awd-price-cut
 https://theverge.com/transportation/907976/elon-musk-terafab-intel-ai-chip-spacex-tesla
