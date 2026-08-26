@@ -15,6 +15,10 @@ on:
         description: "Contar el codigo HTTP real de cada fallo y el JSON incrustado"
         type: boolean
         default: false
+      probar:
+        description: "URLs sueltas separadas por coma: solo mira que contestan"
+        type: string
+        default: ""
 
 permissions:
   contents: read
@@ -43,6 +47,7 @@ jobs:
           args=(doctor --salida doctor.txt --ignorar-robots)
           [ -n "${{ inputs.fuentes }}" ] && args+=(--fuentes "${{ inputs.fuentes }}")
           [ "${{ inputs.detalle }}" = "true" ] && args+=(--detalle)
+          [ -n "${{ inputs.probar }}" ] && args+=(--probar "${{ inputs.probar }}")
           python -m scraper "${args[@]}"
 
       - name: Publicar el informe

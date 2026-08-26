@@ -164,6 +164,32 @@ def revisar_todas(
     return informes
 
 
+def probar_urls(urls: list[str], **opciones_fetcher) -> str:
+    """Toca unas URLs sueltas y cuenta lo que contestan.
+
+    Sirve para decidir si merece la pena escribir un adaptador nuevo --la API
+    publica de un medio, su REST de WordPress-- antes de escribirlo.
+    """
+    fetcher = Fetcher(**opciones_fetcher)
+    lineas: list[str] = []
+    try:
+        for url in urls:
+            d = fetcher.inspeccionar(url)
+            marca = "OK  " if d.get("status") == 200 else "MAL "
+            lineas.append(
+                f"{marca} HTTP {d.get('status')} {d.get('error') or ''} "
+                f"{d.get('bytes')}B {d.get('content_type', '')[:40]}"
+            )
+            lineas.append(f"       {url}")
+            if d.get("servidor"):
+                lineas.append(f"       {d['servidor']}")
+            if d.get("json_incrustado"):
+                lineas.append(f"       JSON incrustado: {', '.join(d['json_incrustado'])}")
+    finally:
+        fetcher.close()
+    return "\n".join(lineas)
+
+
 def formatear(informes: list[dict]) -> str:
     """Informe legible para la terminal y para el resumen del workflow."""
     lineas: list[str] = []

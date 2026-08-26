@@ -74,6 +74,9 @@ def construir_parser() -> argparse.ArgumentParser:
     _comunes(doctor)
     doctor.add_argument("--sin-articulo", action="store_true",
                         help="no descarga articulos de muestra, solo mira feeds y URLs")
+    doctor.add_argument("--probar", default="",
+                        help="en vez de revisar fuentes, toca estas URLs sueltas "
+                             "(separadas por coma) y cuenta que contestan")
     doctor.add_argument("--detalle", action="store_true",
                         help="cuenta el codigo HTTP real de cada fallo y si la pagina "
                              "trae JSON incrustado. Revisa tambien las fuentes apagadas.")
@@ -150,6 +153,18 @@ def _mandar_scrape(args) -> int:
 
 
 def _mandar_doctor(args) -> int:
+    if args.probar.strip():
+        salida = probe.probar_urls(
+            [u.strip() for u in args.probar.split(",") if u.strip()],
+            user_agent=args.user_agent, delay=args.delay,
+            timeout=args.timeout, retries=1, respetar_robots=not args.ignorar_robots,
+        )
+        print(salida)
+        if args.salida:
+            with open(args.salida, "w", encoding="utf-8") as fichero:
+                fichero.write(salida + "\n")
+        return 0
+
     informes = probe.revisar_todas(
         claves=_validar_fuentes(args.fuentes),
         workers=args.workers,

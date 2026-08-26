@@ -49,24 +49,28 @@ python -m scraper fuentes     # lista lo que hay declarado
 
 | Nicho | Medios activos |
 | --- | --- |
-| Noticias | BBC · Globo · CNN · Fox News · Times of India · Al Jazeera · NBC News · Yahoo News |
+| Noticias | BBC · Globo · CNN · Fox News · Times of India · Al Jazeera · NBC News · Yahoo News · The New York Times |
 | Deportes | Marca · Sky Sports · Bleacher Report |
 | Gamer | IGN · FACEIT · Twitch · Steam |
 | Tecnología | The Verge · TechCrunch |
 
-Hay cuatro más declaradas y **apagadas** (`activa=False`), porque la primera
-corrida real demostró que no aportan nada:
+**The New York Times rinde a medias y es esperable**: su antibots (DataDome)
+contesta 403 a una parte de las peticiones y deja pasar el resto, así que su
+fila del resumen tendrá bastantes fallos. Lo que entra, entra bien.
 
-| Medio | Por qué |
-| --- | --- |
-| **ESPN** | Bloquea en el borde: no responde ni su portada ni ninguno de sus seis feeds. |
-| **The New York Times** | Sus feeds descubren sin problema, pero no deja descargar ni un artículo. Además es de pago. |
-| **The Hill** | Igual que NYT: el feed va, los artículos no. |
-| **FIFA** | Sus sitemaps sí funcionan, pero las páginas se montan con JavaScript y llegan sin titular. |
+Hay tres más declaradas y **apagadas** (`activa=False`). No es una sospecha:
+`python -m scraper doctor --detalle` mide qué contesta cada una.
 
-En ninguno de los tres primeros la causa es `robots.txt` --no prohíben nada--,
-sino su protección antibots. Recuperarlos exigiría hacerse pasar por un
-navegador, que es una decisión distinta; están a un `activa=True` de volver.
+| Medio | Lo que contesta | Por qué está apagada |
+| --- | --- | --- |
+| **ESPN** | Portada `202` de CloudFront, los seis feeds caídos | Desafío antibot antes de servir nada |
+| **The Hill** | `403` de Varnish en artículos **y** portada | Bloqueo duro y uniforme |
+| **FIFA** | `200`, pero 4,5 KB **sin `__NEXT_DATA__` ni `ld+json`** | El contenido no viaja en el HTML: lo monta el navegador |
+
+FIFA es la única cerrada de verdad: no es que leamos mal la página, es que lo
+que llega no contiene la noticia. Para ESPN y The Hill la causa tampoco es
+`robots.txt` --no prohíben nada--, sino su protección antibots; recuperarlas
+exigiría hacerse pasar por un navegador, que es una decisión distinta.
 
 Añadir un medio es añadir una entrada en `sources.py`: nada más del scraper
 sabe que existe BBC o IGN. Cada fuente declara dónde buscar (feeds, sitemaps,

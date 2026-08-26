@@ -164,12 +164,11 @@ FUENTES: tuple[Fuente, ...] = (
             r"^/\d{4}/\d{2}/\d{2}/(interactive|crosswords|games|cooking|wirecutter|athletic)/",
         ),
         cuerpo=("section[name=articleBody]", "article#story", "article"),
-        activa=False,
-        nota="Apagada: sus feeds funcionan --descubre sesenta URLs sin "
-             "problema-- pero no deja descargar ni un articulo, ni con la "
-             "identificacion en formato compatible. Su robots.txt no lo "
-             "prohibe: es la proteccion antibots. Ademas es un medio de pago, "
-             "asi que aunque se recuperara llegaria recortado.",
+        nota="Rinde a medias y es normal: su antibots (DataDome) contesta 403 a "
+             "una parte de las peticiones y deja pasar el resto, asi que se "
+             "veran bastantes fallos en su fila del resumen. Ademas es un medio "
+             "de pago y algunas noticias llegan recortadas, que las tira el "
+             "filtro de --min-words. Lo que entra, entra bien.",
     ),
     Fuente(
         clave="cnn", nombre="CNN", home="https://edition.cnn.com",
