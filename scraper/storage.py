@@ -147,10 +147,17 @@ class Almacen:
         cubo = contenido.get("articles", []) if isinstance(contenido, dict) else []
 
         conocidas = {a.get("url") for a in cubo}
+        # Y las del resto del tema, no solo las del fichero abierto. Mirar solo
+        # el ultimo dejaba pasar una noticia ya guardada en un fichero anterior
+        # --pasa si el estado se pierde, o si una noticia cambia de tema y
+        # vuelve-- y acababa dos veces en el archivo. El lookup ya tiene ese
+        # mapa hecho y pesa unos pocos kilobytes.
+        lookup = leer_json(carpeta / "lookup.json", {})
+        ids_del_tema = set(lookup.get("parts", {})) if isinstance(lookup, dict) else set()
         total = 0
         nuevas_aqui = 0
         for articulo in articulos:
-            if articulo["url"] in conocidas:
+            if articulo["url"] in conocidas or articulo.get("id") in ids_del_tema:
                 continue
             if len(cubo) >= self.tam_parte:
                 if nuevas_aqui:

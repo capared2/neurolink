@@ -150,3 +150,41 @@ def test_el_aviso_de_cookies_no_cuela_como_cuerpo():
     articulo = parsear(html, "https://pixel.test/news/un-titular-perfectamente-normal", PIXEL)
     assert articulo is not None
     assert articulo["word_count"] == 0, "el aviso no puede contar como cuerpo"
+
+
+def test_el_html_del_articlebody_no_se_publica_en_crudo():
+    """Hay medios que meten HTML dentro de articleBody del JSON-LD.
+
+    Tomarlo por texto plano publicaba las etiquetas en la página --y con ellas
+    las direcciones del propio medio, que es lo que el sitio no debe enseñar--.
+    Pasó de verdad: 546 noticias de una sola fuente.
+    """
+    import json as _json
+
+    cuerpo = (
+        f"<p>{PARRAFOS[0]}</p><p>{PARRAFOS[1]}</p>"
+        '<ul><li><strong><a href="https://qrcode.ejemplo.com/x">Transfer Centre LIVE!</a>'
+        ' | <a href="https://ejemplo.com/y">Fixtures &amp; scores</a></strong></li></ul>'
+    )
+    datos = _json.dumps({
+        "@type": "NewsArticle",
+        "headline": "Un titular cualquiera de prueba",
+        "articleBody": cuerpo,
+    })
+    html = (f'<html><head><script type="application/ld+json">{datos}</script>'
+            "</head><body></body></html>")
+
+    articulo = parsear(html, "https://cancha.test/futbol/1-x", CANCHA)
+    assert articulo is not None
+    assert "<p>" not in articulo["body"] and "<li>" not in articulo["body"]
+    assert "href" not in articulo["body"]
+    # Y la lista de enlaces promocionales tampoco entra como párrafo.
+    assert "Transfer Centre" not in articulo["body"]
+
+
+def test_las_urls_no_se_quedan_en_el_texto():
+    """Una URL en el cuerpo dice de qué medio salió la noticia."""
+    from scraper.parser import limpiar_texto
+    limpio = limpiar_texto("Lo contó en https://medio-ajeno.example/nota y luego lo amplió")
+    assert "medio-ajeno" not in limpio
+    assert "Lo contó en" in limpio and "luego lo amplió" in limpio

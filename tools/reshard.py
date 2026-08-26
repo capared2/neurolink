@@ -39,6 +39,18 @@ def rehacer(data_dir: Path, tam: int, en_seco: bool) -> tuple[int, int]:
         if not categoria:
             continue
 
+        # De paso se deduplica: rehacer los ficheros es la ocasión de reparar
+        # lo que se hubiera colado dos veces.
+        unicos: dict[str, dict] = {}
+        for articulo in articulos:
+            clave = articulo.get("id") or articulo.get("url") or ""
+            if clave and clave not in unicos:
+                unicos[clave] = articulo
+        repetidas = len(articulos) - len(unicos)
+        if repetidas:
+            print(f"    {carpeta.relative_to(data_dir)}: {repetidas} repetidas fuera")
+        articulos = list(unicos.values())
+
         articulos.sort(key=lambda a: (a.get("published_at") or "", a.get("id") or ""))
         lotes = [articulos[i:i + tam] for i in range(0, len(articulos), tam)] or [[]]
         ficheros_despues += len(lotes)

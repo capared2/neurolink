@@ -84,10 +84,25 @@ BASURA = re.compile(
 
 MIN_PARRAFO = 40          # caracteres para que un parrafo cuente como cuerpo
 MIN_CUERPO_JSONLD = 80    # palabras para fiarnos del articleBody del JSON-LD
+# Un parrafo que es casi todo texto enlazado no es prosa: es una lista de
+# enlaces promocionales --"Transfer Centre LIVE! | Fixtures & scores"-- que el
+# medio intercala en el cuerpo.
+MAX_DENSIDAD_ENLACE = 0.6
+
+# URLs escritas dentro del texto. Se quitan por dos razones: quedan feas en una
+# pagina que no enlaza a ninguna parte, y sobre todo dicen de que medio salio la
+# noticia, que es justo lo que el sitio no debe enseñar.
+URL_EN_TEXTO = re.compile(r"(?:https?://|www\.)\S+", re.I)
 
 
 def _texto(nodo) -> str:
     return re.sub(r"\s+", " ", nodo.get_text(" ", strip=True)).strip() if nodo else ""
+
+
+def limpiar_texto(texto: str) -> str:
+    """Quita las URLs escritas dentro del texto y normaliza los espacios."""
+    sin_urls = URL_EN_TEXTO.sub("", texto or "")
+    return re.sub(r"\s{2,}", " ", sin_urls).strip(" |·-—,")
 
 
 # ---------------------------------------------------------------------------
@@ -232,7 +247,14 @@ def _parrafos_de(nodo: Tag) -> list[str]:
     vistos: set[str] = set()
     for hijo in _limpiar(nodo).find_all(["p", "h2", "h3", "h4", "li", "blockquote"]):
         texto = _texto(hijo)
-        if len(texto) < MIN_PARRAFO or BASURA.match(texto):
+        if not texto or BASURA.match(texto):
+            continue
+        # Un bloque que es casi todo enlace es promocion, no noticia.
+        enlazado = sum(len(_texto(a)) for a in hijo.find_all("a"))
+        if len(texto) and enlazado / len(texto) > MAX_DENSIDAD_ENLACE:
+            continue
+        texto = limpiar_texto(texto)
+        if len(texto) < MIN_PARRAFO:
             continue
         clave = texto.lower()
         if clave in vistos:
@@ -286,14 +308,24 @@ def extraer_cuerpo(sopa: BeautifulSoup, fuente: Fuente, datos: dict) -> tuple[st
     bruto = datos.get("articleBody")
     if isinstance(bruto, str) and len(bruto.split()) >= MIN_CUERPO_JSONLD \
             and not _es_consentimiento(bruto):
+        # Hay medios que meten HTML dentro de articleBody. Tomarlo por texto
+        # plano publicaba las etiquetas en crudo en la pagina --y con ellas las
+        # direcciones del propio medio--, asi que se parsea igual que el resto.
+        if "<" in bruto and ">" in bruto:
+            cuerpo, parrafos = _texto_plano(bruto)
+            if parrafos:
+                return cuerpo, parrafos
+
         parrafos = [
-            re.sub(r"\s+", " ", trozo).strip()
+            limpiar_texto(re.sub(r"\s+", " ", trozo))
             for trozo in re.split(r"\n{2,}|\r\n{2,}", bruto)
-            if len(trozo.strip()) >= MIN_PARRAFO
         ]
+        parrafos = [p for p in parrafos if len(p) >= MIN_PARRAFO]
         if not parrafos:
-            parrafos = [re.sub(r"\s+", " ", bruto).strip()]
-        return "\n\n".join(parrafos), parrafos
+            suelto = limpiar_texto(re.sub(r"\s+", " ", bruto))
+            parrafos = [suelto] if suelto else []
+        if parrafos:
+            return "\n\n".join(parrafos), parrafos
 
     # 2. y 3. Selectores de la fuente, luego los genericos.
     for selector in (*fuente.cuerpo, *CUERPO_GENERICO):
@@ -369,29 +401,19 @@ def _imagenes(sopa: BeautifulSoup, datos: dict, base: str) -> list[dict]:
 # ---------------------------------------------------------------------------
 
 def _texto_plano(html: str) -> tuple[str, list[str]]:
-    """Parrafos de un trozo de HTML suelto, sin pagina alrededor."""
+    """Parrafos de un trozo de HTML suelto, sin pagina alrededor.
+
+    Reutiliza el mismo filtrado que el cuerpo de una pagina --ruido, promocion
+    disfrazada de parrafo, URLs escritas dentro del texto--, porque el HTML que
+    llega en un `articleBody` o en un `content.rendered` trae exactamente la
+    misma basura que el de la pagina.
+    """
     sopa = BeautifulSoup(html or "", "lxml")
-    for etiqueta in sopa.find_all(ETIQUETAS_FUERA):
-        etiqueta.decompose()
-    for atributo in ("class", "id"):
-        for etiqueta in sopa.find_all(attrs={atributo: RUIDO}):
-            etiqueta.decompose()
-
-    parrafos: list[str] = []
-    vistos: set[str] = set()
-    for hijo in sopa.find_all(["p", "h2", "h3", "h4", "li", "blockquote"]):
-        texto = _texto(hijo)
-        if len(texto) < MIN_PARRAFO or BASURA.match(texto) or texto.lower() in vistos:
-            continue
-        vistos.add(texto.lower())
-        parrafos.append(texto)
-
+    parrafos = _parrafos_de(sopa)
     if not parrafos:
-        # Sin marcado de parrafos: al menos el texto corrido.
-        suelto = _texto(sopa)
+        suelto = limpiar_texto(_texto(sopa))
         if len(suelto) >= MIN_PARRAFO:
             parrafos = [suelto]
-
     return "\n\n".join(parrafos), parrafos
 
 
