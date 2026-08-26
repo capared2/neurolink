@@ -684,6 +684,7 @@ def parsear_wordpress(entrada: dict, fuente: Fuente) -> dict | None:
 
     categoria = taxonomy.clasificar(
         segmentos=urlutil.segmentos(canonica),
+        host=urlutil.etiquetas_host(canonica),
         seccion=seccion,
         etiquetas=terminos,
         texto=f"{titular} {resumen}",
@@ -824,6 +825,7 @@ def parsear(html: str, url: str, fuente: Fuente) -> dict | None:
 
     categoria = taxonomy.clasificar(
         segmentos=urlutil.segmentos(canonica),
+        host=urlutil.etiquetas_host(canonica),
         seccion=seccion,
         etiquetas=etiquetas,
         texto=f"{titular} {entradilla} {resumen}",

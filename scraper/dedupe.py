@@ -40,6 +40,29 @@ JACCARD_MIN = 0.45
 # que no se pueden separar por decreto; pero coincidir "por casualidad" es mucho
 # mas facil entre verticales, y por eso el liston sube.
 EXTRA_ENTRE_VERTICALES = 0.2
+
+# Por encima de esto dos titulares no son dos enfoques: son el mismo texto.
+# Sirve para distinguir "el mismo medio lo ha contado dos veces" --que es una
+# historia con dos piezas-- de "el mismo medio ha guardado dos veces lo mismo",
+# que es un duplicado y no se publica.
+JACCARD_IDENTICO = 0.92
+
+# Jaccard castiga que un titular sea mucho mas largo que otro, y en un
+# agregador eso pasa a todas horas: "Ayyoub Bouaddi transfer: Manchester City
+# complete record-breaking £86m deal to sign 18-year-old Morocco midfielder"
+# y "Man City complete the signing of Ayyoub Bouaddi" son la misma noticia y
+# sacaban 0,24 --por debajo del liston--, asi que la portada las enseñaba como
+# dos historias, una al lado de la otra.
+#
+# El solape mira otra cosa: cuanto del titular corto cabe dentro del largo.
+# Ahi salen 0,6 y mas. Como es mas facil de disparar que Jaccard, se le ponen
+# dos frenos: un minimo de palabras en comun --dos titulares de cuatro palabras
+# que compartan tres tienen un solape altisimo sin hablar de lo mismo-- y que
+# las dos noticias sean del mismo nicho. Entre nichos distintos sigue mandando
+# Jaccard con su liston subido, que es lo que evita que una noticia de empresas
+# y una de tecnologia se fundan por parecerse en el titular.
+SOLAPE_MIN = 0.6
+COMUNES_MIN = 4
 # Ventana en la que dos noticias pueden ser la misma historia.
 HORAS_VENTANA = 36
 
@@ -61,11 +84,30 @@ _NO_PALABRA = re.compile(r"[^a-z0-9]+")
 # Colas del tipo " - BBC News" o " | Marca" que los medios pegan al titular. El
 # separador tiene que ir con espacios a los dos lados: sin eso, un titular como
 # "gana 3-1 en el clasico" perdia la mitad por culpa del guion del resultado.
-_COLA_MEDIO = re.compile(r"\s+[|\-–—·]\s+[^|\-–—·]{2,30}$")
+#
+# Que la cola sea corta no basta para saber que es el nombre de un medio: con
+# el limite en treinta caracteres se llevaba por delante titulares enteros.
+# "'A very special day' - Bouaddi completes City move" se quedaba en "'A very
+# special day'", perdia las palabras que lo emparentaban con las demas
+# versiones de esa noticia y salia como una historia aparte.
+#
+# Lo que de verdad separa un medio de una frase es la caja: "BBC News" y
+# "Marca" son nombres, con todas sus palabras en mayuscula; "Bouaddi completes
+# City move" es una oracion, y lleva minusculas.
+_COLA_MEDIO = re.compile(r"\s+[|\-–—·]\s+((?:\S+\s+){0,2}\S{2,20})$")
+
+
+def _es_nombre_de_medio(cola: str) -> bool:
+    """Si todas las palabras de la cola empiezan en mayuscula, es un nombre."""
+    palabras_cola = [p for p in cola.split() if any(c.isalpha() for c in p)]
+    return bool(palabras_cola) and all(p[:1].isupper() for p in palabras_cola)
 
 
 def normalizar_titular(titulo: str) -> str:
-    limpio = _COLA_MEDIO.sub("", titulo.strip())
+    limpio = titulo.strip()
+    coincidencia = _COLA_MEDIO.search(limpio)
+    if coincidencia and _es_nombre_de_medio(coincidencia.group(1)):
+        limpio = limpio[: coincidencia.start()]
     return sin_tildes(limpio)
 
 
@@ -101,6 +143,13 @@ def simhash(titulo: str) -> int:
         if vector[bit] > 0:
             huella |= 1 << bit
     return huella
+
+
+def solape(a: set[str], b: set[str]) -> float:
+    """Cuanto del conjunto pequeno cabe dentro del grande."""
+    if not a or not b:
+        return 0.0
+    return len(a & b) / min(len(a), len(b))
 
 
 def jaccard(a: set[str], b: set[str]) -> float:
@@ -166,22 +215,42 @@ def agrupar(
         candidatas = {i for ficha in fichas for i in indice.get(ficha, ())}
 
         encajada = False
+        repetida = False
         for posicion in sorted(candidatas):
             historia = historias[posicion]
             liston = jaccard_min
             if historia.principal.get("vertical") != articulo.get("vertical"):
                 liston += EXTRA_ENTRE_VERTICALES
-            if jaccard(historia._palabras, fichas) < liston:
+            similitud = jaccard(historia._palabras, fichas)
+            mismo_nicho = historia.principal.get("vertical") == articulo.get("vertical")
+            if similitud < liston and not (
+                mismo_nicho
+                and solape(historia._palabras, fichas) >= SOLAPE_MIN
+                and len(historia._palabras & fichas) >= COMUNES_MIN
+            ):
                 continue
             otro = _cuando(historia.principal.get("published_at"))
             if momento and otro and abs(momento - otro) > ventana:
                 continue
             # Una misma fuente no cuenta dos veces la misma historia.
             if any(p.get("source") == articulo.get("source") for p in historia.piezas):
+                # ...pero si además el titular es palabra por palabra el mismo,
+                # no es que el medio lo haya contado dos veces: es la misma
+                # noticia otra vez. Pasa cuando un medio la sirve en dos
+                # dominios --la BBC en bbc.com y bbc.co.uk-- o cuando reedita
+                # sin cambiar el titular. Antes se descartaba la unión y salía
+                # como una historia aparte, así que la portada la enseñaba dos
+                # veces seguidas.
+                if similitud >= JACCARD_IDENTICO:
+                    repetida = True
+                    break
                 continue
             historia.piezas.append(articulo)
             encajada = True
             break
+
+        if repetida:
+            continue
 
         if not encajada:
             posicion = len(historias)

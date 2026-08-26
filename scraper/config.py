@@ -66,6 +66,14 @@ MAX_URLS_POR_FUENTE = 600
 LATEST_LIMIT = 160
 PORTADA_LIMIT = 60
 
+# Ninguna vertical puede pasar de esta parte de la portada. Sin tope, la
+# portada la decide el volumen del dia: en una pasada cualquiera salian 52 de
+# 60 tarjetas de deportes, y un agregador universal que solo enseña futbol no
+# es universal. Se llena por orden --primero lo que mas medios cuentan y mas
+# reciente es-- saltando lo que ya llego a su cupo, y si al final sobran
+# huecos porque las demas verticales no dan para mas, se rellenan sin tope.
+PORTADA_TOPE_VERTICAL = 0.4
+
 # Parametros de sitemaps (limite del protocolo: 50.000 URLs por fichero).
 URLS_POR_SITEMAP = 25_000
 HORAS_GOOGLE_NEWS = 48

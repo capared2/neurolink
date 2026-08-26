@@ -62,6 +62,25 @@ class RelojPorHost:
             time.sleep(dormir)
 
 
+def _fijar_codificacion(resp) -> None:
+    """Decide con qué codificación leer la respuesta.
+
+    `requests` no deja `encoding` a `None` cuando el servidor manda
+    `Content-Type: text/html` sin charset: pone ISO-8859-1, que es lo que dice
+    el RFC 2616 y que casi nunca es verdad. Como la guarda solo miraba `None`,
+    nunca saltaba, y los bytes UTF-8 se leían como latin-1: `£` salía `Â£` y
+    `ñ` salía `Ã±`. Eran 162 noticias del archivo, titulares incluidos.
+
+    Solo se respeta ISO-8859-1 si la cabecera lo dice con todas las letras;
+    si no, se detecta a partir de los propios bytes.
+    """
+    declarada = "charset=" in resp.headers.get("Content-Type", "").lower()
+    if resp.encoding is None or (not declarada and (resp.encoding or "").lower() in (
+        "iso-8859-1", "latin-1", "latin1"
+    )):
+        resp.encoding = resp.apparent_encoding or "utf-8"
+
+
 class Fetcher:
     """Cliente HTTP seguro entre hilos y educado con el origen."""
 
@@ -155,8 +174,7 @@ class Fetcher:
                 ultimo = str(exc)
             else:
                 if resp.status_code == 200:
-                    if resp.encoding is None:
-                        resp.encoding = resp.apparent_encoding or "utf-8"
+                    _fijar_codificacion(resp)
                     return Respuesta(
                         url=str(resp.url),
                         status=resp.status_code,

@@ -14,7 +14,11 @@ estaba:
    "fox news media" y TechCrunch con "TechCrunch Disrupt 2026". Eso viaja a
    `keywords` y a `mentions`, y el sitio no nombra ninguna fuente.
 
-3. **Noticias sin ninguna etiqueta.** Un tercio del archivo. Sin etiquetas la
+3. **Texto UTF-8 leído como latin-1.** `£` guardado como `Â£`. `requests` no
+   deja el charset a `None` cuando el servidor no lo declara: pone ISO-8859-1,
+   así que la guarda del fetcher nunca saltaba.
+
+4. **Noticias sin ninguna etiqueta.** Un tercio del archivo. Sin etiquetas la
    noticia sale sin `mentions` ni `keywords`, que es justo lo que mira un
    buscador generativo para saber de qué va sin leérsela entera. Se sacan del
    propio texto.
@@ -36,6 +40,24 @@ from scraper.sources import FUENTES                                 # noqa: E402
 from scraper.storage import Almacen, escribir_json, leer_json       # noqa: E402
 
 ENTIDAD = re.compile(r"&(?:#\d+|#x[0-9a-fA-F]+|[a-zA-Z]{2,10});")
+
+# Bytes UTF-8 leídos como latin-1: `£` sale `Â£` y `ñ` sale `Ã±`. Estas son las
+# firmas que no aparecen en un texto bien codificado.
+MOJIBAKE = re.compile(r"Â[£€¢©®°±·»«\xa0]|â€[™œ\x9d\x9c\x99]|Ã[©¡³±¨ºª\x89]")
+
+
+def arreglar_codificacion(texto: str) -> str:
+    """Deshace un texto UTF-8 que se leyó como latin-1.
+
+    Se vuelve a codificar con la codificación equivocada y se lee con la
+    correcta. Si algún carácter no sobrevive al viaje de vuelta, el texto no
+    era mojibake y se deja como estaba.
+    """
+    try:
+        arreglado = texto.encode("latin-1").decode("utf-8")
+    except (UnicodeEncodeError, UnicodeDecodeError):
+        return texto
+    return arreglado if not MOJIBAKE.search(arreglado) else texto
 CAMPOS = ("title", "standfirst", "summary", "body")
 
 # El nombre del medio nunca puede acabar de etiqueta: delataría de dónde salió
@@ -48,6 +70,11 @@ def desescapar_articulo(articulo: dict) -> bool:
     cambiado = False
     for campo in CAMPOS:
         valor = articulo.get(campo)
+        if isinstance(valor, str) and MOJIBAKE.search(valor):
+            nuevo = arreglar_codificacion(valor)
+            if nuevo != valor:
+                articulo[campo] = valor = nuevo
+                cambiado = True
         if isinstance(valor, str) and ENTIDAD.search(valor):
             nuevo = desescapar(valor).replace("\xa0", " ").strip()
             if nuevo != valor:

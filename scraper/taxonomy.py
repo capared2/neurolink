@@ -203,6 +203,7 @@ def clasificar(
     texto: str = "",
     vertical_por_defecto: str = "noticias",
     tema_por_defecto: str | None = None,
+    host: list[str] | None = None,
 ) -> str:
     """Devuelve la clave ``vertical/tema`` que le corresponde a una noticia."""
     puntos: dict[str, int] = {}
@@ -212,8 +213,24 @@ def clasificar(
             puntos[clave] = puntos.get(clave, 0) + cuanto
 
     segmentos_slug = [slug(s) for s in segmentos if s]
+    host_slug = [slug(h) for h in (host or []) if h]
+
+    # El subdominio dice de que seccion es la noticia aunque la ruta no diga
+    # nada: `sports.yahoo.com/articles/bengals-preseason-mvp.html` es deporte
+    # y acababa en actualidad general. Manda sobre la vertical de la fuente
+    # --Yahoo publica de todo-- pero solo cuando ningun tema gana por si mismo.
+    for etiqueta in host_slug:
+        for tema in TEMAS:
+            if etiqueta in tema.alias:
+                vertical_por_defecto = tema.vertical
+                tema_por_defecto = POR_DEFECTO.get(tema.vertical, tema_por_defecto)
+                break
+        else:
+            continue
+        break
     seccion_slug = slug(seccion) if seccion else ""
     etiquetas_slug = [slug(e) for e in (etiquetas or []) if e]
+    palabras_seccion = _palabras(seccion) if seccion else set()
     palabras_texto = _palabras(texto) if texto else set()
     palabras_etiquetas = {p for e in (etiquetas or []) for p in _palabras(e)}
 
@@ -224,9 +241,23 @@ def clasificar(
             if segmento in tema.alias:
                 sumar(tema.clave, PESO_URL + posicion)
 
-        # 2. Seccion declarada por el articulo.
+        # 1b. Subdominio. Pesa la mitad que un segmento de la ruta y solo
+        #     para temas concretos: `sports.yahoo.com` dice que la noticia es
+        #     de deportes, pero no que sea de "mas deporte" en vez de futbol.
+        #     Para eso esta la vertical de respaldo, mas abajo.
+        if not tema.generico:
+            for etiqueta in host_slug:
+                if etiqueta in tema.alias:
+                    sumar(tema.clave, PESO_URL // 2)
+
+        # 2. Seccion declarada por el articulo. Se prueba entera y por
+        #    palabras: los medios la escriben con su propia marca delante
+        #    --"Yahoo Sports", "BBC Sport"-- y comparada entera no encajaba
+        #    con ningun alias.
         if seccion_slug and (seccion_slug in tema.alias or seccion_slug in tema.claves):
             sumar(tema.clave, PESO_SECCION)
+        elif palabras_seccion & tema.alias:
+            sumar(tema.clave, PESO_SECCION - 1)
 
         # 3. Etiquetas.
         for etiqueta in etiquetas_slug:

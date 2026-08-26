@@ -326,8 +326,28 @@ class Almacen:
             for pieza in historia.piezas:
                 pieza["story"] = historia.clave
 
+        # La portada se reparte entre las verticales en vez de dejarla al
+        # volumen del dia. Se recorre por orden --lo que mas medios cuentan y
+        # mas reciente es-- saltando la vertical que ya llego a su cupo, y si
+        # al final faltan huecos porque las demas no dan para mas, se completa
+        # sin tope: mejor una portada llena y algo escorada que medio vacia.
+        tope = max(1, int(config.PORTADA_LIMIT * config.PORTADA_TOPE_VERTICAL))
+        elegidas: list = []
+        cuantas: dict[str, int] = {}
+        for vuelta in (True, False):
+            for historia in agrupadas:
+                if len(elegidas) >= config.PORTADA_LIMIT:
+                    break
+                if historia in elegidas:
+                    continue
+                vertical = (historia.principal.get("category") or "/").split("/")[0]
+                if vuelta and cuantas.get(vertical, 0) >= tope:
+                    continue
+                cuantas[vertical] = cuantas.get(vertical, 0) + 1
+                elegidas.append(historia)
+
         historias = []
-        for historia in agrupadas[: config.PORTADA_LIMIT]:
+        for historia in elegidas:
             principal = {c: historia.principal.get(c) for c in (*CAMPOS_TARJETA, "image", "story")}
             principal["coverage"] = historia.fuentes
             # Otras versiones de la misma historia, sin decir de quien son.
