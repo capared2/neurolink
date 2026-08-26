@@ -1,0 +1,4 @@
+# Solo hace falta para las fuentes que declaran `navegador=True`: paginas
+# escritas en JavaScript cuyo HTML no contiene la noticia. El resto del
+# scraper funciona sin esto.
+playwright>=1.47.0

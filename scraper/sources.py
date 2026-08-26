@@ -52,6 +52,10 @@ class Fuente:
     # de una vez, y hay medios --The Hill-- cuyo cortafuegos rechaza las
     # paginas pero deja pasar su propio REST.
     wordpress: str = ""
+    # Leer esta fuente con un navegador de verdad. Solo para paginas escritas
+    # en JavaScript, cuyo HTML no contiene la noticia: cuesta de uno a tres
+    # segundos por pagina, asi que no se pone "por si acaso".
+    navegador: bool = False
     tema_por_defecto: str | None = None
     delay: float = config.DEFAULT_DELAY
     activa: bool = True
@@ -169,11 +173,14 @@ FUENTES: tuple[Fuente, ...] = (
             r"^/\d{4}/\d{2}/\d{2}/(interactive|crosswords|games|cooking|wirecutter|athletic)/",
         ),
         cuerpo=("section[name=articleBody]", "article#story", "article"),
-        nota="Rinde a medias y es normal: su antibots (DataDome) contesta 403 a "
-             "una parte de las peticiones y deja pasar el resto, asi que se "
-             "veran bastantes fallos en su fila del resumen. Ademas es un medio "
-             "de pago y algunas noticias llegan recortadas, que las tira el "
-             "filtro de --min-words. Lo que entra, entra bien.",
+        activa=False,
+        delay=6.0,
+        nota="Apagada. Se reactivo al ver que una muestra suelta si pasaba, y en "
+             "la corrida real de 235 articulos no entro ni uno: DataDome deja "
+             "pasar alguna peticion aislada y cierra en cuanto hay ritmo. Se le "
+             "deja delay=6.0 por si se quiere reintentar despacio y con "
+             "--tope-por-fuente bajo, pero ademas es un medio de pago y lo que "
+             "entrara llegaria recortado.",
     ),
     Fuente(
         clave="cnn", nombre="CNN", home="https://edition.cnn.com",
@@ -317,11 +324,11 @@ FUENTES: tuple[Fuente, ...] = (
         articulo=(r"/articles/", r"/news/[a-z0-9-]{10,}"),
         cuerpo=("article", ".ff-mt-0", "main"),
         tema_por_defecto="sports/soccer",
-        activa=False,
-        nota="Apagada: sus sitemaps si funcionan --sesenta URLs en la revision "
-             "del 26/08/2026-- pero las paginas se montan enteras con "
-             "JavaScript y llegan sin titular ni cuerpo que extraer. Haria "
-             "falta un navegador de verdad para leerla.",
+        navegador=True,
+        nota="Se lee con navegador. Sus paginas responden 200 y su robots.txt "
+             "no prohibe nada, pero llegan como un armazon de 4,5 KB sin "
+             "__NEXT_DATA__ ni ld+json: el texto lo monta JavaScript despues. "
+             "No hay selector que valga, hay que dejar que la pagina se pinte.",
     ),
     Fuente(
         clave="marca", nombre="Marca", home="https://www.marca.com",
