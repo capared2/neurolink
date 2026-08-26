@@ -11,10 +11,20 @@ import re
 from urllib.parse import parse_qsl, urlencode, urlsplit, urlunsplit
 
 # Parametros que solo sirven para medir campanas y ensucian la URL.
+#
+# Los de la segunda tanda salieron de mirar el archivo: son los que un feed le
+# cuelga al enlace de la noticia. Sin ellos en la lista, la misma noticia
+# entraba dos veces en la cola --una por el enlace limpio de la portada y otra
+# por el del RSS-- y se descargaba dos veces en cada corrida. Eran 76 URLs de
+# cuatro medios, y en Al Jazeera el feed entero. `traffic_source` es de Al
+# Jazeera, `eref` de CNN, `source` del blog de FACEIT --que va sobre Medium--,
+# `_gl` es el enlazador de Google Analytics y `bcmt` la marca de comentarios
+# de Yahoo.
 PREFIJOS_SEGUIMIENTO = (
     "utm_", "cmpid", "intcmp", "icid", "ncid", "xtor", "s_kw", "fb_", "gclid",
     "smid", "smtyp", "partner", "taid", "cmp", "ito", "at_", "sh_", "ref_src",
     "ref_url", "mc_cid", "mc_eid", "spm", "__twitter", "guccounter", "guce_",
+    "traffic_source", "eref", "source", "_gl", "bcmt",
 )
 
 # Parametros que si cambian la pagina y hay que conservar.

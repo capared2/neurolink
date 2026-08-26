@@ -41,3 +41,28 @@ def test_identificador_estable_y_propio_de_cada_fuente():
     assert urls.identificador(url, "bbc") == urls.identificador(url + "/", "bbc")
     # La misma URL en dos fuentes distintas nunca colisiona.
     assert urls.identificador(url, "bbc") != urls.identificador(url, "cnn")
+
+
+@pytest.mark.parametrize("entrada, esperada", [
+    # Lo que un feed le cuelga al enlace. Sin quitarlo, la misma noticia entra
+    # dos veces en la cola y se descarga dos veces en cada corrida.
+    ("https://aljazeera.com/news/2026/8/26/algo?traffic_source=rss",
+     "https://aljazeera.com/news/2026/8/26/algo"),
+    ("https://cnn.com/2026/08/26/health/algo/index.html?eref=rss_tech",
+     "https://cnn.com/2026/08/26/health/algo/index.html"),
+    ("https://blog.faceit.com/algo-93714f8dc9ff?source=rss----22e599cc708---4",
+     "https://blog.faceit.com/algo-93714f8dc9ff"),
+    ("https://ign.com/articles/algo?_gl=1%2A6h3zee", "https://ign.com/articles/algo"),
+    ("https://yahoo.com/entertainment/articles/algo.html?bcmt=1",
+     "https://yahoo.com/entertainment/articles/algo.html"),
+])
+def test_normalizar_quita_lo_que_cuelga_el_feed(entrada, esperada):
+    assert urls.normalizar(entrada) == esperada
+
+
+def test_el_enlace_del_feed_y_el_limpio_son_la_misma_noticia():
+    """Los dos tienen que dar el mismo identificador, o se guarda dos veces."""
+    limpio = "https://aljazeera.com/news/2026/8/26/algo"
+    assert urls.identificador(limpio + "?traffic_source=rss", "aljazeera") == (
+        urls.identificador(limpio, "aljazeera")
+    )

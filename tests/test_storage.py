@@ -182,3 +182,45 @@ def test_publica_los_hosts_de_imagen(tmp_path):
 
     imagenes = json.loads((tmp_path / "imagenes.json").read_text())
     assert imagenes["hosts"] == ["x.test"]
+
+
+def test_no_repite_una_noticia_al_cambiar_de_fichero(tmp_path):
+    """La misma noticia dos veces en una corrida, con un cambio de fichero en medio.
+
+    Es el caso que se colo en produccion: un feed y la portada traen el mismo
+    articulo con la URL escrita distinta, se descarga dos veces, y entre una
+    copia y otra el fichero abierto se llena. El fichero nuevo empieza sin
+    memoria de lo escrito en el anterior, y el lookup del disco todavia es el
+    de la corrida pasada, asi que la segunda copia no tenia con que compararse.
+    """
+    almacen = Almacen(tmp_path, tam_parte=2)
+    for id_ in ("a1", "repetida", "a2", "repetida"):
+        almacen.anadir(noticia(id_))
+    almacen.volcar()
+
+    guardadas = [
+        a["id"]
+        for parte in sorted((tmp_path / "sports" / "soccer").glob("part-*.json"))
+        for a in json.loads(parte.read_text())["articles"]
+    ]
+    assert guardadas.count("repetida") == 1
+    assert len(guardadas) == len(set(guardadas))
+
+
+def test_no_repite_entre_volcados_aunque_el_fichero_cambie(tmp_path):
+    """Lo mismo, pero repartido en dos volcados: el segundo estrena fichero."""
+    almacen = Almacen(tmp_path, tam_parte=2)
+    almacen.anadir(noticia("a1"))
+    almacen.anadir(noticia("repetida"))
+    almacen.volcar()
+
+    almacen.anadir(noticia("a2"))
+    almacen.anadir(noticia("repetida"))
+    almacen.volcar()
+
+    guardadas = [
+        a["id"]
+        for parte in sorted((tmp_path / "sports" / "soccer").glob("part-*.json"))
+        for a in json.loads(parte.read_text())["articles"]
+    ]
+    assert guardadas.count("repetida") == 1

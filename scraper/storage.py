@@ -107,6 +107,11 @@ class Almacen:
         self.entradas_sitemap: list[dict] = []
         self._lock = threading.Lock()
         self._buffer: dict[str, list[dict]] = {}
+        # Los identificadores ya guardados en cada tema, durante toda la
+        # ejecucion. El lookup del disco solo cubre lo que dejaron las corridas
+        # anteriores --se regenera al final--, asi que sin esto una noticia que
+        # llegue dos veces en la misma corrida no tiene con que compararse.
+        self._ids_por_tema: dict[str, set[str]] = {}
 
     def anadir(self, articulo: dict) -> None:
         for campo in CAMPOS_DERIVADOS:
@@ -147,13 +152,25 @@ class Almacen:
         cubo = contenido.get("articles", []) if isinstance(contenido, dict) else []
 
         conocidas = {a.get("url") for a in cubo}
-        # Y las del resto del tema, no solo las del fichero abierto. Mirar solo
-        # el ultimo dejaba pasar una noticia ya guardada en un fichero anterior
-        # --pasa si el estado se pierde, o si una noticia cambia de tema y
-        # vuelve-- y acababa dos veces en el archivo. El lookup ya tiene ese
-        # mapa hecho y pesa unos pocos kilobytes.
-        lookup = leer_json(carpeta / "lookup.json", {})
-        ids_del_tema = set(lookup.get("parts", {})) if isinstance(lookup, dict) else set()
+        # Y los identificadores del resto del tema, no solo los del fichero
+        # abierto. Mirar solo el ultimo dejaba pasar una noticia ya guardada en
+        # un fichero anterior --pasa si el estado se pierde, o si una noticia
+        # cambia de tema y vuelve-- y acababa dos veces en el archivo.
+        #
+        # El conjunto vive en el almacen y no aqui porque tiene que sobrevivir a
+        # dos cosas: al cambio de fichero cuando el abierto se llena, y a las
+        # siguientes llamadas de `volcar()`. El lookup del disco no sirve para
+        # eso --se regenera al terminar la corrida-- y sin memoria propia la
+        # misma noticia entraba dos veces si le tocaba caer a un lado y otro de
+        # un cambio de fichero. Paso: cuatro noticias de Al Jazeera repetidas
+        # entre `news/world/part-0043` y `part-0044`.
+        ids_del_tema = self._ids_por_tema.get(categoria)
+        if ids_del_tema is None:
+            lookup = leer_json(carpeta / "lookup.json", {})
+            ids_del_tema = set(lookup.get("parts", {})) if isinstance(lookup, dict) else set()
+            ids_del_tema.update(a["id"] for a in cubo if a.get("id"))
+            self._ids_por_tema[categoria] = ids_del_tema
+
         total = 0
         nuevas_aqui = 0
         for articulo in articulos:
@@ -167,6 +184,8 @@ class Almacen:
                 cubo, conocidas, nuevas_aqui = [], set(), 0
             cubo.append(articulo)
             conocidas.add(articulo["url"])
+            if articulo.get("id"):
+                ids_del_tema.add(articulo["id"])
             total += 1
             nuevas_aqui += 1
 
