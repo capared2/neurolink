@@ -155,34 +155,6 @@ FUENTES: tuple[Fuente, ...] = (
         cuerpo=(".mc-article-body", ".content-text", "article"),
     ),
     Fuente(
-        clave="nytimes", nombre="The New York Times", home="https://www.nytimes.com",
-        vertical="news", idioma="en", pais="US",
-        hosts=frozenset({"nytimes.com"}),
-        feeds=(
-            "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
-            "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-            "https://rss.nytimes.com/services/xml/rss/nyt/Business.xml",
-            "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml",
-            "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
-            "https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml",
-        ),
-        articulo=(r"^/\d{4}/\d{2}/\d{2}/.+\.html$",),
-        denegar=(
-            r"^/(interactive|live|video|crosswords|games|cooking|wirecutter|athletic)/",
-            # En NYT la seccion va detras de la fecha: /2026/08/25/crosswords/...
-            r"^/\d{4}/\d{2}/\d{2}/(interactive|crosswords|games|cooking|wirecutter|athletic)/",
-        ),
-        cuerpo=("section[name=articleBody]", "article#story", "article"),
-        activa=False,
-        delay=6.0,
-        nota="Apagada. Se reactivo al ver que una muestra suelta si pasaba, y en "
-             "la corrida real de 235 articulos no entro ni uno: DataDome deja "
-             "pasar alguna peticion aislada y cierra en cuanto hay ritmo. Se le "
-             "deja delay=6.0 por si se quiere reintentar despacio y con "
-             "--tope-por-fuente bajo, pero ademas es un medio de pago y lo que "
-             "entrara llegaria recortado.",
-    ),
-    Fuente(
         clave="cnn", nombre="CNN", home="https://edition.cnn.com",
         vertical="news", idioma="en", pais="US",
         hosts=frozenset({"cnn.com", "edition.cnn.com"}),
@@ -292,30 +264,6 @@ FUENTES: tuple[Fuente, ...] = (
 
     # ---------------------------------------------------------------- Deportes
     Fuente(
-        clave="espn", nombre="ESPN", home="https://www.espn.com",
-        vertical="sports", idioma="en", pais="US",
-        hosts=frozenset({"espn.com"}),
-        feeds=(
-            "https://www.espn.com/espn/rss/news",
-            "https://www.espn.com/espn/rss/soccer/news",
-            "https://www.espn.com/espn/rss/nba/news",
-            "https://www.espn.com/espn/rss/nfl/news",
-            "https://www.espn.com/espn/rss/mlb/news",
-            "https://www.espn.com/espn/rss/nhl/news",
-        ),
-        semillas=("/soccer/", "/nba/", "/nfl/"),
-        articulo=(r"/story/_/id/\d+/",),
-        denegar=(r"^/(watch|video|fantasy)/",),
-        cuerpo=(".article-body", ".Story__Body", "article"),
-        activa=False,
-        nota="Apagada: bloquea en el borde. En la revision del 26/08/2026 no "
-             "respondio ni la portada ni ninguno de sus seis feeds, ni con la "
-             "identificacion en formato compatible. No es robots.txt --no "
-             "prohibe nada--, es su proteccion antibots. Para recuperarla haria "
-             "falta hacerse pasar por un navegador, que es otra cosa; "
-             "activa=True para volver a intentarlo.",
-    ),
-    Fuente(
         clave="fifa", nombre="FIFA", home="https://www.fifa.com",
         vertical="sports", idioma="en", pais="CH",
         hosts=frozenset({"fifa.com", "inside.fifa.com"}),
@@ -325,10 +273,13 @@ FUENTES: tuple[Fuente, ...] = (
         cuerpo=("article", ".ff-mt-0", "main"),
         tema_por_defecto="sports/soccer",
         navegador=True,
-        nota="Se lee con navegador. Sus paginas responden 200 y su robots.txt "
-             "no prohibe nada, pero llegan como un armazon de 4,5 KB sin "
-             "__NEXT_DATA__ ni ld+json: el texto lo monta JavaScript despues. "
-             "No hay selector que valga, hay que dejar que la pagina se pinte.",
+        nota="Se lee con navegador y rinde poco: en la medicion del 26/08/2026, "
+             "2 noticias de 12 intentadas; las otras 10 volvieron sin cuerpo y "
+             "se descartaron. Sus paginas responden 200 y su robots.txt no "
+             "prohibe nada, pero llegan como un armazon de 4,5 KB y el texto lo "
+             "monta JavaScript detras de un muro de consentimiento. Cada pagina "
+             "cuesta uno o tres segundos, asi que si ese 17% no compensa, "
+             "retirala del registro.",
     ),
     Fuente(
         clave="marca", nombre="Marca", home="https://www.marca.com",

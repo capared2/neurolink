@@ -49,8 +49,8 @@ python -m scraper fuentes     # lista lo que hay declarado
 
 | Nicho | Medios activos |
 | --- | --- |
-| Noticias | BBC · Globo · CNN · Fox News · Times of India · Al Jazeera · NBC News · Yahoo News · The New York Times · The Hill |
-| Deportes | Marca · Sky Sports · Bleacher Report |
+| Noticias | BBC · Globo · CNN · Fox News · Times of India · Al Jazeera · NBC News · Yahoo News · The Hill |
+| Deportes | Marca · Sky Sports · Bleacher Report · FIFA |
 | Gamer | IGN · FACEIT · Twitch · Steam |
 | Tecnología | The Verge · TechCrunch |
 
@@ -58,32 +58,32 @@ python -m scraper fuentes     # lista lo que hay declarado
 contesta 403 a una parte de las peticiones y deja pasar el resto, así que su
 fila del resumen tendrá bastantes fallos. Lo que entra, entra bien.
 
-**The Hill se lee por su REST, no por sus páginas.** Su cortafuegos devuelve
-`403` a los artículos y también a la portada, pero su
-`wp-json/wp/v2/posts` responde y trae el artículo entero. Cuando una fuente
-declara `wordpress=`, el scraper la resuelve por ahí y se salta la cola: la API
-devuelve todo de una vez, así que no hay nada que descargar después. Media
-prensa del mundo va sobre WordPress, así que ese adaptador sirve para más
+**El registro solo lleva medios que se han visto publicar.** No hay fuentes
+apagadas esperando a que alguien las encienda: las que no rendían se han
+retirado, y hay un test que lo comprueba. Se quitaron **ESPN** --desafío `202`
+de CloudFront en todo el dominio; su API pública responde pero solo da
+titulares, y sus enlaces apuntan al dominio bloqueado-- y **The New York
+Times**, que descubre sin problema y en una corrida de 235 artículos no dejó
+entrar ni uno.
+
+Tres fuentes no se leen por el camino normal, y conviene saber por qué:
+
+| Medio | Cómo se lee | Por qué |
+| --- | --- | --- |
+| **The Hill** | Su REST de WordPress (`wordpress=`) | Su cortafuegos devuelve `403` a los artículos y a la portada, pero su `wp-json` responde y trae el artículo entero. 424 guardadas de 425 en producción. |
+| **FIFA** | Con navegador (`navegador=True`) | Sus páginas responden `200` pero llegan como un armazón de 4,5 KB: el texto lo monta JavaScript detrás de un muro de consentimiento. Rinde poco --2 de 12--, y la nota de la fuente lo dice. |
+| **FACEIT** | Su blog | La web principal es una aplicación de una sola página y sus datos de competición van por API con clave. |
+
+Cuando una fuente declara `wordpress=`, se resuelve por ahí y se salta la cola:
+la API devuelve todo de una vez, así que no hay nada que descargar después.
+Media prensa del mundo va sobre WordPress, así que ese adaptador sirve para más
 medios que este.
 
-Hay dos declaradas y **apagadas** (`activa=False`). No es una sospecha:
-`python -m scraper doctor --detalle` mide qué contesta cada una, y
-`--probar URL,URL` toca endpoints sueltos para decidir si merece la pena
-escribir un adaptador antes de escribirlo.
-
-| Medio | Lo que contesta | Por qué está apagada |
-| --- | --- | --- |
-| **ESPN** | Portada `202` de CloudFront, los seis feeds caídos. Su API pública (`site.api.espn.com`) sí da `200`, pero solo titulares, y los enlaces apuntan al dominio bloqueado | Desafío antibot antes de servir nada |
-| **FIFA** | `200`, pero 4,5 KB **sin `__NEXT_DATA__`, sin `__NUXT__` y sin `ld+json`** | El contenido no viaja en el HTML: lo monta el navegador |
-
-Ninguna de las dos se arregla con más código: harían falta un navegador de
-verdad o saltarse una protección puesta a propósito. En ninguna la causa es
-`robots.txt`, que no prohíbe nada.
-
-Añadir un medio es añadir una entrada en `sources.py`: nada más del scraper
-sabe que existe BBC o IGN. Cada fuente declara dónde buscar (feeds, sitemaps,
-portadas), cómo distinguir un artículo de una portada de sección, y dónde vive
-el cuerpo si su maquetación se resiste a la heurística general.
+`navegador=True` abre un Chromium de verdad y pinta la página. Es para HTML que
+no contiene la noticia, no para forzar puertas: Playwright es opcional, la
+identificación no cambia, y no hay resolución de desafíos ni rotación de
+direcciones. Cuesta de uno a tres segundos por página, así que no se pone «por
+si acaso».
 
 ### Los feeds son candidatos, no promesas
 
