@@ -99,6 +99,8 @@ https://theverge.com/ai-artificial-intelligence/984368/perplexitys-new-portable-
 https://theverge.com/ai-artificial-intelligence/984434/anthropic-may-be-even-more-delusional-than-elon-musk
 https://theverge.com/ai-artificial-intelligence/984606/gas-power-projects-data-centers-surge
 https://theverge.com/ai-artificial-intelligence/984747/now-openais-former-head-of-data-centers-is-out
+https://theverge.com/ai-artificial-intelligence/984875/chatgpt-work-can-now-work-more-autonomously
+https://theverge.com/ai-artificial-intelligence/984890/the-most-powerful-arduino-yet-is-a-299-board-for-autonomous-robots
 https://theverge.com/antitrust/982578/google-just-showed-off-its-new-prototype-of-how-third-party-app-stores-will-look
 https://theverge.com/bulletin/795051/verge-podcast-ad-free-set-up-how-to
 https://theverge.com/business/922788/spirit-airlines-shutdown
@@ -138,6 +140,7 @@ https://theverge.com/entertainment/984612/lego-skylines-city-builder
 https://theverge.com/entertainment/984700/dolly-parton-has-died-at-80
 https://theverge.com/entertainment/984737/you-can-stream-backrooms-on-hbo-max-starting-next-month
 https://theverge.com/entertainment/984822/meet-the-new-robocop-dan-stevens
+https://theverge.com/entertainment/984911/super-mario-lego-minifig-unveiled
 https://theverge.com/gadgets/906883/whoop-bevel-lawsuit-fitness-tech
 https://theverge.com/gadgets/947310/gadget-veteran-travel-gear
 https://theverge.com/gadgets/972456/dji-osmo-pocket-4p-review
@@ -163,7 +166,10 @@ https://theverge.com/gadgets/984414/bose-soundlink-micro-seagate-game-drive-deal
 https://theverge.com/gadgets/984430/nothing-os-5-launch-android-17
 https://theverge.com/gadgets/984677/inscryption-humble-daniel-mullins-pony-island-deal-sale
 https://theverge.com/gadgets/984753/garmin-fenix-9-smartwatch-launch
+https://theverge.com/gadgets/984860/fitbit-founders-launch-250-wearable-that-looks-like-a-pair-of-aaa-batteries
+https://theverge.com/gadgets/984906/samsung-launches-speedy-p9-portable-ssd
 https://theverge.com/games/843260/tomb-raider-catalyst-trailer-tomb-raider-atlantis
+https://theverge.com/games/892531/nintendo-lego-super-mario-bros-minifigure
 https://theverge.com/games/908072/black-tabby-games-publishing-slay-the-princess
 https://theverge.com/games/910385/pragmata-review-ps5-xbox-switch-2-pc
 https://theverge.com/games/916403/two-more-states-announced-settlements-with-roblox
@@ -219,6 +225,7 @@ https://theverge.com/games/984650/the-new-game-from-the-creator-of-inscryption-l
 https://theverge.com/games/984660/watch-out-for-weapons
 https://theverge.com/games/984680/the-witcher-3-wild-hunt-remastered-launch-date-trailer
 https://theverge.com/games/984805/the-indie-studio-that-made-journey-is-getting-into-game-publishing
+https://theverge.com/games/984869/ikea-xbox-yxstaby-collection-thumbstick-stool
 https://theverge.com/health/688503/rfk-jr-vaccines
 https://theverge.com/health/981670/daniel-eks-body-scanning-clinic-neko-health-will-open-in-nyc-on-september-24th
 https://theverge.com/logitech/652423/logitech-price-increases-mouse-keyboard-accessories
@@ -342,6 +349,7 @@ https://theverge.com/streaming/983794/espn-disney-plus-bundles-price-increase
 https://theverge.com/streaming/984389/netflix-will-stream-the-womens-world-cup-draw-live-in-december
 https://theverge.com/tech/798921/facebook-local-jobs-us
 https://theverge.com/tech/849742/how-to-tune-algorithms-recommendations-online-platforms
+https://theverge.com/tech/872963/fitbit-james-park-eric-friedman-luffu-caregivers-family-health-app
 https://theverge.com/tech/876480/meta-facebook-animate-profile-picture-restyle-ai
 https://theverge.com/tech/880812/ramageddon-ram-shortage-memory-crisis-price-2026-phones-laptops
 https://theverge.com/tech/883225/samsung-galaxy-unpacked-s26-2026
@@ -400,6 +408,7 @@ https://theverge.com/tech/967738/watch-this-susan-kare-doc
 https://theverge.com/tech/967983/lg-monitors-mcafee-adware-gamers-nexus
 https://theverge.com/tech/968459/fire-tv-now-easier-to-view-and-navigate
 https://theverge.com/tech/968535/philips-hues-latest-camera-might-be-for-your-tv
+https://theverge.com/tech/969373/samsungs-galaxy-unpacked-in-15-minutes
 https://theverge.com/tech/969382/samsung-google-smart-glasses-gentle-monster-warby-parker
 https://theverge.com/tech/969445/amazon-is-cutting-jobs-on-its-agi-team
 https://theverge.com/tech/969938/jeff-bezos-is-getting-involved-with-centering-amazons-ai-in-prime-video
