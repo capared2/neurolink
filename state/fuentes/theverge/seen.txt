@@ -104,6 +104,7 @@ https://theverge.com/ai-artificial-intelligence/984747/now-openais-former-head-o
 https://theverge.com/ai-artificial-intelligence/984875/chatgpt-work-can-now-work-more-autonomously
 https://theverge.com/ai-artificial-intelligence/984890/the-most-powerful-arduino-yet-is-a-299-board-for-autonomous-robots
 https://theverge.com/ai-artificial-intelligence/984923/bill-gates-is-deeply-worried-about-ai-and-hes-no-longer-staying-quiet
+https://theverge.com/ai-artificial-intelligence/985385/openais-rogue-ai-model-hugging-face-cybersecurity-incident-reports-metr
 https://theverge.com/antitrust/982578/google-just-showed-off-its-new-prototype-of-how-third-party-app-stores-will-look
 https://theverge.com/apple/985133/apple-is-automatically-upgrading-some-recent-mac-mini-m4-orders-to-m6-or-m5-pro-versions-for-free
 https://theverge.com/bulletin/795051/verge-podcast-ad-free-set-up-how-to
@@ -151,7 +152,10 @@ https://theverge.com/entertainment/984926/soundcloud-direct-music-sales-beta-lau
 https://theverge.com/entertainment/985140/netflix-wonkas-golden-ticket-ai-gene-wilder-rupaul
 https://theverge.com/entertainment/985201/ridley-scott-says-hes-still-working-on-his-prometheus-and-alien-covenant-sequel
 https://theverge.com/entertainment/985212/well-miss-you-tim-curry
+https://theverge.com/gadgets/712844/today-im-toying-with
 https://theverge.com/gadgets/906883/whoop-bevel-lawsuit-fitness-tech
+https://theverge.com/gadgets/936771/today-im-toying-with-giveaway-free-gadgets
+https://theverge.com/gadgets/941484/lego-pokemon-smart-play-brick-sets
 https://theverge.com/gadgets/947310/gadget-veteran-travel-gear
 https://theverge.com/gadgets/968682/samsung-galaxy-z-fold-flip-8-specs-features-hardware-comparison
 https://theverge.com/gadgets/968716/samsung-galaxy-z-flip-fold-8-ultra-how-to-buy-preorder-price-release-date
@@ -183,6 +187,8 @@ https://theverge.com/gadgets/984677/inscryption-humble-daniel-mullins-pony-islan
 https://theverge.com/gadgets/984753/garmin-fenix-9-smartwatch-launch
 https://theverge.com/gadgets/984860/fitbit-founders-launch-250-wearable-that-looks-like-a-pair-of-aaa-batteries
 https://theverge.com/gadgets/984906/samsung-launches-speedy-p9-portable-ssd
+https://theverge.com/gadgets/985422/giveaway-nine
+https://theverge.com/games/684957/splitgate-2-hat-apology
 https://theverge.com/games/843260/tomb-raider-catalyst-trailer-tomb-raider-atlantis
 https://theverge.com/games/892531/nintendo-lego-super-mario-bros-minifigure
 https://theverge.com/games/908072/black-tabby-games-publishing-slay-the-princess
@@ -246,6 +252,8 @@ https://theverge.com/games/984869/ikea-xbox-yxstaby-collection-thumbstick-stool
 https://theverge.com/games/984959/gta-vi-leaks-rockstar-games-official-statement-heartbreaking
 https://theverge.com/games/984984/gta-6-cyberleak-rideout-customs
 https://theverge.com/games/985003/microsoft-xbox-25th-anniversary-console-price
+https://theverge.com/games/985364/panic-is-passing-on-playdate-tariff-refunds-to-customers
+https://theverge.com/games/985370/1047-games-is-ending-development-on-the-newest-splitgate-and-another-multiplayer-game
 https://theverge.com/health/688503/rfk-jr-vaccines
 https://theverge.com/health/981670/daniel-eks-body-scanning-clinic-neko-health-will-open-in-nyc-on-september-24th
 https://theverge.com/logitech/652423/logitech-price-increases-mouse-keyboard-accessories
@@ -281,6 +289,7 @@ https://theverge.com/news/831451/china-humanoid-robotics-bubble
 https://theverge.com/news/838814/facebook-instagram-hijacked-accounts-hub
 https://theverge.com/news/839927/meta-facebook-instagram-eu-ad-model-choice
 https://theverge.com/news/841036/facebook-redesign-instagram-photos-feed-algorithm
+https://theverge.com/news/845882/x-corp-operation-bluebird-twitter-lawsuit-trademark-infringement
 https://theverge.com/news/850876/lg-gallery-tv-ces-2026
 https://theverge.com/news/857864/samsung-ballie-robot-shelved-ces-2026
 https://theverge.com/news/860435/the-kids-are-offline
@@ -339,6 +348,7 @@ https://theverge.com/policy/984723/trump-h1b-fee-asylum-legal-immigration
 https://theverge.com/policy/985032/meta-state-ag-kids-online-safety-settlement
 https://theverge.com/policy/985183/meta-is-planning-an-ad-blitz-urging-tiktok-and-youtube-to-follow-its-lead
 https://theverge.com/report/840822/australia-social-media-ban-under-16-response
+https://theverge.com/report/841994/operation-bluebird-twitter-trademarks-petition
 https://theverge.com/report/954826/midjourney-medical-ai-ultrasound-body-scanner-lacks-evidence
 https://theverge.com/report/980933/trump-border-wall-big-bend-arizona-cottonwood-tree-sit
 https://theverge.com/report/982414/meta-glasses-work-surveillance-labor-security
@@ -621,6 +631,9 @@ https://theverge.com/tech/985249/apple-maps-iphone-ads
 https://theverge.com/tech/985268/the-already-incredibly-bright-soundcore-x1-portable-projector-gets-a-boost
 https://theverge.com/tech/985308/flipboard-is-acquiring-graze-which-lets-you-build-custom-feeds-on-the-at-protocol
 https://theverge.com/tech/985329/instagram-facebook-meta-settlement-changes
+https://theverge.com/tech/985387/nvidia-hundred-billion-dollar-quarterly-revenue
+https://theverge.com/tech/985392/operation-bluebird-is-back-in-action
+https://theverge.com/tech/985427/amazons-adding-another-2-million-of-nvidias-gpus-to-its-aws-data-centers
 https://theverge.com/transportation/805247/tesla-q3-earnings-elon-musk-robot-army-pay-package
 https://theverge.com/transportation/881873/tesla-cybertruck-awd-price-cut
 https://theverge.com/transportation/907976/elon-musk-terafab-intel-ai-chip-spacex-tesla
