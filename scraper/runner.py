@@ -23,7 +23,6 @@ from dataclasses import dataclass, field
 from . import config, discovery, seo, sources
 from . import urls as urlutil
 from .fetcher import Fetcher
-from .navegador import Navegador, NavegadorNoDisponible
 from .parser import parsear, parsear_wordpress
 from .sources import Fuente
 from .storage import Almacen, Estado
@@ -139,74 +138,6 @@ def _leer_por_rest(
         salud[fuente.clave]["saved"] += 1
 
 
-def _leer_con_navegador(
-    fuente: Fuente,
-    navegador,
-    estado: Estado,
-    almacen: Almacen,
-    opciones: "Opciones",
-    resumen: dict,
-    salud: dict,
-    plazo: float | None,
-) -> None:
-    """Fuentes cuyas paginas hay que pintar para poder leerlas.
-
-    Van en su propia pasada y en serie, no en el pool: la API sincrona de
-    Playwright no es segura entre hilos, y ademas pintar una pagina cuesta
-    entre uno y tres segundos, asi que el paralelismo tampoco ayudaria tanto
-    como lo haria en una fuente normal.
-    """
-    estado_fuente = estado.de(fuente.clave)
-    try:
-        encontradas = discovery.descubrir(
-            fuente, navegador, opciones.vias,
-            profundidad_crawl=opciones.profundidad_crawl,
-            plazo=plazo, tope=opciones.tope_por_fuente,
-        )
-    except Exception:
-        log.exception("fallo el descubrimiento de %s", fuente.clave)
-        return
-
-    salud[fuente.clave]["discovered"] = len(encontradas)
-    resumen["discovered"] += len(encontradas)
-
-    frescas = [u for u in sorted(encontradas, key=lambda u: (urlutil.fecha_en_ruta(u) or ""), reverse=True)
-               if not _demasiado_vieja(u, opciones.desde)]
-    resumen["queued"] += estado_fuente.encolar(frescas)
-
-    limite = opciones.max_articulos if opciones.max_articulos > 0 else float("inf")
-    while estado_fuente.pendientes and resumen["fetched"] < limite:
-        if plazo is not None and time.monotonic() > plazo:
-            log.info("%s: se agoto su plazo; quedan %s en cola",
-                     fuente.clave, len(estado_fuente.pendientes))
-            break
-
-        url = estado_fuente.tomar(1)[0]
-        resumen["fetched"] += 1
-        _, _, articulo = _descargar(navegador, fuente, url)
-
-        if articulo is None:
-            resumen["failed"] += 1
-            salud[fuente.clave]["failed"] += 1
-            estado_fuente.marcar_fallida(url)
-            continue
-        if opciones.desde and (articulo.get("published_at") or "")[:10] < opciones.desde:
-            resumen["skipped_old"] += 1
-            estado_fuente.marcar_vista(url)
-            continue
-        if articulo["word_count"] < opciones.min_palabras:
-            resumen["skipped_empty"] += 1
-            salud[fuente.clave]["empty"] += 1
-            estado_fuente.marcar_vacia(url)
-            continue
-
-        almacen.anadir(articulo)
-        estado_fuente.marcar_vista(url)
-        estado_fuente.marcar_vista(articulo["url"])
-        resumen["saved"] += 1
-        salud[fuente.clave]["saved"] += 1
-
-
 def _lote_alternado(estado: Estado, claves: list[str], tam: int) -> list[tuple[str, str]]:
     """Arma un lote turnandose entre las colas de cada fuente.
 
@@ -252,7 +183,6 @@ def ejecutar(opciones: Opciones) -> dict:
     estado = Estado(opciones.state_dir, opciones.max_fallos, opciones.reintentos_vacio)
     por_clave = {f.clave: f for f in elegidas}
 
-    navegador = None
     salud: dict[str, dict] = {
         f.clave: {
             "name": f.nombre, "vertical": f.vertical, "language": f.idioma,
@@ -278,8 +208,7 @@ def ejecutar(opciones: Opciones) -> dict:
         # Las que se leen por su propio REST no pasan por la cola: se resuelven
         # enteras en el paso de descubrimiento.
         por_rest = [f for f in elegidas if f.wordpress]
-        con_navegador = [f for f in elegidas if f.navegador and not f.wordpress]
-        por_paginas = [f for f in elegidas if not f.wordpress and not f.navegador]
+        por_paginas = [f for f in elegidas if not f.wordpress]
 
         # -- 1. descubrimiento, con una rebanada del plazo por fuente --------
         if not opciones.saltar_descubrimiento:
@@ -292,22 +221,6 @@ def ejecutar(opciones: Opciones) -> dict:
                 plazo = time.monotonic() + rebanada if rebanada else None
                 _leer_por_rest(fuente, fetcher, estado, almacen, opciones,
                                resumen, salud, plazo)
-
-            if con_navegador:
-                try:
-                    navegador = Navegador(fetcher)
-                    navegador.abrir()
-                except NavegadorNoDisponible as exc:
-                    log.warning("se saltan %s: %s",
-                                ", ".join(f.clave for f in con_navegador), exc)
-                    for fuente in con_navegador:
-                        salud[fuente.clave]["note"] = f"sin navegador: {exc}"
-                    con_navegador = []
-
-            for fuente in con_navegador:
-                plazo = time.monotonic() + rebanada if rebanada else None
-                _leer_con_navegador(fuente, navegador, estado, almacen, opciones,
-                                    resumen, salud, plazo)
 
             for fuente in por_paginas:
                 plazo = time.monotonic() + rebanada if rebanada else None
@@ -403,10 +316,6 @@ def ejecutar(opciones: Opciones) -> dict:
                          resumen["saved"], estado.pendientes, fetcher.stats["peticiones"])
 
     finally:
-        if navegador is not None:
-            navegador.cerrar()
-            resumen["navegador"] = dict(navegador.stats)
-
         # Pase lo que pase, lo descargado se guarda y los indices quedan al dia.
         for categoria, cuantas in almacen.volcar().items():
             resumen["categories"][categoria] = resumen["categories"].get(categoria, 0) + cuantas

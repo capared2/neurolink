@@ -52,10 +52,6 @@ class Fuente:
     # de una vez, y hay medios --The Hill-- cuyo cortafuegos rechaza las
     # paginas pero deja pasar su propio REST.
     wordpress: str = ""
-    # Leer esta fuente con un navegador de verdad. Solo para paginas escritas
-    # en JavaScript, cuyo HTML no contiene la noticia: cuesta de uno a tres
-    # segundos por pagina, asi que no se pone "por si acaso".
-    navegador: bool = False
     tema_por_defecto: str | None = None
     delay: float = config.DEFAULT_DELAY
     activa: bool = True
@@ -263,24 +259,6 @@ FUENTES: tuple[Fuente, ...] = (
     ),
 
     # ---------------------------------------------------------------- Deportes
-    Fuente(
-        clave="fifa", nombre="FIFA", home="https://www.fifa.com",
-        vertical="sports", idioma="en", pais="CH",
-        hosts=frozenset({"fifa.com", "inside.fifa.com"}),
-        sitemaps=("https://www.fifa.com/sitemap.xml", "https://inside.fifa.com/sitemap.xml"),
-        semillas=("/en/news", "/es/news", "/articles"),
-        articulo=(r"/articles/", r"/news/[a-z0-9-]{10,}"),
-        cuerpo=("article", ".ff-mt-0", "main"),
-        tema_por_defecto="sports/soccer",
-        navegador=True,
-        nota="Se lee con navegador y rinde poco: en la medicion del 26/08/2026, "
-             "2 noticias de 12 intentadas; las otras 10 volvieron sin cuerpo y "
-             "se descartaron. Sus paginas responden 200 y su robots.txt no "
-             "prohibe nada, pero llegan como un armazon de 4,5 KB y el texto lo "
-             "monta JavaScript detras de un muro de consentimiento. Cada pagina "
-             "cuesta uno o tres segundos, asi que si ese 17% no compensa, "
-             "retirala del registro.",
-    ),
     Fuente(
         clave="marca", nombre="Marca", home="https://www.marca.com",
         vertical="sports", idioma="es", pais="ES",

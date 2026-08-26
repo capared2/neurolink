@@ -72,14 +72,6 @@ jobs:
       - name: Instalar dependencias
         run: pip install -r requirements.txt
 
-      # Solo para las fuentes que declaran `navegador=True`. Si esto falla, el
-      # scraper se las salta con un aviso y el resto de la corrida sigue igual.
-      - name: Instalar el navegador
-        continue-on-error: true
-        run: |
-          pip install -r requirements-navegador.txt
-          playwright install --with-deps chromium
-
       - name: Ejecutar el scraper
         env:
           MODO: ${{ inputs.modo || 'incremental' }}
