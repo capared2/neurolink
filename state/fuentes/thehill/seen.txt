@@ -11,6 +11,7 @@ https://thehill.com/blogs/in-the-know/6049911-dolly-parton-trump-flags-half-staf
 https://thehill.com/blogs/in-the-know/6050214-dolly-parton-death-tribute
 https://thehill.com/blogs/in-the-know/6050801-presidents-mourn-dolly-parton
 https://thehill.com/blogs/in-the-know/6050809-dolly-parton-dies-cancer
+https://thehill.com/blogs/in-the-know/6051347-dolly-parton-dies-at-80-joe-biden
 https://thehill.com/business/6040178-bond-market-yields-trump-emergency
 https://thehill.com/business/6041596-scott-bessent-us-economy-40-trillion-debt
 https://thehill.com/business/6042474-walmart-tariff-refund-lowering-prices
@@ -22,6 +23,7 @@ https://thehill.com/business/6047338-us-canada-trade-war-escalates
 https://thehill.com/business/6048451-us-treasury-buybacks-hurting-us-economy-investor-says
 https://thehill.com/business/6048533-claim-deadline-nears-for-68-million-google-assistant-settlement
 https://thehill.com/business/6048877-target-removes-halloween-costume-blackface
+https://thehill.com/business/6050414-pce-inflation-remained-flat
 https://thehill.com/business/economy/6043886-one-seemingly-ordinary-job-has-gotten-much-more-deadly-over-the-past-10-years-federal-data-shows
 https://thehill.com/homenews/6033556-doe-nuclear-innovation-campus-plans
 https://thehill.com/homenews/6040180-dc-monument-usaa-41-million-veterans
@@ -90,6 +92,9 @@ https://thehill.com/homenews/administration/6049931-trump-administration-threate
 https://thehill.com/homenews/administration/6050130-air-force-officer-charged-trump-capitol-protest
 https://thehill.com/homenews/administration/6050455-trump-mail-voting-order-impacts-gop
 https://thehill.com/homenews/administration/6050639-trump-carney-trade-war-us-canada-tariffs
+https://thehill.com/homenews/administration/6050921-us-board-on-geographic-names-lake-ontario-lake-america-trump-administration
+https://thehill.com/homenews/administration/6051205-secret-service-officials-administrative-leave-misconduct-probe
+https://thehill.com/homenews/administration/6051387-republican-midterm-convention-dallas
 https://thehill.com/homenews/analysis/6040221-democrats-leftist-win-senate-race
 https://thehill.com/homenews/analysis/6042626-treasury-secretary-bessent-buyback
 https://thehill.com/homenews/campaign/6022972-graham-wins-south-carolina-senate-primary
@@ -155,6 +160,8 @@ https://thehill.com/homenews/campaign/6050484-el-sayed-distances-piker-comments
 https://thehill.com/homenews/campaign/6050640-democrats-ahead-economy-poll
 https://thehill.com/homenews/campaign/6050662-alvarado-scrubs-trump-website
 https://thehill.com/homenews/campaign/6050886-collins-distancing-trump-maine-senate-race
+https://thehill.com/homenews/campaign/6051227-democrats-favored-cost-of-living-affordability-concerns-midterms-survey
+https://thehill.com/homenews/campaign/6051267-ralph-norman-concession-speech-south-carolina-donald-trump-boos
 https://thehill.com/homenews/campaign/data-nerds/6040929-democratic-socialist-angie-nixon-florida-upset-what-to-know-discussion
 https://thehill.com/homenews/campaign/fight-for-2028/6048815-south-carolina-gop-senate-runoff-donald-trump-influence-midterms-discussion
 https://thehill.com/homenews/editors-call/6046390-us-canada-tariff-war-trump-beef-iran-sanctions-darline-graham-south-carolina-discussion
@@ -238,10 +245,12 @@ https://thehill.com/newsletters/morning-report/6040484-democrats-uphill-battle-f
 https://thehill.com/newsletters/morning-report/6043034-democratic-momentum-rising-senate-control-battle-midterms
 https://thehill.com/newsletters/morning-report/6046357-trump-tariff-war-canada-anger
 https://thehill.com/newsletters/morning-report/6048370-scott-bessent-trump-administration-slow-roll-iran-war-sanctions
+https://thehill.com/newsletters/morning-report/6051145-democrats-hopes-rise-darline-graham-win-south-carolina
 https://thehill.com/newsletters/on-the-ballot/6038891-on-the-ballot-bipartisan-couples-tough-odds-research
 https://thehill.com/newsletters/technology/6044609-rising-data-center-backlash-shakes-up-2026-races
 https://thehill.com/newsletters/technology/6047891-trump-administration-proposes-new-h-1b-visa-fee
 https://thehill.com/newsletters/technology/6050614-paramounts-warner-bros-bid-barrels-toward-antitrust-trial
+https://thehill.com/newsletters/the-gavel/6050577-supreme-court-mail-in-voting-trump-policy
 https://thehill.com/newsletters/the-movement/6048020-overton-fda-maha-abortion-convention-beef
 https://thehill.com/newsletters/this-week-on-the-hill/6044652-georgia-south-carolina-special-election-trump-hush-money
 https://thehill.com/newsletters/whole-hog-politics/6042216-peltola-leads-alaska-nonpartisan-primary
@@ -267,6 +276,7 @@ https://thehill.com/opinion/criminal-justice/6033653-spanberger-corrections-publ
 https://thehill.com/opinion/cybersecurity/6047624-iranian-hackers-water-infrastructure
 https://thehill.com/opinion/education/5995190-kentucky-school-district-financial-mismanagement
 https://thehill.com/opinion/education/6045791-rapinoe-dismisses-high-school-athletes
+https://thehill.com/opinion/education/6046990-wake-county-gender-identity-controversy
 https://thehill.com/opinion/education/6048340-dept-education-enforces-parental-rights
 https://thehill.com/opinion/energy-environment/6047556-states-lead-clean-energy-transition
 https://thehill.com/opinion/finance/6039678-billionaire-wealth-wealth-inequality
@@ -284,6 +294,7 @@ https://thehill.com/opinion/international/6040259-trump-tripp-eurasian-peace-rou
 https://thehill.com/opinion/international/6044866-vance-urges-ukraine-energy-strikes
 https://thehill.com/opinion/international/6046000-restrict-us-reproductive-tourism
 https://thehill.com/opinion/international/6047857-us-policy-shift-taiwan-china
+https://thehill.com/opinion/international/6048529-russian-army-deception-scheme
 https://thehill.com/opinion/judiciary/6033495-california-black-infant-health-lawsuit
 https://thehill.com/opinion/judiciary/6048289-trump-fomb-puerto-rico-electricity
 https://thehill.com/opinion/lindseys-lens/6041882-jeffries-health-care-charlamagne-tha-god
@@ -295,6 +306,7 @@ https://thehill.com/opinion/national-security/6041548-trump-cuts-ulchi-freedom-s
 https://thehill.com/opinion/national-security/6042994-trumps-taiwan-two-step
 https://thehill.com/opinion/national-security/6045928-war-on-terror-cost-analysis
 https://thehill.com/opinion/national-security/6046309-national-security-trade-policy
+https://thehill.com/opinion/national-security/6047081-trump-venezuela-policy-failure
 https://thehill.com/opinion/robbys-radar/6041771-cnn-erin-burnett-natalie-harp
 https://thehill.com/opinion/robbys-radar/6047297-data-centers-public-opposition
 https://thehill.com/opinion/robbys-radar/6049731-el-sayed-hasan-piker-distancing
@@ -304,6 +316,8 @@ https://thehill.com/opinion/white-house/6036778-what-is-trump-afraid-we-will-see
 https://thehill.com/opinion/white-house/6042186-trump-navy-war
 https://thehill.com/opinion/white-house/6042342-fda-food-safety-reform
 https://thehill.com/opinion/white-house/6045478-trump-politics-new-normal
+https://thehill.com/opinion/white-house/6047004-trumps-state-capitalism-tech
+https://thehill.com/opinion/white-house/6050060-stars-stripes-firing-censorship
 https://thehill.com/policy/defense/6040175-army-rotc-academic-standards-memo-debate
 https://thehill.com/policy/defense/6040353-airman-detained-again-capitol-trump-protest
 https://thehill.com/policy/defense/6041407-trump-threatens-oman-iran-deal
@@ -355,6 +369,7 @@ https://thehill.com/policy/healthcare/6048989-pennsylvania-measles-deaths-unvacc
 https://thehill.com/policy/healthcare/6049169-thyroid-tablets-recalled-nationwide-potential-superpotency-fda
 https://thehill.com/policy/healthcare/6049217-senators-question-kennedy-gardasil-divestment
 https://thehill.com/policy/healthcare/6049653-florida-religious-vaccination-exemptions
+https://thehill.com/policy/healthcare/6051100-sugar-consumption-early-life-health-impact-study
 https://thehill.com/policy/international/6040680-iran-minister-slams-trump-economic-dday
 https://thehill.com/policy/international/6042225-rubio-cuba-sanctions
 https://thehill.com/policy/international/6043090-iran-reaction-us-sanctions-trump-administration-war
@@ -383,6 +398,7 @@ https://thehill.com/policy/international/6049608-pakistan-iran-peace-progress
 https://thehill.com/policy/international/6049814-canada-industry-minister-lake-ontario-defense
 https://thehill.com/policy/international/6049968-democrats-scrutinize-trump-board-peace-funding
 https://thehill.com/policy/international/6049995-clinton-claims-republicans-cheer-carney
+https://thehill.com/policy/international/6051315-immigrant-visas-pause-donald-trump
 https://thehill.com/policy/national-security/6049802-cia-director-ratcliffe-moscow-visit
 https://thehill.com/policy/sports-gaming/6042577-seattle-times-columnist-resigns-trans-athletes
 https://thehill.com/policy/sports-gaming/6044141-trump-scheduled-indycars-first-dc-grandprix
@@ -400,6 +416,7 @@ https://thehill.com/policy/technology/6049559-ken-paxton-texas-senate-ai-data-ce
 https://thehill.com/policy/technology/6049563-prosecutor-declines-to-charge-musk-voter-giveaway
 https://thehill.com/policy/technology/6050412-pa-attorney-general-snapchat-lawsuit
 https://thehill.com/policy/transportation/6050209-tsa-phases-out-gold-program
+https://thehill.com/policy/transportation/6050669-uber-new-family-features-teen-accounts-stream-safety
 https://thehill.com/regulation/court-battles/6042548-woman-arrested-ny-state-capitol-bomb-plot
 https://thehill.com/regulation/court-battles/6043480-trump-white-house-ballroom-supreme-court
 https://thehill.com/regulation/court-battles/6043735-trump-center-american-progress-national-guard-defamation
