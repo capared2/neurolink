@@ -188,3 +188,111 @@ def test_las_urls_no_se_quedan_en_el_texto():
     limpio = limpiar_texto("Lo contó en https://medio-ajeno.example/nota y luego lo amplió")
     assert "medio-ajeno" not in limpio
     assert "Lo contó en" in limpio and "luego lo amplió" in limpio
+
+
+def test_las_entidades_escapadas_dos_veces_se_traducen():
+    """Cuatro medios publican el titular como `&amp;#8217;`.
+
+    Al analizar el HTML se queda en `&#8217;`, que es lo que se guardaba: la
+    página enseñaba *Lorde says AI glasses are &#8216;not sexy&#8217;*, y ese
+    mismo texto iba al `<title>`, al `headline` de los datos estructurados y a
+    la tarjeta al compartir el enlace. 225 titulares del archivo.
+    """
+    import json as _json
+
+    datos = _json.dumps({
+        "@type": "NewsArticle",
+        "headline": "Lorde says AI glasses are &amp;#8216;not sexy&amp;#8217;",
+        "articleBody": "Primero&amp;nbsp;dijo una cosa. " + PARRAFOS[0],
+    })
+    html = (f'<html><head><script type="application/ld+json">{datos}</script>'
+            "</head><body></body></html>")
+
+    articulo = parsear(html, "https://cancha.test/futbol/1-x", CANCHA)
+    assert articulo is not None
+    assert articulo["title"] == "Lorde says AI glasses are ‘not sexy’"
+    assert "&#" not in articulo["body"] and "&nbsp;" not in articulo["body"]
+    # Y el espacio duro queda como un espacio normal, para que contar palabras
+    # y partir por párrafos no dependa de él.
+    assert "\xa0" not in articulo["body"]
+
+
+def test_una_noticia_sin_etiquetas_las_saca_del_texto():
+    """Un tercio del archivo llega sin ninguna etiqueta.
+
+    Sin ellas la noticia sale sin `mentions` ni `keywords`, que es lo que mira
+    un buscador generativo para saber de qué va sin leérsela entera.
+    """
+    from scraper.parser import entidades_del_texto
+
+    etiquetas = entidades_del_texto(
+        "Manchester City complete record deal for Ayyoub Bouaddi",
+        "City are paying a fixed fee. Bouaddi has signed with Manchester City "
+        "until 2031. He starred at the World Cup with Morocco. City rebuild "
+        "after Rodri and Bernardo Silva left.",
+    )
+    assert "Manchester City" in etiquetas
+    assert "World Cup" in etiquetas
+    # "and" separa dos nombres, no los une.
+    assert "Rodri and Bernardo Silva" not in etiquetas
+    # Y "City" sobra: ya está dentro de "Manchester City".
+    assert "City" not in etiquetas
+
+
+def test_el_nombre_del_medio_no_acaba_de_etiqueta():
+    """"Sky Sports News understands..." abre cientos de noticias.
+
+    Publicarlo como entidad diría de dónde salió la noticia, y el sitio que
+    consume este dataset no menciona ninguna fuente.
+    """
+    from scraper.parser import entidades_del_texto
+
+    etiquetas = entidades_del_texto(
+        "Un fichaje que nadie esperaba en el mercado",
+        "Sky Sports News understands the deal is done. Sky Sports News adds "
+        "that Chelsea are involved. Chelsea have not commented.",
+        prohibidos=("Sky Sports", "skysports"),
+    )
+    assert not any("Sky" in e for e in etiquetas)
+    assert "Chelsea" in etiquetas
+
+
+def test_un_titular_en_mayusculas_no_inventa_entidades():
+    """Los titulares al estilo anglosajón capitalizan casi todo.
+
+    Ahí la mayúscula no distingue nada, y salían cosas como "Capture More
+    Growth" tratadas como si fueran una empresa.
+    """
+    from scraper.parser import entidades_del_texto
+
+    etiquetas = entidades_del_texto(
+        "Applied Materials Is Positioned to Capture More Growth",
+        "Applied Materials reported strong results. Demand from Samsung "
+        "remains high, and Applied Materials expects that to continue.",
+    )
+    assert "Applied Materials" in etiquetas
+    assert "Capture More Growth" not in etiquetas
+
+
+def test_el_medio_no_se_etiqueta_a_si_mismo():
+    """Los medios se marcan sus propias noticias: "fox news media".
+
+    Eso viaja a `keywords` y a `mentions` de los datos estructurados, y el
+    sitio que consume este dataset no nombra ninguna fuente. Se quita el
+    nombre del medio del que salió **esa** noticia y no una lista fija:
+    "Steam" delata a una noticia sacada de Steam, pero es de lo que habla una
+    noticia sacada de otro sitio.
+    """
+    from scraper.parser import pulir
+
+    de_casa = pulir({
+        "tags": ["fox news media", "Elecciones", "Fox News Poll"],
+        "source": "foxnews", "source_name": "Fox News",
+    })
+    assert de_casa["tags"] == ["Elecciones"]
+
+    de_fuera = pulir({
+        "tags": ["Steam", "Half-Life"],
+        "source": "ign", "source_name": "IGN",
+    })
+    assert de_fuera["tags"] == ["Steam", "Half-Life"]

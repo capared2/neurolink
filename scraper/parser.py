@@ -16,6 +16,7 @@ Open Graph y las ``<meta>`` rellenan lo que falte en cualquiera de los pasos.
 """
 from __future__ import annotations
 
+import html as htmlmod
 import json
 import logging
 import re
@@ -95,14 +96,79 @@ MAX_DENSIDAD_ENLACE = 0.6
 URL_EN_TEXTO = re.compile(r"(?:https?://|www\.)\S+", re.I)
 
 
+# Campos que se enseñan tal cual y no pueden llevar HTML a medio traducir.
+_CAMPOS_DE_TEXTO = ("title", "standfirst", "summary", "body")
+
+
+def pulir(registro: dict) -> dict:
+    """Última pasada sobre un registro, venga de HTML o del REST de WordPress.
+
+    Los dos caminos acababan guardando entidades sin traducir, así que la
+    limpieza vive aquí y no repetida en cada uno.
+    """
+    for campo in _CAMPOS_DE_TEXTO:
+        valor = registro.get(campo)
+        if isinstance(valor, str) and valor:
+            registro[campo] = desescapar(valor).replace("\xa0", " ").strip()
+    # Los medios se etiquetan a sí mismos: Fox News marca sus noticias con
+    # "fox news media", TechCrunch con "TechCrunch Disrupt 2026", Marca con
+    # "Radio Marca". Eso va a `keywords` y a `mentions`, y el sitio que consume
+    # esto no nombra ninguna fuente. Se quita el nombre del medio del que salió
+    # **esa** noticia, no una lista fija: "Steam" es de dónde viene una noticia
+    # de Steam, pero es el tema del que habla una de IGN.
+    propio = tuple(
+        n.lower() for n in (registro.get("source_name"), registro.get("source")) if n
+    )
+    registro["tags"] = [
+        desescapar(t).strip()
+        for t in registro.get("tags") or []
+        if t and t.strip() and not any(n in t.lower() for n in propio)
+    ]
+    registro["authors"] = [desescapar(a).strip() for a in registro.get("authors") or []]
+    for imagen in registro.get("images") or []:
+        if imagen.get("caption"):
+            imagen["caption"] = desescapar(imagen["caption"]).replace("\xa0", " ").strip()
+    registro["word_count"] = len((registro.get("body") or "").split())
+    return registro
+
+
 def _texto(nodo) -> str:
     return re.sub(r"\s+", " ", nodo.get_text(" ", strip=True)).strip() if nodo else ""
 
 
+# Un `&` escapado dos veces: `&amp;#8217;`. Al desescapar una vez queda
+# `&#8217;`, que sigue siendo una entidad.
+_ENTIDAD = re.compile(r"&(?:#\d+|#x[0-9a-fA-F]+|[a-zA-Z]{2,10});")
+
+
+def desescapar(texto: str) -> str:
+    """Deja el texto como se lee, sin entidades HTML a medio traducir.
+
+    Cuatro de los medios publican el titular escapado dos veces: en el JSON-LD
+    viene `&amp;#8217;`, que al pasar por el analizador de HTML se queda en
+    `&#8217;` y así se guardaba. En la página se leía *Lorde says AI glasses
+    are &#8216;not sexy&#8217;*, y eso mismo iba al `<title>`, al `headline`
+    de los datos estructurados y a la tarjeta al compartir.
+
+    Se desescapa hasta que deja de cambiar, con un tope: un texto que hable de
+    entidades HTML no debe entrar en un bucle.
+    """
+    for _ in range(3):
+        if not _ENTIDAD.search(texto):
+            break
+        siguiente = htmlmod.unescape(texto)
+        if siguiente == texto:
+            break
+        texto = siguiente
+    return texto
+
+
 def limpiar_texto(texto: str) -> str:
     """Quita las URLs escritas dentro del texto y normaliza los espacios."""
-    sin_urls = URL_EN_TEXTO.sub("", texto or "")
-    return re.sub(r"\s{2,}", " ", sin_urls).strip(" |·-—,")
+    sin_urls = URL_EN_TEXTO.sub("", desescapar(texto or ""))
+    # El `&nbsp;` desescapado es un espacio duro: se pasa a espacio normal para
+    # que partir por palabras y contar el texto no dependa de él.
+    return re.sub(r"\s{2,}", " ", sin_urls.replace("\xa0", " ")).strip(" |·-—,")
 
 
 # ---------------------------------------------------------------------------
@@ -359,6 +425,147 @@ def extraer_cuerpo(sopa: BeautifulSoup, fuente: Fuente, datos: dict) -> tuple[st
 # Imagenes
 # ---------------------------------------------------------------------------
 
+# Palabras que empiezan una frase en mayúscula sin ser un nombre propio. Sin
+# esta lista, "The", "But" o "Este" salen como si fueran entidades.
+_ARRANQUES = {
+    # inglés
+    "the", "a", "an", "this", "that", "these", "those", "but", "and", "for",
+    "however", "meanwhile", "after", "before", "when", "while", "if", "as",
+    "it", "he", "she", "they", "we", "you", "there", "here", "his", "her",
+    "their", "our", "its", "at", "in", "on", "of", "to", "with", "by", "from",
+    "what", "who", "why", "how", "now", "then", "so", "no", "not", "yes",
+    "one", "two", "three", "first", "last", "next", "more", "most", "many",
+    "all", "both", "each", "every", "some", "any", "other", "another", "such",
+    "asked", "said", "added", "speaking", "according", "despite", "although",
+    "read", "watch", "listen", "follow", "subscribe", "sign", "click", "get",
+    # español y portugués
+    "el", "la", "los", "las", "un", "una", "unos", "unas", "este", "esta",
+    "ese", "esa", "aquel", "pero", "y", "o", "por", "para", "con", "sin",
+    "que", "cuando", "mientras", "aunque", "además", "también", "tras",
+    "os", "as", "um", "uma", "esse", "aquele", "mas", "e", "de",
+    "do", "da", "dos", "das", "na", "nos", "nas", "em", "com", "sem",
+    "porque", "quando", "enquanto", "embora", "segundo", "após", "antes",
+}
+
+# Un mes, un día de la semana o el pie de una foto no son entidades, y salen
+# en mayúscula constantemente. "Foto" por sí sola aparecía 464 veces en el
+# archivo, que es el crédito de las fotos de un medio, no un tema.
+_NO_SON_ENTIDAD = {
+    "january", "february", "march", "april", "may", "june", "july", "august",
+    "september", "october", "november", "december",
+    "monday", "tuesday", "wednesday", "thursday", "friday", "saturday", "sunday",
+    "enero", "febrero", "marzo", "abril", "mayo", "junio", "julio", "agosto",
+    "septiembre", "octubre", "noviembre", "diciembre",
+    "lunes", "martes", "miércoles", "jueves", "viernes", "sábado", "domingo",
+    "janeiro", "fevereiro", "março", "maio", "junho", "julho", "setembro",
+    "outubro", "novembro", "dezembro", "segunda", "terça", "quarta", "quinta",
+    "sexta", "sábado", "domingo",
+    "foto", "fotos", "vídeo", "video", "imagen", "imagem", "arquivo",
+    "divulgação", "reprodução", "crédito", "getty", "reuters", "ap", "afp",
+    "epa", "alamy", "pa media", "shutterstock",
+}
+
+# Un nombre propio: una o varias palabras capitalizadas seguidas, admitiendo
+# los enlaces internos que llevan ("de", "of", "van", "dos"...). Se dejan fuera
+# a propósito "and" e "y": no unen un nombre, separan dos, y con ellos dentro
+# "Rodri and Bernardo Silva" salía como una sola entidad.
+_NOMBRE_PROPIO = re.compile(
+    r"\b([A-ZÁÉÍÓÚÑÀÂÃÇÊÔÕÜ][\wÁÉÍÓÚÑàáâãçéêíóôõúü'’-]{1,}"
+    r"(?:[ \t]+(?:de|del|of|the|da|do|dos|das|van|von|di|la|le|el)?[ \t]*"
+    r"[A-ZÁÉÍÓÚÑÀÂÃÇÊÔÕÜ][\wÁÉÍÓÚÑàáâãçéêíóôõúü'’-]{1,}){0,3})"
+)
+
+# Final de frase: lo que va justo antes de una mayúscula que solo lo es por
+# abrir la oración.
+_ARRANQUE_DE_FRASE = re.compile(r"(?:^|[.!?¿¡:;\n\r\"“”«»])\s*$")
+
+
+def entidades_del_texto(
+    titular: str, cuerpo: str, prohibidos: tuple[str, ...] = (), tope: int = 12
+) -> list[str]:
+    """Nombres propios de una noticia, cuando el medio no publica etiquetas.
+
+    Un tercio del archivo llega sin etiquetas, y sin ellas la noticia sale sin
+    ``mentions`` ni ``keywords``: justo lo que un buscador generativo mira para
+    saber de qué va algo sin leérselo entero.
+
+    No es reconocimiento de entidades de verdad --eso pide un modelo, y esto
+    corre por cada artículo de cada pasada--, sino lo que se saca gratis del
+    texto: secuencias capitalizadas, ordenadas por cuántas veces salen. En una
+    noticia eso son las personas, los equipos, las empresas y los lugares.
+
+    La prueba de que una mayúscula es un nombre propio y no el arranque de una
+    frase es haberla visto alguna vez **en mitad** de una oración. "Bouaddi ha
+    firmado" no demuestra nada; "el fichaje de Bouaddi" sí. Un candidato que
+    solo aparece abriendo frase se descarta, salvo que venga en el titular.
+
+    ``prohibidos`` se usa para que el nombre del medio no acabe de etiqueta:
+    "Sky Sports News understands..." abre cientos de noticias, y publicar eso
+    como entidad delataría de dónde salió la noticia.
+    """
+    texto = f"{titular}. {cuerpo[:6000]}"
+    corte = len(titular) + 2  # donde acaba el titular dentro de `texto`
+    # Medio archivo llega con el titular en mayúsculas iniciales al estilo
+    # anglosajón ("Applied Materials Is Positioned to Capture More Growth").
+    # Ahí la mayúscula no dice nada, y de un titular así salía "Capture More
+    # Growth" como si fuera una empresa: cuando el titular es de este tipo, se
+    # exige que la entidad aparezca también en el cuerpo.
+    palabras = [p for p in titular.split() if len(p) > 3]
+    titular_decorativo = bool(palabras) and sum(
+        1 for p in palabras if p[:1].isupper()
+    ) >= len(palabras) * 0.75
+    veta = tuple(p.lower() for p in prohibidos if p)
+    cuenta: dict[str, int] = {}
+    suelta: dict[str, bool] = {}
+    en_cuerpo: dict[str, bool] = {}
+    forma: dict[str, str] = {}
+
+    for coincidencia in _NOMBRE_PROPIO.finditer(texto):
+        nombre = re.sub(r"['’]s\b", "", coincidencia.group(1)).strip(" .,'’-")
+        if not (2 < len(nombre) < 50):
+            continue
+        # Lo que queda con apóstrofo es una contracción --"I'm", "it's"--, no
+        # el nombre de nadie.
+        if "'" in nombre or "’" in nombre:
+            continue
+        if nombre.split()[0].lower() in _ARRANQUES:
+            continue
+        if nombre.lower() in _NO_SON_ENTIDAD:
+            continue
+        if nombre.isupper() and len(nombre) > 6:
+            continue  # un trozo de titular en mayúsculas, no una sigla
+        clave = nombre.lower()
+        if any(v in clave or clave in v for v in veta):
+            continue
+        cuenta[clave] = cuenta.get(clave, 0) + 1
+        if coincidencia.start() >= corte:
+            en_cuerpo[clave] = True
+        if not _ARRANQUE_DE_FRASE.search(texto[max(0, coincidencia.start() - 40):coincidencia.start()]):
+            suelta[clave] = True
+        forma.setdefault(clave, nombre)
+
+    titular_bajo = titular.lower()
+    candidatos = [
+        (clave, veces)
+        for clave, veces in cuenta.items()
+        if (suelta.get(clave) or clave in titular_bajo or veces > 2)
+        and (en_cuerpo.get(clave) or not titular_decorativo)
+        and (" " in clave or veces > 1 or clave in titular_bajo)
+    ]
+    # Primero lo que más se repite y, a igualdad, el nombre más específico.
+    candidatos.sort(key=lambda par: (-par[1], -len(par[0])))
+
+    elegidas: list[str] = []
+    for clave, _ in candidatos:
+        # "Manchester City" ya cubre a "City": no hacen falta las dos.
+        if any(clave in otra or otra in clave for otra in (e.lower() for e in elegidas)):
+            continue
+        elegidas.append(forma[clave])
+        if len(elegidas) == tope:
+            break
+    return elegidas
+
+
 def _imagenes(sopa: BeautifulSoup, datos: dict, base: str) -> list[dict]:
     encontradas: list[dict] = []
     vistas: set[str] = set()
@@ -485,7 +692,7 @@ def parsear_wordpress(entrada: dict, fuente: Fuente) -> dict | None:
     )
     vertical, tema = categoria.split("/", 1)
 
-    return {
+    return pulir({
         "id": urlutil.identificador(canonica, fuente.clave),
         "url": canonica,
         "origen_externo": None,
@@ -511,7 +718,7 @@ def parsear_wordpress(entrada: dict, fuente: Fuente) -> dict | None:
         "source": fuente.clave,
         "source_name": fuente.nombre,
         "scraped_at": _ahora(),
-    }
+    })
 
 
 def parsear(html: str, url: str, fuente: Fuente) -> dict | None:
@@ -588,6 +795,14 @@ def parsear(html: str, url: str, fuente: Fuente) -> dict | None:
         if 1 < len(e) < 50 and not (e.lower() in vistas or vistas.add(e.lower()))
     ][:20]
 
+    # Un tercio de los medios no publica etiquetas de ningún tipo. Antes esas
+    # noticias se guardaban con la lista vacía y salían sin `mentions` ni
+    # `keywords`, que es lo que mira un buscador generativo para citarlas.
+    if not etiquetas:
+        etiquetas = entidades_del_texto(
+            titular, cuerpo, prohibidos=(fuente.nombre, fuente.clave)
+        )
+
     # -- fechas ------------------------------------------------------------
     publicada = (
         parsear_fecha(datos.get("datePublished"))
@@ -620,7 +835,7 @@ def parsear(html: str, url: str, fuente: Fuente) -> dict | None:
     idioma = (sopa.html.get("lang") if sopa.html else None) or fuente.idioma
     idioma = idioma.split("-")[0].lower()[:5] if idioma else fuente.idioma
 
-    return {
+    return pulir({
         "id": urlutil.identificador(canonica, fuente.clave),
         "url": canonica,
         "origen_externo": origen_externo,
@@ -651,4 +866,4 @@ def parsear(html: str, url: str, fuente: Fuente) -> dict | None:
         "source": fuente.clave,
         "source_name": fuente.nombre,
         "scraped_at": _ahora(),
-    }
+    })
