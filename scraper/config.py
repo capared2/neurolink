@@ -11,9 +11,18 @@ import os
 # construir los sitemaps, que se generan aqui y no en el frontend.
 SITE_URL = os.environ.get("SITE_URL", "https://gigantum.net")
 
+# En formato "compatible", que es el que usan los rastreadores serios: sigue
+# diciendo quien es y enlaza el repositorio, pero muchas protecciones antibots
+# rechazan de plano cualquier cosa que no empiece por "Mozilla/5.0" y devuelven
+# 403 antes de mirar nada mas. Con la identificacion anterior, tres medios
+# --ESPN, NYT y The Hill-- no dejaban descargar ni un articulo, aunque su
+# robots.txt no lo prohibiera.
+#
+# No se finge ser un navegador: si un medio sigue rechazando esto, es que no
+# quiere que se le lea, y lo que toca es apagar esa fuente.
 DEFAULT_USER_AGENT = os.environ.get(
     "NEUROLINK_USER_AGENT",
-    "neurolink-scraper/1.0 (+https://github.com/capared2/neurolink)",
+    "Mozilla/5.0 (compatible; neurolink/1.0; +https://github.com/capared2/neurolink)",
 )
 
 # Espera minima entre peticiones AL MISMO HOST. Con veinte fuentes, un limite

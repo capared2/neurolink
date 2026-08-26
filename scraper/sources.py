@@ -155,7 +155,6 @@ FUENTES: tuple[Fuente, ...] = (
             "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
             "https://rss.nytimes.com/services/xml/rss/nyt/Business.xml",
             "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml",
-            "https://rss.nytimes.com/services/xml/rss/nyt/Sports.xml",
             "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
             "https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml",
         ),
