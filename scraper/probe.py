@@ -36,14 +36,20 @@ def revisar(fuente: Fuente, fetcher: Fetcher, con_articulo: bool = True) -> dict
         "urls_crawl": 0,
         "muestra": [],
         "nota": fuente.nota,
+        # Lo que impide que la fuente aporte nada.
         "problemas": [],
+        # Lo que conviene arreglar pero no la deja fuera de juego.
+        "avisos": [],
     }
 
     # -- portada -----------------------------------------------------------
+    # Que no responda es solo un aviso: hay fuentes que publican desde un
+    # subdominio --un blog, un CDN de feeds-- y su portada principal no pinta
+    # nada aqui. Lo que decide es si al final salen noticias.
     portada = fetcher.get(fuente.home)
     informe["home_ok"] = portada is not None
     if portada is None:
-        informe["problemas"].append("no responde la portada")
+        informe["avisos"].append("no responde la portada")
 
     # -- feeds, uno a uno --------------------------------------------------
     for feed in fuente.feeds:
@@ -58,7 +64,9 @@ def revisar(fuente: Fuente, fetcher: Fetcher, con_articulo: bool = True) -> dict
             informe["feeds_ko"].append(feed)
 
     if fuente.feeds and not informe["feeds_ok"]:
-        informe["problemas"].append("ningun feed declarado responde con entradas")
+        # Tampoco es mortal: el descubrimiento lee ademas los feeds que anuncia
+        # la portada y puede tirar de sitemap o de crawl. Se decide al final.
+        informe["avisos"].append("ningun feed declarado responde con entradas")
 
     # -- que rinde cada via -------------------------------------------------
     urls: set[str] = set()
@@ -104,12 +112,23 @@ def revisar(fuente: Fuente, fetcher: Fetcher, con_articulo: bool = True) -> dict
             })
 
         con_cuerpo = [m for m in informe["muestra"] if m.get("palabras", 0) >= 60]
+        informe["con_cuerpo"] = len(con_cuerpo)
         if informe["muestra"] and not con_cuerpo:
-            informe["problemas"].append(
-                "se descubren noticias pero ninguna trae cuerpo: revisa los "
-                "selectores de `cuerpo` en sources.py"
-            )
+            sin_descarga = [m for m in informe["muestra"] if m["estado"] == "no descarga"]
+            if sin_descarga:
+                informe["problemas"].append(
+                    "se descubren noticias pero el medio no deja descargarlas"
+                )
+            else:
+                informe["problemas"].append(
+                    "se descubren noticias pero ninguna trae cuerpo: revisa los "
+                    "selectores de `cuerpo` en sources.py"
+                )
 
+    # Una fuente esta en pie si de verdad rinde: descubre noticias y al menos
+    # una de las de muestra llega con cuerpo. Que un feed declarado este muerto
+    # es algo que arreglar, no un motivo para darla por perdida, y confundir las
+    # dos cosas convierte la revision semanal en ruido que se acaba ignorando.
     informe["ok"] = not informe["problemas"]
     return informe
 
@@ -136,7 +155,10 @@ def formatear(informes: list[dict]) -> str:
     """Informe legible para la terminal y para el resumen del workflow."""
     lineas: list[str] = []
     vivas = [i for i in informes if i["ok"]]
-    lineas.append(f"{len(vivas)} de {len(informes)} fuentes en pie\n")
+    con_avisos = [i for i in vivas if i.get("avisos") or i["feeds_ko"]]
+    lineas.append(f"{len(vivas)} de {len(informes)} fuentes en pie"
+                  + (f", {len(con_avisos)} con algo que revisar" if con_avisos else "")
+                  + "\n")
 
     for informe in sorted(informes, key=lambda i: (i["ok"], i["vertical"], i["clave"])):
         marca = "OK  " if informe["ok"] else "MAL "
@@ -156,6 +178,8 @@ def formatear(informes: list[dict]) -> str:
                 lineas.append(f"       · {muestra['estado']}: {muestra['url']}")
         for problema in informe["problemas"]:
             lineas.append(f"       ! {problema}")
+        for aviso in informe.get("avisos", []):
+            lineas.append(f"       ~ {aviso}")
         if informe["nota"] and not informe["ok"]:
             lineas.append(f"       i {informe['nota']}")
         for feed in informe["feeds_ko"]:

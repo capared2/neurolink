@@ -140,7 +140,6 @@ FUENTES: tuple[Fuente, ...] = (
             "https://g1.globo.com/rss/g1/tecnologia/",
             "https://g1.globo.com/rss/g1/politica/",
             "https://g1.globo.com/rss/g1/ciencia-e-saude/",
-            "https://ge.globo.com/rss/",
         ),
         semillas=("/", "/mundo", "/economia", "/tecnologia"),
         articulo=(r"/\d{4}/\d{2}/\d{2}/.+\.ghtml$",),
@@ -165,8 +164,12 @@ FUENTES: tuple[Fuente, ...] = (
             r"^/\d{4}/\d{2}/\d{2}/(interactive|crosswords|games|cooking|wirecutter|athletic)/",
         ),
         cuerpo=("section[name=articleBody]", "article#story", "article"),
-        nota="Es un medio de pago: muchas noticias llegan con el cuerpo recortado "
-             "y las descarta el filtro de --min-words.",
+        activa=False,
+        nota="Apagada: sus feeds funcionan --descubre sesenta URLs sin "
+             "problema-- pero no deja descargar ni un articulo, ni con la "
+             "identificacion en formato compatible. Su robots.txt no lo "
+             "prohibe: es la proteccion antibots. Ademas es un medio de pago, "
+             "asi que aunque se recuperara llegaria recortado.",
     ),
     Fuente(
         clave="cnn", nombre="CNN", home="https://edition.cnn.com",
@@ -229,6 +232,10 @@ FUENTES: tuple[Fuente, ...] = (
         articulo=(r"^/[a-z0-9-]+/(?:[a-z0-9-]+/)?\d{6,}-[a-z0-9-]+/?$",),
         cuerpo=(".article__text", ".content-wrp", "article"),
         tema_por_defecto="noticias/politica",
+        activa=False,
+        nota="Apagada: su feed funciona --descubre sesenta URLs-- pero ni la "
+             "portada ni los articulos se dejan descargar. Mismo caso que NYT: "
+             "no es robots.txt, es la proteccion antibots.",
     ),
     Fuente(
         clave="aljazeera", nombre="Al Jazeera", home="https://www.aljazeera.com",
@@ -261,7 +268,6 @@ FUENTES: tuple[Fuente, ...] = (
         vertical="noticias", idioma="en", pais="US",
         hosts=frozenset({"yahoo.com", "news.yahoo.com", "sports.yahoo.com", "finance.yahoo.com"}),
         feeds=(
-            "https://www.yahoo.com/news/rss",
             "https://news.yahoo.com/rss/world",
             "https://sports.yahoo.com/rss/",
             "https://finance.yahoo.com/news/rssindex",
@@ -290,6 +296,13 @@ FUENTES: tuple[Fuente, ...] = (
         articulo=(r"/story/_/id/\d+/",),
         denegar=(r"^/(watch|video|fantasy)/",),
         cuerpo=(".article-body", ".Story__Body", "article"),
+        activa=False,
+        nota="Apagada: bloquea en el borde. En la revision del 26/08/2026 no "
+             "respondio ni la portada ni ninguno de sus seis feeds, ni con la "
+             "identificacion en formato compatible. No es robots.txt --no "
+             "prohibe nada--, es su proteccion antibots. Para recuperarla haria "
+             "falta hacerse pasar por un navegador, que es otra cosa; "
+             "activa=True para volver a intentarlo.",
     ),
     Fuente(
         clave="fifa", nombre="FIFA", home="https://www.fifa.com",
@@ -300,8 +313,11 @@ FUENTES: tuple[Fuente, ...] = (
         articulo=(r"/articles/", r"/news/[a-z0-9-]{10,}"),
         cuerpo=("article", ".ff-mt-0", "main"),
         tema_por_defecto="deportes/futbol",
-        nota="No publica RSS conocido y su web depende mucho de JavaScript: se "
-             "descubre por sitemap y portadas, y puede rendir poco.",
+        activa=False,
+        nota="Apagada: sus sitemaps si funcionan --sesenta URLs en la revision "
+             "del 26/08/2026-- pero las paginas se montan enteras con "
+             "JavaScript y llegan sin titular ni cuerpo que extraer. Haria "
+             "falta un navegador de verdad para leerla.",
     ),
     Fuente(
         clave="marca", nombre="Marca", home="https://www.marca.com",
@@ -318,7 +334,6 @@ FUENTES: tuple[Fuente, ...] = (
             "https://e00-marca.uecdn.es/rss/baloncesto/nba.xml",
             "https://e00-marca.uecdn.es/rss/motor/formula1.xml",
             "https://e00-marca.uecdn.es/rss/tenis.xml",
-            "https://e00-marca.uecdn.es/rss/nfl.xml",
             "https://e00-marca.uecdn.es/rss/esports.xml",
         ),
         semillas=("/futbol.html", "/baloncesto.html", "/motor.html"),
@@ -347,7 +362,9 @@ FUENTES: tuple[Fuente, ...] = (
         clave="bleacherreport", nombre="Bleacher Report", home="https://bleacherreport.com",
         vertical="deportes", idioma="en", pais="US",
         hosts=frozenset({"bleacherreport.com"}),
-        feeds=("https://bleacherreport.com/articles/feed",),
+        # El feed clasico ya no responde; el que vale lo anuncia la portada y lo
+        # recoge solo el descubrimiento.
+        feeds=(),
         semillas=("/articles", "/nba", "/nfl"),
         articulo=(r"^/articles/\d+",),
         cuerpo=(".articleContent", ".organism-article", "article"),
@@ -361,7 +378,6 @@ FUENTES: tuple[Fuente, ...] = (
         feeds=(
             "https://feeds.feedburner.com/ign/all",
             "https://www.ign.com/rss/articles/feed",
-            "https://www.ign.com/rss/news/feed",
         ),
         semillas=("/news", "/articles", "/reviews"),
         articulo=(r"^/(articles|news|review|reviews|previews)/[a-z0-9-]{5,}",),
@@ -384,7 +400,9 @@ FUENTES: tuple[Fuente, ...] = (
         clave="twitch", nombre="Twitch", home="https://blog.twitch.tv",
         vertical="gamer", idioma="en", pais="US",
         hosts=frozenset({"blog.twitch.tv", "twitch.tv"}),
-        feeds=("https://blog.twitch.tv/en/rss.xml", "https://blog.twitch.tv/feed/"),
+        # Los dos RSS del blog estan muertos; el sitemap si responde.
+        feeds=(),
+        sitemaps=("https://blog.twitch.tv/sitemap.xml",),
         semillas=("/en/", "/en/news/"),
         articulo=(r"^/[a-z]{2}/\d{4}/\d{2}/\d{2}/",),
         cuerpo=("article", ".post-body", "main"),

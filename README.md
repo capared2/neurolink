@@ -47,12 +47,26 @@ coberturas**, no cinco noticias repetidas (`dedupe.py`).
 python -m scraper fuentes     # lista lo que hay declarado
 ```
 
-| Nicho | Medios |
+| Nicho | Medios activos |
 | --- | --- |
-| Noticias | BBC · Globo · The New York Times · CNN · Fox News · Times of India · The Hill · Al Jazeera · NBC News · Yahoo News |
-| Deportes | ESPN · FIFA · Marca · Sky Sports · Bleacher Report |
+| Noticias | BBC · Globo · CNN · Fox News · Times of India · Al Jazeera · NBC News · Yahoo News |
+| Deportes | Marca · Sky Sports · Bleacher Report |
 | Gamer | IGN · FACEIT · Twitch · Steam |
 | Tecnología | The Verge · TechCrunch |
+
+Hay cuatro más declaradas y **apagadas** (`activa=False`), porque la primera
+corrida real demostró que no aportan nada:
+
+| Medio | Por qué |
+| --- | --- |
+| **ESPN** | Bloquea en el borde: no responde ni su portada ni ninguno de sus seis feeds. |
+| **The New York Times** | Sus feeds descubren sin problema, pero no deja descargar ni un artículo. Además es de pago. |
+| **The Hill** | Igual que NYT: el feed va, los artículos no. |
+| **FIFA** | Sus sitemaps sí funcionan, pero las páginas se montan con JavaScript y llegan sin titular. |
+
+En ninguno de los tres primeros la causa es `robots.txt` --no prohíben nada--,
+sino su protección antibots. Recuperarlos exigiría hacerse pasar por un
+navegador, que es una decisión distinta; están a un `activa=True` de volver.
 
 Añadir un medio es añadir una entrada en `sources.py`: nada más del scraper
 sabe que existe BBC o IGN. Cada fuente declara dónde buscar (feeds, sitemaps,
@@ -77,20 +91,18 @@ par de artículos de muestra— y dice qué funciona y qué no, sin guardar nada
 Sale con código distinto de cero si algo está caído, y el workflow
 [Revisar fuentes](.github/workflows/doctor.yml) lo pasa cada lunes.
 
-**Ejecútalo antes que nada al clonar el repositorio.** Las URLs de los feeds
-están puestas a partir de las rutas habituales de cada medio, pero no se han
-podido comprobar contra la red al escribirlas: el doctor es la forma de saber
-en un minuto cuáles hay que corregir.
+El doctor juzga **por el resultado**, no por que todo lo declarado responda: una
+fuente está en pie si descubre noticias y al menos una de las de muestra llega
+con cuerpo. Un feed caído sale como aviso (`~`), no como fallo. La distinción no
+es cosmética: sin ella, cuatro fuentes que funcionaban perfectamente salían en
+rojo, y una revisión que grita cada lunes se acaba ignorando.
 
-Tres fuentes vienen con avisos porque se sabe de antemano que rendirán poco:
+Dos fuentes activas rinden menos de lo que su nombre promete, y conviene saberlo:
 
-- **FIFA** no publica RSS conocido y su web depende mucho de JavaScript.
-- **FACEIT** es una aplicación de una sola página; sus datos de competición van
-  por API con clave, así que aquí solo se recoge su blog.
-- **Twitch** solo expone el directo por la API Helix con credenciales; de
-  Twitch se recoge su blog oficial.
-
-Si el doctor las da por muertas, `activa=False` en `sources.py` las aparta.
+- **FACEIT** es una aplicación de una sola página y sus datos de competición van
+  por API con clave; aquí solo se recoge su blog, que sí funciona.
+- **Twitch** solo expone el directo por la API Helix con credenciales; de Twitch
+  se recoge su blog oficial, descubierto por sitemap.
 
 ## Cómo queda el dataset
 

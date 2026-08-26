@@ -23,7 +23,7 @@ from . import config, taxonomy
 
 log = logging.getLogger(__name__)
 
-NOMBRE_PUBLICACION = "Gigantum"
+NOMBRE_PUBLICACION = "Gigantum.net"
 
 
 def _ahora() -> str:

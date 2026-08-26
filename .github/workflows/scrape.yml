@@ -40,6 +40,10 @@ on:
         description: "Solo vaciar la cola pendiente"
         type: boolean
         default: false
+      ignorar_robots:
+        description: "Saltarse robots.txt (sube el riesgo de que un medio bloquee la IP)"
+        type: boolean
+        default: true
 
 permissions:
   contents: write
@@ -77,6 +81,7 @@ jobs:
           PRESUPUESTO: ${{ inputs.presupuesto || '3000' }}
           DESDE: ${{ inputs.desde || '' }}
           SALTAR: ${{ inputs.saltar_descubrimiento || 'false' }}
+          IGNORAR_ROBOTS: ${{ inputs.ignorar_robots == false && 'false' || 'true' }}
           SITE_URL: https://gigantum.net
         run: |
           set -euo pipefail
@@ -91,6 +96,7 @@ jobs:
           [ -n "$VIAS" ] && args+=(--vias "$VIAS")
           [ -n "$DESDE" ] && args+=(--desde "$DESDE")
           [ "$SALTAR" = "true" ] && args+=(--saltar-descubrimiento)
+          [ "$IGNORAR_ROBOTS" = "true" ] && args+=(--ignorar-robots)
           python -m scraper "${args[@]}"
 
       - name: Resumen de la corrida

@@ -45,3 +45,30 @@ def test_el_informe_se_lee(fetcher):
     texto = probe.formatear([probe.revisar(DIARIO, fetcher), probe.revisar(PIXEL, fetcher)])
     assert "fuentes en pie" in texto
     assert "diario" in texto
+
+
+def test_un_feed_muerto_no_da_por_perdida_a_la_fuente(fetcher, sitio):
+    """Lo que decide es si la fuente rinde, no si todo lo declarado responde.
+
+    diario.test anuncia otro feed desde su portada, así que aunque el declarado
+    se caiga sigue descubriendo y parseando. Confundir "hay algo que arreglar"
+    con "está muerta" convertiría la revisión semanal en ruido.
+    """
+    del sitio.paginas["https://diario.test/rss.xml"]
+
+    informe = probe.revisar(DIARIO, fetcher)
+    assert informe["ok"], informe["problemas"]
+    assert informe["urls_rss"] > 0
+    assert "https://diario.test/rss.xml" in informe["feeds_ko"]
+    assert any("ningun feed declarado" in a for a in informe["avisos"])
+
+
+def test_distingue_no_dejar_descargar_de_no_encontrar_el_cuerpo(fetcher, sitio):
+    """Un medio que bloquea y otro que se rediseñó se arreglan de formas distintas."""
+    for ruta in ("/futbol/1001-la-cumbre-del-futbol-sin-acuerdo",
+                 "/futbol/1002-victoria-en-el-clasico"):
+        del sitio.paginas[f"https://cancha.test{ruta}"]
+
+    informe = probe.revisar(CANCHA, fetcher)
+    assert not informe["ok"]
+    assert any("no deja descargarlas" in p for p in informe["problemas"])
