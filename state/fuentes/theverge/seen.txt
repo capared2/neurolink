@@ -114,6 +114,7 @@ https://theverge.com/ai-artificial-intelligence/985500/plaud-one-earbuds-ai-reco
 https://theverge.com/ai-artificial-intelligence/985597/jensen-huang-says-nvidia-achieved-senseless-agi
 https://theverge.com/ai-artificial-intelligence/985737/openai-anthropic-and-google-say-companies-need-to-combat-ai-cyberattacks-with-ai
 https://theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling
+https://theverge.com/ai-artificial-intelligence/986176/data-center-pollution-epa-rule-change-air-permit
 https://theverge.com/antitrust/982578/google-just-showed-off-its-new-prototype-of-how-third-party-app-stores-will-look
 https://theverge.com/apple/985133/apple-is-automatically-upgrading-some-recent-mac-mini-m4-orders-to-m6-or-m5-pro-versions-for-free
 https://theverge.com/bulletin/795051/verge-podcast-ad-free-set-up-how-to
@@ -147,6 +148,7 @@ https://theverge.com/entertainment/981970/fromsoftware-duskbloods-nintendo-hidet
 https://theverge.com/entertainment/981990/the-duskbloods-hands-on-nintendo-switch-2-fromsoftware
 https://theverge.com/entertainment/983138/spider-man-brand-new-disappointment
 https://theverge.com/entertainment/983177/jane-schoenbrun-were-all-going-to-the-worlds-fair-horror-movie-review
+https://theverge.com/entertainment/983263/dark-matter-season-2-review-apple-tv
 https://theverge.com/entertainment/983292/open-thread-internet-urban-legend-creepypasta
 https://theverge.com/entertainment/983307/elden-ring-nintendo-switch-2-review
 https://theverge.com/entertainment/984275/at-least-25-percent-of-nfl-players-will-suffer-brain-disease
@@ -165,8 +167,10 @@ https://theverge.com/entertainment/985140/netflix-wonkas-golden-ticket-ai-gene-w
 https://theverge.com/entertainment/985201/ridley-scott-says-hes-still-working-on-his-prometheus-and-alien-covenant-sequel
 https://theverge.com/entertainment/985212/well-miss-you-tim-curry
 https://theverge.com/entertainment/985574/peter-cullen-optimus-prime-died
+https://theverge.com/fitness-tracker-review/696156/whoop-mg-review-wearables-fitness-tracker-health
 https://theverge.com/gadgets/712844/today-im-toying-with
 https://theverge.com/gadgets/906883/whoop-bevel-lawsuit-fitness-tech
+https://theverge.com/gadgets/915686/oppo-find-x9-ultra-review-10x-telephoto-lens
 https://theverge.com/gadgets/936771/today-im-toying-with-giveaway-free-gadgets
 https://theverge.com/gadgets/941484/lego-pokemon-smart-play-brick-sets
 https://theverge.com/gadgets/947310/gadget-veteran-travel-gear
@@ -210,6 +214,10 @@ https://theverge.com/gadgets/985549/hugging-face-microduck-robot
 https://theverge.com/gadgets/985584/google-fitbit-air-pokemon-sleep
 https://theverge.com/gadgets/985650/speedo-iq-vanquisher-goggles-module
 https://theverge.com/gadgets/985723/amazon-germany-is-selling-djis-banned-camera-in-the-us-with-free-international-shipping
+https://theverge.com/gadgets/985741/tcl-qm7l-belkin-thunderbolt-dock-deal-sale
+https://theverge.com/gadgets/985976/three-200-megapixel-cameras-in-this-economy
+https://theverge.com/gadgets/985985/whoop-fitness-tracker-meridian-band
+https://theverge.com/gadgets/986004/bandai-mobile-business-card-holder
 https://theverge.com/games/684957/splitgate-2-hat-apology
 https://theverge.com/games/843260/tomb-raider-catalyst-trailer-tomb-raider-atlantis
 https://theverge.com/games/887845/scott-pilgrim-ex-game-bryan-lee-omalley-interview
@@ -287,6 +295,8 @@ https://theverge.com/games/985688/reminder-grand-theft-auto-vi-exists-in-its-own
 https://theverge.com/games/985840/the-nyt-and-ign-got-previews-of-gta-vi
 https://theverge.com/games/985891/grand-theft-auto-vi-gta-6-netflix-youtube-extended-look-game-movie
 https://theverge.com/games/985910/grand-theft-auto-gta-vi-extended-look-youtube-netflix-stream
+https://theverge.com/games/985975/download-extended-look-at-gta-vi
+https://theverge.com/games/986197/nvidia-dlss-5-leak-ai
 https://theverge.com/health/688503/rfk-jr-vaccines
 https://theverge.com/health/981670/daniel-eks-body-scanning-clinic-neko-health-will-open-in-nyc-on-september-24th
 https://theverge.com/logitech/652423/logitech-price-increases-mouse-keyboard-accessories
@@ -353,6 +363,7 @@ https://theverge.com/podcast/984666/todays-vergecast-does-smart-home-tech-work-i
 https://theverge.com/podcast/985304/todays-vergecast-we-break-down-metas-kids-safety-settlement
 https://theverge.com/podcast/985332/openai-greg-brockman-sam-altman-leader-executive-exodus
 https://theverge.com/podcast/985830/todays-vergecast-how-to-buy-a-laptop-when-everythings-so-expensive
+https://theverge.com/podcast/986145/m6-mac-mini-meta-settlement-gta-6-vergecast
 https://theverge.com/policy/677373/lawyers-chatgpt-hallucinations-ai
 https://theverge.com/policy/799473/facebook-meta-ice-jawboning
 https://theverge.com/policy/880850/social-media-lawsuits-meta-facebook-instagram-tiktok
@@ -366,6 +377,7 @@ https://theverge.com/policy/966111/cyclospora-explosive-diarrhea-parasite-fda-cd
 https://theverge.com/policy/972312/us-robot-ban-sweep-up-chinese-vacuums
 https://theverge.com/policy/976287/fcc-broadcast-ownership-rule-ends
 https://theverge.com/policy/978783/trump-fcc-nominee-quorum
+https://theverge.com/policy/979010/ice-agents-electric-shock-gloves
 https://theverge.com/policy/979852/that-is-not-acceptable-judge-orders-google-to-make-rival-app-store-installs-easier
 https://theverge.com/policy/979977/trump-declares-100-percent-tariffs-on-many-drones-and-all-aircraft-parts
 https://theverge.com/policy/980560/disney-to-fcc-get-lost
@@ -388,6 +400,7 @@ https://theverge.com/policy/985183/meta-is-planning-an-ad-blitz-urging-tiktok-an
 https://theverge.com/policy/985556/meta-settlement-youtube-tiktok-snap
 https://theverge.com/policy/985712/nvidia-makes-a-pac
 https://theverge.com/policy/985747/trump-signs-executive-order-to-rename-lake-ontario-to-lake-america
+https://theverge.com/policy/986277/milo-yiannopoulos-has-reportedly-been-detained-by-ice
 https://theverge.com/report/840822/australia-social-media-ban-under-16-response
 https://theverge.com/report/841994/operation-bluebird-twitter-trademarks-petition
 https://theverge.com/report/954826/midjourney-medical-ai-ultrasound-body-scanner-lacks-evidence
@@ -395,6 +408,7 @@ https://theverge.com/report/980933/trump-border-wall-big-bend-arizona-cottonwood
 https://theverge.com/report/982414/meta-glasses-work-surveillance-labor-security
 https://theverge.com/report/985187/samsung-galaxy-s26-fe-hands-on-preview-specs-features-design
 https://theverge.com/reviews/707436/nebula-x1-review-best-portable-projector-price-specs
+https://theverge.com/reviews/810253/vanlife-setup-power-victron-solar-sogen-video
 https://theverge.com/science/839303/rfk-jr-s-vaccine-committee-says-hepatitis-b-shot-can-wait
 https://theverge.com/science/960442/spacex-phone-prototype-elon-musk
 https://theverge.com/science/960563/amazon-leo-service-tipping-point
@@ -421,6 +435,7 @@ https://theverge.com/science/983241/food-recalls-bigger-out-of-control
 https://theverge.com/science/983655/gary-indiana-power-outage
 https://theverge.com/science/984420/cloud-seeding-rainmaker-drought
 https://theverge.com/science/985686/kalshi-is-partnering-with-the-weather-company-for-climate-based-bets
+https://theverge.com/science/985969/jackerys-little-workhorse-power-station-looks-great-in-white
 https://theverge.com/streaming/959684/netflix-wonka-golden-ticket-gene-wilder
 https://theverge.com/streaming/970099/amazon-prime-video-luna-gaming
 https://theverge.com/streaming/981392/abc-fcc-broadcast-license-lawsuit
@@ -698,6 +713,9 @@ https://theverge.com/tech/985567/google-gemini-notebook-expert-sources-books
 https://theverge.com/tech/985585/you-can-soon-book-hotel-stays-through-googles-ai-mode
 https://theverge.com/tech/985679/google-play-android-17-memory-limit
 https://theverge.com/tech/985851/meta-privacy-loophole-fix-marketing-campaign
+https://theverge.com/tech/986130/apple-tv-plus-price-hike
+https://theverge.com/tech/986234/ice-to-buy-boston-dynamics-spot-robots-to-support-public-safety
+https://theverge.com/tech/986247/asahi-linux-says-its-almost-ready-to-launch-support-for-m3-macs
 https://theverge.com/transportation/805247/tesla-q3-earnings-elon-musk-robot-army-pay-package
 https://theverge.com/transportation/881873/tesla-cybertruck-awd-price-cut
 https://theverge.com/transportation/907976/elon-musk-terafab-intel-ai-chip-spacex-tesla
