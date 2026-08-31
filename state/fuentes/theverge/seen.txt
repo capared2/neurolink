@@ -40,6 +40,7 @@ https://theverge.com/2024/12/16/24322769/waymo-japan-robotaxi-test-nihon-kotsu-g
 https://theverge.com/2024/12/20/24325822/netflix-fifa-womens-world-cup-us-streaming-rights
 https://theverge.com/2024/6/23/24184310/yes-it-is-crazy-to-build-a-new-v16-engine
 https://theverge.com/2024/7/24/24204706/marc-andreessen-ben-horowitz-a16z-trump-donations
+https://theverge.com/2024/7/3/24191422/lg-homey-athom-acquisition-samsung-smartthings
 https://theverge.com/2024/8/12/24218442/space-junk-debris-satellite-news-storystream
 https://theverge.com/2024/8/14/24219417/alien-romulus-review
 https://theverge.com/2024/8/27/24229843/google-meets-automatic-ai-note-taking-launch
@@ -58,7 +59,9 @@ https://theverge.com/ai-artificial-intelligence/924063/openai-phone-rumors-2027-
 https://theverge.com/ai-artificial-intelligence/934478/if-google-cant-make-ai-agents-useful-maybe-no-one-can
 https://theverge.com/ai-artificial-intelligence/937028/military-ai-warfare-red-lines
 https://theverge.com/ai-artificial-intelligence/940001/elon-musk-spacex-ipo-ai
+https://theverge.com/ai-artificial-intelligence/942909/let-us-filter-ai-slop-google-youtube-meta-instagram-tiktok
 https://theverge.com/ai-artificial-intelligence/942956/ai-biological-weapons-open-letter-congress
+https://theverge.com/ai-artificial-intelligence/943187/ai-content-creators
 https://theverge.com/ai-artificial-intelligence/949622/former-andreessen-horowitz-partner-john-ofarrell-says-his-former-colleagues-are-trying-to-buy-our-democracy
 https://theverge.com/ai-artificial-intelligence/950571/spacex-is-officially-buying-cursor-for-60-billion
 https://theverge.com/ai-artificial-intelligence/961978/anthropic-claude-cowork-mobile-web
@@ -120,6 +123,7 @@ https://theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-ri
 https://theverge.com/ai-artificial-intelligence/986176/data-center-pollution-epa-rule-change-air-permit
 https://theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright
 https://theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras
+https://theverge.com/ai-artificial-intelligence/986682/openai-chatgpt-eu-dsa
 https://theverge.com/antitrust/982578/google-just-showed-off-its-new-prototype-of-how-third-party-app-stores-will-look
 https://theverge.com/apple/985133/apple-is-automatically-upgrading-some-recent-mac-mini-m4-orders-to-m6-or-m5-pro-versions-for-free
 https://theverge.com/bulletin/795051/verge-podcast-ad-free-set-up-how-to
@@ -131,6 +135,7 @@ https://theverge.com/business/981161/bloomberg-andreesen-horowitz-is-the-focus-o
 https://theverge.com/cars/981760/bugattis-tourbillon-inspired-microled-tv-twists-turns-and-unfolds
 https://theverge.com/column/963917/optimizer-bryan-johnson-biohacking-health
 https://theverge.com/column/970756/vertical-video-tiktok-youtube-instagram-streaming-facebook
+https://theverge.com/column/972937/foldable-phones-boring-apple
 https://theverge.com/column/978295/optimizer-screenless-wearables-fitness-trackers-smart-rings
 https://theverge.com/column/980337/rogue-ai-science-fiction-openai
 https://theverge.com/column/982359/optimizer-wearable-future-google-ai
@@ -434,6 +439,7 @@ https://theverge.com/policy/986371/trump-orders-creation-of-a-us-space-academy
 https://theverge.com/policy/986444/trumps-teleprompter-operator-fined-172000-for-betting-on-speeches
 https://theverge.com/policy/986456/milo-yiannopoulos-deported-ice
 https://theverge.com/policy/986527/google-capitulates-in-trumps-attempt-to-rename-lake-ontario
+https://theverge.com/policy/986627/reddit-roblox-and-chatgpt-now-targets-of-eu-regulators
 https://theverge.com/report/840822/australia-social-media-ban-under-16-response
 https://theverge.com/report/841994/operation-bluebird-twitter-trademarks-petition
 https://theverge.com/report/954826/midjourney-medical-ai-ultrasound-body-scanner-lacks-evidence
@@ -486,6 +492,7 @@ https://theverge.com/tech/883225/samsung-galaxy-unpacked-s26-2026
 https://theverge.com/tech/883855/age-verification-internet-apps-laws-privacy-safety
 https://theverge.com/tech/888775/facebook-is-reportedly-having-some-issues-right-now
 https://theverge.com/tech/889836/apple-music-ai-transparency-tags-launch
+https://theverge.com/tech/891933/meta-oversight-board-ai-labels-deepfake-c2pa-facebook-instagram
 https://theverge.com/tech/892939/meta-facebook-whatsapp-messenger-scam-detection
 https://theverge.com/tech/893907/facebook-marketplace-ai-auto-reply-listings
 https://theverge.com/tech/897420/android-sideloading-unverified-developers-process
@@ -536,6 +543,7 @@ https://theverge.com/tech/962678/does-it-run-id
 https://theverge.com/tech/962714/finally-a-way-to-filter-out-all-those-knockoff-brands-on-amazon
 https://theverge.com/tech/963307/microsoft-patch-tuesday-ai-security-updates
 https://theverge.com/tech/963728/microsoft-sustainability-report-2026
+https://theverge.com/tech/963961/instagram-adam-mosseri-ai-feed-filters
 https://theverge.com/tech/965090/microsoft-windows-11-search-menu-ads
 https://theverge.com/tech/965643/microsoft-windows-11-july-2026-patch-tuesday-updates
 https://theverge.com/tech/965660/metas-ai-can-now-dub-your-voice-in-more-languages-on-instagram-and-facebook
@@ -757,6 +765,9 @@ https://theverge.com/tech/986364/google-search-ai-overviews-auto-expand
 https://theverge.com/tech/986389/oops-hot-mic
 https://theverge.com/tech/986459/brave-is-adding-email-aliases-to-its-browser
 https://theverge.com/tech/986550/apple-tested-a-stylus-for-the-foldable-iphone-but-probably-wont-ship-one
+https://theverge.com/tech/986584/lgs-getting-a-smart-home-chatbot
+https://theverge.com/tech/986593/instagram-addresses-fake-ai-profile-slop
+https://theverge.com/tech/986656/att-accuses-charter-of-misleading-customers-about-its-fiber-internet
 https://theverge.com/transportation/760217/a-wild-miraidon-appeared
 https://theverge.com/transportation/805247/tesla-q3-earnings-elon-musk-robot-army-pay-package
 https://theverge.com/transportation/881873/tesla-cybertruck-awd-price-cut
