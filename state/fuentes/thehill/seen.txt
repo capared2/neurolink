@@ -22,6 +22,7 @@ https://thehill.com/blogs/in-the-know/6053053-king-charles-royal-soldiers-honor-
 https://thehill.com/blogs/in-the-know/6055280-jake-reiner-rob-reiner-michele-singer-deaths-interview
 https://thehill.com/blogs/in-the-know/6058325-jelly-roll-political-beliefs-trump
 https://thehill.com/blogs/in-the-know/6059615-these-are-the-most-searched-slang-words-of-2026-how-many-do-you-know
+https://thehill.com/blogs/in-the-know/6061164-met-gala-john-galliano
 https://thehill.com/blogs/in-the-know/in-the-know/6052354-tim-curry-star-of-rocky-horror-and-it-dead-at-80-reports
 https://thehill.com/business/6040178-bond-market-yields-trump-emergency
 https://thehill.com/business/6041596-scott-bessent-us-economy-40-trillion-debt
@@ -47,6 +48,7 @@ https://thehill.com/business/6055981-this-dime-could-sell-for-more-than-1-millio
 https://thehill.com/business/6055984-meal-kit-madness-customers-say-they-got-empty-boxes-spoiled-food-from-blue-apron-marley-spoon
 https://thehill.com/business/6057043-federal-reserve-kevin-warsh-jackson-hole-interest-rate-hike
 https://thehill.com/business/6060518-bessent-urges-g20-china-rebalance
+https://thehill.com/business/6061661-bessent-slams-carney-trade
 https://thehill.com/business/agriculture/6052290-ranchers-protest-foreign-imported-beef
 https://thehill.com/business/economy/6043886-one-seemingly-ordinary-job-has-gotten-much-more-deadly-over-the-past-10-years-federal-data-shows
 https://thehill.com/homenews/6033556-doe-nuclear-innovation-campus-plans
@@ -60,6 +62,7 @@ https://thehill.com/homenews/6050345-dolly-partons-imagination-library-says-it-w
 https://thehill.com/homenews/6050846-capitol-police-guillotine-pickup-truck
 https://thehill.com/homenews/6052665-us-china-ai-collaboration
 https://thehill.com/homenews/6056216-gen-z-trump-voter-regret-midterm-clipping
+https://thehill.com/homenews/6061484-vance-trump-ai-iran-message
 https://thehill.com/homenews/administration/6040220-live-updates-donald-trump-iran-war-economy-midterms
 https://thehill.com/homenews/administration/6040588-donald-trump-white-house-helipad-ballroom-construction
 https://thehill.com/homenews/administration/6040729-donald-trump-legislative-director-leaving
@@ -167,6 +170,8 @@ https://thehill.com/homenews/administration/6060034-dhs-denies-ice-abuse-report
 https://thehill.com/homenews/administration/6060525-donald-trump-kennedy-center-renovation-case-judge-criticism
 https://thehill.com/homenews/administration/6060538-live-updates-trump-iran-house-spending-cr
 https://thehill.com/homenews/administration/6060630-us-iran-exchange-strikes
+https://thehill.com/homenews/administration/6061024-trump-reflecting-pool-renovations
+https://thehill.com/homenews/administration/6061819-vance-calls-el-sayed-evil
 https://thehill.com/homenews/analysis/6040221-democrats-leftist-win-senate-race
 https://thehill.com/homenews/analysis/6042626-treasury-secretary-bessent-buyback
 https://thehill.com/homenews/analysis/6057609-gop-campaign-centered-trump
@@ -268,10 +273,13 @@ https://thehill.com/homenews/campaign/6059638-khanna-ocasio-cortez-presidential-
 https://thehill.com/homenews/campaign/6059751-michigan-jewish-democrats-reckoning
 https://thehill.com/homenews/campaign/6059821-john-james-michigan-election
 https://thehill.com/homenews/campaign/6060059-markey-leading-moulton-poll
+https://thehill.com/homenews/campaign/6060905-harris-pappas-new-hampshire-senate
+https://thehill.com/homenews/campaign/6060935-ken-paxton-john-cornyn-texas-senate-race-criticism
 https://thehill.com/homenews/campaign/data-nerds/6040929-democratic-socialist-angie-nixon-florida-upset-what-to-know-discussion
 https://thehill.com/homenews/campaign/data-nerds/6054870-democratic-party-senate-control-division-2026-midterms-discussion
 https://thehill.com/homenews/campaign/fight-for-2028/6048815-south-carolina-gop-senate-runoff-donald-trump-influence-midterms-discussion
 https://thehill.com/homenews/editors-call/6046390-us-canada-tariff-war-trump-beef-iran-sanctions-darline-graham-south-carolina-discussion
+https://thehill.com/homenews/editors-call/6060567-house-prevent-shutdown-jewish-democrats-divided-live-discussion
 https://thehill.com/homenews/education/6044824-trump-admin-bar-association-accreditation-challenge
 https://thehill.com/homenews/education/6045594-mcmahon-education-department-teacher-misconduct
 https://thehill.com/homenews/education/6045912-mcmahon-ai-k-12-benefits
@@ -299,6 +307,7 @@ https://thehill.com/homenews/house/6055526-chuck-edwards-denounces-house-ethics-
 https://thehill.com/homenews/house/6056291-debbie-dingell-trump-lake-ontario-act
 https://thehill.com/homenews/house/6058340-massie-prime-act-trump-meatpacking-order
 https://thehill.com/homenews/house/6059254-beatty-trump-kennedy-center-threat
+https://thehill.com/homenews/house/6061199-frost-epstein-files-biden-trump
 https://thehill.com/homenews/lgbtq/6044688-log-cabin-republicans-transgender-support-ends
 https://thehill.com/homenews/media/6040779-alina-habba-press-secretary-karoline-leavitt
 https://thehill.com/homenews/media/6045875-scott-jennings-press-secretary-reports
@@ -364,6 +373,7 @@ https://thehill.com/homenews/state-watch/6053299-gop-nominee-maine-ice-elections
 https://thehill.com/homenews/state-watch/6055312-golden-backs-trump-tariffs-canada
 https://thehill.com/homenews/state-watch/6055691-wyoming-governor-criticizes-doj-election-monitors
 https://thehill.com/homenews/state-watch/6055853-scott-criticizes-lake-america-order
+https://thehill.com/homenews/state-watch/6055939-raising-canes-opening-new-restaurants-in-september-heres-where
 https://thehill.com/homenews/state-watch/6056018-hochul-rejects-lake-america
 https://thehill.com/homenews/state-watch/6056355-wisconsin-politicians-mock-lake-michigan-ontario
 https://thehill.com/homenews/state-watch/6056407-grand-jury-desantis-hope-florida-scandal
@@ -381,6 +391,7 @@ https://thehill.com/homenews/sunday-talk-shows/6045326-sunday-shows-trump-canada
 https://thehill.com/homenews/sunday-talk-shows/6059207-sunday-shows-trump-gop-economic-tensions-foreign-relations
 https://thehill.com/media/6050281-paramount-warner-bros-merger-antitrust-lawsuit-rob-bonta
 https://thehill.com/media/6059334-carlson-says-trump-should-be-removed
+https://thehill.com/media/6060685-fcc-anna-gomez-trump-welker-feud
 https://thehill.com/newsletters/1230-report/6041657-us-citizen-china-detained-darline-graham-ossoff-trump-harp
 https://thehill.com/newsletters/1230-report/6043718-donald-trump-beef-tariff-pause-blowback
 https://thehill.com/newsletters/1230-report/6047079-donald-trump-economic-squeeze-iran-sanctions-canada-tariffs
@@ -388,6 +399,7 @@ https://thehill.com/newsletters/1230-report/6049572-supreme-court-throws-electio
 https://thehill.com/newsletters/1230-report/6052668-meta-settles-in-for-17b-in-landmark-social-media-case
 https://thehill.com/newsletters/1230-report/6055136-kennedy-center-ice-officer-minnesota-texas-data-centers-buccees-john-ratcliffe-russia
 https://thehill.com/newsletters/1230-report/6057534-kevin-warsh-inflation-risks-interest-rates-us-economy-canada-trade-war-midterms
+https://thehill.com/newsletters/1230-report/6061321-iran-war-resumes-donald-trump-threats
 https://thehill.com/newsletters/business-economy/6042370-bond-markets-rattle-economy-sparking-controversial-buyback
 https://thehill.com/newsletters/business-economy/6044524-gop-raises-concerns-over-trump-lifting-certain-ground-beef-tariffs
 https://thehill.com/newsletters/business-economy/6050352-canada-to-place-retaliatory-tariffs-on-us-goods
@@ -457,6 +469,7 @@ https://thehill.com/opinion/campaign/6053321-decline-civility-public-rhetoric
 https://thehill.com/opinion/campaign/6055765-new-york-electricity-costs-climate-policy
 https://thehill.com/opinion/campaign/6055888-muslim-american-political-success
 https://thehill.com/opinion/campaign/6059372-new-democratic-strategy-iowa-races
+https://thehill.com/opinion/campaign/6061519-gop-vulnerable-trade-war-costs
 https://thehill.com/opinion/civil-rights/6042440-meaning-behind-woke-language
 https://thehill.com/opinion/civil-rights/6043787-business-refuses-service-religious-political-views
 https://thehill.com/opinion/civil-rights/6044413-debate-jewish-religion-race
@@ -466,6 +479,7 @@ https://thehill.com/opinion/congress-blog/6052956-congressional-ethics-reform-ef
 https://thehill.com/opinion/congress-blog/6057763-senators-abandoning-constitutional-checks
 https://thehill.com/opinion/congress-blog/labor/6033723-rescinding-mandatory-demographic-reports
 https://thehill.com/opinion/congress-blog/religious-rights/5888078-safe-zones-religious-freedom
+https://thehill.com/opinion/congress-blog/the-administration/6061597-trump-harp-controversy-analyzed
 https://thehill.com/opinion/criminal-justice/6033653-spanberger-corrections-public-safety
 https://thehill.com/opinion/cybersecurity/6047624-iranian-hackers-water-infrastructure
 https://thehill.com/opinion/education/5995190-kentucky-school-district-financial-mismanagement
@@ -476,6 +490,7 @@ https://thehill.com/opinion/energy-environment/6047556-states-lead-clean-energy-
 https://thehill.com/opinion/energy-environment/6050929-iran-war-shifts-oil-traffic
 https://thehill.com/opinion/energy-environment/6055220-katrina-anniversary-fema-crisis
 https://thehill.com/opinion/energy-environment/6056058-noaa-cancels-arctic-report-card
+https://thehill.com/opinion/energy-environment/6057906-recycled-materials-attribution-pack-act
 https://thehill.com/opinion/energy-environment/6058256-ev-safety-battery-risks
 https://thehill.com/opinion/finance/6039678-billionaire-wealth-wealth-inequality
 https://thehill.com/opinion/finance/6043925-female-earnings-separation-risk
@@ -509,6 +524,7 @@ https://thehill.com/opinion/international/6051039-senate-passes-graham-sanctions
 https://thehill.com/opinion/international/6055318-us-canada-trade-talks-collapse
 https://thehill.com/opinion/international/6055432-trump-unilateral-trade-clauses
 https://thehill.com/opinion/international/6056167-trump-besent-iran-sanctions
+https://thehill.com/opinion/international/6061651-mexico-mezcal-truck-hijackings
 https://thehill.com/opinion/judiciary/6033495-california-black-infant-health-lawsuit
 https://thehill.com/opinion/judiciary/6048289-trump-fomb-puerto-rico-electricity
 https://thehill.com/opinion/judiciary/6050362-nfl-cte-one-fourth
@@ -519,6 +535,7 @@ https://thehill.com/opinion/lindseys-lens/6043643-biden-debate-performance-specu
 https://thehill.com/opinion/lindseys-lens/6052835-jeffries-kushner-private-meeting
 https://thehill.com/opinion/lindseys-lens/6055299-darline-graham-sc-senate-race
 https://thehill.com/opinion/lindseys-lens/6057599-iran-school-strike-investigation
+https://thehill.com/opinion/lindseys-lens/6061458-trump-welker-fcc-threat
 https://thehill.com/opinion/national-security/6033321-us-iran-diplomatic-stalemate
 https://thehill.com/opinion/national-security/6038488-fedorov-ukraine-wartime-elections
 https://thehill.com/opinion/national-security/6040093-reversing-chinese-belt-road
@@ -539,6 +556,7 @@ https://thehill.com/opinion/robbys-radar/6047297-data-centers-public-opposition
 https://thehill.com/opinion/robbys-radar/6049731-el-sayed-hasan-piker-distancing
 https://thehill.com/opinion/robbys-radar/6052757-data-center-water-usage-myths
 https://thehill.com/opinion/robbys-radar/6055273-zuckerberg-settles-social-media-lawsuit
+https://thehill.com/opinion/robbys-radar/6061394-el-sayed-hasan-piker-michigan
 https://thehill.com/opinion/technology/6041606-governing-moon-mars-colonization
 https://thehill.com/opinion/technology/6047429-flexible-work-employee-autonomy
 https://thehill.com/opinion/technology/6049979-faa-recruits-video-gamers
@@ -555,6 +573,7 @@ https://thehill.com/opinion/white-house/6047004-trumps-state-capitalism-tech
 https://thehill.com/opinion/white-house/6050060-stars-stripes-firing-censorship
 https://thehill.com/opinion/white-house/6056352-media-hypocrisy-mental-acuity
 https://thehill.com/opinion/white-house/6057790-psychology-behind-trump-fatigue-failure
+https://thehill.com/opinion/white-house/6061568-title-vi-investigations-college-funding
 https://thehill.com/policy/defense/6040175-army-rotc-academic-standards-memo-debate
 https://thehill.com/policy/defense/6040353-airman-detained-again-capitol-trump-protest
 https://thehill.com/policy/defense/6041407-trump-threatens-oman-iran-deal
@@ -590,6 +609,7 @@ https://thehill.com/policy/defense/6056680-us-military-laser-takedown-mexican-ca
 https://thehill.com/policy/defense/6058699-hegseth-blocks-army-promotions-ousted-generals
 https://thehill.com/policy/defense/6059759-blumenthal-urges-ukraine-air-defense
 https://thehill.com/policy/defense/6060116-us-strikes-iranian-rocket-launchers
+https://thehill.com/policy/defense/6061714-pentagon-adds-grok-chatgpt-ai
 https://thehill.com/policy/energy-environment/6040914-almanacs-release-predictions-for-fall-winter-but-can-you-trust-them
 https://thehill.com/policy/energy-environment/6041522-cramer-north-dakota-wetlands-fws
 https://thehill.com/policy/energy-environment/6041581-noaa-releases-fall-weather-predictions-for-all-50-states-as-el-nino-grows-stronger
@@ -610,7 +630,9 @@ https://thehill.com/policy/energy-environment/6057765-trump-reflecting-pool-upda
 https://thehill.com/policy/energy-environment/6058556-yosemite-national-park-trump-nps-interior
 https://thehill.com/policy/energy-environment/6058586-truck-fuel-efficiency-standards
 https://thehill.com/policy/energy-environment/6059912-freedom-fuel-lawsuit-unpaid-gas
+https://thehill.com/policy/energy-environment/6060426-more-storms-possible-after-grand-canyon-flash-flood-killed-1-and-left-15-missing
 https://thehill.com/policy/energy-environment/6060486-oil-prices-surge-us-strikes-iran-war
+https://thehill.com/policy/energy-environment/6061687-trump-refineries-capacity-gas-prices-iran
 https://thehill.com/policy/healthcare/6036144-cases-of-scromiting-condition-tied-to-cannabis-use-spike-among-teens-young-adults-new-study
 https://thehill.com/policy/healthcare/6041007-blueberry-recall-fda-publix
 https://thehill.com/policy/healthcare/6041051-cdc-salmonella-jalapeno-outbreak
@@ -641,6 +663,7 @@ https://thehill.com/policy/healthcare/6056305-fda-approves-updated-covid-vaccine
 https://thehill.com/policy/healthcare/6056692-vibrio-flesh-eating-bacteria-expanding
 https://thehill.com/policy/healthcare/6057495-cyclospora-outbreak-texas-georgia-tennesse-fda-cdc
 https://thehill.com/policy/healthcare/6058532-trump-maha-midterm-impact
+https://thehill.com/policy/healthcare/6061821-trump-medicaid-drug-pricing
 https://thehill.com/policy/international/6040680-iran-minister-slams-trump-economic-dday
 https://thehill.com/policy/international/6042225-rubio-cuba-sanctions
 https://thehill.com/policy/international/6043090-iran-reaction-us-sanctions-trump-administration-war
@@ -686,6 +709,7 @@ https://thehill.com/policy/international/6059462-venezuela-us-oil-deal
 https://thehill.com/policy/international/6059521-ford-slams-lake-america-rename
 https://thehill.com/policy/international/6060228-americans-missing-nepal-tibet-floods
 https://thehill.com/policy/international/6060457-iran-retaliation-jordan-uae-us-strikes-resume
+https://thehill.com/policy/international/6061529-spain-russia-israel-morocco-ceuta-migrant-crisis
 https://thehill.com/policy/national-security/6049802-cia-director-ratcliffe-moscow-visit
 https://thehill.com/policy/national-security/6056134-senators-oppose-ice-shocking-gloves
 https://thehill.com/policy/national-security/6059574-homan-ice-bus-stop-arrests
@@ -716,12 +740,17 @@ https://thehill.com/policy/technology/6056436-judge-rules-pentagon-anthropic-bla
 https://thehill.com/policy/technology/6056449-openai-tech-firms-cyberattacks-response
 https://thehill.com/policy/technology/6058344-meta-kids-online-safety-settlement-youtube-tiktok
 https://thehill.com/policy/technology/6058357-ninth-circuit-prediction-markets-kalshi-states-cftc
+https://thehill.com/policy/technology/6061094-trump-ai-data-centers-economy
+https://thehill.com/policy/technology/6061177-kalshi-bans-george-santos
+https://thehill.com/policy/technology/6061531-kalshi-prediction-market-ban-laurie-buckhout-north-carolina-gop-house-race
 https://thehill.com/policy/transportation/6050209-tsa-phases-out-gold-program
 https://thehill.com/policy/transportation/6050669-uber-new-family-features-teen-accounts-stream-safety
 https://thehill.com/policy/transportation/6059553-google-maps-renames-lake-america
 https://thehill.com/policy/transportation/6059843-airfare-to-stabilize-high-fuel
 https://thehill.com/policy/transportation/6060316-trump-praises-nasa-roman-launch
 https://thehill.com/policy/transportation/6060620-watch-live-markwayne-mullin-dhs-sean-duffy-dot-trucking-fraud-crackdown
+https://thehill.com/policy/transportation/6060656-state-department-travel-warning-nepal-flash-flooding
+https://thehill.com/policy/transportation/6061278-dot-shuts-driving-schools
 https://thehill.com/regulation/court-battles/6042548-woman-arrested-ny-state-capitol-bomb-plot
 https://thehill.com/regulation/court-battles/6043480-trump-white-house-ballroom-supreme-court
 https://thehill.com/regulation/court-battles/6043735-trump-center-american-progress-national-guard-defamation
@@ -764,6 +793,7 @@ https://thehill.com/regulation/court-battles/6058494-trump-administration-fast-t
 https://thehill.com/regulation/court-battles/6059009-federal-judge-trump-visa-activist-ruling
 https://thehill.com/regulation/court-battles/6059138-walmart-opioid-lawsuit-settlement
 https://thehill.com/regulation/court-battles/6059439-minnesota-court-rejects-lindell-recount
+https://thehill.com/regulation/court-battles/6061170-gop-house-senate-campaign-arms-supreme-court-tv-ad-rates
 https://thehill.com/video-clips/6041568-trump-ceremonial-lap-national-mall
 https://thehill.com/video-clips/6042062-watch-live-donald-trump-melania-trump-fostering-future-together-rose-garden-indycar
 https://thehill.com/video-clips/6043711-vance-to-visit-middeletown-steel
@@ -777,3 +807,5 @@ https://thehill.com/video-clips/6052761-watch-live-pete-hegseth-abbey-gate-afgha
 https://thehill.com/video-clips/6055334-watch-live-donald-trump-signing-time-agenda
 https://thehill.com/video-clips/6056663-watch-live-federal-reserve-kevin-warsh-pivotal-speech-jackson-hole-wyoming-us-economy-inflation-bonds
 https://thehill.com/video-clips/6056673-watch-live-donald-trump-houston-artemis-2-crew-awards-international-space-station
+https://thehill.com/video-clips/6061382-watch-live-donald-trump-healthcare-affordability-drug-pricing-announcement
+https://thehill.com/video-clips/6061451-watch-live-hakeem-jeffries-house-democrats-presser
