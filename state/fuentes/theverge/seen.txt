@@ -1,6 +1,7 @@
 https://theverge.com/2011/11/24/2584557/susan-kare-apple-interface-designer-sketchbook
 https://theverge.com/2013/8/29/4640308/dark-patterns-inside-the-interfaces-designed-to-trick-you
 https://theverge.com/2014/10/17/6994871/comic-sans-typewriter-exists
+https://theverge.com/2015/3/18/8237799/sony-playstation-vue-tv-streaming-launch
 https://theverge.com/2015/7/7/8905037/google-ad-discrimination-adfisher
 https://theverge.com/2015/9/22/9374067/the-simpsons-vhs-tape-urban-legend
 https://theverge.com/2017/10/10/16452162/windows-phone-history-glorious-failure
@@ -8,6 +9,7 @@ https://theverge.com/2017/7/26/16033902/solar-eclipse-amazon-solar-filter-glasse
 https://theverge.com/2017/8/10/16106912/total-solar-eclipse-photography-dslr-camera-solar-filter-zoom-lens
 https://theverge.com/2017/8/9/16109520/how-to-diy-pinhole-projector-solar-eclipse-cardboard-paper-budget-safe
 https://theverge.com/2018/9/4/17819160/amazon-worth-1-trillion-dollars-stock-price-value
+https://theverge.com/2019/10/29/20938533/sony-playstation-vue-live-tv-streaming-shutdown
 https://theverge.com/2019/11/26/20977968/google-graveyard-products-shut-down-dead-not-supported-discontinues-spring-cleaning
 https://theverge.com/2019/4/4/18295190/facebook-ad-delivery-housing-job-race-gender-bias-study-northeastern-upturn
 https://theverge.com/2019/5/31/18646098/formula-e-gen2-drive-electric-racecar
@@ -333,6 +335,7 @@ https://theverge.com/games/986347/xbox-ceo-investing-six-billion-dollar-franchis
 https://theverge.com/games/986552/12tb-steam-leak-half-life-2-episode-3
 https://theverge.com/games/986569/rockstar-says-gta-has-no-generative-ai-or-microtransactions
 https://theverge.com/games/986799/pokemon-wild-card-teaser-trailer
+https://theverge.com/games/987000/sony-brings-free-tv-to-the-ps5
 https://theverge.com/health/688503/rfk-jr-vaccines
 https://theverge.com/health/981670/daniel-eks-body-scanning-clinic-neko-health-will-open-in-nyc-on-september-24th
 https://theverge.com/huawei/667574/huawei-mate-xt-review-trifold-phone
@@ -777,6 +780,7 @@ https://theverge.com/tech/985567/google-gemini-notebook-expert-sources-books
 https://theverge.com/tech/985585/you-can-soon-book-hotel-stays-through-googles-ai-mode
 https://theverge.com/tech/985679/google-play-android-17-memory-limit
 https://theverge.com/tech/985851/meta-privacy-loophole-fix-marketing-campaign
+https://theverge.com/tech/985986/jmgo-4k-gaming-projector-price-specs
 https://theverge.com/tech/986033/samsung-galaxy-z-flip-8-review
 https://theverge.com/tech/986130/apple-tv-plus-price-hike
 https://theverge.com/tech/986167/china-humanoid-robot-games-race
@@ -796,6 +800,9 @@ https://theverge.com/tech/986789/linux-debian-generative-ai-policy
 https://theverge.com/tech/986832/read-tim-cooks-final-message-as-ceo-to-apple-staff
 https://theverge.com/tech/986847/markiplier-gopro-investor
 https://theverge.com/tech/986869/apple-phil-schiller-stepping-down
+https://theverge.com/tech/986967/apple-vision-pro-mlb-red-sox-yankees-immersive-game
+https://theverge.com/tech/986982/amazon-advertising-prices-ftc-lawsuit
+https://theverge.com/tech/987032/google-tv-streamer-price-increase
 https://theverge.com/transportation/760217/a-wild-miraidon-appeared
 https://theverge.com/transportation/805247/tesla-q3-earnings-elon-musk-robot-army-pay-package
 https://theverge.com/transportation/881873/tesla-cybertruck-awd-price-cut
