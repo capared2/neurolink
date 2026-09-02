@@ -146,6 +146,8 @@ https://theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-my
 https://theverge.com/ai-artificial-intelligence/988261/openai-tumbler-ridge-shooting-lawsuit-aiding-abetting
 https://theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety
 https://theverge.com/ai-artificial-intelligence/988344/trump-administration-new-york-times-openai-lawsuit
+https://theverge.com/ai-artificial-intelligence/988675/jason-isbell-sues-suno-but-not-for-copyright-infringement
+https://theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash
 https://theverge.com/antitrust/982578/google-just-showed-off-its-new-prototype-of-how-third-party-app-stores-will-look
 https://theverge.com/apple/985133/apple-is-automatically-upgrading-some-recent-mac-mini-m4-orders-to-m6-or-m5-pro-versions-for-free
 https://theverge.com/bulletin/795051/verge-podcast-ad-free-set-up-how-to
@@ -282,6 +284,7 @@ https://theverge.com/gadgets/987670/lenovo-yoga-7i-2in1-deal-sale
 https://theverge.com/gadgets/987687/belkin-headphones-sonos-ace-nintendo-switch-2-kirby-amazon-resale-deal-sale
 https://theverge.com/gadgets/987802/acer-swift-blade-14-air-16-laptop-ifa-price-specs
 https://theverge.com/gadgets/987839/dell-14s-student-laptop-ifa-2026-price-specs
+https://theverge.com/gadgets/988398/rei-labor-day-sale-deal-2026
 https://theverge.com/games/684957/splitgate-2-hat-apology
 https://theverge.com/games/816118/valve-steam-frame-vr-headset-streaming-arm-steamos-hands-on
 https://theverge.com/games/843260/tomb-raider-catalyst-trailer-tomb-raider-atlantis
@@ -472,6 +475,7 @@ https://theverge.com/podcast/986145/m6-mac-mini-meta-settlement-gta-6-vergecast
 https://theverge.com/podcast/986661/ny-gov-kathy-hochul-ai-data-centers-ban-3d-printed-guns-flock-cameras
 https://theverge.com/podcast/986935/todays-vergecast-can-fairphone-survive-the-us-market
 https://theverge.com/podcast/987741/todays-vergecast-what-the-ai-overlords-get-wrong-about-being-alive
+https://theverge.com/podcast/988634/todays-vergecast-whats-happening-with-us-data-centers
 https://theverge.com/pokemon/620617/honda-miraidon-motorcycle
 https://theverge.com/policy/677373/lawyers-chatgpt-hallucinations-ai
 https://theverge.com/policy/799473/facebook-meta-ice-jawboning
@@ -561,12 +565,14 @@ https://theverge.com/science/985686/kalshi-is-partnering-with-the-weather-compan
 https://theverge.com/science/985969/jackerys-little-workhorse-power-station-looks-great-in-white
 https://theverge.com/science/986544/nancy-grace-roman-space-telescope-launch
 https://theverge.com/streaming/959684/netflix-wonka-golden-ticket-gene-wilder
+https://theverge.com/streaming/965638/good-mythical-morning-will-release-new-episodes-on-netflix-and-youtube-simultaneously
 https://theverge.com/streaming/970099/amazon-prime-video-luna-gaming
 https://theverge.com/streaming/981392/abc-fcc-broadcast-license-lawsuit
 https://theverge.com/streaming/983741/netflix-open-app-peacock-fox-one
 https://theverge.com/streaming/983794/espn-disney-plus-bundles-price-increase
 https://theverge.com/streaming/984389/netflix-will-stream-the-womens-world-cup-draw-live-in-december
 https://theverge.com/streaming/987603/espn-unlimited-is-now-available-in-the-youtube-tv-app
+https://theverge.com/streaming/988671/travel-youtuber-drew-binsky-is-the-latest-creator-to-strike-a-deal-with-netflix
 https://theverge.com/tech/784323/upgrading-240hz-oled-gaming-monitor
 https://theverge.com/tech/798921/facebook-local-jobs-us
 https://theverge.com/tech/849742/how-to-tune-algorithms-recommendations-online-platforms
@@ -619,8 +625,11 @@ https://theverge.com/tech/935868/meta-facebook-app-forum-groups
 https://theverge.com/tech/936290/meta-forum-facebook-groups-app-hands-on
 https://theverge.com/tech/938500/facebook-whatsapp-instagram-meta-ai-subscriptions
 https://theverge.com/tech/938692/intel-arc-g3-extreme-handheld-gaming
+https://theverge.com/tech/939596/acer-swift-air-14-aspire-18-nitro-16-computex-price-specs
 https://theverge.com/tech/939782/arduboy-fx-c-arduino-handheld-hands-on
+https://theverge.com/tech/940498/dell-xps-13-student-laptop-intel-wildcat-panther-lake-computex-price
 https://theverge.com/tech/941138/google-gemini-spark-ai-agent-hands-on
+https://theverge.com/tech/941318/asus-new-zenbook-14-might-be-another-macbook-neo-competitor-if-the-price-is-right
 https://theverge.com/tech/942328/nanoleaf-switchbot-onerobotics-sale-ai-robotics
 https://theverge.com/tech/942331/metas-marketplace-evades-the-eus-big-tech-crackdown
 https://theverge.com/tech/942932/portable-light-camping-work-travel
@@ -918,12 +927,16 @@ https://theverge.com/tech/988258/another-nail-in-the-coffin-for-intel-based-macs
 https://theverge.com/tech/988355/mrbeast-google-partnership-gemini-fitbit
 https://theverge.com/tech/988463/googlebook-app-look-up-shows-up-on-the-play-store
 https://theverge.com/tech/988518/amazon-alexa-for-shopping-verify-emails
+https://theverge.com/tech/988536/1password-dhh-linux-controversy
+https://theverge.com/tech/988551/samsung-is-getting-in-on-the-macbook-neo-competition
 https://theverge.com/transportation/760217/a-wild-miraidon-appeared
 https://theverge.com/transportation/805247/tesla-q3-earnings-elon-musk-robot-army-pay-package
 https://theverge.com/transportation/881873/tesla-cybertruck-awd-price-cut
 https://theverge.com/transportation/907976/elon-musk-terafab-intel-ai-chip-spacex-tesla
+https://theverge.com/transportation/921290/california-driverless-vehicles-traffic-tickets
 https://theverge.com/transportation/955011/formula-e-season-13-electric-racing
 https://theverge.com/transportation/962772/waymo-kicks-off-driverless-trips-in-four-new-cities
+https://theverge.com/transportation/966108/robotaxi-passengers-are-falling-asleep-spilling-food-and-even-giving-birth-during-their-rides
 https://theverge.com/transportation/973099/zoox-amazon-nhtsa-robotaxi-approval
 https://theverge.com/transportation/976190/elon-musks-terafab-will-be-built-where-else-in-texas
 https://theverge.com/transportation/977533/joby-resonant-sciences-acquisition-evtol
@@ -952,3 +965,4 @@ https://theverge.com/transportation/987901/tesla-cybercab-launch-elon-musk-robot
 https://theverge.com/transportation/988207/uber-is-cutting-10-percent-of-its-workforce
 https://theverge.com/transportation/988232/range-rover-electric-range-battery-specs
 https://theverge.com/transportation/988458/zoox-goes-to-the-airport
+https://theverge.com/transportation/988737/waymo-is-a-magnet-for-parking-tickets
