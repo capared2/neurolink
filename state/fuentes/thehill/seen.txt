@@ -33,6 +33,7 @@ https://thehill.com/blogs/in-the-know/6065215-wheel-of-fortune-announcer-jim-tho
 https://thehill.com/blogs/in-the-know/6065857-clooney-hegseths-canadian-military-venice-film-festival
 https://thehill.com/blogs/in-the-know/6066023-kennedy-center-blue-sculpture-removal-trump-renovations
 https://thehill.com/blogs/in-the-know/6067374-trump-criticizes-royal-family-exit
+https://thehill.com/blogs/in-the-know/6067509-trump-tiger-woods-dui-plea-fair
 https://thehill.com/blogs/in-the-know/in-the-know/6052354-tim-curry-star-of-rocky-horror-and-it-dead-at-80-reports
 https://thehill.com/business/6040178-bond-market-yields-trump-emergency
 https://thehill.com/business/6041596-scott-bessent-us-economy-40-trillion-debt
@@ -86,6 +87,7 @@ https://thehill.com/homenews/6061484-vance-trump-ai-iran-message
 https://thehill.com/homenews/6063361-house-gop-funding-bill-rule-vote
 https://thehill.com/homenews/6063394-lindsay-clancys-jury-is-deadlocked-what-happens-if-theres-a-hung-jury
 https://thehill.com/homenews/6065755-tiger-woods-pleads-no-contest-to-reckless-driving-charge-gets-license-suspended-for-5-years
+https://thehill.com/homenews/6067026-lindsay-clancy-trial-lawyer
 https://thehill.com/homenews/administration/6040220-live-updates-donald-trump-iran-war-economy-midterms
 https://thehill.com/homenews/administration/6040588-donald-trump-white-house-helipad-ballroom-construction
 https://thehill.com/homenews/administration/6040729-donald-trump-legislative-director-leaving
@@ -222,7 +224,13 @@ https://thehill.com/homenews/administration/6066413-trump-claims-hormuz-control
 https://thehill.com/homenews/administration/6066484-trump-republican-lawmakers-rose-garden-dinner
 https://thehill.com/homenews/administration/6066835-us-government-corruption-record-high-survey
 https://thehill.com/homenews/administration/6066994-nato-ambassador-putin-threats-warning
+https://thehill.com/homenews/administration/6067121-dhs-secretary-plane-emergency-landing
+https://thehill.com/homenews/administration/6067346-rubio-downplays-russian-iran-aid
 https://thehill.com/homenews/administration/6067385-justice-department-states-migrants-safety-net-programs
+https://thehill.com/homenews/administration/6067590-trump-gold-coins-sell-out
+https://thehill.com/homenews/administration/6067626-bessent-rally-g20-support
+https://thehill.com/homenews/administration/6067644-trump-beef-tariffs-brazil-influence
+https://thehill.com/homenews/administration/6067880-vance-to-host-white-house-briefing
 https://thehill.com/homenews/analysis/6040221-democrats-leftist-win-senate-race
 https://thehill.com/homenews/analysis/6042626-treasury-secretary-bessent-buyback
 https://thehill.com/homenews/analysis/6057609-gop-campaign-centered-trump
@@ -348,6 +356,7 @@ https://thehill.com/homenews/campaign/6064878-markey-moulton-massachusetts-prima
 https://thehill.com/homenews/campaign/6066299-aoc-endorses-angie-nixon
 https://thehill.com/homenews/campaign/6066614-texas-gop-midterms-convention-dallas
 https://thehill.com/homenews/campaign/6066844-pro-trump-group-releases-first-general-election-midterm-ad
+https://thehill.com/homenews/campaign/6067649-ralph-norman-darline-graham-trump-endorsement
 https://thehill.com/homenews/campaign/data-nerds/6040929-democratic-socialist-angie-nixon-florida-upset-what-to-know-discussion
 https://thehill.com/homenews/campaign/data-nerds/6054870-democratic-party-senate-control-division-2026-midterms-discussion
 https://thehill.com/homenews/campaign/fight-for-2028/6048815-south-carolina-gop-senate-runoff-donald-trump-influence-midterms-discussion
@@ -403,6 +412,8 @@ https://thehill.com/homenews/house/6066396-downing-trump-beef-tariffs
 https://thehill.com/homenews/house/6066438-doj-response-thomas-massie-list-jeffrey-epstein-co-conspirators-list
 https://thehill.com/homenews/house/6066756-democrats-rules-changes-jeffries-golden-perez
 https://thehill.com/homenews/house/6067061-malliotakis-staffer-survives-lightning
+https://thehill.com/homenews/house/6067506-house-supreme-court-packing-amendment
+https://thehill.com/homenews/house/6067762-aoc-criticizes-jeffries-kushner-meeting
 https://thehill.com/homenews/lgbtq/6044688-log-cabin-republicans-transgender-support-ends
 https://thehill.com/homenews/media/6040779-alina-habba-press-secretary-karoline-leavitt
 https://thehill.com/homenews/media/6045875-scott-jennings-press-secretary-reports
@@ -448,6 +459,7 @@ https://thehill.com/homenews/senate/6064611-gop-punted-lame-duck-agenda
 https://thehill.com/homenews/senate/6066871-tillis-trump-fire-hegseth
 https://thehill.com/homenews/senate/6067100-susan-collins-liz-cheney-no-impact
 https://thehill.com/homenews/senate/6067256-greer-meet-republican-trade-concerns
+https://thehill.com/homenews/senate/6067615-thune-gop-senate-majority
 https://thehill.com/homenews/space/6054908-where-northern-lights-may-shine-amid-geomagnetic-storm-watches
 https://thehill.com/homenews/space/6057441-americans-skeptical-ufo-origins-gallup-poll
 https://thehill.com/homenews/state-watch/6040336-pennsylvania-state-police-helicopter-violently-collides-with-plane-pilot-dead-faa
@@ -497,6 +509,7 @@ https://thehill.com/homenews/state-watch/6064127-tina-peters-declines-shasta-job
 https://thehill.com/homenews/state-watch/6064333-florida-flock-camera-state-highway-removal
 https://thehill.com/homenews/state-watch/6064510-haitian-student-ohio-suicide
 https://thehill.com/homenews/state-watch/6064827-georgia-police-shooting-donkey
+https://thehill.com/homenews/state-watch/6067113-popular-downtown-chicago-bridge-stuck-in-up-position-due-to-heat
 https://thehill.com/homenews/state-watch/6067488-newsom-schiff-trump-film-tax
 https://thehill.com/homenews/sunday-talk-shows/6045326-sunday-shows-trump-canada-trade-republican-primaries
 https://thehill.com/homenews/sunday-talk-shows/6059207-sunday-shows-trump-gop-economic-tensions-foreign-relations
@@ -520,6 +533,7 @@ https://thehill.com/newsletters/business-economy/6050352-canada-to-place-retalia
 https://thehill.com/newsletters/business-economy/6053659-trump-plan-to-raise-debt-limit-on-shaky-ground
 https://thehill.com/newsletters/business-economy/6056142-all-eyes-on-warsh-in-wyoming
 https://thehill.com/newsletters/business-economy/6064391-bond-sell-off-soars-amid-inflation-debt-fears
+https://thehill.com/newsletters/business-economy/6067771-bessent-trump-agenda-g20-finance
 https://thehill.com/newsletters/defense-national-security/6042716-us-approves-possible-4-5-billion-sale-of-refueling-aircraft-to-qatar
 https://thehill.com/newsletters/defense-national-security/6048001-trump-forgoes-military-strikes-attempts-economic-chokehold-iran
 https://thehill.com/newsletters/defense-national-security/6050716-hegseth-loeffler-small-defense-contractors-newsletter
@@ -536,6 +550,7 @@ https://thehill.com/newsletters/energy-environment/6056171-trump-seeks-to-cut-re
 https://thehill.com/newsletters/energy-environment/6058603-trump-eyes-yosemite-land-swap
 https://thehill.com/newsletters/energy-environment/6062207-trump-us-has-control-of-large-slice-of-venezuelas-oil
 https://thehill.com/newsletters/energy-environment/6064628-white-house-unveils-new-details-of-venezuela-agreement
+https://thehill.com/newsletters/energy-environment/6067707-chevron-plans-to-double-its-venezuela-oil-production
 https://thehill.com/newsletters/healthcare/6042627-schwartz-recognizes-cdc-strife-in-first-talks-with-staff
 https://thehill.com/newsletters/healthcare/6044727-trump-eyes-vaccine-categories
 https://thehill.com/newsletters/healthcare/6048133-back-to-school-season-fuels-growing-measles-concerns
@@ -545,6 +560,7 @@ https://thehill.com/newsletters/healthcare/6056324-hemp-ban-awaits-senate-return
 https://thehill.com/newsletters/healthcare/6058655-rfk-jr-questions-measles-deaths-in-pennsylvania
 https://thehill.com/newsletters/healthcare/6062243-maha-voters-dont-seem-likely-gops-midterm-boost
 https://thehill.com/newsletters/healthcare/6064877-house-passes-postponement-hemp-ban
+https://thehill.com/newsletters/healthcare/6067812-protect-our-care-targeting-29-house-republicans
 https://thehill.com/newsletters/keeping-score/6046222-kyle-kirkwood-trump-freedom-250-grand-prix-indycar
 https://thehill.com/newsletters/keeping-score/6046806-san-francisco-49ers-owner-arrested-in-ohio
 https://thehill.com/newsletters/keeping-score/6057895-mark-walter-lakers-sale-controversy
@@ -568,6 +584,7 @@ https://thehill.com/newsletters/technology/6056191-trump-data-centers-republican
 https://thehill.com/newsletters/technology/6058550-meta-settlement-competitors-corner-kids-safety
 https://thehill.com/newsletters/technology/6061870-kalshi-bans-george-santos-for-life
 https://thehill.com/newsletters/technology/6064542-tim-cook-hands-over-reins-of-apple-keeps-political-clout
+https://thehill.com/newsletters/technology/6067634-google-avoids-ad-tech-breakup
 https://thehill.com/newsletters/the-gavel/6050577-supreme-court-mail-in-voting-trump-policy
 https://thehill.com/newsletters/the-gavel/6064292-white-house-ballroom-trump-supreme-court-standing
 https://thehill.com/newsletters/the-gavel/the-gavel-live-briefing/6052333-supreme-court-emergency-ruling-mail-in-voting-meta-settlement-discussion
@@ -773,6 +790,7 @@ https://thehill.com/policy/defense/6065087-trump-nominates-hung-cao-navy
 https://thehill.com/policy/defense/6065153-us-military-strikes-iran-targets
 https://thehill.com/policy/defense/6065845-uss-abraham-lincoln-thailand-visit
 https://thehill.com/policy/defense/6066683-army-secretary-dan-driscoll-response-resignation
+https://thehill.com/policy/defense/6067742-trump-iran-strikes-escalation-midterms
 https://thehill.com/policy/energy-environment/6040914-almanacs-release-predictions-for-fall-winter-but-can-you-trust-them
 https://thehill.com/policy/energy-environment/6041522-cramer-north-dakota-wetlands-fws
 https://thehill.com/policy/energy-environment/6041581-noaa-releases-fall-weather-predictions-for-all-50-states-as-el-nino-grows-stronger
@@ -803,6 +821,7 @@ https://thehill.com/policy/energy-environment/6063511-new-york-fossil-fuels-clim
 https://thehill.com/policy/energy-environment/6063579-chevron-expands-venezuela-oil-production
 https://thehill.com/policy/energy-environment/6064086-bessent-strait-of-hormuz-worthless
 https://thehill.com/policy/energy-environment/6066550-bessent-blames-ukraine-energy-shock
+https://thehill.com/policy/energy-environment/6067549-lutnick-ai-data-centers-water
 https://thehill.com/policy/healthcare/6036144-cases-of-scromiting-condition-tied-to-cannabis-use-spike-among-teens-young-adults-new-study
 https://thehill.com/policy/healthcare/6041007-blueberry-recall-fda-publix
 https://thehill.com/policy/healthcare/6041051-cdc-salmonella-jalapeno-outbreak
@@ -908,6 +927,7 @@ https://thehill.com/policy/sports-gaming/6051415-chicago-sky-wnba-enes-kanter-fr
 https://thehill.com/policy/sports-gaming/6065655-tiger-woods-plea-dui-case
 https://thehill.com/policy/sports-gaming/6066513-bill-simmons-mgc-investigation
 https://thehill.com/policy/sports-gaming/6067088-sec-nba-daktronics-kawhi-leonard-los-angeles-clippers
+https://thehill.com/policy/sports-gaming/6067722-nba-clips-salary-cap-sanctions
 https://thehill.com/policy/technology/6042267-cftc-crypto-clarity-act
 https://thehill.com/policy/technology/6042349-darth-vader-flock-surveillance
 https://thehill.com/policy/technology/6042582-ai-infrastructure-political-toxicity-midterms
@@ -999,6 +1019,7 @@ https://thehill.com/regulation/court-battles/6064527-ohio-man-pleads-guilty-vanc
 https://thehill.com/regulation/court-battles/6066488-doj-defends-pentagon-dismissals
 https://thehill.com/regulation/court-battles/6067092-doj-kansas-school-district-transgender-lawsuit
 https://thehill.com/regulation/court-battles/6067095-lindsay-clancy-trial-jurors-home-again-deadlock
+https://thehill.com/regulation/court-battles/6067819-judge-blocks-trump-birthright-order
 https://thehill.com/video-clips/6041568-trump-ceremonial-lap-national-mall
 https://thehill.com/video-clips/6042062-watch-live-donald-trump-melania-trump-fostering-future-together-rose-garden-indycar
 https://thehill.com/video-clips/6043711-vance-to-visit-middeletown-steel

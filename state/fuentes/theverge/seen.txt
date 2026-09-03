@@ -63,6 +63,7 @@ https://theverge.com/ai-artificial-intelligence/885958/openai-amazon-nvidia-soft
 https://theverge.com/ai-artificial-intelligence/893536/perplexitys-personal-computer-turns-your-spare-mac-into-an-ai-agent
 https://theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy
 https://theverge.com/ai-artificial-intelligence/915660/mythos-script-kiddies-hackers-attack-cybersecurity-ai
+https://theverge.com/ai-artificial-intelligence/915662/john-ternus-apple-ceo-tim-cook-ai-problem-siri
 https://theverge.com/ai-artificial-intelligence/916972/even-the-fancy-lawyers-are-getting-pantsed-by-ai
 https://theverge.com/ai-artificial-intelligence/921546/elon-musk-xai-openai-trial-model-distillation
 https://theverge.com/ai-artificial-intelligence/924063/openai-phone-rumors-2027-ming-chi-kuo
@@ -221,6 +222,7 @@ https://theverge.com/entertainment/986564/professor-murder-rides-the-subway-danc
 https://theverge.com/entertainment/987373/m-night-shyamalans-latest-film-is-a-youtube-video
 https://theverge.com/entertainment/987424/andrew-garfield-sam-altman-artificial-world-premiere-first-look
 https://theverge.com/entertainment/987725/youtube-tv-got-into-sports-because-sundar-couldnt-keep-track-of-fc-barcelona
+https://theverge.com/entertainment/988920/kawhi-leonard-steve-ballmer-aspiration-daktronics-boingo
 https://theverge.com/fitness-tracker-review/696156/whoop-mg-review-wearables-fitness-tracker-health
 https://theverge.com/gadgets/712844/today-im-toying-with
 https://theverge.com/gadgets/906883/whoop-bevel-lawsuit-fitness-tech
@@ -285,6 +287,7 @@ https://theverge.com/gadgets/987687/belkin-headphones-sonos-ace-nintendo-switch-
 https://theverge.com/gadgets/987802/acer-swift-blade-14-air-16-laptop-ifa-price-specs
 https://theverge.com/gadgets/987839/dell-14s-student-laptop-ifa-2026-price-specs
 https://theverge.com/gadgets/988398/rei-labor-day-sale-deal-2026
+https://theverge.com/gadgets/988962/the-tenth-titw-gadget-giveaway-has-ten-entries-so-far
 https://theverge.com/games/684957/splitgate-2-hat-apology
 https://theverge.com/games/816118/valve-steam-frame-vr-headset-streaming-arm-steamos-hands-on
 https://theverge.com/games/843260/tomb-raider-catalyst-trailer-tomb-raider-atlantis
@@ -454,6 +457,7 @@ https://theverge.com/news/987494/gopro-starman-holding-merger-aquisition
 https://theverge.com/news/988056/microsoft-windows-11-memory-integrity-rollout-october-2026
 https://theverge.com/news/988085/microsoft-turning-off-text-predictions-word-outlook
 https://theverge.com/news/988154/steamdb-nexus-mods-deal
+https://theverge.com/news/988415/uber-wayve-robotaxi-london-launch
 https://theverge.com/nintendo/686603/nintendo-switch-2-review
 https://theverge.com/podcast/905198/meta-lawsuits-facebook-instagram-youtube-social-media-addiction-section-230
 https://theverge.com/podcast/969231/samsung-unpacked-2026-vergecast-livestream
@@ -536,6 +540,7 @@ https://theverge.com/report/982414/meta-glasses-work-surveillance-labor-security
 https://theverge.com/report/985187/samsung-galaxy-s26-fe-hands-on-preview-specs-features-design
 https://theverge.com/reviews/707436/nebula-x1-review-best-portable-projector-price-specs
 https://theverge.com/reviews/810253/vanlife-setup-power-victron-solar-sogen-video
+https://theverge.com/science/786067/clippers-kawhi-leonard-salary-cap-investigation-carbon-credit-climate-change
 https://theverge.com/science/839303/rfk-jr-s-vaccine-committee-says-hepatitis-b-shot-can-wait
 https://theverge.com/science/960442/spacex-phone-prototype-elon-musk
 https://theverge.com/science/960563/amazon-leo-service-tipping-point
@@ -732,6 +737,7 @@ https://theverge.com/tech/978613/android-quick-share-tap-update-pixels-samsung
 https://theverge.com/tech/978664/robot-lawnmower-review-segway-mammotion-husqvarna-roborock-dreame
 https://theverge.com/tech/978675/now-thats-what-i-call-pistachio
 https://theverge.com/tech/978785/facebook-reimagined-creator-studio-rollout
+https://theverge.com/tech/978958/five-words-steve-ballmer-jumbotron-corruption-scandal
 https://theverge.com/tech/979070/amazon-mmo-throne-and-liberty-lost-ark-live-operations
 https://theverge.com/tech/979231/apple-base-iphone-18-launch-delayed
 https://theverge.com/tech/979241/made-by-google-2026-live-blog-pixel-11-trevor-noah
@@ -929,6 +935,8 @@ https://theverge.com/tech/988463/googlebook-app-look-up-shows-up-on-the-play-sto
 https://theverge.com/tech/988518/amazon-alexa-for-shopping-verify-emails
 https://theverge.com/tech/988536/1password-dhh-linux-controversy
 https://theverge.com/tech/988551/samsung-is-getting-in-on-the-macbook-neo-competition
+https://theverge.com/tech/988733/packard-bell-is-back-and-more-colorful-than-ever
+https://theverge.com/tech/988881/the-athletic-reportedly-drops-sports-betting-deal-with-kalshi
 https://theverge.com/transportation/760217/a-wild-miraidon-appeared
 https://theverge.com/transportation/805247/tesla-q3-earnings-elon-musk-robot-army-pay-package
 https://theverge.com/transportation/881873/tesla-cybertruck-awd-price-cut
