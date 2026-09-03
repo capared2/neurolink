@@ -230,6 +230,7 @@ https://theverge.com/entertainment/987373/m-night-shyamalans-latest-film-is-a-yo
 https://theverge.com/entertainment/987424/andrew-garfield-sam-altman-artificial-world-premiere-first-look
 https://theverge.com/entertainment/987725/youtube-tv-got-into-sports-because-sundar-couldnt-keep-track-of-fc-barcelona
 https://theverge.com/entertainment/988920/kawhi-leonard-steve-ballmer-aspiration-daktronics-boingo
+https://theverge.com/entertainment/989880/dungeons-and-dragons-ravenloft-netflix
 https://theverge.com/fitness-tracker-review/696156/whoop-mg-review-wearables-fitness-tracker-health
 https://theverge.com/gadgets/712844/today-im-toying-with
 https://theverge.com/gadgets/847777/oh-snap-i-have-a-new-favorite-phone-grip
@@ -303,6 +304,8 @@ https://theverge.com/gadgets/988962/the-tenth-titw-gadget-giveaway-has-ten-entri
 https://theverge.com/gadgets/989052/xgimis-4k-120hz-ust-projector-starts-at-2199
 https://theverge.com/gadgets/989101/dbrand-goes-minimal
 https://theverge.com/gadgets/989151/oukitel-rg14-p-rugged-laptop-solar
+https://theverge.com/gadgets/989499/samsung-q-series-soundbar-dbrand-killswitch-2-deal-sale
+https://theverge.com/gadgets/989828/spider-verse-two-movie-set-4k-blu-ray-deal-sale
 https://theverge.com/games/684957/splitgate-2-hat-apology
 https://theverge.com/games/816118/valve-steam-frame-vr-headset-streaming-arm-steamos-hands-on
 https://theverge.com/games/843260/tomb-raider-catalyst-trailer-tomb-raider-atlantis
@@ -405,6 +408,7 @@ https://theverge.com/games/988419/the-steam-frame-will-get-color-passthrough-aft
 https://theverge.com/games/988482/wait-youre-telling-me-star-wars-zero-company-could-have-been-a-titanfall-game
 https://theverge.com/games/989382/playstation-reveals-limited-edition-gta-vi-controllers
 https://theverge.com/games/989680/weve-heard-from-families-with-crying-kids
+https://theverge.com/games/989775/fallout-stern-pinball
 https://theverge.com/health/688503/rfk-jr-vaccines
 https://theverge.com/health/981670/daniel-eks-body-scanning-clinic-neko-health-will-open-in-nyc-on-september-24th
 https://theverge.com/huawei/667574/huawei-mate-xt-review-trifold-phone
@@ -423,6 +427,7 @@ https://theverge.com/news/662834/gta-6-trailer-gameplay-ps5
 https://theverge.com/news/664776/apple-curved-glass-iphone-2027
 https://theverge.com/news/666443/judge-slams-lawyers-ai-bogus-research
 https://theverge.com/news/668365/charter-cox-megamerger-deal-34-billion
+https://theverge.com/news/672092/senate-republican-vote-car-truck-pollution-ev-waiver-california
 https://theverge.com/news/683846/macos-tahoe-intel-x86-arm-m-cpu
 https://theverge.com/news/708798/adobe-firefly-ai-generate-sound-effects-video-composition
 https://theverge.com/news/713653/judge-withdraws-cormedix-case-ai-citation-errors
@@ -509,6 +514,7 @@ https://theverge.com/podcast/986935/todays-vergecast-can-fairphone-survive-the-u
 https://theverge.com/podcast/987741/todays-vergecast-what-the-ai-overlords-get-wrong-about-being-alive
 https://theverge.com/podcast/988368/sonos-ceo-tom-conrad-ai-smart-home-fabric-app-redesign
 https://theverge.com/podcast/988634/todays-vergecast-whats-happening-with-us-data-centers
+https://theverge.com/podcast/989850/todays-vergecast-apple-home-rumors-ranked
 https://theverge.com/pokemon/620617/honda-miraidon-motorcycle
 https://theverge.com/policy/677373/lawyers-chatgpt-hallucinations-ai
 https://theverge.com/policy/799473/facebook-meta-ice-jawboning
@@ -561,6 +567,7 @@ https://theverge.com/policy/986870/let-data-reign
 https://theverge.com/policy/987356/tim-cook-apple-trump-xi
 https://theverge.com/policy/988228/nyc-ai-restrictions-in-schools-chatbot-ban
 https://theverge.com/policy/988316/google-ad-tech-antitrust-remedies-decision
+https://theverge.com/policy/989769/tiktok-house-committee-china-kids-online-safety
 https://theverge.com/report/829265/hoto-fanttik-profile-origins-xiaomi-aukey-tiktok
 https://theverge.com/report/840822/australia-social-media-ban-under-16-response
 https://theverge.com/report/841994/operation-bluebird-twitter-trademarks-petition
@@ -1011,6 +1018,7 @@ https://theverge.com/tech/988806/dyson-air-purifier-fan-heater-hushjet
 https://theverge.com/tech/988881/the-athletic-reportedly-drops-sports-betting-deal-with-kalshi
 https://theverge.com/tech/988882/lenovo-project-aeroblade-concept-frore-airjet-silent-cooling
 https://theverge.com/tech/988921/weather-forecast-ai-model-google-satellite-update
+https://theverge.com/tech/988925/jlabs-updated-open-sport-2-are-cheaper-than-their-predecessor
 https://theverge.com/tech/988953/philips-hue-smart-lighting-custom-ai-behaviors-sonos-integration
 https://theverge.com/tech/988973/lenovo-made-an-incredibly-lappable-detachable-tablet-keyboard
 https://theverge.com/tech/989014/philips-hue-liane-360-rope-lights-smart-lighting-interior-design
@@ -1061,3 +1069,4 @@ https://theverge.com/transportation/988232/range-rover-electric-range-battery-sp
 https://theverge.com/transportation/988458/zoox-goes-to-the-airport
 https://theverge.com/transportation/988737/waymo-is-a-magnet-for-parking-tickets
 https://theverge.com/transportation/989373/happy-tesla-cybercab-day-right
+https://theverge.com/transportation/989797/pro-natalist-elon-musk-bans-kids-from-riding-in-the-tesla-cybercab

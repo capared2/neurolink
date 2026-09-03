@@ -73,6 +73,7 @@ https://thehill.com/business/6066584-bessent-calls-china-g20-dissenter
 https://thehill.com/business/6068018-single-americans-romantic-partners-salary-matters-study
 https://thehill.com/business/6069071-bond-yields-fall-us-treasury
 https://thehill.com/business/6069223-us-trade-deficit-july-rise
+https://thehill.com/business/6069690-donald-trump-beef-tariff-relief-lower-prices
 https://thehill.com/business/agriculture/6052290-ranchers-protest-foreign-imported-beef
 https://thehill.com/business/economy/6043886-one-seemingly-ordinary-job-has-gotten-much-more-deadly-over-the-past-10-years-federal-data-shows
 https://thehill.com/business/economy/6060815-these-30-industries-could-see-the-fastest-job-decline-in-the-next-decade-labor-department
@@ -248,6 +249,8 @@ https://thehill.com/homenews/administration/6068915-aikins-threatened-punch-el-s
 https://thehill.com/homenews/administration/6069225-scott-jennings-donald-trump-iran-war-victory-declaration
 https://thehill.com/homenews/administration/6069276-trump-claims-unlimited-ammunition
 https://thehill.com/homenews/administration/6069572-ice-hiring-whistleblower-dhs-oig
+https://thehill.com/homenews/administration/6069864-vance-defends-tucker-carlson-friendship
+https://thehill.com/homenews/administration/6069975-vance-refuses-iran-war-label
 https://thehill.com/homenews/analysis/6040221-democrats-leftist-win-senate-race
 https://thehill.com/homenews/analysis/6042626-treasury-secretary-bessent-buyback
 https://thehill.com/homenews/analysis/6057609-gop-campaign-centered-trump
@@ -378,6 +381,7 @@ https://thehill.com/homenews/campaign/6067580-gop-midterm-convention-trump-polls
 https://thehill.com/homenews/campaign/6067649-ralph-norman-darline-graham-trump-endorsement
 https://thehill.com/homenews/campaign/6069181-musk-america-pac-spending-surge
 https://thehill.com/homenews/campaign/6069383-harris-red-state-democrat-rejections
+https://thehill.com/homenews/campaign/6070144-rove-paxton-texas-senate-time
 https://thehill.com/homenews/campaign/data-nerds/6040929-democratic-socialist-angie-nixon-florida-upset-what-to-know-discussion
 https://thehill.com/homenews/campaign/data-nerds/6054870-democratic-party-senate-control-division-2026-midterms-discussion
 https://thehill.com/homenews/campaign/data-nerds/6068929-abdul-el-sayed-democratic-tensions-michigan-senate-race-discussion
@@ -445,6 +449,7 @@ https://thehill.com/homenews/house/6068874-tenney-calls-lake-america-troll
 https://thehill.com/homenews/house/6068979-gop-cut-september-session-short
 https://thehill.com/homenews/house/6069343-comer-mitch-mcconnell-absence-return-update
 https://thehill.com/homenews/house/6069382-gluesenkamp-perez-rule-defection
+https://thehill.com/homenews/house/6069706-thomas-massie-flock-off-act-federal-funds
 https://thehill.com/homenews/lgbtq/6044688-log-cabin-republicans-transgender-support-ends
 https://thehill.com/homenews/media/6040779-alina-habba-press-secretary-karoline-leavitt
 https://thehill.com/homenews/media/6045875-scott-jennings-press-secretary-reports
@@ -550,6 +555,8 @@ https://thehill.com/homenews/state-watch/6067113-popular-downtown-chicago-bridge
 https://thehill.com/homenews/state-watch/6067488-newsom-schiff-trump-film-tax
 https://thehill.com/homenews/state-watch/6067788-2-people-killed-suspect-dead-after-shooting-in-minneapolis-apartment-building
 https://thehill.com/homenews/state-watch/6068588-milk-recall-warns-of-unpleasant-taste-odor
+https://thehill.com/homenews/state-watch/6069785-lindsay-clancy-trial
+https://thehill.com/homenews/state-watch/6070005-missouri-rep-ross-drug-plot
 https://thehill.com/homenews/sunday-talk-shows/6045326-sunday-shows-trump-canada-trade-republican-primaries
 https://thehill.com/homenews/sunday-talk-shows/6059207-sunday-shows-trump-gop-economic-tensions-foreign-relations
 https://thehill.com/media/6050281-paramount-warner-bros-merger-antitrust-lawsuit-rob-bonta
@@ -750,6 +757,7 @@ https://thehill.com/opinion/lindseys-lens/6055299-darline-graham-sc-senate-race
 https://thehill.com/opinion/lindseys-lens/6057599-iran-school-strike-investigation
 https://thehill.com/opinion/lindseys-lens/6061458-trump-welker-fcc-threat
 https://thehill.com/opinion/lindseys-lens/6067041-usps-whistleblower-mailballots
+https://thehill.com/opinion/lindseys-lens/6069767-laura-loomer-racist-comments
 https://thehill.com/opinion/national-security/6033321-us-iran-diplomatic-stalemate
 https://thehill.com/opinion/national-security/6038488-fedorov-ukraine-wartime-elections
 https://thehill.com/opinion/national-security/6040093-reversing-chinese-belt-road
@@ -775,6 +783,7 @@ https://thehill.com/opinion/robbys-radar/6052757-data-center-water-usage-myths
 https://thehill.com/opinion/robbys-radar/6055273-zuckerberg-settles-social-media-lawsuit
 https://thehill.com/opinion/robbys-radar/6061394-el-sayed-hasan-piker-michigan
 https://thehill.com/opinion/robbys-radar/6067024-texas-senate-candidate-woke-claims
+https://thehill.com/opinion/robbys-radar/6069743-avila-chevalier-slams-democrats
 https://thehill.com/opinion/technology/6041606-governing-moon-mars-colonization
 https://thehill.com/opinion/technology/6047429-flexible-work-employee-autonomy
 https://thehill.com/opinion/technology/6049979-faa-recruits-video-gamers
@@ -799,6 +808,7 @@ https://thehill.com/opinion/white-house/6061642-trump-reincantion-roy-cohn
 https://thehill.com/opinion/white-house/6062599-us-diplomacy-trump-bluster
 https://thehill.com/opinion/white-house/6063562-executive-order-lake-america
 https://thehill.com/opinion/white-house/6067311-trump-midterm-spending-power
+https://thehill.com/policy/cybersecurity/6069692-fbi-leaked-drivers-licenses-dark-web
 https://thehill.com/policy/defense/6040175-army-rotc-academic-standards-memo-debate
 https://thehill.com/policy/defense/6040353-airman-detained-again-capitol-trump-protest
 https://thehill.com/policy/defense/6041407-trump-threatens-oman-iran-deal
@@ -848,6 +858,8 @@ https://thehill.com/policy/defense/6067589-hegseth-pentagon-senator-clash
 https://thehill.com/policy/defense/6067742-trump-iran-strikes-escalation-midterms
 https://thehill.com/policy/defense/6068287-former-air-force-secretary-hegeseths-pentagon-dysfunctional
 https://thehill.com/policy/defense/6068468-bacon-tillis-push-hegseth-ouster
+https://thehill.com/policy/defense/6069728-pentagon-temporarily-rescinds-testosterone-guidance
+https://thehill.com/policy/defense/6069868-leon-panetta-hegseth-criticism-undermines-military
 https://thehill.com/policy/energy-environment/6040914-almanacs-release-predictions-for-fall-winter-but-can-you-trust-them
 https://thehill.com/policy/energy-environment/6041522-cramer-north-dakota-wetlands-fws
 https://thehill.com/policy/energy-environment/6041581-noaa-releases-fall-weather-predictions-for-all-50-states-as-el-nino-grows-stronger
@@ -880,6 +892,8 @@ https://thehill.com/policy/energy-environment/6064086-bessent-strait-of-hormuz-w
 https://thehill.com/policy/energy-environment/6066550-bessent-blames-ukraine-energy-shock
 https://thehill.com/policy/energy-environment/6067549-lutnick-ai-data-centers-water
 https://thehill.com/policy/energy-environment/6069104-texas-cbp-trump-border-wall-big-bend
+https://thehill.com/policy/energy-environment/6069727-patagonia-joins-national-monuments-lawsuit
+https://thehill.com/policy/energy-environment/6070202-trump-dc-arch-interior
 https://thehill.com/policy/healthcare/6036144-cases-of-scromiting-condition-tied-to-cannabis-use-spike-among-teens-young-adults-new-study
 https://thehill.com/policy/healthcare/6041007-blueberry-recall-fda-publix
 https://thehill.com/policy/healthcare/6041051-cdc-salmonella-jalapeno-outbreak
@@ -921,6 +935,8 @@ https://thehill.com/policy/healthcare/6064552-hemp-ban-delayed-house-funding-bil
 https://thehill.com/policy/healthcare/6066452-employer-health-costs-spike-2027
 https://thehill.com/policy/healthcare/6066460-ebola-death-toll-tops-3000-congo
 https://thehill.com/policy/healthcare/6067715-pennsylvania-measles-deaths-dispute-cdc
+https://thehill.com/policy/healthcare/6068925-ama-vip-vaccine-recommendations
+https://thehill.com/policy/healthcare/6069932-bipartisan-house-introduces-insulin-cap-legislation
 https://thehill.com/policy/international/6040680-iran-minister-slams-trump-economic-dday
 https://thehill.com/policy/international/6042225-rubio-cuba-sanctions
 https://thehill.com/policy/international/6043090-iran-reaction-us-sanctions-trump-administration-war
@@ -989,6 +1005,7 @@ https://thehill.com/policy/sports-gaming/6067088-sec-nba-daktronics-kawhi-leonar
 https://thehill.com/policy/sports-gaming/6067722-nba-clips-salary-cap-sanctions
 https://thehill.com/policy/sports-gaming/6068651-tiger-woods-reckless-driving-plea
 https://thehill.com/policy/sports-gaming/6069420-nick-saban-college-sports-ncaa-kickoff-weekend
+https://thehill.com/policy/sports-gaming/6069710-southeastern-conference-sues-lsu-lane-kiffin
 https://thehill.com/policy/technology/6042267-cftc-crypto-clarity-act
 https://thehill.com/policy/technology/6042349-darth-vader-flock-surveillance
 https://thehill.com/policy/technology/6042582-ai-infrastructure-political-toxicity-midterms
@@ -1024,6 +1041,7 @@ https://thehill.com/policy/technology/6068386-nvidia-acquires-hugging-face
 https://thehill.com/policy/technology/6069042-rep-gimenez-praises-china-ai
 https://thehill.com/policy/technology/6069131-sanders-casar-ai-superintelligence-ban
 https://thehill.com/policy/technology/6069491-microsoft-supports-data-center-water-cost-measure
+https://thehill.com/policy/technology/6070203-openai-rolls-out-gpt-6-astra
 https://thehill.com/policy/transportation/6050209-tsa-phases-out-gold-program
 https://thehill.com/policy/transportation/6050669-uber-new-family-features-teen-accounts-stream-safety
 https://thehill.com/policy/transportation/6059553-google-maps-renames-lake-america
@@ -1089,6 +1107,8 @@ https://thehill.com/regulation/court-battles/6067092-doj-kansas-school-district-
 https://thehill.com/regulation/court-battles/6067095-lindsay-clancy-trial-jurors-home-again-deadlock
 https://thehill.com/regulation/court-battles/6067819-judge-blocks-trump-birthright-order
 https://thehill.com/regulation/court-battles/6068303-donald-trump-mine-safety-commissioner-legal-fight
+https://thehill.com/regulation/court-battles/6069747-liz-oyer-mel-gibson-lawsuit
+https://thehill.com/regulation/court-battles/6070171-supreme-court-justice-department-mail-voting-usps
 https://thehill.com/video-clips/6041568-trump-ceremonial-lap-national-mall
 https://thehill.com/video-clips/6042062-watch-live-donald-trump-melania-trump-fostering-future-together-rose-garden-indycar
 https://thehill.com/video-clips/6043711-vance-to-visit-middeletown-steel
