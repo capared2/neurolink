@@ -74,6 +74,7 @@ https://thehill.com/business/6068018-single-americans-romantic-partners-salary-m
 https://thehill.com/business/6069071-bond-yields-fall-us-treasury
 https://thehill.com/business/6069223-us-trade-deficit-july-rise
 https://thehill.com/business/6069690-donald-trump-beef-tariff-relief-lower-prices
+https://thehill.com/business/6070374-mortgage-rates-hit-yearly-high
 https://thehill.com/business/agriculture/6052290-ranchers-protest-foreign-imported-beef
 https://thehill.com/business/economy/6043886-one-seemingly-ordinary-job-has-gotten-much-more-deadly-over-the-past-10-years-federal-data-shows
 https://thehill.com/business/economy/6060815-these-30-industries-could-see-the-fastest-job-decline-in-the-next-decade-labor-department
@@ -251,6 +252,10 @@ https://thehill.com/homenews/administration/6069276-trump-claims-unlimited-ammun
 https://thehill.com/homenews/administration/6069572-ice-hiring-whistleblower-dhs-oig
 https://thehill.com/homenews/administration/6069864-vance-defends-tucker-carlson-friendship
 https://thehill.com/homenews/administration/6069975-vance-refuses-iran-war-label
+https://thehill.com/homenews/administration/6070210-trump-ends-private-school-tax-exemptions
+https://thehill.com/homenews/administration/6070277-jd-vance-sept-11-memorial
+https://thehill.com/homenews/administration/6070543-trump-administration-warns-agencies-could-stop-helping-smithsonian
+https://thehill.com/homenews/administration/6070592-trump-adam-telle-army-secretary-announcement
 https://thehill.com/homenews/analysis/6040221-democrats-leftist-win-senate-race
 https://thehill.com/homenews/analysis/6042626-treasury-secretary-bessent-buyback
 https://thehill.com/homenews/analysis/6057609-gop-campaign-centered-trump
@@ -382,6 +387,8 @@ https://thehill.com/homenews/campaign/6067649-ralph-norman-darline-graham-trump-
 https://thehill.com/homenews/campaign/6069181-musk-america-pac-spending-surge
 https://thehill.com/homenews/campaign/6069383-harris-red-state-democrat-rejections
 https://thehill.com/homenews/campaign/6070144-rove-paxton-texas-senate-time
+https://thehill.com/homenews/campaign/6070220-jim-justice-considers-wv-governor-run
+https://thehill.com/homenews/campaign/6070458-missouri-supreme-court-redistricting-republicans
 https://thehill.com/homenews/campaign/data-nerds/6040929-democratic-socialist-angie-nixon-florida-upset-what-to-know-discussion
 https://thehill.com/homenews/campaign/data-nerds/6054870-democratic-party-senate-control-division-2026-midterms-discussion
 https://thehill.com/homenews/campaign/data-nerds/6068929-abdul-el-sayed-democratic-tensions-michigan-senate-race-discussion
@@ -450,6 +457,7 @@ https://thehill.com/homenews/house/6068979-gop-cut-september-session-short
 https://thehill.com/homenews/house/6069343-comer-mitch-mcconnell-absence-return-update
 https://thehill.com/homenews/house/6069382-gluesenkamp-perez-rule-defection
 https://thehill.com/homenews/house/6069706-thomas-massie-flock-off-act-federal-funds
+https://thehill.com/homenews/house/6070508-pentagon-nih-diverts-funds-democrats-statement
 https://thehill.com/homenews/lgbtq/6044688-log-cabin-republicans-transgender-support-ends
 https://thehill.com/homenews/media/6040779-alina-habba-press-secretary-karoline-leavitt
 https://thehill.com/homenews/media/6045875-scott-jennings-press-secretary-reports
@@ -581,6 +589,7 @@ https://thehill.com/newsletters/business-economy/6053659-trump-plan-to-raise-deb
 https://thehill.com/newsletters/business-economy/6056142-all-eyes-on-warsh-in-wyoming
 https://thehill.com/newsletters/business-economy/6064391-bond-sell-off-soars-amid-inflation-debt-fears
 https://thehill.com/newsletters/business-economy/6067771-bessent-trump-agenda-g20-finance
+https://thehill.com/newsletters/business-economy/6070375-trade-deficit-ticks-up
 https://thehill.com/newsletters/defense-national-security/6042716-us-approves-possible-4-5-billion-sale-of-refueling-aircraft-to-qatar
 https://thehill.com/newsletters/defense-national-security/6048001-trump-forgoes-military-strikes-attempts-economic-chokehold-iran
 https://thehill.com/newsletters/defense-national-security/6050716-hegseth-loeffler-small-defense-contractors-newsletter
@@ -588,6 +597,7 @@ https://thehill.com/newsletters/defense-national-security/6053851-do-irans-lates
 https://thehill.com/newsletters/defense-national-security/6056286-uss-theodore-roosevelt-being-deployed-to-middle-east
 https://thehill.com/newsletters/defense-national-security/6058631-trump-speech-pentagon-9-11-defense-newsletter
 https://thehill.com/newsletters/defense-national-security/6062154-pentagon-inks-deals-bolster-interceptor-production
+https://thehill.com/newsletters/defense-national-security/6070569-vance-extremely-skeptical-of-iran-wedding-attack-reports
 https://thehill.com/newsletters/energy-environment/6042606-wetlands-policy-causes-gop-friction
 https://thehill.com/newsletters/energy-environment/6044586-doi-outlines-short-term-plan-for-water-cuts-in-ca-az-nv
 https://thehill.com/newsletters/energy-environment/6047881-politicians-aim-to-distance-themselves-from-data-centers
@@ -598,6 +608,7 @@ https://thehill.com/newsletters/energy-environment/6058603-trump-eyes-yosemite-l
 https://thehill.com/newsletters/energy-environment/6062207-trump-us-has-control-of-large-slice-of-venezuelas-oil
 https://thehill.com/newsletters/energy-environment/6064628-white-house-unveils-new-details-of-venezuela-agreement
 https://thehill.com/newsletters/energy-environment/6067707-chevron-plans-to-double-its-venezuela-oil-production
+https://thehill.com/newsletters/energy-environment/6070522-judge-halts-epa-effort-to-overturn-california-car-rules
 https://thehill.com/newsletters/healthcare/6042627-schwartz-recognizes-cdc-strife-in-first-talks-with-staff
 https://thehill.com/newsletters/healthcare/6044727-trump-eyes-vaccine-categories
 https://thehill.com/newsletters/healthcare/6048133-back-to-school-season-fuels-growing-measles-concerns
@@ -608,6 +619,7 @@ https://thehill.com/newsletters/healthcare/6058655-rfk-jr-questions-measles-deat
 https://thehill.com/newsletters/healthcare/6062243-maha-voters-dont-seem-likely-gops-midterm-boost
 https://thehill.com/newsletters/healthcare/6064877-house-passes-postponement-hemp-ban
 https://thehill.com/newsletters/healthcare/6067812-protect-our-care-targeting-29-house-republicans
+https://thehill.com/newsletters/healthcare/6070586-what-to-know-about-respiratory-vaccine-recommendations
 https://thehill.com/newsletters/keeping-score/6046222-kyle-kirkwood-trump-freedom-250-grand-prix-indycar
 https://thehill.com/newsletters/keeping-score/6046806-san-francisco-49ers-owner-arrested-in-ohio
 https://thehill.com/newsletters/keeping-score/6057895-mark-walter-lakers-sale-controversy
@@ -634,6 +646,7 @@ https://thehill.com/newsletters/technology/6058550-meta-settlement-competitors-c
 https://thehill.com/newsletters/technology/6061870-kalshi-bans-george-santos-for-life
 https://thehill.com/newsletters/technology/6064542-tim-cook-hands-over-reins-of-apple-keeps-political-clout
 https://thehill.com/newsletters/technology/6067634-google-avoids-ad-tech-breakup
+https://thehill.com/newsletters/technology/6070307-trump-takes-the-risk-on-data-centers
 https://thehill.com/newsletters/the-gavel/6050577-supreme-court-mail-in-voting-trump-policy
 https://thehill.com/newsletters/the-gavel/6064292-white-house-ballroom-trump-supreme-court-standing
 https://thehill.com/newsletters/the-gavel/the-gavel-live-briefing/6052333-supreme-court-emergency-ruling-mail-in-voting-meta-settlement-discussion
@@ -894,6 +907,7 @@ https://thehill.com/policy/energy-environment/6067549-lutnick-ai-data-centers-wa
 https://thehill.com/policy/energy-environment/6069104-texas-cbp-trump-border-wall-big-bend
 https://thehill.com/policy/energy-environment/6069727-patagonia-joins-national-monuments-lawsuit
 https://thehill.com/policy/energy-environment/6070202-trump-dc-arch-interior
+https://thehill.com/policy/energy-environment/6070479-forest-service-closes-research-sites
 https://thehill.com/policy/healthcare/6036144-cases-of-scromiting-condition-tied-to-cannabis-use-spike-among-teens-young-adults-new-study
 https://thehill.com/policy/healthcare/6041007-blueberry-recall-fda-publix
 https://thehill.com/policy/healthcare/6041051-cdc-salmonella-jalapeno-outbreak
@@ -1054,6 +1068,7 @@ https://thehill.com/policy/transportation/6065507-apple-maps-lake-ontario-donald
 https://thehill.com/policy/transportation/6066067-labor-day-travels-tsa-precheck-renewal
 https://thehill.com/policy/transportation/6068923-california-clean-car-rules-epa-cra
 https://thehill.com/policy/transportation/6069490-faa-proposed-mar-a-lago-restrictions
+https://thehill.com/policy/transportation/6070614-auto-companies-congress-letter-chinese-car-ban
 https://thehill.com/regulation/court-battles/6042548-woman-arrested-ny-state-capitol-bomb-plot
 https://thehill.com/regulation/court-battles/6043480-trump-white-house-ballroom-supreme-court
 https://thehill.com/regulation/court-battles/6043735-trump-center-american-progress-national-guard-defamation
@@ -1109,6 +1124,7 @@ https://thehill.com/regulation/court-battles/6067819-judge-blocks-trump-birthrig
 https://thehill.com/regulation/court-battles/6068303-donald-trump-mine-safety-commissioner-legal-fight
 https://thehill.com/regulation/court-battles/6069747-liz-oyer-mel-gibson-lawsuit
 https://thehill.com/regulation/court-battles/6070171-supreme-court-justice-department-mail-voting-usps
+https://thehill.com/regulation/court-battles/6070230-lindsay-clancy-defense-juror-deadlock-blame
 https://thehill.com/video-clips/6041568-trump-ceremonial-lap-national-mall
 https://thehill.com/video-clips/6042062-watch-live-donald-trump-melania-trump-fostering-future-together-rose-garden-indycar
 https://thehill.com/video-clips/6043711-vance-to-visit-middeletown-steel
