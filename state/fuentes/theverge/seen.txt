@@ -49,6 +49,7 @@ https://theverge.com/2024/12/16/24322769/waymo-japan-robotaxi-test-nihon-kotsu-g
 https://theverge.com/2024/12/20/24325822/netflix-fifa-womens-world-cup-us-streaming-rights
 https://theverge.com/2024/5/23/24163198/apple-foldable-macbooks-shipments-2026-kuo
 https://theverge.com/2024/6/23/24184310/yes-it-is-crazy-to-build-a-new-v16-engine
+https://theverge.com/2024/7/20/24202627/iphone-gamma-ps1-emulator-updates-graphics-multitap-multidisc-video-games
 https://theverge.com/2024/7/24/24204706/marc-andreessen-ben-horowitz-a16z-trump-donations
 https://theverge.com/2024/7/3/24191422/lg-homey-athom-acquisition-samsung-smartthings
 https://theverge.com/2024/8/12/24218442/space-junk-debris-satellite-news-storystream
@@ -163,6 +164,8 @@ https://theverge.com/ai-artificial-intelligence/989617/instagram-ai-content-labe
 https://theverge.com/ai-artificial-intelligence/989910/suno-yanks-ad-showing-supposed-endorsement-from-mary-j-blige
 https://theverge.com/ai-artificial-intelligence/990060/altman-apologizes-messy-astra-rollout
 https://theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki
+https://theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip
+https://theverge.com/ai-artificial-intelligence/990309/gpt-6-astra-openai-demo-promo-reel
 https://theverge.com/antitrust/982578/google-just-showed-off-its-new-prototype-of-how-third-party-app-stores-will-look
 https://theverge.com/apple/985133/apple-is-automatically-upgrading-some-recent-mac-mini-m4-orders-to-m6-or-m5-pro-versions-for-free
 https://theverge.com/bulletin/795051/verge-podcast-ad-free-set-up-how-to
@@ -316,6 +319,7 @@ https://theverge.com/gadgets/989151/oukitel-rg14-p-rugged-laptop-solar
 https://theverge.com/gadgets/989407/alienware-gaming-laptop-capsule-dishwasher-samsung-oled-deal-sale
 https://theverge.com/gadgets/989499/samsung-q-series-soundbar-dbrand-killswitch-2-deal-sale
 https://theverge.com/gadgets/989828/spider-verse-two-movie-set-4k-blu-ray-deal-sale
+https://theverge.com/gadgets/990425/gopro-nick-woodman-starman-letter
 https://theverge.com/games/684957/splitgate-2-hat-apology
 https://theverge.com/games/816118/valve-steam-frame-vr-headset-streaming-arm-steamos-hands-on
 https://theverge.com/games/843260/tomb-raider-catalyst-trailer-tomb-raider-atlantis
@@ -487,6 +491,7 @@ https://theverge.com/news/961528/microsoft-layoffs-july-2026-sales-xbox
 https://theverge.com/news/963196/spacex-is-on-track-for-record-setting-starlink-deployments
 https://theverge.com/news/966676/trump-teleprompter-operator-kalshi-bets-mention-markets-investigation
 https://theverge.com/news/969117/microsoft-xbox-games-pc-backward-compatibility
+https://theverge.com/news/972182/wikipedia-wikimedia-foundation-union-editor-strike
 https://theverge.com/news/982933/299-usb-c-video-glasses-with-3dof
 https://theverge.com/news/985225/heat-stress-children-climate-change-study
 https://theverge.com/news/986721/car-tech-survey-jd-power-smart-ignition
@@ -531,6 +536,7 @@ https://theverge.com/podcast/987741/todays-vergecast-what-the-ai-overlords-get-w
 https://theverge.com/podcast/988368/sonos-ceo-tom-conrad-ai-smart-home-fabric-app-redesign
 https://theverge.com/podcast/988634/todays-vergecast-whats-happening-with-us-data-centers
 https://theverge.com/podcast/989850/todays-vergecast-apple-home-rumors-ranked
+https://theverge.com/podcast/990323/agi-is-whatever-you-want-it-to-be
 https://theverge.com/pokemon/620617/honda-miraidon-motorcycle
 https://theverge.com/policy/677373/lawyers-chatgpt-hallucinations-ai
 https://theverge.com/policy/799473/facebook-meta-ice-jawboning
@@ -588,6 +594,7 @@ https://theverge.com/policy/989769/tiktok-house-committee-china-kids-online-safe
 https://theverge.com/policy/990195/ice-palantir-elite-app
 https://theverge.com/policy/990267/microsoft-openai-new-york-times-authors-lawsuit
 https://theverge.com/policy/990295/andrew-tate-indicted-in-romania-again
+https://theverge.com/policy/990520/trump-arcade-games-maga-copyright
 https://theverge.com/report/829265/hoto-fanttik-profile-origins-xiaomi-aukey-tiktok
 https://theverge.com/report/840822/australia-social-media-ban-under-16-response
 https://theverge.com/report/841994/operation-bluebird-twitter-trademarks-petition
@@ -709,6 +716,7 @@ https://theverge.com/tech/942331/metas-marketplace-evades-the-eus-big-tech-crack
 https://theverge.com/tech/942932/portable-light-camping-work-travel
 https://theverge.com/tech/943905/meta-remembers-the-portal-exists-and-turns-it-into-an-ai-dev-kit
 https://theverge.com/tech/946744/meta-website-activity-personalize-feeds
+https://theverge.com/tech/947218/insta360-luna-ultra-dual-camera-stabilized-8k-telephoto-leica-us-availability-pricing
 https://theverge.com/tech/947827/roborock-is-here-to-rock-your-lawn
 https://theverge.com/tech/949259/the-worlds-first-trillionaire-is-a-killer
 https://theverge.com/tech/949305/popsockets-magnetic-magsafe-low-pro-grip-hands-on
@@ -1069,6 +1077,13 @@ https://theverge.com/tech/990006/this-nas-company-wants-to-run-your-local-smart-
 https://theverge.com/tech/990045/irobot-roomba-duo-concept-robot-vacuum
 https://theverge.com/tech/990102/google-photos-is-coming-to-gemini-spark
 https://theverge.com/tech/990123/dyson-launches-three-new-robot-vacuums
+https://theverge.com/tech/990288/benjamin-stark-zodttd-psimulator-ios-iphone-ipados-sega-dreamcast-emulator
+https://theverge.com/tech/990316/wikipedia-staffers-vote-to-unionize
+https://theverge.com/tech/990340/insta360s-luna-pro-shoots-4k-vertical-video
+https://theverge.com/tech/990372/i-saw-a-whole-bunch-of-rtx-spark-laptops-all-at-once
+https://theverge.com/tech/990406/remarkable-software-update-capture-tool-epub-formatting
+https://theverge.com/tech/990410/hp-announces-new-omnibook-laptops-and-a-desktop-with-nvidia-rtx-spark
+https://theverge.com/tech/990573/these-color-matched-belkin-accessories-almost-make-me-want-to-buy-a-macbook-neo
 https://theverge.com/transportation/760217/a-wild-miraidon-appeared
 https://theverge.com/transportation/805247/tesla-q3-earnings-elon-musk-robot-army-pay-package
 https://theverge.com/transportation/881873/tesla-cybertruck-awd-price-cut
@@ -1113,3 +1128,4 @@ https://theverge.com/transportation/989797/pro-natalist-elon-musk-bans-kids-from
 https://theverge.com/transportation/989945/tesla-isnt-livestreaming-its-cybercab-event
 https://theverge.com/transportation/990130/tesla-cybercab-nhtsa-investigation-fmvss-certify
 https://theverge.com/transportation/990274/heres-what-its-like-to-ride-in-a-tesla-cybercab
+https://theverge.com/tv/621815/kiana-mai-pretty-pretty-please-i-dont-want-to-be-a-magical-girl
