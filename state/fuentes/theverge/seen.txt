@@ -153,10 +153,12 @@ https://theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitorin
 https://theverge.com/ai-artificial-intelligence/988344/trump-administration-new-york-times-openai-lawsuit
 https://theverge.com/ai-artificial-intelligence/988675/jason-isbell-sues-suno-but-not-for-copyright-infringement
 https://theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash
+https://theverge.com/ai-artificial-intelligence/989376/ai-generated-food-why-does-it-look-like-that
 https://theverge.com/ai-artificial-intelligence/989435/nvidia-pair-personal-ai-router-home-local-llm-compute-tool-rtx-macbook
 https://theverge.com/ai-artificial-intelligence/989503/chatgpt-grok-claude-outage-down
 https://theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release
 https://theverge.com/ai-artificial-intelligence/989910/suno-yanks-ad-showing-supposed-endorsement-from-mary-j-blige
+https://theverge.com/ai-artificial-intelligence/990060/altman-apologizes-messy-astra-rollout
 https://theverge.com/antitrust/982578/google-just-showed-off-its-new-prototype-of-how-third-party-app-stores-will-look
 https://theverge.com/apple/985133/apple-is-automatically-upgrading-some-recent-mac-mini-m4-orders-to-m6-or-m5-pro-versions-for-free
 https://theverge.com/bulletin/795051/verge-podcast-ad-free-set-up-how-to
@@ -439,6 +441,7 @@ https://theverge.com/news/757979/google-search-preferred-sources-launch-top-stor
 https://theverge.com/news/761501/insta360-ultra-go-action-camera-4k-60fps-microsd
 https://theverge.com/news/761665/meta-ai-translation-facebook-instagram-reels
 https://theverge.com/news/765881/google-android-apps-side-loading-developer-verification
+https://theverge.com/news/771665/timekettle-w4-ai-interpreter-wireless-earbuds-bone-conduction
 https://theverge.com/news/797853/facebook-and-instagram-can-now-automatically-translate-and-dub-reels-in-hindi-and-portuguese
 https://theverge.com/news/798775/nvidia-spark-personal-ai-supercomputer
 https://theverge.com/news/798871/california-governor-newsom-age-gating-ab-1043
@@ -494,6 +497,8 @@ https://theverge.com/news/989166/microsoft-xbox-cloud-gaming-hourly-limits-chang
 https://theverge.com/news/989211/microsoft-xbox-cloud-gaming-pay-as-you-go-option
 https://theverge.com/news/989347/lego-playstation-release-date-pricing
 https://theverge.com/news/989702/none-of-your-fking-business
+https://theverge.com/news/990030/microsofts-legal-team-is-waking-up-with-a-headache
+https://theverge.com/news/990051/microsoft-project-zenith-windows-developers
 https://theverge.com/nintendo/686603/nintendo-switch-2-review
 https://theverge.com/podcast/905198/meta-lawsuits-facebook-instagram-youtube-social-media-addiction-section-230
 https://theverge.com/podcast/969231/samsung-unpacked-2026-vergecast-livestream
@@ -612,6 +617,7 @@ https://theverge.com/science/985686/kalshi-is-partnering-with-the-weather-compan
 https://theverge.com/science/985969/jackerys-little-workhorse-power-station-looks-great-in-white
 https://theverge.com/science/986544/nancy-grace-roman-space-telescope-launch
 https://theverge.com/science/989706/un-climate-report-1-5-degree-threshold
+https://theverge.com/science/989877/who-turned-out-the-lights-nanoleaf-gets-deeper-into-red-light-therapy-and-further-from-smart-lighting
 https://theverge.com/streaming/959684/netflix-wonka-golden-ticket-gene-wilder
 https://theverge.com/streaming/965638/good-mythical-morning-will-release-new-episodes-on-netflix-and-youtube-simultaneously
 https://theverge.com/streaming/970099/amazon-prime-video-luna-gaming
@@ -665,6 +671,7 @@ https://theverge.com/tech/917690/meta-is-laying-off-10-percent-of-its-staff
 https://theverge.com/tech/920236/motorola-razr-plus-2026-price
 https://theverge.com/tech/920313/meta-facebook-instagram-eu-dsa-age-verification
 https://theverge.com/tech/923564/facebook-instagram-teen-accounts-ai-bone-analysis
+https://theverge.com/tech/926342/nanoleaf-smart-lighting-ai-robotics-red-light-wellness
 https://theverge.com/tech/926893/meta-employees-are-reportedly-miserable-between-looming-layoffs-and-ai-push
 https://theverge.com/tech/928479/google-googlebook-laptops-android-tease-aluminium-chromebook
 https://theverge.com/tech/928724/gemini-intelligence-android-io-autofill
@@ -959,6 +966,7 @@ https://theverge.com/tech/986847/markiplier-gopro-investor
 https://theverge.com/tech/986867/ifa-2026-smart-home-lights-laptop-robot-vacuum-ai-headphones
 https://theverge.com/tech/986869/apple-phil-schiller-stepping-down
 https://theverge.com/tech/986948/anker-eufymake-personal-fabric-printer-dtg-dtf-ifa
+https://theverge.com/tech/986960/lexar-muse-ultra-thin-ssd-storage-drive-proprietary-cable
 https://theverge.com/tech/986967/apple-vision-pro-mlb-red-sox-yankees-immersive-game
 https://theverge.com/tech/986982/amazon-advertising-prices-ftc-lawsuit
 https://theverge.com/tech/987032/google-tv-streamer-price-increase
@@ -1033,7 +1041,12 @@ https://theverge.com/tech/989293/dyson-corrale-coolshine-hair-straightener-airsm
 https://theverge.com/tech/989295/dji-romo-2-p2-a2-robovac-legs-vacuuming-local-data-mode-ifa
 https://theverge.com/tech/989477/lenovo-thinkbook-project-swan-concept-laptop-14-17-rollable-ifa-announcement
 https://theverge.com/tech/989508/google-gmail-docs-keep-live-voice-modes-gemini
+https://theverge.com/tech/989581/aqara-smart-lighting-ifa-2026
 https://theverge.com/tech/989589/apple-might-be-scrapping-its-rumored-foldable-macbook
+https://theverge.com/tech/989636/reolinks-latest-pan-and-tilt-security-cam-can-last-six-months-on-a-single-charge
+https://theverge.com/tech/989657/rugone-xsnap-7-pro-smartphone-removable-action-camera-rugged-waterproof
+https://theverge.com/tech/989760/timekettle-w4-plus-live-ai-translation-earbuds
+https://theverge.com/tech/990006/this-nas-company-wants-to-run-your-local-smart-home
 https://theverge.com/transportation/760217/a-wild-miraidon-appeared
 https://theverge.com/transportation/805247/tesla-q3-earnings-elon-musk-robot-army-pay-package
 https://theverge.com/transportation/881873/tesla-cybertruck-awd-price-cut
