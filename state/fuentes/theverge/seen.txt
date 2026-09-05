@@ -33,9 +33,11 @@ https://theverge.com/2022/9/20/23363085/ea-marvel-iron-man-game-motive-studio
 https://theverge.com/2023/10/2/23899420/nobel-prize-physiology-medicine-covid-vaccines-katalin-kariko-drew-weissman
 https://theverge.com/2023/11/15/23962426/meta-appeal-eu-gatekeeper-messenger-marketplace
 https://theverge.com/2023/11/22/23967223/sam-altman-returns-ceo-open-ai
+https://theverge.com/2023/11/27/23975368/frore-airjet-apple-macbook-air-fanless-mems
 https://theverge.com/2023/2/4/23585948/spotify-founder-daniel-ek-ai-body-health-scanner
 https://theverge.com/2023/3/13/23637401/samsung-fake-moon-photos-ai-galaxy-s21-s23-ultra
 https://theverge.com/2023/5/15/23724252/microsoft-windows-11-phone-link-iphone-ios-support-available-now
+https://theverge.com/2023/5/23/23733592/frore-airjet-zotac-mini-desktop-pc-zbox-pi430aj-price
 https://theverge.com/2023/5/27/23739913/chatgpt-ai-lawsuit-avianca-airlines-chatbot-research
 https://theverge.com/2023/6/20/23766918/andrew-tate-human-trafficking-rape-charges
 https://theverge.com/2023/8/11/23828431/rockstar-cfx-re-mod-tools-roleplay-server
@@ -166,6 +168,7 @@ https://theverge.com/ai-artificial-intelligence/990060/altman-apologizes-messy-a
 https://theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki
 https://theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip
 https://theverge.com/ai-artificial-intelligence/990309/gpt-6-astra-openai-demo-promo-reel
+https://theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident
 https://theverge.com/antitrust/982578/google-just-showed-off-its-new-prototype-of-how-third-party-app-stores-will-look
 https://theverge.com/apple/985133/apple-is-automatically-upgrading-some-recent-mac-mini-m4-orders-to-m6-or-m5-pro-versions-for-free
 https://theverge.com/bulletin/795051/verge-podcast-ad-free-set-up-how-to
@@ -607,6 +610,7 @@ https://theverge.com/report/954826/midjourney-medical-ai-ultrasound-body-scanner
 https://theverge.com/report/980933/trump-border-wall-big-bend-arizona-cottonwood-tree-sit
 https://theverge.com/report/982414/meta-glasses-work-surveillance-labor-security
 https://theverge.com/report/985187/samsung-galaxy-s26-fe-hands-on-preview-specs-features-design
+https://theverge.com/report/989270/fantasy-footballers-podcast-andy-holloway-interview
 https://theverge.com/reviews/621360/aurzen-zip-projector-review-tri-fold-specs-price
 https://theverge.com/reviews/707436/nebula-x1-review-best-portable-projector-price-specs
 https://theverge.com/reviews/810253/vanlife-setup-power-victron-solar-sogen-video
@@ -1087,10 +1091,13 @@ https://theverge.com/tech/990340/insta360s-luna-pro-shoots-4k-vertical-video
 https://theverge.com/tech/990372/i-saw-a-whole-bunch-of-rtx-spark-laptops-all-at-once
 https://theverge.com/tech/990406/remarkable-software-update-capture-tool-epub-formatting
 https://theverge.com/tech/990410/hp-announces-new-omnibook-laptops-and-a-desktop-with-nvidia-rtx-spark
+https://theverge.com/tech/990426/us-open-influencers-naomi-osaka-anastasia-zakharova-callaway-good-good-ad
 https://theverge.com/tech/990573/these-color-matched-belkin-accessories-almost-make-me-want-to-buy-a-macbook-neo
 https://theverge.com/tech/990581/the-bluesky-experience
 https://theverge.com/tech/990621/psa-the-smartthings-v3-hub-is-nearly-sold-out
 https://theverge.com/tech/990658/audacity-4-update-audio-editing
+https://theverge.com/tech/990706/a-day-at-canjam-socal-2026
+https://theverge.com/tech/990795/apple-vision-pro-is-overkill-for-tracking-wall-studs-but-it-works
 https://theverge.com/transportation/760217/a-wild-miraidon-appeared
 https://theverge.com/transportation/805247/tesla-q3-earnings-elon-musk-robot-army-pay-package
 https://theverge.com/transportation/881873/tesla-cybertruck-awd-price-cut
@@ -1131,6 +1138,7 @@ https://theverge.com/transportation/988458/zoox-goes-to-the-airport
 https://theverge.com/transportation/988737/waymo-is-a-magnet-for-parking-tickets
 https://theverge.com/transportation/989373/happy-tesla-cybercab-day-right
 https://theverge.com/transportation/989501/tesla-cybercab-launch-robotaxi-austin-musk
+https://theverge.com/transportation/989513/road-rage-short-film-robotaxi-autonomous-ai
 https://theverge.com/transportation/989797/pro-natalist-elon-musk-bans-kids-from-riding-in-the-tesla-cybercab
 https://theverge.com/transportation/989945/tesla-isnt-livestreaming-its-cybercab-event
 https://theverge.com/transportation/990130/tesla-cybercab-nhtsa-investigation-fmvss-certify
