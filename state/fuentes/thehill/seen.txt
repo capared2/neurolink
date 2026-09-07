@@ -293,6 +293,7 @@ https://thehill.com/homenews/administration/6073995-carr-fcc-trump-nbc-punishmen
 https://thehill.com/homenews/administration/6074097-trump-calls-canada-dollar-imbalance-unacceptable
 https://thehill.com/homenews/administration/6074141-trump-completes-white-house-helipad
 https://thehill.com/homenews/administration/6074249-trump-posts-map-labeling-new-mexico-as-new-america-after-online-hoax
+https://thehill.com/homenews/administration/6074261-live-canadian-tariffs-loom-us-iran-strikes
 https://thehill.com/homenews/administration/6074352-trump-rnc-midterm-convention-two-speeches
 https://thehill.com/homenews/administration/6074505-witkoff-kushner-confident-ukraine-war-talks
 https://thehill.com/homenews/analysis/6040221-democrats-leftist-win-senate-race
@@ -695,6 +696,7 @@ https://thehill.com/newsletters/healthcare/6072630-pennsylvania-infants-death-co
 https://thehill.com/newsletters/keeping-score/6046222-kyle-kirkwood-trump-freedom-250-grand-prix-indycar
 https://thehill.com/newsletters/keeping-score/6046806-san-francisco-49ers-owner-arrested-in-ohio
 https://thehill.com/newsletters/keeping-score/6057895-mark-walter-lakers-sale-controversy
+https://thehill.com/newsletters/keeping-score/6071514-nfl-season-five-things-watch
 https://thehill.com/newsletters/morning-report/6040484-democrats-uphill-battle-florida-angie-nixon-win
 https://thehill.com/newsletters/morning-report/6043034-democratic-momentum-rising-senate-control-battle-midterms
 https://thehill.com/newsletters/morning-report/6046357-trump-tariff-war-canada-anger
@@ -758,7 +760,9 @@ https://thehill.com/opinion/campaign/6061665-dolly-parton-american-legacy
 https://thehill.com/opinion/campaign/6064397-trump-endangers-gop-midterms
 https://thehill.com/opinion/campaign/6064415-gerrymandering-midterm-manipulation
 https://thehill.com/opinion/campaign/6067118-black-women-midterm-election-gains
+https://thehill.com/opinion/campaign/6070749-journalism-inconsistency-el-sayed
 https://thehill.com/opinion/campaign/6072037-shapiro-measles-deaths-controversy
+https://thehill.com/opinion/campaign/6073814-nlrb-blocking-charge-loophole
 https://thehill.com/opinion/civil-rights/6042440-meaning-behind-woke-language
 https://thehill.com/opinion/civil-rights/6043787-business-refuses-service-religious-political-views
 https://thehill.com/opinion/civil-rights/6044413-debate-jewish-religion-race
@@ -1069,6 +1073,7 @@ https://thehill.com/policy/healthcare/6069932-bipartisan-house-introduces-insuli
 https://thehill.com/policy/healthcare/6070400-democratic-party-healthcare-vision
 https://thehill.com/policy/healthcare/6071686-epinephrine-injection-recalled-fatal-health-risk-fda
 https://thehill.com/policy/healthcare/6072325-pennsylvania-infant-measles-death
+https://thehill.com/policy/healthcare/6072524-maine-senate-race-abortion-collins
 https://thehill.com/policy/healthcare/6072639-trump-louisiana-mifepristone-test
 https://thehill.com/policy/healthcare/6073118-rfk-acknowledges-pennsylvania-measles-death
 https://thehill.com/policy/international/6040680-iran-minister-slams-trump-economic-dday
@@ -1129,6 +1134,7 @@ https://thehill.com/policy/international/6073469-us-ends-namibia-hiv-funding
 https://thehill.com/policy/international/6073550-putin-witkoff-kushner-peace-talks
 https://thehill.com/policy/international/6073695-iran-attacks-us-vessel-strait-hormuz
 https://thehill.com/policy/international/6073737-trump-envoy-kyiv-peace-talks-zelensky-putin
+https://thehill.com/policy/international/6074709-iran-declares-hormuz-restricted-zone
 https://thehill.com/policy/national-security/6049802-cia-director-ratcliffe-moscow-visit
 https://thehill.com/policy/national-security/6056134-senators-oppose-ice-shocking-gloves
 https://thehill.com/policy/national-security/6059574-homan-ice-bus-stop-arrests
@@ -1186,6 +1192,8 @@ https://thehill.com/policy/technology/6069491-microsoft-supports-data-center-wat
 https://thehill.com/policy/technology/6070203-openai-rolls-out-gpt-6-astra
 https://thehill.com/policy/technology/6071757-ai-chatbots-election-info-inaccuracy
 https://thehill.com/policy/technology/6072246-trump-ai-data-center-opponents
+https://thehill.com/policy/technology/6072551-ai-surveillance-privacy-concerns
+https://thehill.com/policy/technology/6073913-alpr-camera-privacy-debate
 https://thehill.com/policy/transportation/6050209-tsa-phases-out-gold-program
 https://thehill.com/policy/transportation/6050669-uber-new-family-features-teen-accounts-stream-safety
 https://thehill.com/policy/transportation/6059553-google-maps-renames-lake-america
@@ -1259,6 +1267,7 @@ https://thehill.com/regulation/court-battles/6070171-supreme-court-justice-depar
 https://thehill.com/regulation/court-battles/6070230-lindsay-clancy-defense-juror-deadlock-blame
 https://thehill.com/regulation/court-battles/6071017-ice-agent-indicted-minnesota-shooting
 https://thehill.com/regulation/court-battles/6072187-supreme-court-political-parties-tv-advertisement-rates
+https://thehill.com/regulation/court-battles/6072306-prediction-markets-supreme-court-regulation
 https://thehill.com/regulation/court-battles/6072403-trump-pressures-hearn-case
 https://thehill.com/regulation/court-battles/6072940-missouri-redistricting-gop-map-supreme-court
 https://thehill.com/regulation/court-battles/6073058-krysten-sinema-homewrecker-law-judge-ruling
