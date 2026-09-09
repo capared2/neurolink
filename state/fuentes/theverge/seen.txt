@@ -36,6 +36,7 @@ https://theverge.com/2022/9/20/23363085/ea-marvel-iron-man-game-motive-studio
 https://theverge.com/2023/10/2/23899420/nobel-prize-physiology-medicine-covid-vaccines-katalin-kariko-drew-weissman
 https://theverge.com/2023/11/15/23962426/meta-appeal-eu-gatekeeper-messenger-marketplace
 https://theverge.com/2023/11/22/23967223/sam-altman-returns-ceo-open-ai
+https://theverge.com/2023/11/22/23972680/ford-michigan-ev-battery-plant-reduction-plans
 https://theverge.com/2023/11/27/23975368/frore-airjet-apple-macbook-air-fanless-mems
 https://theverge.com/2023/2/4/23585948/spotify-founder-daniel-ek-ai-body-health-scanner
 https://theverge.com/2023/3/13/23637401/samsung-fake-moon-photos-ai-galaxy-s21-s23-ultra
@@ -478,6 +479,7 @@ https://theverge.com/games/991398/pusheen-apple-arcade-game
 https://theverge.com/games/991451/white-house-pulls-racist-tetris-clone
 https://theverge.com/games/991484/zelda-ocarina-of-time-gta-6
 https://theverge.com/games/991535/panic-is-hosting-a-playdate-showcase-tomorrow
+https://theverge.com/games/991806/sony-disc-plant-90-percent-10-percent
 https://theverge.com/health/688503/rfk-jr-vaccines
 https://theverge.com/health/981670/daniel-eks-body-scanning-clinic-neko-health-will-open-in-nyc-on-september-24th
 https://theverge.com/huawei/667574/huawei-mate-xt-review-trifold-phone
@@ -771,6 +773,7 @@ https://theverge.com/tech/931532/bambu-agpl-pawel-jarczak-open-source-threat-dmc
 https://theverge.com/tech/932153/snap-youtube-tiktok-lawsuit-social-media-addiction-schools
 https://theverge.com/tech/933114/with-mass-layoffs-plannned-meta-reassigns-thousands-of-employees-to-ai-initiatives
 https://theverge.com/tech/933125/android-xr-samsung-warby-parker-gentle-monster-project-aura-xreal-google-io-2026
+https://theverge.com/tech/933705/google-gemini-app-updates-io-2026
 https://theverge.com/tech/935163/meta-layoffs-ai-investment-offset-memo
 https://theverge.com/tech/935868/meta-facebook-app-forum-groups
 https://theverge.com/tech/936290/meta-forum-facebook-groups-app-hands-on
@@ -1195,12 +1198,16 @@ https://theverge.com/tech/991353/lego-legend-of-zelda-link-epona-set-ocarina-of-
 https://theverge.com/tech/991448/asahi-linux-has-officially-added-support-for-m3-macs
 https://theverge.com/tech/991569/we-flew-the-banned-drone-with-snap-on-propeller-wings
 https://theverge.com/tech/991658/hori-legend-zelda-ocarina-of-time-electronic-instrument
+https://theverge.com/tech/991837/geminis-daily-brief-is-now-available-to-everyone-in-the-us
+https://theverge.com/tech/991844/dbrand-seems-to-know-what-apple-is-announcing-tomorrow
 https://theverge.com/transportation/760217/a-wild-miraidon-appeared
 https://theverge.com/transportation/805247/tesla-q3-earnings-elon-musk-robot-army-pay-package
+https://theverge.com/transportation/873801/ford-eyes-geely-for-tech-team-up
 https://theverge.com/transportation/881873/tesla-cybertruck-awd-price-cut
 https://theverge.com/transportation/907976/elon-musk-terafab-intel-ai-chip-spacex-tesla
 https://theverge.com/transportation/921290/california-driverless-vehicles-traffic-tickets
 https://theverge.com/transportation/955011/formula-e-season-13-electric-racing
+https://theverge.com/transportation/957033/polestar-banned-us-sales-china-software
 https://theverge.com/transportation/962772/waymo-kicks-off-driverless-trips-in-four-new-cities
 https://theverge.com/transportation/966108/robotaxi-passengers-are-falling-asleep-spilling-food-and-even-giving-birth-during-their-rides
 https://theverge.com/transportation/970003/tesla-robotaxi-mileage-waymo-cities-earnings-musk
@@ -1249,4 +1256,5 @@ https://theverge.com/transportation/991400/tesla-cybercab-virtual-joystick-manua
 https://theverge.com/transportation/991508/a2rl-imola-self-driving-race-cars
 https://theverge.com/transportation/991581/the-untold-history-of-the-seat-belt-warning
 https://theverge.com/transportation/991707/rivian-also-tmb-ebike-delay-apology
+https://theverge.com/transportation/991878/trump-wants-ford-to-cut-ties-with-chinese-companies
 https://theverge.com/tv/621815/kiana-mai-pretty-pretty-please-i-dont-want-to-be-a-magical-girl
