@@ -187,6 +187,8 @@ https://theverge.com/ai-artificial-intelligence/991675/trump-nuclear-power-plant
 https://theverge.com/ai-artificial-intelligence/991710/openai-navier-stokes-solution
 https://theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch
 https://theverge.com/ai-artificial-intelligence/991734/mark-zuckerberg-muse-ai-secure-private
+https://theverge.com/ai-artificial-intelligence/991927/anthropic-ai-kill-all-humans
+https://theverge.com/ai-artificial-intelligence/991956/student-ai-use-scores-oecd-pisa
 https://theverge.com/antitrust/982578/google-just-showed-off-its-new-prototype-of-how-third-party-app-stores-will-look
 https://theverge.com/apple/985133/apple-is-automatically-upgrading-some-recent-mac-mini-m4-orders-to-m6-or-m5-pro-versions-for-free
 https://theverge.com/bulletin/795051/verge-podcast-ad-free-set-up-how-to
@@ -287,6 +289,7 @@ https://theverge.com/gadgets/712844/today-im-toying-with
 https://theverge.com/gadgets/847777/oh-snap-i-have-a-new-favorite-phone-grip
 https://theverge.com/gadgets/906883/whoop-bevel-lawsuit-fitness-tech
 https://theverge.com/gadgets/915686/oppo-find-x9-ultra-review-10x-telephoto-lens
+https://theverge.com/gadgets/917301/honors-new-phones-look-like-iphones-for-android
 https://theverge.com/gadgets/936771/today-im-toying-with-giveaway-free-gadgets
 https://theverge.com/gadgets/941484/lego-pokemon-smart-play-brick-sets
 https://theverge.com/gadgets/947310/gadget-veteran-travel-gear
@@ -363,6 +366,7 @@ https://theverge.com/gadgets/990425/gopro-nick-woodman-starman-letter
 https://theverge.com/gadgets/991261/jbl-soundbar-detachable-speakers-final-fantasy-deal-sale
 https://theverge.com/gadgets/991653/razer-blackshark-v3-pro-gaming-headset-anc-deal-sale
 https://theverge.com/gadgets/991724/why-is-apples-watch-se-3-unavailable
+https://theverge.com/gadgets/991908/honors-magic-9-series-gets-an-apple-green-camera-plateau
 https://theverge.com/games/684957/splitgate-2-hat-apology
 https://theverge.com/games/816118/valve-steam-frame-vr-headset-streaming-arm-steamos-hands-on
 https://theverge.com/games/843260/tomb-raider-catalyst-trailer-tomb-raider-atlantis
@@ -511,6 +515,7 @@ https://theverge.com/news/761501/insta360-ultra-go-action-camera-4k-60fps-micros
 https://theverge.com/news/761665/meta-ai-translation-facebook-instagram-reels
 https://theverge.com/news/765881/google-android-apps-side-loading-developer-verification
 https://theverge.com/news/771665/timekettle-w4-ai-interpreter-wireless-earbuds-bone-conduction
+https://theverge.com/news/779147/waymo-robotaxi-nashville-lyft-2026
 https://theverge.com/news/797853/facebook-and-instagram-can-now-automatically-translate-and-dub-reels-in-hindi-and-portuguese
 https://theverge.com/news/798775/nvidia-spark-personal-ai-supercomputer
 https://theverge.com/news/798871/california-governor-newsom-age-gating-ab-1043
@@ -572,6 +577,7 @@ https://theverge.com/news/990030/microsofts-legal-team-is-waking-up-with-a-heada
 https://theverge.com/news/990051/microsoft-project-zenith-windows-developers
 https://theverge.com/news/990132/microsoft-xbox-tv-app-tcl-smart-tvs
 https://theverge.com/news/991030/windows-11-is-getting-a-new-battery-widget
+https://theverge.com/news/991919/nvidia-game-ready-driver-007-first-light-ray-reconstruction
 https://theverge.com/nintendo/686603/nintendo-switch-2-review
 https://theverge.com/podcast/905198/meta-lawsuits-facebook-instagram-youtube-social-media-addiction-section-230
 https://theverge.com/podcast/969231/samsung-unpacked-2026-vergecast-livestream
@@ -1198,9 +1204,11 @@ https://theverge.com/tech/991353/lego-legend-of-zelda-link-epona-set-ocarina-of-
 https://theverge.com/tech/991448/asahi-linux-has-officially-added-support-for-m3-macs
 https://theverge.com/tech/991569/we-flew-the-banned-drone-with-snap-on-propeller-wings
 https://theverge.com/tech/991658/hori-legend-zelda-ocarina-of-time-electronic-instrument
+https://theverge.com/tech/991809/amazon-prime-video-ai-lip-sync-dubbing
 https://theverge.com/tech/991837/geminis-daily-brief-is-now-available-to-everyone-in-the-us
 https://theverge.com/tech/991844/dbrand-seems-to-know-what-apple-is-announcing-tomorrow
 https://theverge.com/tech/991884/apple-iphone-duo-rumor-foldable
+https://theverge.com/tech/991942/heres-some-insight-into-tech-influencer-campaigns
 https://theverge.com/transportation/760217/a-wild-miraidon-appeared
 https://theverge.com/transportation/805247/tesla-q3-earnings-elon-musk-robot-army-pay-package
 https://theverge.com/transportation/873801/ford-eyes-geely-for-tech-team-up
@@ -1258,4 +1266,5 @@ https://theverge.com/transportation/991508/a2rl-imola-self-driving-race-cars
 https://theverge.com/transportation/991581/the-untold-history-of-the-seat-belt-warning
 https://theverge.com/transportation/991707/rivian-also-tmb-ebike-delay-apology
 https://theverge.com/transportation/991878/trump-wants-ford-to-cut-ties-with-chinese-companies
+https://theverge.com/transportation/991880/waymo-is-live-in-nashville-on-the-lyft-app
 https://theverge.com/tv/621815/kiana-mai-pretty-pretty-please-i-dont-want-to-be-a-magical-girl
