@@ -47,6 +47,7 @@ https://thehill.com/blogs/in-the-know/6077111-south-park-renaming-trump-south-am
 https://thehill.com/blogs/in-the-know/6077383-social-media-live-timeline-september-11-attacks
 https://thehill.com/blogs/in-the-know/6077857-page-six-reports-kimmel-exit
 https://thehill.com/blogs/in-the-know/in-the-know/6052354-tim-curry-star-of-rocky-horror-and-it-dead-at-80-reports
+https://thehill.com/blogs/in-the-know/in-the-know/6079592-jalen-brunson-hosts-snl
 https://thehill.com/business/6040178-bond-market-yields-trump-emergency
 https://thehill.com/business/6041596-scott-bessent-us-economy-40-trillion-debt
 https://thehill.com/business/6042474-walmart-tariff-refund-lowering-prices
@@ -98,6 +99,7 @@ https://thehill.com/business/6077526-liv-golf-chapter-11-bankruptcy-new-model
 https://thehill.com/business/6077886-trump-bans-canadian-dairy-vehicles
 https://thehill.com/business/6079042-ford-refutes-duffy-china-claims
 https://thehill.com/business/6079152-treasury-increases-maximum-buyback-to-6-billion-in-effort-to-lower-bond-yields
+https://thehill.com/business/6079494-treasury-triples-debt-buyback-limit
 https://thehill.com/business/agriculture/6052290-ranchers-protest-foreign-imported-beef
 https://thehill.com/business/economy/6043886-one-seemingly-ordinary-job-has-gotten-much-more-deadly-over-the-past-10-years-federal-data-shows
 https://thehill.com/business/economy/6060815-these-30-industries-could-see-the-fastest-job-decline-in-the-next-decade-labor-department
@@ -129,6 +131,7 @@ https://thehill.com/homenews/6071391-lindsay-clancy-judge-defense-attorney-spar-
 https://thehill.com/homenews/6071615-blm-proposes-npra-oil-approvals
 https://thehill.com/homenews/6072728-judge-declines-stars-and-stripes-firing-halt
 https://thehill.com/homenews/6076429-us-pisa-reading-scores
+https://thehill.com/homenews/6079380-lindsay-clancy-attorney-will-ask-for-jury-to-be-sequestered-in-new-trial
 https://thehill.com/homenews/administration/6040220-live-updates-donald-trump-iran-war-economy-midterms
 https://thehill.com/homenews/administration/6040588-donald-trump-white-house-helipad-ballroom-construction
 https://thehill.com/homenews/administration/6040729-donald-trump-legislative-director-leaving
@@ -336,6 +339,12 @@ https://thehill.com/homenews/administration/6078705-donald-trump-natalie-harp-wh
 https://thehill.com/homenews/administration/6078712-usps-investigates-ballot-portal-errors
 https://thehill.com/homenews/administration/6079150-americans-skeptical-government-trust
 https://thehill.com/homenews/administration/6079214-eric-holder-todd-blanche-gop-midterm-convention-speech-critique
+https://thehill.com/homenews/administration/6079556-white-house-removes-build-wall
+https://thehill.com/homenews/administration/6079649-lewandowski-wall-street-journal-dhs-report-denial
+https://thehill.com/homenews/administration/6079754-trump-comments-iran-midterms
+https://thehill.com/homenews/administration/6079809-trump-air-force-one-slide
+https://thehill.com/homenews/administration/6079896-cohen-hush-money-trial-recantation
+https://thehill.com/homenews/administration/6080068-republicans-skip-midterm-gop-rally
 https://thehill.com/homenews/analysis/6040221-democrats-leftist-win-senate-race
 https://thehill.com/homenews/analysis/6042626-treasury-secretary-bessent-buyback
 https://thehill.com/homenews/analysis/6057609-gop-campaign-centered-trump
@@ -504,6 +513,7 @@ https://thehill.com/homenews/campaign/6078474-bill-oreilly-republicans-democrats
 https://thehill.com/homenews/campaign/6078750-michigan-senate-poll-rogers-elsayed
 https://thehill.com/homenews/campaign/6078802-ted-cruz-2028-presidential-run
 https://thehill.com/homenews/campaign/6079435-midterm-convention-republicans-attendance
+https://thehill.com/homenews/campaign/6079483-troy-jackson-abdul-el-sayed-maine-michigan-democratic-senate-races
 https://thehill.com/homenews/campaign/data-nerds/6040929-democratic-socialist-angie-nixon-florida-upset-what-to-know-discussion
 https://thehill.com/homenews/campaign/data-nerds/6054870-democratic-party-senate-control-division-2026-midterms-discussion
 https://thehill.com/homenews/campaign/data-nerds/6068929-abdul-el-sayed-democratic-tensions-michigan-senate-race-discussion
@@ -586,6 +596,7 @@ https://thehill.com/homenews/house/6073941-lawler-disagrees-trump-iran-war-small
 https://thehill.com/homenews/house/6074174-mcclain-backs-miller-abuse-allegations
 https://thehill.com/homenews/house/6074513-live-results-new-hampshire-house-primary
 https://thehill.com/homenews/house/6077601-vulnerable-house-democrat-selling-zyn-inspired-campaign-merchandise
+https://thehill.com/homenews/house/6080052-congressional-ethics-watchdog-omar
 https://thehill.com/homenews/lgbtq/6044688-log-cabin-republicans-transgender-support-ends
 https://thehill.com/homenews/media/6040779-alina-habba-press-secretary-karoline-leavitt
 https://thehill.com/homenews/media/6045875-scott-jennings-press-secretary-reports
@@ -607,6 +618,7 @@ https://thehill.com/homenews/media/6069550-bartiromo-departs-fox-news
 https://thehill.com/homenews/media/6070993-fcc-disney-abc-lawsuit-first-amendment-dei
 https://thehill.com/homenews/media/6075992-nathan-fielder-surprise-documentary-elizabeth-holmes
 https://thehill.com/homenews/media/6079001-navarro-fox-news-bartiromo-ouster
+https://thehill.com/homenews/media/6079507-ap-rejects-lake-ontario-renaming
 https://thehill.com/homenews/nexstar_media_wire/6033849-no-more-sunsets-before-5-p-m-how-permanent-daylight-saving-would-change-winter
 https://thehill.com/homenews/senate/6040557-jon-ossoff-white-house-feud-donald-trump-natalie-harp
 https://thehill.com/homenews/senate/6041270-live-results-massachusetts-senate-primary
@@ -646,6 +658,7 @@ https://thehill.com/homenews/senate/6074062-john-kennedy-hegseth-pentagon-suppor
 https://thehill.com/homenews/senate/6075857-john-fetterman-response-wsj-report-staffers
 https://thehill.com/homenews/senate/6076339-moran-defends-bombardier-trump-canada-tariffs
 https://thehill.com/homenews/senate/6077659-trump-canada-trade-war-gop-candidates-midterms
+https://thehill.com/homenews/senate/6079918-kash-patel-senate-testimony
 https://thehill.com/homenews/space/6054908-where-northern-lights-may-shine-amid-geomagnetic-storm-watches
 https://thehill.com/homenews/space/6057441-americans-skeptical-ufo-origins-gallup-poll
 https://thehill.com/homenews/space/6067876-nasa-jared-isaacman-outlines-moon-base
@@ -713,6 +726,7 @@ https://thehill.com/homenews/state-watch/6076693-where-its-most-affordable-to-be
 https://thehill.com/homenews/state-watch/6077228-hochul-voices-support-for-mamdani-after-giuliani-tells-him-to-skip-9-11-ceremony
 https://thehill.com/homenews/state-watch/6077522-mamdani-releases-911-records
 https://thehill.com/homenews/state-watch/6077962-egg-producers-antitrust-settlement
+https://thehill.com/homenews/state-watch/6079755-ice-operation-chicago-business-cost
 https://thehill.com/homenews/sunday-talk-shows/6045326-sunday-shows-trump-canada-trade-republican-primaries
 https://thehill.com/homenews/sunday-talk-shows/6059207-sunday-shows-trump-gop-economic-tensions-foreign-relations
 https://thehill.com/homenews/sunday-talk-shows/6073362-sunday-shows-trump-rnc-convention-iran-war
@@ -818,6 +832,7 @@ https://thehill.com/newsletters/the-gavel/6064292-white-house-ballroom-trump-sup
 https://thehill.com/newsletters/the-gavel/6077380-supreme-court-trump-midterms
 https://thehill.com/newsletters/the-gavel/the-gavel-live-briefing/6052333-supreme-court-emergency-ruling-mail-in-voting-meta-settlement-discussion
 https://thehill.com/newsletters/the-gavel/the-gavel-live-briefing/6066441-donald-trump-white-house-ballroom-project-lawsuits-supreme-court-ruling-future-live-discussion
+https://thehill.com/newsletters/the-gavel/the-gavel-live-briefing/6079594-missouri-redistricting-case-chaos-midterms-live-discussion
 https://thehill.com/newsletters/the-movement/6048020-overton-fda-maha-abortion-convention-beef
 https://thehill.com/newsletters/the-movement/6062310-meta-settlement-conservatives
 https://thehill.com/newsletters/this-week-on-the-hill/6044652-georgia-south-carolina-special-election-trump-hush-money
@@ -1214,6 +1229,8 @@ https://thehill.com/policy/healthcare/6073872-drug-resistant-ringworm-fungus-spr
 https://thehill.com/policy/healthcare/6075611-glp-1-prescriptions-kids-surging-since-2019
 https://thehill.com/policy/healthcare/6077021-health-risks-tobacco-smoking-infertility-world-health-organization-report
 https://thehill.com/policy/healthcare/6079000-trump-fills-key-fda-leadership
+https://thehill.com/policy/healthcare/6079358-dog-supplements-recalled-salmonella
+https://thehill.com/policy/healthcare/6079744-appeals-court-mifepristone-medication-argument
 https://thehill.com/policy/international/6040680-iran-minister-slams-trump-economic-dday
 https://thehill.com/policy/international/6042225-rubio-cuba-sanctions
 https://thehill.com/policy/international/6043090-iran-reaction-us-sanctions-trump-administration-war
@@ -1350,6 +1367,8 @@ https://thehill.com/policy/technology/6076244-jacob-tsimerman-launches-maisi
 https://thehill.com/policy/technology/6078653-bipartisan-push-government-ai-testing
 https://thehill.com/policy/technology/6078730-microsoft-aft-ai-safety-privacy
 https://thehill.com/policy/technology/6078907-anthropic-researchers-warn-ai-extinction
+https://thehill.com/policy/technology/6079703-apple-foldable-phone-launch
+https://thehill.com/policy/technology/6079738-hunter-biden-laptop-meme-coin-launches
 https://thehill.com/policy/transportation/6050209-tsa-phases-out-gold-program
 https://thehill.com/policy/transportation/6050669-uber-new-family-features-teen-accounts-stream-safety
 https://thehill.com/policy/transportation/6059553-google-maps-renames-lake-america
@@ -1467,5 +1486,8 @@ https://thehill.com/video-clips/6075815-watch-live-donald-trump-steel-across-ame
 https://thehill.com/video-clips/6076421-watch-live-todd-blanche-justice-department-sept-11-memorial-event
 https://thehill.com/video-clips/6076915-canadas-retaliatory-tariffs-on-us-take-effect-as-trade-war-escalates-yt
 https://thehill.com/video-clips/6079033-us-destroys-5-iranian-tankers-iran-retaliates-targeting-10-ships-near-strait-of-hormuz-yt
+https://thehill.com/video-clips/6079217-watch-live-donald-trump-rnc-midterms-convention-dallas
 https://thehill.com/video-clips/6079267-gambling-with-our-lives-anthropic-researcher-delivers-warning-about-ai-in-resignation-rising-yt
+https://thehill.com/video-clips/6079432-watch-the-hill-rising-live-primetime-coverage-gop-midterm-convention-dallas
+https://thehill.com/video-clips/6080077-i-know-exactly-where-i-was-trump-recalls-9-11-experience-aftermath-in-nyc-yt
 https://thehill.com/video-clips/political-news-clips/6076019-at-least-5-dead-several-hospitalized-after-amazon-cargo-plane-crashes-at-miami-airport-newsnation-yt

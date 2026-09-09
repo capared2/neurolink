@@ -373,6 +373,7 @@ https://theverge.com/gadgets/989407/alienware-gaming-laptop-capsule-dishwasher-s
 https://theverge.com/gadgets/989499/samsung-q-series-soundbar-dbrand-killswitch-2-deal-sale
 https://theverge.com/gadgets/989828/spider-verse-two-movie-set-4k-blu-ray-deal-sale
 https://theverge.com/gadgets/990425/gopro-nick-woodman-starman-letter
+https://theverge.com/gadgets/990508/apple-watch-series-12-ultra-4-spec-comparison
 https://theverge.com/gadgets/991261/jbl-soundbar-detachable-speakers-final-fantasy-deal-sale
 https://theverge.com/gadgets/991653/razer-blackshark-v3-pro-gaming-headset-anc-deal-sale
 https://theverge.com/gadgets/991724/why-is-apples-watch-se-3-unavailable
@@ -535,6 +536,7 @@ https://theverge.com/news/761501/insta360-ultra-go-action-camera-4k-60fps-micros
 https://theverge.com/news/761665/meta-ai-translation-facebook-instagram-reels
 https://theverge.com/news/765881/google-android-apps-side-loading-developer-verification
 https://theverge.com/news/771665/timekettle-w4-ai-interpreter-wireless-earbuds-bone-conduction
+https://theverge.com/news/775309/apple-iphone-14-15-satellite-connectivity-free
 https://theverge.com/news/779147/waymo-robotaxi-nashville-lyft-2026
 https://theverge.com/news/797853/facebook-and-instagram-can-now-automatically-translate-and-dub-reels-in-hindi-and-portuguese
 https://theverge.com/news/798775/nvidia-spark-personal-ai-supercomputer
@@ -597,6 +599,7 @@ https://theverge.com/news/990030/microsofts-legal-team-is-waking-up-with-a-heada
 https://theverge.com/news/990051/microsoft-project-zenith-windows-developers
 https://theverge.com/news/990132/microsoft-xbox-tv-app-tcl-smart-tvs
 https://theverge.com/news/991030/windows-11-is-getting-a-new-battery-widget
+https://theverge.com/news/991130/apple-skips-iphone-18-fall-2026-release
 https://theverge.com/news/991919/nvidia-game-ready-driver-007-first-light-ray-reconstruction
 https://theverge.com/news/992269/xbox-custom-boot-animation-local-search-voice-clarity-features
 https://theverge.com/news/992408/ios-27-release-date-features
@@ -1084,6 +1087,7 @@ https://theverge.com/tech/986364/google-search-ai-overviews-auto-expand
 https://theverge.com/tech/986377/ankers-first-otc-hearing-aids-ifa-2026
 https://theverge.com/tech/986378/nvidia-dlss-5-launch-nba-2k27
 https://theverge.com/tech/986389/oops-hot-mic
+https://theverge.com/tech/986400/apple-iphone-18-pro-max-hands-on-impressions-september-2026-event
 https://theverge.com/tech/986459/brave-is-adding-email-aliases-to-its-browser
 https://theverge.com/tech/986494/this-acer-laptop-offers-easy-repairs-and-two-generations-of-processor-upgrades
 https://theverge.com/tech/986550/apple-tested-a-stylus-for-the-foldable-iphone-but-probably-wont-ship-one
@@ -1153,6 +1157,7 @@ https://theverge.com/tech/988355/mrbeast-google-partnership-gemini-fitbit
 https://theverge.com/tech/988363/philips-hue-play-screen-sync-entertainment-lighting
 https://theverge.com/tech/988463/googlebook-app-look-up-shows-up-on-the-play-store
 https://theverge.com/tech/988479/apple-airpods-5-announcement-september-2026-event
+https://theverge.com/tech/988501/iphone-18-pro-max-spec-comparison-features
 https://theverge.com/tech/988517/circular-ring-3-pro-slim-nfc-contactless-payment-vibrating-alerts
 https://theverge.com/tech/988518/amazon-alexa-for-shopping-verify-emails
 https://theverge.com/tech/988536/1password-dhh-linux-controversy
@@ -1177,7 +1182,9 @@ https://theverge.com/tech/989172/adobe-for-slack-integration-launch
 https://theverge.com/tech/989199/ifa-berlin-2026-gadgets-ask-us-anything
 https://theverge.com/tech/989246/switchbot-lock-ultra-max-retrofit-smartlock-ifa-launch
 https://theverge.com/tech/989293/dyson-corrale-coolshine-hair-straightener-airsmooth-dryer-brush-styling
+https://theverge.com/tech/989294/iphone-ultra-fold-multitasking-ios
 https://theverge.com/tech/989295/dji-romo-2-p2-a2-robovac-legs-vacuuming-local-data-mode-ifa
+https://theverge.com/tech/989427/ceramic-apple-watch-series-12-edition
 https://theverge.com/tech/989477/lenovo-thinkbook-project-swan-concept-laptop-14-17-rollable-ifa-announcement
 https://theverge.com/tech/989508/google-gmail-docs-keep-live-voice-modes-gemini
 https://theverge.com/tech/989581/aqara-smart-lighting-ifa-2026
@@ -1229,6 +1236,7 @@ https://theverge.com/tech/991190/lg-tv-spying-standby-recording-wi-fi-scanning-g
 https://theverge.com/tech/991203/iphone-duo-foldable-news-specs-price-release-date
 https://theverge.com/tech/991209/google-is-changing-search-in-the-eu-and-it-sure-is-mad-about-it
 https://theverge.com/tech/991230/xteink-x4-classic-v2-tiny-e-reader-e-ink
+https://theverge.com/tech/991236/iphone-foldable-hands-on-first-impressions
 https://theverge.com/tech/991267/brickstation-upgrade-kit-lego-sony-playstation-console-kickstarter
 https://theverge.com/tech/991273/john-ternus-first-apple-product-launch-as-ceo
 https://theverge.com/tech/991285/intel-cpu-price-increase-october
@@ -1243,9 +1251,17 @@ https://theverge.com/tech/991837/geminis-daily-brief-is-now-available-to-everyon
 https://theverge.com/tech/991844/dbrand-seems-to-know-what-apple-is-announcing-tomorrow
 https://theverge.com/tech/991884/apple-iphone-duo-rumor-foldable
 https://theverge.com/tech/991942/heres-some-insight-into-tech-influencer-campaigns
+https://theverge.com/tech/991965/apple-iphone-duo-launch-event-biggest-announcements
 https://theverge.com/tech/991975/dungeon-crawler-carl-pinball-machine-jeff-hays-princess-donut
 https://theverge.com/tech/992007/a-teaser-from-ternus
 https://theverge.com/tech/992240/this-week-in-the-big-ai-data-center-buildout
+https://theverge.com/tech/992551/apple-iphone-17-17e-air-price-increase
+https://theverge.com/tech/992568/apple-watch-hands-on-series-12-ultra-4
+https://theverge.com/tech/992735/apple-iphone-duo-pro-max-watch-renewable-electricity-manufacturing
+https://theverge.com/tech/992766/apple-iphone-18-pro-reference-image
+https://theverge.com/tech/992830/apple-iphone-duo-foldable-verge-staffers-react
+https://theverge.com/tech/992908/apple-extends-free-iphone-satellite-features-yet-again
+https://theverge.com/tech/992919/apple-siri-ai-audio-intelligence-privacy
 https://theverge.com/transportation/760217/a-wild-miraidon-appeared
 https://theverge.com/transportation/805247/tesla-q3-earnings-elon-musk-robot-army-pay-package
 https://theverge.com/transportation/873801/ford-eyes-geely-for-tech-team-up
