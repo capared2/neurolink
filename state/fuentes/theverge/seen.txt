@@ -20,6 +20,7 @@ https://theverge.com/2019/8/28/20836524/google-pixel-3a-production-china-nokia-f
 https://theverge.com/2020/1/6/21054353/samsung-ballie-robot-ai-assistant-ces-2020
 https://theverge.com/2020/10/15/21516729/facebook-twitter-new-york-post-hunter-biden-emails-laptop-story-social-media-moderation-problems
 https://theverge.com/2020/12/18/22189637/space-force-military-branch-official-name-guardians
+https://theverge.com/2020/2/3/21120531/disney-plus-hamilton-streaming-theaters-distribution-broadway
 https://theverge.com/2020/4/24/21234279/lysol-poison-health-experts-trump-injections-epa-coronavirus
 https://theverge.com/2020/5/12/21255870/facebook-content-moderator-settlement-scola-ptsd-mental-health
 https://theverge.com/2020/9/18/21445168/tesla-driver-sleeping-police-charged-canada-autopilot
@@ -302,6 +303,7 @@ https://theverge.com/entertainment/991893/google-search-gets-better-at-live-nfl-
 https://theverge.com/entertainment/991987/please-say-hello-to-carrie-white
 https://theverge.com/entertainment/992317/a-new-season-of-playdate-games
 https://theverge.com/entertainment/993325/ubisofts-reportedly-letting-some-steam-users-skip-its-connect-app
+https://theverge.com/entertainment/993663/hit-broadway-play-oh-mary-is-coming-to-hbo-max-next-year
 https://theverge.com/film/767588/star-wars-starfighter-cast
 https://theverge.com/fitness-tracker-review/696156/whoop-mg-review-wearables-fitness-tracker-health
 https://theverge.com/gadgets/712844/today-im-toying-with
@@ -557,6 +559,7 @@ https://theverge.com/news/757979/google-search-preferred-sources-launch-top-stor
 https://theverge.com/news/761501/insta360-ultra-go-action-camera-4k-60fps-microsd
 https://theverge.com/news/761665/meta-ai-translation-facebook-instagram-reels
 https://theverge.com/news/765881/google-android-apps-side-loading-developer-verification
+https://theverge.com/news/769585/amazon-lens-live-ai-real-time-shopping
 https://theverge.com/news/771665/timekettle-w4-ai-interpreter-wireless-earbuds-bone-conduction
 https://theverge.com/news/775309/apple-iphone-14-15-satellite-connectivity-free
 https://theverge.com/news/779147/waymo-robotaxi-nashville-lyft-2026
@@ -720,9 +723,12 @@ https://theverge.com/policy/991438/crooked-media-is-launching-a-social-initiativ
 https://theverge.com/policy/992260/etsy-fcc-gadget-ban-comment
 https://theverge.com/policy/992359/microsoft-aft-schools-ai-privacy
 https://theverge.com/policy/993201/delusion-stacked-upon-delusion
+https://theverge.com/policy/993308/computer-science-ai-education-coding-kids
 https://theverge.com/policy/993383/jimmy-kimmel-fcc-brendan-carr-james-talarico
 https://theverge.com/policy/993425/trump-dhs-uscis-grace-period-60-days-h1b
 https://theverge.com/policy/993529/next-up-we-have-dr-victor-von-doom
+https://theverge.com/policy/993653/transformers-ice-ai
+https://theverge.com/policy/993671/california-governor-signs-law-blocking-addictive-social-feeds-for-minors
 https://theverge.com/report/829265/hoto-fanttik-profile-origins-xiaomi-aukey-tiktok
 https://theverge.com/report/840822/australia-social-media-ban-under-16-response
 https://theverge.com/report/841994/operation-bluebird-twitter-trademarks-petition
@@ -781,6 +787,7 @@ https://theverge.com/streaming/983794/espn-disney-plus-bundles-price-increase
 https://theverge.com/streaming/984389/netflix-will-stream-the-womens-world-cup-draw-live-in-december
 https://theverge.com/streaming/987603/espn-unlimited-is-now-available-in-the-youtube-tv-app
 https://theverge.com/streaming/988671/travel-youtuber-drew-binsky-is-the-latest-creator-to-strike-a-deal-with-netflix
+https://theverge.com/streaming/993580/prime-videos-shop-the-scene-feature-finds-amazon-products-matching-whats-on-your-screen
 https://theverge.com/tech/784323/upgrading-240hz-oled-gaming-monitor
 https://theverge.com/tech/798921/facebook-local-jobs-us
 https://theverge.com/tech/849742/how-to-tune-algorithms-recommendations-online-platforms
@@ -855,6 +862,7 @@ https://theverge.com/tech/941138/google-gemini-spark-ai-agent-hands-on
 https://theverge.com/tech/941318/asus-new-zenbook-14-might-be-another-macbook-neo-competitor-if-the-price-is-right
 https://theverge.com/tech/942328/nanoleaf-switchbot-onerobotics-sale-ai-robotics
 https://theverge.com/tech/942331/metas-marketplace-evades-the-eus-big-tech-crackdown
+https://theverge.com/tech/942701/googles-new-dreambeans-ai-app-is-different
 https://theverge.com/tech/942932/portable-light-camping-work-travel
 https://theverge.com/tech/943866/google-alphabet-eu-dma-fine-search-services-play-store-steering
 https://theverge.com/tech/943905/meta-remembers-the-portal-exists-and-turns-it-into-an-ai-dev-kit
