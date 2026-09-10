@@ -193,6 +193,7 @@ https://theverge.com/ai-artificial-intelligence/991956/student-ai-use-scores-oec
 https://theverge.com/ai-artificial-intelligence/991977/suno-releases-its-first-ai-music-model-made-with-record-industry-help
 https://theverge.com/ai-artificial-intelligence/992950/openai-agents-reportedly-swarmed-more-than-just-a-german-wiki
 https://theverge.com/ai-artificial-intelligence/992953/openai-math-millennium-prize-navier-stokes
+https://theverge.com/ai-artificial-intelligence/993263/where-does-openai-get-mathematics-training-data
 https://theverge.com/antitrust/982578/google-just-showed-off-its-new-prototype-of-how-third-party-app-stores-will-look
 https://theverge.com/apple/985133/apple-is-automatically-upgrading-some-recent-mac-mini-m4-orders-to-m6-or-m5-pro-versions-for-free
 https://theverge.com/bulletin/795051/verge-podcast-ad-free-set-up-how-to
@@ -387,6 +388,7 @@ https://theverge.com/gadgets/992143/titw-giveaway-11
 https://theverge.com/gadgets/992218/framework-lowers-ram-prices-refunds
 https://theverge.com/gadgets/992221/ocarina-of-time-remaster-corsair-scimitar-deal-sale
 https://theverge.com/gadgets/993005/smartphone-price-hikes-apple-iphone-18-pro
+https://theverge.com/gadgets/993242/trump-phone-t1-price-hike
 https://theverge.com/games/684957/splitgate-2-hat-apology
 https://theverge.com/games/816118/valve-steam-frame-vr-headset-streaming-arm-steamos-hands-on
 https://theverge.com/games/843260/tomb-raider-catalyst-trailer-tomb-raider-atlantis
@@ -510,6 +512,8 @@ https://theverge.com/games/992006/steam-achievements-leaked-for-dozens-of-unrele
 https://theverge.com/games/992027/blizzard-workers-secure-major-union-contract
 https://theverge.com/games/992053/the-switch-2-is-getting-a-2d-metroid-called-ravenous
 https://theverge.com/games/993121/valve-is-testing-a-steam-screensaver-feature
+https://theverge.com/games/993205/physint-hideo-kojima-sony-playstation-microsoft-xbox
+https://theverge.com/headphone-review/695609/nothing-headphone-1-review
 https://theverge.com/health/688503/rfk-jr-vaccines
 https://theverge.com/health/981670/daniel-eks-body-scanning-clinic-neko-health-will-open-in-nyc-on-september-24th
 https://theverge.com/huawei/667574/huawei-mate-xt-review-trifold-phone
@@ -608,6 +612,9 @@ https://theverge.com/news/991130/apple-skips-iphone-18-fall-2026-release
 https://theverge.com/news/991919/nvidia-game-ready-driver-007-first-light-ray-reconstruction
 https://theverge.com/news/992269/xbox-custom-boot-animation-local-search-voice-clarity-features
 https://theverge.com/news/992408/ios-27-release-date-features
+https://theverge.com/news/993215/phanteks-ex5-case
+https://theverge.com/news/993231/nintendo-switch-2-vrr-support-firmware-update
+https://theverge.com/news/993284/nothing-pro-headphones-release-date-pricing-rumors
 https://theverge.com/nintendo/686603/nintendo-switch-2-review
 https://theverge.com/podcast/905198/meta-lawsuits-facebook-instagram-youtube-social-media-addiction-section-230
 https://theverge.com/podcast/969231/samsung-unpacked-2026-vergecast-livestream
@@ -697,6 +704,7 @@ https://theverge.com/policy/990939/4-out-of-5-eu-smartphones-fail-to-provide-rep
 https://theverge.com/policy/991438/crooked-media-is-launching-a-social-initiative-to-attract-young-voters-to-the-democratic-party
 https://theverge.com/policy/992260/etsy-fcc-gadget-ban-comment
 https://theverge.com/policy/992359/microsoft-aft-schools-ai-privacy
+https://theverge.com/policy/993201/delusion-stacked-upon-delusion
 https://theverge.com/report/829265/hoto-fanttik-profile-origins-xiaomi-aukey-tiktok
 https://theverge.com/report/840822/australia-social-media-ban-under-16-response
 https://theverge.com/report/841994/operation-bluebird-twitter-trademarks-petition
@@ -807,6 +815,7 @@ https://theverge.com/tech/926342/nanoleaf-smart-lighting-ai-robotics-red-light-w
 https://theverge.com/tech/926893/meta-employees-are-reportedly-miserable-between-looming-layoffs-and-ai-push
 https://theverge.com/tech/928479/google-googlebook-laptops-android-tease-aluminium-chromebook
 https://theverge.com/tech/928724/gemini-intelligence-android-io-autofill
+https://theverge.com/tech/930246/motorola-razr-fold-review-battery
 https://theverge.com/tech/930573/age-verification-bills-linux-open-source
 https://theverge.com/tech/931532/bambu-agpl-pawel-jarczak-open-source-threat-dmca-github
 https://theverge.com/tech/932153/snap-youtube-tiktok-lawsuit-social-media-addiction-schools
@@ -1141,6 +1150,7 @@ https://theverge.com/tech/987575/apple-openai-destroying-evidence-trade-secrets-
 https://theverge.com/tech/987582/irobot-roomba-max-875-sealforce-robot-vacuum-announced
 https://theverge.com/tech/987583/apple-john-ternus-staff-memo
 https://theverge.com/tech/987683/this-cd-player-thats-smaller-than-a-cd-has-me-asking-questions
+https://theverge.com/tech/987744/this-qi2-ring-charger-has-a-built-in-fan
 https://theverge.com/tech/987756/humanoid-robot-butlers-lg-cloid-smart-home-ifa
 https://theverge.com/tech/987776/hohems-tiny-steadicam-has-a-removable-action-cam
 https://theverge.com/tech/987784/apple-maps-lake-america-renaming
@@ -1272,6 +1282,11 @@ https://theverge.com/tech/993022/wordpress-automattic-ceo-matt-mullenweg-leave-o
 https://theverge.com/tech/993048/iphone-18-pro-black-color
 https://theverge.com/tech/993064/no-airpods-with-cameras-apple-event
 https://theverge.com/tech/993111/heres-apples-iphone-duo-design-guidance-for-app-developers
+https://theverge.com/tech/993155/variable-aperture-iphone-18-pro-photography
+https://theverge.com/tech/993184/snapchat-makes-it-easier-to-plan-events-and-meetups
+https://theverge.com/tech/993264/motorola-has-its-own-wide-foldable-on-the-way
+https://theverge.com/tech/993269/the-pixel-tablet-is-gone-from-googles-online-store
+https://theverge.com/tech/993298/apple-gift-card-nfc-security-chip-ios-27-iphone
 https://theverge.com/transportation/760217/a-wild-miraidon-appeared
 https://theverge.com/transportation/805247/tesla-q3-earnings-elon-musk-robot-army-pay-package
 https://theverge.com/transportation/873801/ford-eyes-geely-for-tech-team-up
