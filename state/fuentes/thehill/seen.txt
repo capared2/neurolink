@@ -50,6 +50,7 @@ https://thehill.com/blogs/in-the-know/6077857-page-six-reports-kimmel-exit
 https://thehill.com/blogs/in-the-know/6081139-smith-slams-fetterman-rnc-appearance
 https://thehill.com/blogs/in-the-know/6081767-prince-harry-bill-nye-chrissy-teigen-clinton-global-initiative
 https://thehill.com/blogs/in-the-know/6083201-charlie-kirk-assassin-harassment
+https://thehill.com/blogs/in-the-know/6083249-gen-z-september-eleven-charlie-kirk
 https://thehill.com/blogs/in-the-know/in-the-know/6052354-tim-curry-star-of-rocky-horror-and-it-dead-at-80-reports
 https://thehill.com/blogs/in-the-know/in-the-know/6079592-jalen-brunson-hosts-snl
 https://thehill.com/business/6040178-bond-market-yields-trump-emergency
@@ -142,6 +143,7 @@ https://thehill.com/homenews/6082275-el-sayed-hits-rogers-on-gop-convention-appe
 https://thehill.com/homenews/6082532-trump-if-gop-wins-midterms-all-adult-citizens-will-get-5k-dividend-rising-yt
 https://thehill.com/homenews/6082956-uk-bans-trade-with-israeli-settlements-in-west-bank-yt
 https://thehill.com/homenews/6083047-senate-race-tossup-democrats-ddhq
+https://thehill.com/homenews/6083235-september-11-battery-park-city-evacuation
 https://thehill.com/homenews/6083417-benchmark-mortgage-rate-14-month-high
 https://thehill.com/homenews/administration/6040220-live-updates-donald-trump-iran-war-economy-midterms
 https://thehill.com/homenews/administration/6040588-donald-trump-white-house-helipad-ballroom-construction
@@ -368,6 +370,8 @@ https://thehill.com/homenews/administration/6081977-trump-denies-us-aircraft-dam
 https://thehill.com/homenews/administration/6082051-george-w-bush-dan-caine-warnings-911-anniversary-speech
 https://thehill.com/homenews/administration/6082538-census-bureau-seeks-exclude-illegal-immigrants
 https://thehill.com/homenews/administration/6082670-trump-defends-five-thousand-dividend
+https://thehill.com/homenews/administration/6083232-preemptive-war-democratization-doctrines
+https://thehill.com/homenews/administration/6083279-hatch-act-trump-cabinet-rnc
 https://thehill.com/homenews/administration/6083451-trump-potential-democratic-majority-probably-deals
 https://thehill.com/homenews/administration/6083597-trump-midterm-pledge-vote-convention
 https://thehill.com/homenews/analysis/6040221-democrats-leftist-win-senate-race
@@ -557,6 +561,7 @@ https://thehill.com/homenews/campaign/6081974-republicans-endorse-talarico
 https://thehill.com/homenews/campaign/6082103-el-sayed-hits-rogers-on-gop-convention-appearance-in-new-online-game
 https://thehill.com/homenews/campaign/6082856-rubio-no-plans-2028-presidential-run
 https://thehill.com/homenews/campaign/6083122-james-talarico-ken-paxton-texas-senate-aarp-poll
+https://thehill.com/homenews/campaign/6083292-hispanic-voters-democratic-party-economy-immigration
 https://thehill.com/homenews/campaign/6083576-vance-criticizes-talarico-gop-convention-speech
 https://thehill.com/homenews/campaign/6083650-vance-rnc-keynote-2028-chatter
 https://thehill.com/homenews/campaign/data-nerds/6040929-democratic-socialist-angie-nixon-florida-upset-what-to-know-discussion
@@ -721,6 +726,7 @@ https://thehill.com/homenews/senate/6081006-donald-trump-john-thune-gop-midterm-
 https://thehill.com/homenews/senate/6081417-deluzio-criticizes-fetterman-pennsylvania
 https://thehill.com/homenews/senate/6081740-philadelphia-inquirer-fetterman-critique
 https://thehill.com/homenews/senate/6082917-fetterman-fundraising-gop-convention
+https://thehill.com/homenews/senate/6083365-fetterman-gop-convention-video-pennsylvania
 https://thehill.com/homenews/space/6054908-where-northern-lights-may-shine-amid-geomagnetic-storm-watches
 https://thehill.com/homenews/space/6057441-americans-skeptical-ufo-origins-gallup-poll
 https://thehill.com/homenews/space/6067876-nasa-jared-isaacman-outlines-moon-base
@@ -1041,6 +1047,7 @@ https://thehill.com/opinion/healthcare/6067444-911-responders-misclassified-labo
 https://thehill.com/opinion/healthcare/6067716-stop-medical-bleeding
 https://thehill.com/opinion/healthcare/6071796-ocasio-cortez-egg-freezing-costs
 https://thehill.com/opinion/healthcare/6077734-house-lower-costs-transparency
+https://thehill.com/opinion/healthcare/6082262-candy-flavored-opioid-controversy
 https://thehill.com/opinion/immigration/6039522-reducing-immigration-litigation-hostility
 https://thehill.com/opinion/immigration/6053193-mega-master-calendar-hearings-impact
 https://thehill.com/opinion/immigration/6058430-florida-mandatory-death-penalty
@@ -1116,6 +1123,7 @@ https://thehill.com/opinion/national-security/6077146-john-feal-911-advocacy
 https://thehill.com/opinion/national-security/6078388-russia-nato-escalation-threats
 https://thehill.com/opinion/national-security/6079253-trump-iran-blockade-risks
 https://thehill.com/opinion/national-security/6079876-iran-war-drains-us-missile-stocks
+https://thehill.com/opinion/national-security/6082047-uk-us-security-partnership
 https://thehill.com/opinion/robbys-radar/6041771-cnn-erin-burnett-natalie-harp
 https://thehill.com/opinion/robbys-radar/6047297-data-centers-public-opposition
 https://thehill.com/opinion/robbys-radar/6049731-el-sayed-hasan-piker-distancing
@@ -1409,6 +1417,7 @@ https://thehill.com/policy/national-security/6049802-cia-director-ratcliffe-mosc
 https://thehill.com/policy/national-security/6056134-senators-oppose-ice-shocking-gloves
 https://thehill.com/policy/national-security/6059574-homan-ice-bus-stop-arrests
 https://thehill.com/policy/national-security/6076466-americans-fear-domestic-terrorism-more
+https://thehill.com/policy/national-security/6082996-trump-scales-back-airport-security
 https://thehill.com/policy/sports-gaming/6042577-seattle-times-columnist-resigns-trans-athletes
 https://thehill.com/policy/sports-gaming/6044141-trump-scheduled-indycars-first-dc-grandprix
 https://thehill.com/policy/sports-gaming/6046074-photos-indycar-freedom-250-grand-prix
