@@ -19,6 +19,7 @@ https://theverge.com/2019/5/31/18646098/formula-e-gen2-drive-electric-racecar
 https://theverge.com/2019/8/28/20836524/google-pixel-3a-production-china-nokia-factory-vietnam-trade-war-tariffs
 https://theverge.com/2020/1/6/21054353/samsung-ballie-robot-ai-assistant-ces-2020
 https://theverge.com/2020/10/15/21516729/facebook-twitter-new-york-post-hunter-biden-emails-laptop-story-social-media-moderation-problems
+https://theverge.com/2020/10/22/21528404/quibi-shut-down-cost-subscribers-content-tv-movies-katzenberg-whitman-tiktok-netflix
 https://theverge.com/2020/12/18/22189637/space-force-military-branch-official-name-guardians
 https://theverge.com/2020/2/3/21120531/disney-plus-hamilton-streaming-theaters-distribution-broadway
 https://theverge.com/2020/4/24/21234279/lysol-poison-health-experts-trump-injections-epa-coronavirus
@@ -69,6 +70,7 @@ https://theverge.com/2024/8/12/24218442/space-junk-debris-satellite-news-storyst
 https://theverge.com/2024/8/14/24219417/alien-romulus-review
 https://theverge.com/2024/8/2/24211842/ai-music-riaa-copyright-lawsuit-suno-udio-fair-use
 https://theverge.com/2024/8/27/24229843/google-meets-automatic-ai-note-taking-launch
+https://theverge.com/2024/8/6/24205146/quibi-history-ebooks-future-vergecast
 https://theverge.com/2024/9/24/24252933/logitech-mx-creative-console-release-date-pricing
 https://theverge.com/2024/9/4/24235213/x-brazil-suppression-speech-elon-musk-india-turkey
 https://theverge.com/2024/9/5/24236307/philips-hue-play-sync-box-8k-upgrade-price-release-date
@@ -80,12 +82,14 @@ https://theverge.com/2025/1/23/24350273/pocketpair-palworld-indie-publishing-lab
 https://theverge.com/2025/1/6/24337323/more-android-phones-qi2-ready-certification-wireless-magnetic-charging-ces-2025
 https://theverge.com/23987993/gta-6-news-trailers-rockstar-games
 https://theverge.com/ai-artificial-intelligence/648595/anthropic-claude-research-google-workplace
+https://theverge.com/ai-artificial-intelligence/795171/openai-devday-sam-altman-sora-launch-copyright
 https://theverge.com/ai-artificial-intelligence/822011/coreweave-debt-data-center-ai
 https://theverge.com/ai-artificial-intelligence/848988/nvidia-chip-loans-coreweave-gpu-debt-ai-neocloud
 https://theverge.com/ai-artificial-intelligence/883615/seedance-bytedance-tom-cruise-brad-pitt-jia-zhangke
 https://theverge.com/ai-artificial-intelligence/885958/openai-amazon-nvidia-softback-110-billion-investment
 https://theverge.com/ai-artificial-intelligence/893536/perplexitys-personal-computer-turns-your-spare-mac-into-an-ai-agent
 https://theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy
+https://theverge.com/ai-artificial-intelligence/914463/openai-sora-bill-peebles-kevin-weil-leaving-departing
 https://theverge.com/ai-artificial-intelligence/915660/mythos-script-kiddies-hackers-attack-cybersecurity-ai
 https://theverge.com/ai-artificial-intelligence/915662/john-ternus-apple-ceo-tim-cook-ai-problem-siri
 https://theverge.com/ai-artificial-intelligence/916972/even-the-fancy-lawyers-are-getting-pantsed-by-ai
@@ -207,6 +211,7 @@ https://theverge.com/ai-artificial-intelligence/993759/due-to-gpt-6-astra-demand
 https://theverge.com/ai-artificial-intelligence/994036/suno-admits-it-scraped-audio-from-youtube-in-a-court-filing
 https://theverge.com/ai-artificial-intelligence/994064/anthropic-spent-this-week-in-hot-water-over-cybersecurity
 https://theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal
+https://theverge.com/ai-artificial-intelligence/994242/jeffrey-katzenberg-bill-peebles-ai-video-startup
 https://theverge.com/antitrust/982578/google-just-showed-off-its-new-prototype-of-how-third-party-app-stores-will-look
 https://theverge.com/apple/985133/apple-is-automatically-upgrading-some-recent-mac-mini-m4-orders-to-m6-or-m5-pro-versions-for-free
 https://theverge.com/bulletin/795051/verge-podcast-ad-free-set-up-how-to
@@ -1024,6 +1029,7 @@ https://theverge.com/tech/978675/now-thats-what-i-call-pistachio
 https://theverge.com/tech/978785/facebook-reimagined-creator-studio-rollout
 https://theverge.com/tech/978958/five-words-steve-ballmer-jumbotron-corruption-scandal
 https://theverge.com/tech/979070/amazon-mmo-throne-and-liberty-lost-ark-live-operations
+https://theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai
 https://theverge.com/tech/979231/apple-base-iphone-18-launch-delayed
 https://theverge.com/tech/979241/made-by-google-2026-live-blog-pixel-11-trevor-noah
 https://theverge.com/tech/979293/dont-touch-that-dial
