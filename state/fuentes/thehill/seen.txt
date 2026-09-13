@@ -402,6 +402,7 @@ https://thehill.com/homenews/administration/6085955-trump-ireland-reunification-
 https://thehill.com/homenews/administration/6086040-trump-smithsonian-george-washington-statue-build
 https://thehill.com/homenews/administration/6086056-trump-admin-blocks-park-projects-funding
 https://thehill.com/homenews/administration/6086235-trump-adviser-gop-midterm-optimism
+https://thehill.com/homenews/administration/6086633-live-updates-congress-returns-washington-agenda-trump-ireland
 https://thehill.com/homenews/analysis/6040221-democrats-leftist-win-senate-race
 https://thehill.com/homenews/analysis/6042626-treasury-secretary-bessent-buyback
 https://thehill.com/homenews/analysis/6057609-gop-campaign-centered-trump
@@ -693,6 +694,8 @@ https://thehill.com/homenews/house/6080052-congressional-ethics-watchdog-omar
 https://thehill.com/homenews/house/6080271-house-gop-max-miller-ohio
 https://thehill.com/homenews/house/6081696-chip-roy-criticizes-trump-dividend
 https://thehill.com/homenews/house/6082394-dean-calls-fetterman-video-stunt
+https://thehill.com/homenews/house/6086647-wisconsin-gop-lawmaker-plane-crash
+https://thehill.com/homenews/house/6086761-jeffries-urges-ai-regulation
 https://thehill.com/homenews/lgbtq/6044688-log-cabin-republicans-transgender-support-ends
 https://thehill.com/homenews/media/6040779-alina-habba-press-secretary-karoline-leavitt
 https://thehill.com/homenews/media/6045875-scott-jennings-press-secretary-reports
@@ -839,6 +842,7 @@ https://thehill.com/homenews/state-watch/6074514-live-results-new-hampshrie-gove
 https://thehill.com/homenews/state-watch/6074788-lujan-grisham-slams-trump-new-america
 https://thehill.com/homenews/state-watch/6075377-giuliani-criticizes-mamdani-911
 https://thehill.com/homenews/state-watch/6076693-where-its-most-affordable-to-be-a-stay-at-home-parent-data
+https://thehill.com/homenews/state-watch/6077165-there-are-no-more-sunsets-after-7-p-m-for-these-cities-starting-this-week
 https://thehill.com/homenews/state-watch/6077228-hochul-voices-support-for-mamdani-after-giuliani-tells-him-to-skip-9-11-ceremony
 https://thehill.com/homenews/state-watch/6077522-mamdani-releases-911-records
 https://thehill.com/homenews/state-watch/6077962-egg-producers-antitrust-settlement
@@ -1039,6 +1043,7 @@ https://thehill.com/opinion/civil-rights/6070213-frances-perkins-labor-legacy
 https://thehill.com/opinion/civil-rights/6072860-tuskegee-dress-code-success
 https://thehill.com/opinion/civil-rights/6076487-mass-surveillance-violation-rights
 https://thehill.com/opinion/civil-rights/6077237-nobel-peace-prize-wfp
+https://thehill.com/opinion/civil-rights/6083593-charlie-kirk-anniversary-black-america
 https://thehill.com/opinion/congress-blog/6039117-trump-executive-order-history
 https://thehill.com/opinion/congress-blog/6052956-congressional-ethics-reform-efforts
 https://thehill.com/opinion/congress-blog/6057763-senators-abandoning-constitutional-checks
@@ -1072,6 +1077,7 @@ https://thehill.com/opinion/education/6072308-gov-challenges-aba-accreditation
 https://thehill.com/opinion/education/6073732-new-regulations-target-diversity-admissions
 https://thehill.com/opinion/education/6075384-whitewashing-joe-paterno-legacy
 https://thehill.com/opinion/education/6082705-skilled-trades-labor-shortage
+https://thehill.com/opinion/education/6084870-higher-education-sticker-price-myth
 https://thehill.com/opinion/energy-environment/6047556-states-lead-clean-energy-transition
 https://thehill.com/opinion/energy-environment/6050929-iran-war-shifts-oil-traffic
 https://thehill.com/opinion/energy-environment/6055220-katrina-anniversary-fema-crisis
@@ -1153,6 +1159,7 @@ https://thehill.com/opinion/international/6076505-us-venezuela-oil-deal-democrac
 https://thehill.com/opinion/international/6076794-us-canada-trade-war-nickel
 https://thehill.com/opinion/international/6080599-graham-act-yamal-arctic-tankers
 https://thehill.com/opinion/international/6080863-sinjar-yazidi-genocide-lessons
+https://thehill.com/opinion/international/6082127-us-canada-trade-war-tariffs
 https://thehill.com/opinion/international/6083513-trump-witkoff-kyiv-visit
 https://thehill.com/opinion/international/6085199-us-iran-escalation-rhetoric-threshold
 https://thehill.com/opinion/judiciary/6033495-california-black-infant-health-lawsuit
@@ -1230,6 +1237,8 @@ https://thehill.com/opinion/technology/6071564-data-center-moratorium-costs
 https://thehill.com/opinion/technology/6071874-tech-impact-social-loneliness
 https://thehill.com/opinion/technology/6071910-musk-spacex-space-ai-data-centers
 https://thehill.com/opinion/technology/6072186-future-flexible-workplace-design
+https://thehill.com/opinion/technology/6082250-nasa-low-earth-orbit-strategy
+https://thehill.com/opinion/technology/6085695-data-center-panic-solved
 https://thehill.com/opinion/white-house/6036778-what-is-trump-afraid-we-will-see-about-how-the-tariffs-were-formulated
 https://thehill.com/opinion/white-house/6042186-trump-navy-war
 https://thehill.com/opinion/white-house/6042342-fda-food-safety-reform
@@ -1508,6 +1517,7 @@ https://thehill.com/policy/international/6082738-iran-ballistic-missiles
 https://thehill.com/policy/international/6084500-carney-latest-trump-trade-moves-relatively-modest
 https://thehill.com/policy/international/6084537-bialiatski-urges-more-concessions
 https://thehill.com/policy/international/6084952-ukraine-lt-gen-kyrylo-budanov-newsnation-exclusive-russia-war-breakthroughs
+https://thehill.com/policy/international/6086615-iranian-cargo-ship-struck-hormuz
 https://thehill.com/policy/national-security/6049802-cia-director-ratcliffe-moscow-visit
 https://thehill.com/policy/national-security/6056134-senators-oppose-ice-shocking-gloves
 https://thehill.com/policy/national-security/6059574-homan-ice-bus-stop-arrests
@@ -1588,7 +1598,12 @@ https://thehill.com/policy/technology/6081501-openai-calls-mandatory-ai-safety-r
 https://thehill.com/policy/technology/6083142-lummis-pushes-democrats-clarity-act
 https://thehill.com/policy/technology/6083529-lawmakers-urge-apple-google-new-mexico
 https://thehill.com/policy/technology/6085364-texas-tiktok-misled-consumers
+https://thehill.com/policy/technology/6085616-anthropic-resignation-viral-debate
 https://thehill.com/policy/technology/6086167-anthropic-ceo-ai-development-guardrails
+https://thehill.com/policy/technology/6086701-coxon-warns-ai-race-danger
+https://thehill.com/policy/technology/6086739-trump-downplays-ai-risks
+https://thehill.com/policy/technology/6086745-johnson-advocates-ai-regulation-balance
+https://thehill.com/policy/technology/6086768-obama-urges-ai-oversight
 https://thehill.com/policy/transportation/6050209-tsa-phases-out-gold-program
 https://thehill.com/policy/transportation/6050669-uber-new-family-features-teen-accounts-stream-safety
 https://thehill.com/policy/transportation/6059553-google-maps-renames-lake-america
