@@ -227,6 +227,8 @@ https://theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-ind
 https://theverge.com/ai-artificial-intelligence/994562/sam-altman-lets-slow-down-without-slowing-down
 https://theverge.com/ai-artificial-intelligence/994580/china-ai-ceos-are-fear-mongering
 https://theverge.com/ai-artificial-intelligence/994768/i-alone-can-fix-it-strikes-again
+https://theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei
+https://theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel
 https://theverge.com/antitrust/982578/google-just-showed-off-its-new-prototype-of-how-third-party-app-stores-will-look
 https://theverge.com/apple/985133/apple-is-automatically-upgrading-some-recent-mac-mini-m4-orders-to-m6-or-m5-pro-versions-for-free
 https://theverge.com/bulletin/795051/verge-podcast-ad-free-set-up-how-to
@@ -629,6 +631,7 @@ https://theverge.com/news/757979/google-search-preferred-sources-launch-top-stor
 https://theverge.com/news/761248/adobe-acrobat-studio-pdf-ai-workspace-app
 https://theverge.com/news/761501/insta360-ultra-go-action-camera-4k-60fps-microsd
 https://theverge.com/news/761665/meta-ai-translation-facebook-instagram-reels
+https://theverge.com/news/765171/elon-musk-apple-openai-antitrust-lawsuit
 https://theverge.com/news/765881/google-android-apps-side-loading-developer-verification
 https://theverge.com/news/769585/amazon-lens-live-ai-real-time-shopping
 https://theverge.com/news/771665/timekettle-w4-ai-interpreter-wireless-earbuds-bone-conduction
@@ -709,6 +712,7 @@ https://theverge.com/news/994131/the-justice-department-is-looking-into-steve-ba
 https://theverge.com/news/994566/microsoft-humanist-ai-code-of-conduct
 https://theverge.com/news/994603/microsoft-grok-word-excel-powerpoint-copilot
 https://theverge.com/news/994756/apple-ios-27-launch-iphone-siri-ai-update
+https://theverge.com/news/995051/epa-power-plant-climate-pollution-rollback-ai-data-centers
 https://theverge.com/nintendo/686603/nintendo-switch-2-review
 https://theverge.com/podcast/905198/meta-lawsuits-facebook-instagram-youtube-social-media-addiction-section-230
 https://theverge.com/podcast/969231/samsung-unpacked-2026-vergecast-livestream
@@ -739,6 +743,8 @@ https://theverge.com/podcast/991471/adam-conover-youtube-tv-media-union-labor-ai
 https://theverge.com/podcast/991656/todays-vergecast-the-tech-that-made-a-2-hour-marathon-possible
 https://theverge.com/podcast/992141/decoder-mailbag-ai-backlash-surveillance-midterms-data-centers
 https://theverge.com/podcast/994016/iphone-duo-vergecast-apple-watch-mac-llms
+https://theverge.com/podcast/995058/todays-vergecast-who-is-the-1059-steam-vr-headset-for
+https://theverge.com/podcast/995065/the-vergecast-hotline-is-ready-for-your-ai-questions
 https://theverge.com/pokemon/620617/honda-miraidon-motorcycle
 https://theverge.com/policy/677373/lawyers-chatgpt-hallucinations-ai
 https://theverge.com/policy/799473/facebook-meta-ice-jawboning
@@ -1441,10 +1447,14 @@ https://theverge.com/tech/994636/dell-xps-13-2026-intel-wildcat-lake-8gb-16gb-re
 https://theverge.com/tech/994656/apple-iphone-duo-shift-left-edge-setting-cases
 https://theverge.com/tech/994683/delta-emulator-ios-iphone-duo-support
 https://theverge.com/tech/994700/fairphone-fairbuds-2-wireless-earbuds-leak-redesign
+https://theverge.com/tech/994740/roborock-finally-brings-a-roller-mop-to-its-flagship-robovac
 https://theverge.com/tech/994770/amazon-air-21-air-miami
 https://theverge.com/tech/994818/apple-macos-27-golden-gate-available-now
 https://theverge.com/tech/994830/hori-arcade-classic-pro-modular-controller-trackball-paddle-joystick
 https://theverge.com/tech/994833/automattics-board-is-reportedly-out-after-matt-mullenwegs-33-hour-departure
+https://theverge.com/tech/994949/apple-intelligence-apple-home-icloud-plus-cost-subscription
+https://theverge.com/tech/995055/valve-steam-frame-price-ram-impact
+https://theverge.com/tech/995079/president-donald-trump-calls-nvidia-ceo-jensen-huang-all-in-summit
 https://theverge.com/transportation/760217/a-wild-miraidon-appeared
 https://theverge.com/transportation/805247/tesla-q3-earnings-elon-musk-robot-army-pay-package
 https://theverge.com/transportation/873801/ford-eyes-geely-for-tech-team-up
