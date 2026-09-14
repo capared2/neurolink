@@ -115,6 +115,7 @@ https://thehill.com/business/6083146-inflation-rate-cpi-august
 https://thehill.com/business/6083360-gop-midterm-dividend-bond-yields-high
 https://thehill.com/business/6085407-cpi-inflation-federal-reserve-interest-rates
 https://thehill.com/business/6086906-hassett-plays-down-trump-trade-threat
+https://thehill.com/business/6087112-trump-to-lift-irish-whiskey-tariffs
 https://thehill.com/business/agriculture/6052290-ranchers-protest-foreign-imported-beef
 https://thehill.com/business/economy/6043886-one-seemingly-ordinary-job-has-gotten-much-more-deadly-over-the-past-10-years-federal-data-shows
 https://thehill.com/business/economy/6060815-these-30-industries-could-see-the-fastest-job-decline-in-the-next-decade-labor-department
@@ -604,6 +605,8 @@ https://thehill.com/homenews/campaign/6085724-don-bacon-considers-2028-presidenc
 https://thehill.com/homenews/campaign/6086086-darline-graham-annie-andrews-debate-announcement
 https://thehill.com/homenews/campaign/6086429-state-of-texas-paxton-and-talarico-in-their-own-words
 https://thehill.com/homenews/campaign/6086478-alaska-senate-debate-peltola-sullivan
+https://thehill.com/homenews/campaign/6087181-democrats-voter-motivation-trump-opposition
+https://thehill.com/homenews/campaign/6087218-el-sayed-denies-piker-relevance
 https://thehill.com/homenews/campaign/data-nerds/6040929-democratic-socialist-angie-nixon-florida-upset-what-to-know-discussion
 https://thehill.com/homenews/campaign/data-nerds/6054870-democratic-party-senate-control-division-2026-midterms-discussion
 https://thehill.com/homenews/campaign/data-nerds/6068929-abdul-el-sayed-democratic-tensions-michigan-senate-race-discussion
@@ -864,6 +867,7 @@ https://thehill.com/homenews/state-watch/6085057-maine-lobster-industry-pressure
 https://thehill.com/homenews/state-watch/6085067-lindsay-clancy-juror-influenced-by-patrick-clancy-mistrial-massachusetts
 https://thehill.com/homenews/state-watch/6085202-maloney-requests-lake-pennsylvania-trump
 https://thehill.com/homenews/state-watch/6085748-florida-offers-asylum-holdout-juror
+https://thehill.com/homenews/state-watch/6087103-charlie-kirk-statue-vandalized
 https://thehill.com/homenews/sunday-talk-shows/6045326-sunday-shows-trump-canada-trade-republican-primaries
 https://thehill.com/homenews/sunday-talk-shows/6059207-sunday-shows-trump-gop-economic-tensions-foreign-relations
 https://thehill.com/homenews/sunday-talk-shows/6073362-sunday-shows-trump-rnc-convention-iran-war
@@ -1454,6 +1458,7 @@ https://thehill.com/policy/healthcare/6083233-glp-1-weight-loss-drugs-suicidal-t
 https://thehill.com/policy/healthcare/6083278-trump-surgeon-general-nominee-tobacco-drug-investments
 https://thehill.com/policy/healthcare/6085116-cdc-cyclospora-outbreak-over
 https://thehill.com/policy/healthcare/6085687-cdc-erica-schwartz-measles-virus-vaccines
+https://thehill.com/policy/healthcare/6087275-pennsylvania-third-measles-death
 https://thehill.com/policy/international/6040680-iran-minister-slams-trump-economic-dday
 https://thehill.com/policy/international/6042225-rubio-cuba-sanctions
 https://thehill.com/policy/international/6043090-iran-reaction-us-sanctions-trump-administration-war
