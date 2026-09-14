@@ -223,6 +223,8 @@ https://theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems
 https://theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised
 https://theverge.com/ai-artificial-intelligence/994424/is-it-time-for-ai-companies-to-press-pause
 https://theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting
+https://theverge.com/ai-artificial-intelligence/994562/sam-altman-lets-slow-down-without-slowing-down
+https://theverge.com/ai-artificial-intelligence/994580/china-ai-ceos-are-fear-mongering
 https://theverge.com/antitrust/982578/google-just-showed-off-its-new-prototype-of-how-third-party-app-stores-will-look
 https://theverge.com/apple/985133/apple-is-automatically-upgrading-some-recent-mac-mini-m4-orders-to-m6-or-m5-pro-versions-for-free
 https://theverge.com/bulletin/795051/verge-podcast-ad-free-set-up-how-to
@@ -602,6 +604,7 @@ https://theverge.com/news/662834/gta-6-trailer-gameplay-ps5
 https://theverge.com/news/664776/apple-curved-glass-iphone-2027
 https://theverge.com/news/666443/judge-slams-lawyers-ai-bogus-research
 https://theverge.com/news/668365/charter-cox-megamerger-deal-34-billion
+https://theverge.com/news/668762/microsoft-grok-3-xai-models
 https://theverge.com/news/672092/senate-republican-vote-car-truck-pollution-ev-waiver-california
 https://theverge.com/news/683846/macos-tahoe-intel-x86-arm-m-cpu
 https://theverge.com/news/708798/adobe-firefly-ai-generate-sound-effects-video-composition
@@ -688,6 +691,7 @@ https://theverge.com/news/993231/nintendo-switch-2-vrr-support-firmware-update
 https://theverge.com/news/993284/nothing-pro-headphones-release-date-pricing-rumors
 https://theverge.com/news/993791/microsoft-frank-shaw-leaving-head-of-comms
 https://theverge.com/news/994131/the-justice-department-is-looking-into-steve-ballmers-jumbotron-corruption-scandal
+https://theverge.com/news/994603/microsoft-grok-word-excel-powerpoint-copilot
 https://theverge.com/nintendo/686603/nintendo-switch-2-review
 https://theverge.com/podcast/905198/meta-lawsuits-facebook-instagram-youtube-social-media-addiction-section-230
 https://theverge.com/podcast/969231/samsung-unpacked-2026-vergecast-livestream
@@ -789,6 +793,7 @@ https://theverge.com/policy/993653/transformers-ice-ai
 https://theverge.com/policy/993671/california-governor-signs-law-blocking-addictive-social-feeds-for-minors
 https://theverge.com/policy/994072/white-house-truth-social-popular-powerful
 https://theverge.com/policy/994099/george-bush-paints-himself-in-his-most-famous-moment
+https://theverge.com/policy/994414/cities-ditching-flock-cameras-controversy
 https://theverge.com/policy/994449/the-nsa-is-reorganizing-with-an-increased-focus-on-ai-china-and-cybersecurity
 https://theverge.com/report/829265/hoto-fanttik-profile-origins-xiaomi-aukey-tiktok
 https://theverge.com/report/840822/australia-social-media-ban-under-16-response
@@ -1410,6 +1415,7 @@ https://theverge.com/tech/994218/apple-iphone-18-pro-airpods-5-meta-muse-ai-sony
 https://theverge.com/tech/994330/husqvarna-gets-the-first-exception-to-the-fccs-foreign-robot-ban-for-its-mowers
 https://theverge.com/tech/994333/lg-responds-to-tv-spying-allegations
 https://theverge.com/tech/994426/apple-iphone-game-controllers
+https://theverge.com/tech/994656/apple-iphone-duo-shift-left-edge-setting-cases
 https://theverge.com/transportation/760217/a-wild-miraidon-appeared
 https://theverge.com/transportation/805247/tesla-q3-earnings-elon-musk-robot-army-pay-package
 https://theverge.com/transportation/873801/ford-eyes-geely-for-tech-team-up

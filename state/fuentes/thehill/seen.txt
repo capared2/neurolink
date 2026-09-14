@@ -784,8 +784,10 @@ https://thehill.com/homenews/senate/6083365-fetterman-gop-convention-video-penns
 https://thehill.com/homenews/senate/6084345-collins-trump-dividend-midterms
 https://thehill.com/homenews/senate/6084980-ted-cruz-trump-dividend
 https://thehill.com/homenews/senate/6085514-husted-political-director-nazi-imagery
+https://thehill.com/homenews/senate/6085522-brown-sununu-senate-comeback
 https://thehill.com/homenews/senate/6085627-mitch-mcconnell-aging-lawmakers-term-limits-health-challenges
 https://thehill.com/homenews/senate/6086408-marshall-shifts-trump-dividends
+https://thehill.com/homenews/senate/6087626-chuck-schumer-artificial-intelligence-risk-briefing
 https://thehill.com/homenews/space/6054908-where-northern-lights-may-shine-amid-geomagnetic-storm-watches
 https://thehill.com/homenews/space/6057441-americans-skeptical-ufo-origins-gallup-poll
 https://thehill.com/homenews/space/6067876-nasa-jared-isaacman-outlines-moon-base
@@ -868,7 +870,10 @@ https://thehill.com/homenews/state-watch/6084903-new-bill-would-restrict-snap-be
 https://thehill.com/homenews/state-watch/6085057-maine-lobster-industry-pressures
 https://thehill.com/homenews/state-watch/6085067-lindsay-clancy-juror-influenced-by-patrick-clancy-mistrial-massachusetts
 https://thehill.com/homenews/state-watch/6085202-maloney-requests-lake-pennsylvania-trump
+https://thehill.com/homenews/state-watch/6085488-republicans-economic-strategy-clash-midterms
+https://thehill.com/homenews/state-watch/6085609-gop-house-trump-midterms
 https://thehill.com/homenews/state-watch/6085748-florida-offers-asylum-holdout-juror
+https://thehill.com/homenews/state-watch/6086440-kamala-harris-property-trespasser-stopped
 https://thehill.com/homenews/state-watch/6087103-charlie-kirk-statue-vandalized
 https://thehill.com/homenews/sunday-talk-shows/6045326-sunday-shows-trump-canada-trade-republican-primaries
 https://thehill.com/homenews/sunday-talk-shows/6059207-sunday-shows-trump-gop-economic-tensions-foreign-relations
@@ -954,6 +959,7 @@ https://thehill.com/newsletters/keeping-score/6046222-kyle-kirkwood-trump-freedo
 https://thehill.com/newsletters/keeping-score/6046806-san-francisco-49ers-owner-arrested-in-ohio
 https://thehill.com/newsletters/keeping-score/6057895-mark-walter-lakers-sale-controversy
 https://thehill.com/newsletters/keeping-score/6071514-nfl-season-five-things-watch
+https://thehill.com/newsletters/keeping-score/6085118-ncaa-sec-lawsuit-lane-kiffin
 https://thehill.com/newsletters/morning-report/6040484-democrats-uphill-battle-florida-angie-nixon-win
 https://thehill.com/newsletters/morning-report/6043034-democratic-momentum-rising-senate-control-battle-midterms
 https://thehill.com/newsletters/morning-report/6046357-trump-tariff-war-canada-anger
@@ -970,6 +976,7 @@ https://thehill.com/newsletters/morning-report/6075620-economic-headwinds-donald
 https://thehill.com/newsletters/morning-report/6078174-new-hampshire-senate-battleground-2026-midterms-pappas-sununu
 https://thehill.com/newsletters/morning-report/6080953-donald-trump-john-fetterman-gop-midterm-convention-day-1
 https://thehill.com/newsletters/morning-report/6083803-usa-reflects-25-year-anniversary-september-11-terrorist-attacks
+https://thehill.com/newsletters/morning-report/6087544-congress-combats-fears-ai-frenzy
 https://thehill.com/newsletters/on-the-ballot/6038891-on-the-ballot-bipartisan-couples-tough-odds-research
 https://thehill.com/newsletters/on-the-ballot/6051469-on-the-ballot-markey-moulton-massachusetts-senate-primary
 https://thehill.com/newsletters/on-the-ballot/6066962-on-the-ballot-hasan-piker-democrats-michigan
@@ -1099,7 +1106,9 @@ https://thehill.com/opinion/energy-environment/6057906-recycled-materials-attrib
 https://thehill.com/opinion/energy-environment/6058256-ev-safety-battery-risks
 https://thehill.com/opinion/energy-environment/6063029-trump-venezuela-oil-deal
 https://thehill.com/opinion/energy-environment/6079052-el-nino-disaster-preparedness
+https://thehill.com/opinion/energy-environment/6084765-schwalb-consumer-protection-threat
 https://thehill.com/opinion/energy-environment/6085213-trump-california-coastal-takeover
+https://thehill.com/opinion/energy-environment/6085381-voters-want-climate-action
 https://thehill.com/opinion/finance/6039678-billionaire-wealth-wealth-inequality
 https://thehill.com/opinion/finance/6043925-female-earnings-separation-risk
 https://thehill.com/opinion/finance/6044493-housing-supply-unlock-tax-cuts
@@ -1121,6 +1130,8 @@ https://thehill.com/opinion/finance/6071850-mega-bank-dominance-risks-growth
 https://thehill.com/opinion/finance/6074280-the-data-are-in-ai-is-not-causing-a-jobs-apocalypse
 https://thehill.com/opinion/finance/6075091-trump-debt-growth-plan
 https://thehill.com/opinion/finance/6078912-irs-silence-polymarket-kalshi
+https://thehill.com/opinion/finance/6086356-lummis-clarity-act-crypto
+https://thehill.com/opinion/finance/6086810-create-us-department-arts
 https://thehill.com/opinion/healthcare/6040418-fda-regulatory-delay-regenative-labs
 https://thehill.com/opinion/healthcare/6042789-states-fight-hemp-loophole
 https://thehill.com/opinion/healthcare/6042966-modernize-family-formation-policy
@@ -1146,6 +1157,7 @@ https://thehill.com/opinion/immigration/6053193-mega-master-calendar-hearings-im
 https://thehill.com/opinion/immigration/6058430-florida-mandatory-death-penalty
 https://thehill.com/opinion/immigration/6066746-ice-shock-gloves-purchase
 https://thehill.com/opinion/immigration/6079166-uscis-marriage-fraud-crackdown
+https://thehill.com/opinion/immigration/6082457-media-ideological-monoculture-crisis
 https://thehill.com/opinion/international/6036841-turkey-saudi-pakistan-military-pact
 https://thehill.com/opinion/international/6040259-trump-tripp-eurasian-peace-route
 https://thehill.com/opinion/international/6044866-vance-urges-ukraine-energy-strikes
@@ -1462,6 +1474,7 @@ https://thehill.com/policy/healthcare/6083278-trump-surgeon-general-nominee-toba
 https://thehill.com/policy/healthcare/6085116-cdc-cyclospora-outbreak-over
 https://thehill.com/policy/healthcare/6085687-cdc-erica-schwartz-measles-virus-vaccines
 https://thehill.com/policy/healthcare/6087275-pennsylvania-third-measles-death
+https://thehill.com/policy/healthcare/6087330-blueberries-help-muscles-burn-fat-study
 https://thehill.com/policy/international/6040680-iran-minister-slams-trump-economic-dday
 https://thehill.com/policy/international/6042225-rubio-cuba-sanctions
 https://thehill.com/policy/international/6043090-iran-reaction-us-sanctions-trump-administration-war
@@ -1535,6 +1548,7 @@ https://thehill.com/policy/international/6082738-iran-ballistic-missiles
 https://thehill.com/policy/international/6084500-carney-latest-trump-trade-moves-relatively-modest
 https://thehill.com/policy/international/6084537-bialiatski-urges-more-concessions
 https://thehill.com/policy/international/6084952-ukraine-lt-gen-kyrylo-budanov-newsnation-exclusive-russia-war-breakthroughs
+https://thehill.com/policy/international/6085416-cuban-activists-ned-award-regime-change
 https://thehill.com/policy/international/6086615-iranian-cargo-ship-struck-hormuz
 https://thehill.com/policy/national-security/6049802-cia-director-ratcliffe-moscow-visit
 https://thehill.com/policy/national-security/6056134-senators-oppose-ice-shocking-gloves
@@ -1627,6 +1641,7 @@ https://thehill.com/policy/technology/6086821-senator-ruben-gallego-ai-regulatio
 https://thehill.com/policy/technology/6086989-flood-calls-ai-safeguards
 https://thehill.com/policy/technology/6087028-democrats-urge-congress-ai-safety
 https://thehill.com/policy/technology/6087405-white-house-accepts-clarity-act-ethics
+https://thehill.com/policy/technology/6087596-donald-trump-growing-ai-risks-criticism
 https://thehill.com/policy/transportation/6050209-tsa-phases-out-gold-program
 https://thehill.com/policy/transportation/6050669-uber-new-family-features-teen-accounts-stream-safety
 https://thehill.com/policy/transportation/6059553-google-maps-renames-lake-america
