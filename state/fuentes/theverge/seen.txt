@@ -49,6 +49,7 @@ https://theverge.com/2023/11/15/23962426/meta-appeal-eu-gatekeeper-messenger-mar
 https://theverge.com/2023/11/22/23967223/sam-altman-returns-ceo-open-ai
 https://theverge.com/2023/11/22/23972680/ford-michigan-ev-battery-plant-reduction-plans
 https://theverge.com/2023/11/27/23975368/frore-airjet-apple-macbook-air-fanless-mems
+https://theverge.com/2023/12/27/24016212/new-york-times-openai-microsoft-lawsuit-copyright-infringement
 https://theverge.com/2023/2/4/23585948/spotify-founder-daniel-ek-ai-body-health-scanner
 https://theverge.com/2023/3/13/23637401/samsung-fake-moon-photos-ai-galaxy-s21-s23-ultra
 https://theverge.com/2023/3/6/23628238/elon-musk-alex-gibney-documentary-announced
@@ -257,6 +258,7 @@ https://theverge.com/ai-artificial-intelligence/997134/anthropic-claude-code-pro
 https://theverge.com/ai-artificial-intelligence/997192/mark-zuckerberg-jensen-huang-and-elon-musk-reportedly-have-trumps-ear-on-ai
 https://theverge.com/ai-artificial-intelligence/997281/googles-revamping-its-cc-ai-as-an-organizing-agent-for-families
 https://theverge.com/ai-artificial-intelligence/997296/anthropic-proposes-three-rules-for-measuring-ai-progress
+https://theverge.com/ai-artificial-intelligence/997312/a-microsoft-exec-called-ai-scraping-theft-of-unprecedented-proportions
 https://theverge.com/antitrust/982578/google-just-showed-off-its-new-prototype-of-how-third-party-app-stores-will-look
 https://theverge.com/apple/985133/apple-is-automatically-upgrading-some-recent-mac-mini-m4-orders-to-m6-or-m5-pro-versions-for-free
 https://theverge.com/bulletin/795051/verge-podcast-ad-free-set-up-how-to
@@ -795,6 +797,7 @@ https://theverge.com/news/995302/microsoft-out-of-band-windows-11-update-fix-iss
 https://theverge.com/news/995347/the-us-now-has-weapons-in-space
 https://theverge.com/news/995400/amazons-next-48-hour-prime-day-sale-starts-october-6th
 https://theverge.com/news/996801/bill-skarsgard-physint-kojima-lead-role
+https://theverge.com/news/997302/googles-new-emoji-site-is-great
 https://theverge.com/nintendo/686603/nintendo-switch-2-review
 https://theverge.com/podcast/905198/meta-lawsuits-facebook-instagram-youtube-social-media-addiction-section-230
 https://theverge.com/podcast/969231/samsung-unpacked-2026-vergecast-livestream
@@ -916,6 +919,7 @@ https://theverge.com/policy/996211/jensen-huang-trump-state-dinner
 https://theverge.com/policy/996771/tim-cook-and-sam-altman-are-also-having-dinner-with-chinas-president
 https://theverge.com/policy/996847/judge-orders-google-to-make-its-ad-tech-work-with-rivals-and-share-ad-data-with-customers
 https://theverge.com/policy/997197/new-america-dot-gov-website
+https://theverge.com/report/820656/valve-interview-arm-gaming-steamos-pierre-loup-griffais
 https://theverge.com/report/829265/hoto-fanttik-profile-origins-xiaomi-aukey-tiktok
 https://theverge.com/report/840822/australia-social-media-ban-under-16-response
 https://theverge.com/report/841994/operation-bluebird-twitter-trademarks-petition
@@ -1611,6 +1615,9 @@ https://theverge.com/tech/997026/amazon-persian-gulf-data-loss-drone-strike-uae-
 https://theverge.com/tech/997050/a-snippet-about-snap-specs
 https://theverge.com/tech/997084/more-people-can-get-refunds-from-the-ftcs-big-settlement-with-amazon
 https://theverge.com/tech/997152/the-international-rollout-of-alex-gibneys-elon-musk-movie-is-apparently-in-doubt
+https://theverge.com/tech/997315/valve-has-open-sourced-lepton-its-tool-to-bring-android-games-to-steam
+https://theverge.com/tech/997327/virtual-desktop-dev-says-hell-try-to-bring-the-app-to-steam-frame
+https://theverge.com/tech/997332/metas-muse-ai-agent-now-has-a-mac-app
 https://theverge.com/transportation/760217/a-wild-miraidon-appeared
 https://theverge.com/transportation/784461/lucid-nuro-uber-robotaxi-first-vehicle-delivery
 https://theverge.com/transportation/805247/tesla-q3-earnings-elon-musk-robot-army-pay-package
