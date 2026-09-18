@@ -50,6 +50,7 @@ https://nbcnews.com/business/markets/stocks-tumble-ai-leaders-warning-slowdown-i
 https://nbcnews.com/business/media/fox-news-maria-bartiromo-rcna595954
 https://nbcnews.com/business/media/maria-bartiromos-lawyer-says-was-not-fired-fox-news-rcna596127
 https://nbcnews.com/business/media/paramount-warner-bros-merger-california-attorney-general-cancels-talks-rcna594160
+https://nbcnews.com/business/media/trump-bans-cnn-ms-now-politico-white-house-rcna598609
 https://nbcnews.com/business/media/us-news-industry-tough-summer-draws-close-mcclatchy-chains-cuts-rcna597380
 https://nbcnews.com/business/real-estate/buying-house-gets-easier-key-battleground-counties-voters-may-not-feel-rcna176369
 https://nbcnews.com/business/real-estate/high-mortgage-rates-home-prices-stress-rcna598396
@@ -192,10 +193,12 @@ https://nbcnews.com/health/health-news/eye-drops-sold-nationwide-recalled-possib
 https://nbcnews.com/health/health-news/fda-approval-pancreatic-cancer-daraxonrasib-rasonque-drug-rcna594531
 https://nbcnews.com/health/health-news/fda-approves-1st-mrna-flu-shot-moderna-rcna590599
 https://nbcnews.com/health/health-news/infant-pennsylvania-measles-death-rcna594603
+https://nbcnews.com/health/health-news/kim-kardashians-new-health-scare-esophagitis-rcna598519
 https://nbcnews.com/health/health-news/measles-cases-cdc-pennsylvania-deaths-rfk-jr-rcna596091
 https://nbcnews.com/health/health-news/measles-pennsylvania-deaths-two-outbreak-rfk-jr-rcna594296
 https://nbcnews.com/health/health-news/merck-moderna-say-melanoma-vaccine-promise-prevent-recurrence-cancer-rcna593316
 https://nbcnews.com/health/health-news/michigan-lifts-lettuce-warning-cyclosporiasis-cases-fall-rcna591238
+https://nbcnews.com/health/health-news/mrna-flu-vaccine-moderna-mflusiva-explained-rcna598524
 https://nbcnews.com/health/health-news/nfl-cte-players-study-one-in-four-rcna594276
 https://nbcnews.com/health/health-news/nyc-unveils-new-legionnaires-safety-measures-11-deaths-upper-east-side-rcna595486
 https://nbcnews.com/health/health-news/pennsylvania-measles-infant-coroner-says-ruptured-spleen-rcna594793
@@ -530,7 +533,9 @@ https://nbcnews.com/news/us-news/perez-hilton-enters-residential-treatment-progr
 https://nbcnews.com/news/us-news/philadelphia-chucky-mask-arrest-las-vegas-rcna594461
 https://nbcnews.com/news/us-news/philadelphia-missing-women-rcna598206
 https://nbcnews.com/news/us-news/pig-kidney-works-record-271-days-body-surviving-american-rcna596101
+https://nbcnews.com/news/us-news/police-investigating-aircraft-collision-new-york-rcna598616
 https://nbcnews.com/news/us-news/political-strategists-outline-plan-senate-control-algorithm-cutting-vi-rcna596318
+https://nbcnews.com/news/us-news/ponzi-schemer-defrauded-travis-kelce-tried-avoid-deportation-rcna598335
 https://nbcnews.com/news/us-news/poorest-us-cant-find-housing-even-low-income-units-sit-empty-rcna596446
 https://nbcnews.com/news/us-news/pregnant-womans-death-texas-caused-states-abortion-ban-lawsuit-says-rcna598303
 https://nbcnews.com/news/us-news/previously-classified-911-documents-released-cia-25th-anniversary-atta-rcna597262
@@ -596,6 +601,7 @@ https://nbcnews.com/news/us-news/troves-new-911-docs-suggest-nyc-officials-knew-
 https://nbcnews.com/news/us-news/trump-administration-building-border-wall-project-arizona-tribe-rcna594840
 https://nbcnews.com/news/us-news/trump-administration-doj-sues-kansas-school-district-transgender-stude-rcna595598
 https://nbcnews.com/news/us-news/trump-administration-pauses-immigrant-visa-applications-new-screening-rcna594669
+https://nbcnews.com/news/us-news/trump-administration-starts-building-border-wall-texas-big-bend-region-rcna598600
 https://nbcnews.com/news/us-news/trump-butler-pennsylvania-assassination-attempt-fbi-documents-rcna597986
 https://nbcnews.com/news/us-news/trump-food-stamp-cuts-children-arizona-hungry-big-beautiful-bill-rcna343922
 https://nbcnews.com/news/us-news/trump-gop-convention-iphone-duo-morning-rundown-rcna596963
@@ -744,6 +750,7 @@ https://nbcnews.com/politics/donald-trump/trump-picks-fox-news-host-pete-hegseth
 https://nbcnews.com/politics/donald-trump/trump-says-ll-visit-pentagon-rather-ground-zero-911-ceremony-rcna594974
 https://nbcnews.com/politics/donald-trump/trump-voters-say-pope-stay-lane-fight-iran-war-rcna331604
 https://nbcnews.com/politics/economics/farmers-iowa-struggling-trumps-economy-still-support-him-rcna345613
+https://nbcnews.com/politics/elections/california-gavin-newsom-ai-order-safety-regulations-kill-switch-rcna598570
 https://nbcnews.com/politics/elections/judge-allows-trumps-mail-ballots-plan-proceed-least-now-rcna594365
 https://nbcnews.com/politics/elections/missouri-court-opens-contempt-probe-republican-official-redistricting-rcna596803
 https://nbcnews.com/politics/elections/recall-vote-missouri-ai-data-center-rcna595690
@@ -826,6 +833,7 @@ https://nbcnews.com/politics/trump-administration/jd-vance-talks-end-antichrist-
 https://nbcnews.com/politics/trump-administration/jimmy-kimmel-abc-tv-show-wont-air-james-talarico-interview-fcc-threats-rcna596994
 https://nbcnews.com/politics/trump-administration/judge-doubts-trump-anti-weaponization-fund-dead-blanche-congress-rcna598577
 https://nbcnews.com/politics/trump-administration/judge-orders-trump-officials-disclose-names-anti-weaponization-fund-rcna596183
+https://nbcnews.com/politics/trump-administration/judge-strikes-trump-600-million-cuts-teacher-training-dei-rcna598583
 https://nbcnews.com/politics/trump-administration/justice-department-usps-supreme-court-action-mail-ballots-elections-rcna595924
 https://nbcnews.com/politics/trump-administration/kennedy-center-hearing-judge-presses-doj-lawyers-renovation-renaming-rcna594707
 https://nbcnews.com/politics/trump-administration/kyle-kirkwood-wins-indycar-race-downtown-dc-us-250th-birthday-rcna593532
@@ -940,6 +948,7 @@ https://nbcnews.com/select/shopping/50-best-oral-care-products-rcna347423
 https://nbcnews.com/select/shopping/amazon-fire-tablet-deal-of-the-day-2026-rcna594168
 https://nbcnews.com/select/shopping/amazon-kindle-guide-rcna597947
 https://nbcnews.com/select/shopping/amazon-labor-day-sale-2026-rcna596463
+https://nbcnews.com/select/shopping/apple-iphone-18-airpods-5-watch-series-12-launch-rcna598416
 https://nbcnews.com/select/shopping/apple-iphone-duo-rcna596872
 https://nbcnews.com/select/shopping/are-colored-mascaras-safe-rcna597111
 https://nbcnews.com/select/shopping/bed-bath-beyond-labor-day-sale-deal-of-the-day-2026-rcna594536
@@ -980,6 +989,7 @@ https://nbcnews.com/select/shopping/best-samsonite-luggage-deals-sale-of-the-wee
 https://nbcnews.com/select/shopping/best-scalp-massagers-rcna259921
 https://nbcnews.com/select/shopping/best-space-heaters-rcna240756
 https://nbcnews.com/select/shopping/best-teeth-whitening-strips-rcna201114
+https://nbcnews.com/select/shopping/best-thermal-underwear-rcna180129
 https://nbcnews.com/select/shopping/best-tranexamic-acid-serum-rcna146988
 https://nbcnews.com/select/shopping/best-treatment-undereye-circles-rcna343497
 https://nbcnews.com/select/shopping/best-vegan-vegetarian-meal-delivery-services-rcna595527
@@ -988,6 +998,7 @@ https://nbcnews.com/select/shopping/best-wireless-earbuds-headphones-rcna214088
 https://nbcnews.com/select/shopping/best-womens-walking-shoes-rcna257697
 https://nbcnews.com/select/shopping/brooklinen-last-call-sale-deal-of-the-day-2026-rcna597048
 https://nbcnews.com/select/shopping/brooks-brand-review-2026-rcna352212
+https://nbcnews.com/select/shopping/brooks-hyperion-sneakers-deal-of-the-day-2026-rcna598579
 https://nbcnews.com/select/shopping/brooks-labor-day-sale-sneaker-deals-2026-rcna594694
 https://nbcnews.com/select/shopping/carl-radke-favorite-products-rcna596148
 https://nbcnews.com/select/shopping/centellian-cream-deal-of-the-day-2026-rcna595151
@@ -1166,6 +1177,7 @@ https://nbcnews.com/tech/innovation/ai-store-sf-san-francisco-bay-area-andon-lab
 https://nbcnews.com/tech/security/anthropic-whistleblower-congress-ai-companies-regulation-rcna597465
 https://nbcnews.com/tech/security/chinese-hackers-are-running-ai-stolen-networks-avoid-detection-google-rcna596155
 https://nbcnews.com/tech/security/florida-dmv-says-was-hacked-shortly-major-drivers-license-breach-rcna597207
+https://nbcnews.com/tech/security/hackers-breach-openai-rcna598518
 https://nbcnews.com/tech/security/major-tech-companies-call-defensive-surge-defeat-ai-driven-hacks-rcna594780
 https://nbcnews.com/tech/security/north-korea-worker-scheme-recruits-abroad-rcna596873
 https://nbcnews.com/tech/security/two-ai-researchers-leave-anthropic-google-safety-concerns-rcna597086
@@ -1299,6 +1311,7 @@ https://nbcnews.com/world/europe/greek-air-force-jet-crashes-annual-aerial-show-
 https://nbcnews.com/world/europe/iceland-propose-whaling-ban-leaving-norway-japan-isolated-rcna596976
 https://nbcnews.com/world/europe/iceland-summons-us-ambassador-trump-posts-map-american-flag-rcna596537
 https://nbcnews.com/world/europe/iceland-votes-whether-restart-talks-joining-european-union-rcna594995
+https://nbcnews.com/world/europe/macron-orders-protections-infrastructure-citing-growing-russian-threat-rcna598607
 https://nbcnews.com/world/europe/mark-carney-eu-plot-middle-power-alliance-counter-trump-threats-rcna598284
 https://nbcnews.com/world/europe/mette-frederiksen-danish-pm-blasts-plastic-surgeons-beauty-advice-rcna594255
 https://nbcnews.com/world/europe/nato-drone-lithuania-russian-frigate-fires-danish-helicopter-rcna597866
@@ -1372,6 +1385,7 @@ https://nbcnews.com/world/middle-east/un-world-food-programme-slashes-west-bank-
 https://nbcnews.com/world/north-america/guide-trumps-travel-ban-visa-pause-country-rcna595559
 https://nbcnews.com/world/north-korea/north-korea-launches-ballistic-missiles-sea-military-drill-sees-threat-rcna597333
 https://nbcnews.com/world/north-korea/south-korea-trying-learn-kim-jong-un-son-daughters-status-heir-appears-rcna596981
+https://nbcnews.com/world/pakistan/bombing-mosque-police-offices-pakistan-kills-least-21-rcna598611
 https://nbcnews.com/world/phillipines/death-toll-philippines-ferry-fire-rises-bodies-recovered-rcna597234
 https://nbcnews.com/world/phillipines/philippines-president-posts-bail-arrest-order-alleged-threats-rcna596218
 https://nbcnews.com/world/russia/mystery-us-military-plane-lands-moscow-rcna594262
