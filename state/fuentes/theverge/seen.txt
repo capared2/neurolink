@@ -259,6 +259,9 @@ https://theverge.com/ai-artificial-intelligence/997192/mark-zuckerberg-jensen-hu
 https://theverge.com/ai-artificial-intelligence/997281/googles-revamping-its-cc-ai-as-an-organizing-agent-for-families
 https://theverge.com/ai-artificial-intelligence/997296/anthropic-proposes-three-rules-for-measuring-ai-progress
 https://theverge.com/ai-artificial-intelligence/997312/a-microsoft-exec-called-ai-scraping-theft-of-unprecedented-proportions
+https://theverge.com/ai-artificial-intelligence/997358/what-hollywood-thinks-about-existential-ai-warnings
+https://theverge.com/ai-artificial-intelligence/997444/openai-hack-claude-heif-heist
+https://theverge.com/ai-artificial-intelligence/997473/more-than-100-ai-industry-experts-wrote-a-letter-calling-for-independent-evaluation-of-frontier-models
 https://theverge.com/antitrust/982578/google-just-showed-off-its-new-prototype-of-how-third-party-app-stores-will-look
 https://theverge.com/apple/985133/apple-is-automatically-upgrading-some-recent-mac-mini-m4-orders-to-m6-or-m5-pro-versions-for-free
 https://theverge.com/bulletin/795051/verge-podcast-ad-free-set-up-how-to
@@ -526,6 +529,8 @@ https://theverge.com/gadgets/996379/metroid-ravenous-preorder-deal-sale
 https://theverge.com/gadgets/996475/memory-chip-giant-sk-hynix-is-reportedly-in-talks-with-intel-about-making-chips-in-the-us
 https://theverge.com/gadgets/997009/refurbished-apple-tv-4k-ring-doorbell-deal-sale
 https://theverge.com/gadgets/997095/titw-giveaway-12
+https://theverge.com/gadgets/997388/lenovo-yoga-slim-7x-laptop-fire-emblem-switch-2-deal-sale
+https://theverge.com/gadgets/997402/hacks-full-five-season-run-is-coming-to-blu-ray-on-december-8th
 https://theverge.com/games/684957/splitgate-2-hat-apology
 https://theverge.com/games/816118/valve-steam-frame-vr-headset-streaming-arm-steamos-hands-on
 https://theverge.com/games/819080/valve-brings-back-steam-machines-steam-os-steam-frame-news-announcements
@@ -836,6 +841,8 @@ https://theverge.com/podcast/995432/how-the-oregon-trail-became-a-generational-i
 https://theverge.com/podcast/996412/microsoft-ai-ceo-mustafa-suleyman-regulation-safety-anthropic-claude
 https://theverge.com/podcast/996482/todays-vergecast-your-ai-apocalypse-questions-answered
 https://theverge.com/podcast/997183/todays-vergecast-apples-new-iphones-and-watches-are-better-than-the-last-ones
+https://theverge.com/podcast/997366/the-real-story-of-the-iphone-18-pros-camera
+https://theverge.com/podcast/997539/join-us-for-a-version-history-livestream-of-the-oregon-trail
 https://theverge.com/pokemon/620617/honda-miraidon-motorcycle
 https://theverge.com/policy/677373/lawyers-chatgpt-hallucinations-ai
 https://theverge.com/policy/694155/big-balls-is-still-here
@@ -921,6 +928,8 @@ https://theverge.com/policy/996211/jensen-huang-trump-state-dinner
 https://theverge.com/policy/996771/tim-cook-and-sam-altman-are-also-having-dinner-with-chinas-president
 https://theverge.com/policy/996847/judge-orders-google-to-make-its-ad-tech-work-with-rivals-and-share-ad-data-with-customers
 https://theverge.com/policy/997197/new-america-dot-gov-website
+https://theverge.com/policy/997416/brendan-carr-fcc-foreign-governments-paramount
+https://theverge.com/policy/997516/california-governor-newsom-ai-kill-switch
 https://theverge.com/report/820656/valve-interview-arm-gaming-steamos-pierre-loup-griffais
 https://theverge.com/report/829265/hoto-fanttik-profile-origins-xiaomi-aukey-tiktok
 https://theverge.com/report/840822/australia-social-media-ban-under-16-response
@@ -1625,6 +1634,10 @@ https://theverge.com/tech/997332/metas-muse-ai-agent-now-has-a-mac-app
 https://theverge.com/tech/997338/another-clicks-communicator-update
 https://theverge.com/tech/997345/the-winners-of-nikons-microscopic-video-competition
 https://theverge.com/tech/997372/paris-prosecutors-are-investigating-smart-glasses-enabled-sexual-harassment
+https://theverge.com/tech/997379/funnyplaying-fpbg-mini-game-boy-color-handheld-fpga-cartridge
+https://theverge.com/tech/997438/icymi-apple-is-charging-up-to-60-a-month-for-apple-intelligence-features-on-homekit-cameras
+https://theverge.com/tech/997524/leica-i-film-camera-restoration-asmr
+https://theverge.com/tech/997557/iphone-duo-design-team-interview
 https://theverge.com/transportation/760217/a-wild-miraidon-appeared
 https://theverge.com/transportation/784461/lucid-nuro-uber-robotaxi-first-vehicle-delivery
 https://theverge.com/transportation/805247/tesla-q3-earnings-elon-musk-robot-army-pay-package
@@ -1702,4 +1715,5 @@ https://theverge.com/transportation/996863/robotaxi-waymo-police-privacy-surveil
 https://theverge.com/transportation/996904/lucid-scores-another-robotaxi-deal
 https://theverge.com/transportation/996906/behold-the-carhartt-wip-x-omnium-mini-max
 https://theverge.com/transportation/997091/waymo-singapore-robotaxi-launch-2027
+https://theverge.com/transportation/997380/joby-completes-first-cross-country-autonomous-flight
 https://theverge.com/tv/621815/kiana-mai-pretty-pretty-please-i-dont-want-to-be-a-magical-girl
