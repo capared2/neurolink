@@ -95,6 +95,7 @@ https://theverge.com/2025/1/6/24337323/more-android-phones-qi2-ready-certificati
 https://theverge.com/23987993/gta-6-news-trailers-rockstar-games
 https://theverge.com/ai-artificial-intelligence/648595/anthropic-claude-research-google-workplace
 https://theverge.com/ai-artificial-intelligence/679852/trump-ai-safety-institute-name-mission-change
+https://theverge.com/ai-artificial-intelligence/791680/tilly-norwood-particle6-xicoia-eline-van-der-velden
 https://theverge.com/ai-artificial-intelligence/795171/openai-devday-sam-altman-sora-launch-copyright
 https://theverge.com/ai-artificial-intelligence/822011/coreweave-debt-data-center-ai
 https://theverge.com/ai-artificial-intelligence/848988/nvidia-chip-loans-coreweave-gpu-debt-ai-neocloud
@@ -119,6 +120,7 @@ https://theverge.com/ai-artificial-intelligence/943187/ai-content-creators
 https://theverge.com/ai-artificial-intelligence/949622/former-andreessen-horowitz-partner-john-ofarrell-says-his-former-colleagues-are-trying-to-buy-our-democracy
 https://theverge.com/ai-artificial-intelligence/950571/spacex-is-officially-buying-cursor-for-60-billion
 https://theverge.com/ai-artificial-intelligence/952906/sam-altman-film-artificial-openai-amazon-mgm-dropped
+https://theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development
 https://theverge.com/ai-artificial-intelligence/961978/anthropic-claude-cowork-mobile-web
 https://theverge.com/ai-artificial-intelligence/962871/amazon-is-reportedly-trying-to-catch-up-in-the-ai-agent-race-with-moonraker
 https://theverge.com/ai-artificial-intelligence/966072/suno-ai-music-training-scraping-youtube-hack
@@ -263,7 +265,9 @@ https://theverge.com/ai-artificial-intelligence/997358/what-hollywood-thinks-abo
 https://theverge.com/ai-artificial-intelligence/997444/openai-hack-claude-heif-heist
 https://theverge.com/ai-artificial-intelligence/997473/more-than-100-ai-industry-experts-wrote-a-letter-calling-for-independent-evaluation-of-frontier-models
 https://theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero
+https://theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over
 https://theverge.com/ai-artificial-intelligence/997724/us-military-ai-intel-report-chinese-ship
+https://theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack
 https://theverge.com/antitrust/982578/google-just-showed-off-its-new-prototype-of-how-third-party-app-stores-will-look
 https://theverge.com/apple/985133/apple-is-automatically-upgrading-some-recent-mac-mini-m4-orders-to-m6-or-m5-pro-versions-for-free
 https://theverge.com/bulletin/795051/verge-podcast-ad-free-set-up-how-to
@@ -411,6 +415,7 @@ https://theverge.com/entertainment/996416/resident-zach-cregger-review
 https://theverge.com/entertainment/996499/ai-odyssey-movie-review
 https://theverge.com/entertainment/996505/spotify-fresh-finds-forward
 https://theverge.com/entertainment/996831/grand-theft-auto-6-soundtrack
+https://theverge.com/entertainment/996855/anamanaguchi-anyway-yeah-i-guess-interview-music
 https://theverge.com/entertainment/996992/cat-frazier-mattered
 https://theverge.com/entertainment/997048/a-contest-to-open-for-ed-sheeran-couldnt-have-been-better-timed
 https://theverge.com/entertainment/997354/sylvan-esso-are-back-on-spotify-after-an-unsustainable-year-off
@@ -534,6 +539,7 @@ https://theverge.com/gadgets/997009/refurbished-apple-tv-4k-ring-doorbell-deal-s
 https://theverge.com/gadgets/997095/titw-giveaway-12
 https://theverge.com/gadgets/997388/lenovo-yoga-slim-7x-laptop-fire-emblem-switch-2-deal-sale
 https://theverge.com/gadgets/997402/hacks-full-five-season-run-is-coming-to-blu-ray-on-december-8th
+https://theverge.com/gadgets/997467/hyte-x50-pc-case-deal-sale
 https://theverge.com/games/684957/splitgate-2-hat-apology
 https://theverge.com/games/816118/valve-steam-frame-vr-headset-streaming-arm-steamos-hands-on
 https://theverge.com/games/819080/valve-brings-back-steam-machines-steam-os-steam-frame-news-announcements
@@ -845,6 +851,7 @@ https://theverge.com/podcast/996412/microsoft-ai-ceo-mustafa-suleyman-regulation
 https://theverge.com/podcast/996482/todays-vergecast-your-ai-apocalypse-questions-answered
 https://theverge.com/podcast/997183/todays-vergecast-apples-new-iphones-and-watches-are-better-than-the-last-ones
 https://theverge.com/podcast/997366/the-real-story-of-the-iphone-18-pros-camera
+https://theverge.com/podcast/997382/openai-microsoft-anthropic-elon-musk-cartel-ai-competition
 https://theverge.com/podcast/997539/join-us-for-a-version-history-livestream-of-the-oregon-trail
 https://theverge.com/pokemon/620617/honda-miraidon-motorcycle
 https://theverge.com/policy/677373/lawyers-chatgpt-hallucinations-ai
@@ -935,6 +942,7 @@ https://theverge.com/policy/997416/brendan-carr-fcc-foreign-governments-paramoun
 https://theverge.com/policy/997516/california-governor-newsom-ai-kill-switch
 https://theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force
 https://theverge.com/policy/997619/trump-bans-cnn-msnow-politico
+https://theverge.com/policy/997805/trump-cnn-msnow-politico-ban
 https://theverge.com/report/820656/valve-interview-arm-gaming-steamos-pierre-loup-griffais
 https://theverge.com/report/829265/hoto-fanttik-profile-origins-xiaomi-aukey-tiktok
 https://theverge.com/report/840822/australia-social-media-ban-under-16-response
@@ -1644,6 +1652,7 @@ https://theverge.com/tech/997379/funnyplaying-fpbg-mini-game-boy-color-handheld-
 https://theverge.com/tech/997438/icymi-apple-is-charging-up-to-60-a-month-for-apple-intelligence-features-on-homekit-cameras
 https://theverge.com/tech/997524/leica-i-film-camera-restoration-asmr
 https://theverge.com/tech/997557/iphone-duo-design-team-interview
+https://theverge.com/tech/997682/every-tv-company-is-spying
 https://theverge.com/tech/997779/valve-has-already-fixed-the-steam-frames-slow-charging-speeds
 https://theverge.com/transportation/760217/a-wild-miraidon-appeared
 https://theverge.com/transportation/784461/lucid-nuro-uber-robotaxi-first-vehicle-delivery
