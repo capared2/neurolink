@@ -65,6 +65,7 @@ https://aljazeera.com/economy/2026/9/16/us-fed-raises-interest-rates-as-inflatio
 https://aljazeera.com/economy/2026/9/17/trump-says-canada-becoming-eu-associate-member-could-be-hostile
 https://aljazeera.com/economy/2026/9/18/italy-to-deploy-warships-to-protect-shipping-through-bab-al-mandeb
 https://aljazeera.com/economy/2026/9/18/warren-buffett-steps-down-as-berkshire-hathaway-chairman
+https://aljazeera.com/economy/2026/9/19/turkiye-revokes-operating-licence-of-irans-bank-mellat
 https://aljazeera.com/economy/2026/9/2/openai-faces-new-lawsuits-over-tumbler-ridge-mass-shooting-tragedy
 https://aljazeera.com/economy/2026/9/2/uber-lays-off-3300-employees-in-largest-cuts-since-the-pandemic
 https://aljazeera.com/economy/2026/9/2/uks-burnham-faces-first-parliament-grilling-vows-to-bring-back-hope
@@ -135,6 +136,7 @@ https://aljazeera.com/features/2026/9/17/india-to-impose-controversial-fee-for-u
 https://aljazeera.com/features/2026/9/17/poor-bear-the-impact-sugar-prices-soar-in-india-souring-festive-season
 https://aljazeera.com/features/2026/9/17/us-tariffs-against-russian-oil-buyers-pass-what-it-means-for-china
 https://aljazeera.com/features/2026/9/18/in-yemen-war-at-home-and-in-the-region-drives-up-prices
+https://aljazeera.com/features/2026/9/19/in-gaza-actors-perform-a-war-they-are-still-living
 https://aljazeera.com/features/2026/9/2/can-ukraines-drones-shut-russian-airspace-what-that-means-for-airlines
 https://aljazeera.com/features/2026/9/2/dreams-shattered-gaza-amputees-struggle-under-blockade-and-rubble
 https://aljazeera.com/features/2026/9/2/in-yemen-dates-provide-lifeline-for-farmers-with-few-economic-options
@@ -990,13 +992,18 @@ https://aljazeera.com/news/2026/9/18/us-voter-opposition-to-war-on-iran-grows-to
 https://aljazeera.com/news/2026/9/18/white-house-withdraws-lance-schroyers-nomination-to-lead-ice
 https://aljazeera.com/news/2026/9/18/why-does-canada-want-to-join-the-europe-led-jef-military-partnership
 https://aljazeera.com/news/2026/9/19/bolivias-congress-approves-1-9bn-imf-loan-amid-protest-threats
+https://aljazeera.com/news/2026/9/19/can-trump-ban-cnn-news-outlets-he-doesnt-like-from-the-white-house
 https://aljazeera.com/news/2026/9/19/could-us-pull-one-third-of-troops-from-europe-what-that-would-mean
+https://aljazeera.com/news/2026/9/19/eu-urges-us-to-lift-travel-ban-on-palestinian-delegation-for-unga-meeting
 https://aljazeera.com/news/2026/9/19/googles-gemini-ai-hacks-3-companies-in-security-test-then-stops
 https://aljazeera.com/news/2026/9/19/israeli-strike-on-motorcycle-in-gaza-city-kills-one-injures-child
 https://aljazeera.com/news/2026/9/19/japan-has-record-100000-people-aged-over-100-how-societies-are-ageing
+https://aljazeera.com/news/2026/9/19/naza-why-are-old-gaza-allegations-causing-new-fury-in-israel
 https://aljazeera.com/news/2026/9/19/north-korea-dismisses-un-nuclear-watchdog-resolution
 https://aljazeera.com/news/2026/9/19/operations-to-right-capsized-ferry-begin-as-126-people-remain-missing
+https://aljazeera.com/news/2026/9/19/poland-on-high-alert-as-russia-claims-black-sea-vessel-strikes
 https://aljazeera.com/news/2026/9/19/the-nepal-floods-question-when-the-himalayas-collapse-who-gets-warned
+https://aljazeera.com/news/2026/9/19/trump-says-us-has-permanent-control-of-greenland-security-does-it
 https://aljazeera.com/news/2026/9/19/trump-signs-sweeping-russia-sanctions-over-ukraine-war
 https://aljazeera.com/news/2026/9/19/uk-jails-teen-asylum-seeker-for-steering-overcrowded-channel-migrant-boat
 https://aljazeera.com/news/2026/9/19/us-court-blocks-trump-plan-to-deport-migrants-to-third-countries
@@ -1374,6 +1381,7 @@ https://aljazeera.com/opinions/2026/9/18/israel-would-rather-not-watch-naza
 https://aljazeera.com/opinions/2026/9/18/the-cost-of-irans-regional-leverage
 https://aljazeera.com/opinions/2026/9/18/who-gets-to-decide-how-quickly-ai-moves
 https://aljazeera.com/opinions/2026/9/18/why-the-kremlin-fears-even-the-managed-opposition-in-russia
+https://aljazeera.com/opinions/2026/9/19/africas-green-revolution-threatens-traditional-foods
 https://aljazeera.com/opinions/2026/9/19/russias-elections-are-more-than-political-theatre
 https://aljazeera.com/opinions/2026/9/2/how-trumpism-is-changing-the-world
 https://aljazeera.com/opinions/2026/9/2/syrias-restrained-approach-to-israel-carries-risks
@@ -1779,6 +1787,7 @@ https://aljazeera.com/sports/2026/9/9/rampant-raphinha-nets-two-goals-as-barcelo
 https://aljazeera.com/sports/2026/9/9/troubled-league-liv-golf-files-for-bankruptcy-protection-in-us
 https://aljazeera.com/video/101-east/2026/8/29/can-super-coral-and-cooling-the-sea-save-reefs-from-climate-change
 https://aljazeera.com/video/101-east/2026/9/12/chinas-marriage-crisis-the-search-for-love
+https://aljazeera.com/video/101-east/2026/9/19/east-asia-how-ai-is-changing-the-way-we-bid-farewell-to-loved-ones
 https://aljazeera.com/video/al-jazeera-world/2026/9/11/erdogan-the-making-of-modern-turkiye
 https://aljazeera.com/video/al-jazeera-world/2026/9/16/neturei-karta-opposing-zionism
 https://aljazeera.com/video/aljazeerauntangles/2026/9/7/gaza-genocide-in-real-time
@@ -1836,5 +1845,6 @@ https://aljazeera.com/video/talk-to-al-jazeera/2026/8/30/rohingya-crisis-aid-fal
 https://aljazeera.com/video/talk-to-al-jazeera/2026/9/13/guyanas-oil-boom-and-challenges
 https://aljazeera.com/video/the-bottom-line/2026/9/7/board-of-peace-touts-progress-as-palestinians-situation-worsens
 https://aljazeera.com/video/the-listening-post/2026/9/12/selling-the-war-purges-polygraphs-and-propaganda
+https://aljazeera.com/video/the-listening-post/2026/9/19/doomsday-ai-panic-regulation-and-the-china-fear
 https://aljazeera.com/video/the-listening-post/2026/9/7/how-the-media-manufactured-consent-for-genocide
 https://aljazeera.com/video/witness/2026/9/8/the-tempe-57-a-fathers-fight-for-justice-after-greeces-worst-train-crash

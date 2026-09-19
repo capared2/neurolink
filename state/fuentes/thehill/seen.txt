@@ -730,6 +730,7 @@ https://thehill.com/homenews/campaign/6097489-laura-ingraham-trump-republicans-m
 https://thehill.com/homenews/campaign/6097894-sen-kennedy-campaigns-red-states
 https://thehill.com/homenews/campaign/6098499-vance-calls-sand-partisan-democrat
 https://thehill.com/homenews/campaign/6098893-el-sayed-vance-weightlifting-challenge
+https://thehill.com/homenews/campaign/6099069-iowa-gop-trump-midterm-strategy
 https://thehill.com/homenews/campaign/data-nerds/6040929-democratic-socialist-angie-nixon-florida-upset-what-to-know-discussion
 https://thehill.com/homenews/campaign/data-nerds/6054870-democratic-party-senate-control-division-2026-midterms-discussion
 https://thehill.com/homenews/campaign/data-nerds/6068929-abdul-el-sayed-democratic-tensions-michigan-senate-race-discussion
@@ -1470,6 +1471,7 @@ https://thehill.com/opinion/healthcare/6086563-9-11-responders-long-term-health
 https://thehill.com/opinion/healthcare/6092063-ira-medicare-drug-access
 https://thehill.com/opinion/healthcare/6092514-food-safety-funding-crisis
 https://thehill.com/opinion/healthcare/6094335-trump-administration-school-nutrition
+https://thehill.com/opinion/healthcare/6098188-congress-expand-health-spending-produce
 https://thehill.com/opinion/immigration/6039522-reducing-immigration-litigation-hostility
 https://thehill.com/opinion/immigration/6053193-mega-master-calendar-hearings-impact
 https://thehill.com/opinion/immigration/6058430-florida-mandatory-death-penalty
@@ -1790,6 +1792,7 @@ https://thehill.com/policy/energy-environment/6096398-heinrich-blocks-husted-dat
 https://thehill.com/policy/energy-environment/6097215-new-mexico-screwworm-horse-confirmed
 https://thehill.com/policy/energy-environment/6098173-ai-data-centers-forever-chemicals-pfas-water-power
 https://thehill.com/policy/energy-environment/6098886-epa-solar-for-all-program
+https://thehill.com/policy/energy-environment/6099110-northeast-heating-oil-costs-diesel
 https://thehill.com/policy/healthcare/6036144-cases-of-scromiting-condition-tied-to-cannabis-use-spike-among-teens-young-adults-new-study
 https://thehill.com/policy/healthcare/6041007-blueberry-recall-fda-publix
 https://thehill.com/policy/healthcare/6041051-cdc-salmonella-jalapeno-outbreak
@@ -1951,6 +1954,7 @@ https://thehill.com/policy/international/6095851-iran-refutes-us-air-force-colon
 https://thehill.com/policy/international/6096801-us-allows-iranian-un-delegation
 https://thehill.com/policy/international/6097023-latvia-bans-alex-ovechkin-putin-ad
 https://thehill.com/policy/international/6097450-us-iran-conflict-straight-of-hormuz-tanker-hit
+https://thehill.com/policy/international/6098760-trump-carney-eu-trade-tension
 https://thehill.com/policy/national-security/6049802-cia-director-ratcliffe-moscow-visit
 https://thehill.com/policy/national-security/6056134-senators-oppose-ice-shocking-gloves
 https://thehill.com/policy/national-security/6059574-homan-ice-bus-stop-arrests
@@ -2080,6 +2084,7 @@ https://thehill.com/policy/technology/6096844-moore-supports-data-center-morator
 https://thehill.com/policy/technology/6096875-5-key-players-in-congress-on-ai-policy
 https://thehill.com/policy/technology/6097925-democrats-ai-leading-future-super-pac-letter
 https://thehill.com/policy/technology/6098297-anthropic-claude-leads-ai-development
+https://thehill.com/policy/technology/6099571-lawsuit-accuses-anthropic-openai-spacexai-google-of-ai-pacing-collusion
 https://thehill.com/policy/transportation/6050209-tsa-phases-out-gold-program
 https://thehill.com/policy/transportation/6050669-uber-new-family-features-teen-accounts-stream-safety
 https://thehill.com/policy/transportation/6059553-google-maps-renames-lake-america
