@@ -886,6 +886,7 @@ https://thehill.com/homenews/house/6096328-bacon-banks-presidential-feud
 https://thehill.com/homenews/house/6096806-gop-midterm-voter-concerns-gas-prices-iran
 https://thehill.com/homenews/house/6098737-gop-nominee-misgenders-mcbride
 https://thehill.com/homenews/house/6099073-texas-republican-ice-release-ad
+https://thehill.com/homenews/house/6100450-salazar-defends-trump-media-ban
 https://thehill.com/homenews/lgbtq/6044688-log-cabin-republicans-transgender-support-ends
 https://thehill.com/homenews/media/6040779-alina-habba-press-secretary-karoline-leavitt
 https://thehill.com/homenews/media/6045875-scott-jennings-press-secretary-reports
@@ -1479,6 +1480,7 @@ https://thehill.com/opinion/finance/6086810-create-us-department-arts
 https://thehill.com/opinion/finance/6091399-americans-demand-fairer-taxes
 https://thehill.com/opinion/finance/6093161-us-national-debt-crisis
 https://thehill.com/opinion/finance/6095830-fed-interest-rate-hike
+https://thehill.com/opinion/finance/6099509-us-debt-vat-solution
 https://thehill.com/opinion/healthcare/6040418-fda-regulatory-delay-regenative-labs
 https://thehill.com/opinion/healthcare/6042789-states-fight-hemp-loophole
 https://thehill.com/opinion/healthcare/6042966-modernize-family-formation-policy
@@ -2127,6 +2129,8 @@ https://thehill.com/policy/technology/6097925-democrats-ai-leading-future-super-
 https://thehill.com/policy/technology/6098297-anthropic-claude-leads-ai-development
 https://thehill.com/policy/technology/6099571-lawsuit-accuses-anthropic-openai-spacexai-google-of-ai-pacing-collusion
 https://thehill.com/policy/technology/6100229-obama-slams-trump-ai-regulation
+https://thehill.com/policy/technology/6100322-khanna-proposes-ai-regulatory-agency
+https://thehill.com/policy/technology/6100478-ai-singularity-predictions
 https://thehill.com/policy/transportation/6050209-tsa-phases-out-gold-program
 https://thehill.com/policy/transportation/6050669-uber-new-family-features-teen-accounts-stream-safety
 https://thehill.com/policy/transportation/6059553-google-maps-renames-lake-america

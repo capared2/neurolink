@@ -66,6 +66,7 @@ https://nbcnews.com/data-graphics/strait-of-hormuz-ports-traffic-trump-us-iran-w
 https://nbcnews.com/data-graphics/track-measles-outbreak-cases-us-map-rcna198932
 https://nbcnews.com/dateline/cold-case-spotlight/erica-baker-missing-february-7-1999-kettering-ohio-dateline-rcna595776
 https://nbcnews.com/dateline/cold-case-spotlight/eveline-ashbaugh-ohio-unsolved-rcna597267
+https://nbcnews.com/dateline/cold-case-spotlight/julianne-jaillet-bellevue-washington-cold-case-rcna598425
 https://nbcnews.com/dateline/cold-case-spotlight/norris-evans-rochester-cold-case-homicide-rcna593807
 https://nbcnews.com/dateline/cold-case-spotlight/pennsylvania-penny-doe-identified-windy-buchanan-rcna594343
 https://nbcnews.com/dateline/cold-case-spotlight/remains-identified-rose-marie-gayhart-cape-coral-rcna589173
@@ -408,6 +409,7 @@ https://nbcnews.com/news/us-news/helicopter-crashes-los-angeles-chatsworth-rcna5
 https://nbcnews.com/news/us-news/holdout-lindsay-clancy-juror-will-not-giving-interviews-attorney-says-rcna598495
 https://nbcnews.com/news/us-news/houston-restauranteur-kills-wife-2-kids-turning-gun-rcna343757
 https://nbcnews.com/news/us-news/hundreds-nyc-rally-support-6-year-old-separated-dad-ice-check-rcna248027
+https://nbcnews.com/news/us-news/hunter-charged-fatally-shooting-woman-thought-was-deer-police-say-rcna598811
 https://nbcnews.com/news/us-news/hurricane-helene-flood-claims-lives-tennessee-plastics-factory-rcna175122
 https://nbcnews.com/news/us-news/hurricane-lowell-expected-pass-one-hawaiian-island-major-rains-rcna596552
 https://nbcnews.com/news/us-news/hurricane-lowell-knocks-hawaii-port-kauai-islands-source-food-fuel-rcna597177
@@ -816,6 +818,7 @@ https://nbcnews.com/politics/politics-news/smithsonian-secretary-lonnie-bunch-le
 https://nbcnews.com/politics/politics-news/trump-flexes-freedom-caucus-fades-politics-desk-rcna594593
 https://nbcnews.com/politics/politics-news/trump-gave-45000-holiday-gifts-natalie-harp-two-white-house-aides-rcna596751
 https://nbcnews.com/politics/politics-news/trump-leaving-mark-literally-washington-politics-desk-rcna596010
+https://nbcnews.com/politics/politics-news/trump-meeting-zohran-mamdani-nyc-gracie-mansion-rcna598817
 https://nbcnews.com/politics/politics-news/trump-supporters-arent-sold-darline-graham-politics-desk-rcna594199
 https://nbcnews.com/politics/politics-news/trumpapalooza-another-primary-night-politics-desk-rcna596882
 https://nbcnews.com/politics/politics-news/trumps-latest-branding-battle-politics-desk-rcna598225
@@ -892,6 +895,7 @@ https://nbcnews.com/politics/white-house/white-house-removes-build-the-wall-vide
 https://nbcnews.com/pop-culture/awards/emmys-2026-live-updates-red-carpet-fashion-watch-mariska-hargitay-host-rcna597805
 https://nbcnews.com/pop-culture/awards/live-blog/emmys-2026-winners-live-updates-rcna594424
 https://nbcnews.com/pop-culture/celebrity/comedian-carrot-top-hospitalized-recovering-rcna598669
+https://nbcnews.com/pop-culture/lifestyle/lucas-museum-narrative-art-george-lucas-los-angeles-opening-rcna598799
 https://nbcnews.com/pop-culture/movies/elizabeth-holmes-nathan-fielder-documentary-you-can-see-everything-rcna596457
 https://nbcnews.com/pop-culture/movies/kpop-demon-hunters-oscars-rcna245269
 https://nbcnews.com/pop-culture/movies/meep-meep-coyote-vs-acme-opens-155-million-spider-man-stays-no-1-fifth-rcna595277
@@ -984,6 +988,7 @@ https://nbcnews.com/select/shopping/best-eczema-lotions-ncna1298695
 https://nbcnews.com/select/shopping/best-filtered-showerheads-rcna153901
 https://nbcnews.com/select/shopping/best-garmin-watch-rcna233494
 https://nbcnews.com/select/shopping/best-gluten-free-meal-kit-delivery-services-rcna597246
+https://nbcnews.com/select/shopping/best-hair-thinning-products-rcna228523
 https://nbcnews.com/select/shopping/best-heating-pads-rcna177149
 https://nbcnews.com/select/shopping/best-indoor-garden-kits-ncna1267376
 https://nbcnews.com/select/shopping/best-ingrown-hair-treatments-prevention-rcna101598
@@ -1004,6 +1009,7 @@ https://nbcnews.com/select/shopping/best-retinol-body-lotions-rcna192704
 https://nbcnews.com/select/shopping/best-robot-vacuum-deals-rcna597259
 https://nbcnews.com/select/shopping/best-samsonite-luggage-deals-sale-of-the-week-2026-rcna597888
 https://nbcnews.com/select/shopping/best-scalp-massagers-rcna259921
+https://nbcnews.com/select/shopping/best-shower-oils-rcna344983
 https://nbcnews.com/select/shopping/best-space-heaters-rcna240756
 https://nbcnews.com/select/shopping/best-teeth-whitening-strips-rcna201114
 https://nbcnews.com/select/shopping/best-thermal-underwear-rcna180129
@@ -1425,6 +1431,7 @@ https://nbcnews.com/world/russia/nuclear-energy-making-global-comeback-cfr-rcna5
 https://nbcnews.com/world/russia/russia-close-german-cultural-centers-berlin-blames-moscow-airport-rcna595863
 https://nbcnews.com/world/russia/russia-holds-parliamentary-vote-areas-illegally-annexed-ukraine-war-rcna598671
 https://nbcnews.com/world/russia/russia-plot-kill-dissident-washington-doj-kremlin-rcna598079
+https://nbcnews.com/world/russia/russia-wraps-first-wartime-parliamentary-election-kremlin-dominance-as-rcna598823
 https://nbcnews.com/world/russia/spider-man-movie-swings-bootleg-russia-cinema-hollywood-boycott-rcna594541
 https://nbcnews.com/world/russia/trump-signs-sweeping-new-russia-sanctions-bill-honor-lindsey-graham-rcna598675
 https://nbcnews.com/world/russia/two-dead-moscow-region-drones-hit-oil-refinery-russian-capital-rcna598767
