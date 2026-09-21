@@ -171,6 +171,7 @@ https://techcrunch.com/2026/06/17/pinterest-launches-an-experimental-ai-shopping
 https://techcrunch.com/2026/06/17/social-medias-next-evolution-user-controlled-algorithms
 https://techcrunch.com/2026/06/18/amazon-hopes-to-challenge-nvidia-more-directly-by-selling-its-ai-chips
 https://techcrunch.com/2026/06/18/maptap-a-daily-geography-game-is-my-new-wordle
+https://techcrunch.com/2026/06/20/founders-funds-outlier-bet-on-humanely-killed-fish
 https://techcrunch.com/2026/06/21/polymarket-reportedly-paid-creators-to-post-deceptive-videos-about-fake-bets
 https://techcrunch.com/2026/06/21/ubisoft-co-founder-claude-guillemot-dies-in-plane-crash
 https://techcrunch.com/2026/06/22/amazon-is-testing-alexa-in-india-with-hindi-support
@@ -181,11 +182,13 @@ https://techcrunch.com/2026/06/22/microsoft-and-chevron-plan-one-of-the-largest-
 https://techcrunch.com/2026/06/23/4-days-left-to-save-up-to-190-on-techcrunch-founder-summit-2026
 https://techcrunch.com/2026/06/23/mark-zuckerberg-wants-meta-to-launch-its-own-prediction-market
 https://techcrunch.com/2026/06/23/walmart-backed-flipkart-expands-quick-commerce-push-as-amazon-ramps-up-in-india
+https://techcrunch.com/2026/06/24/agility-robotics-plans-to-go-public-via-spac-in-a-2-5b-deal
 https://techcrunch.com/2026/06/24/ai-was-supposed-to-kill-engineering-jobs-but-new-data-suggests-theyre-the-most-resilient
 https://techcrunch.com/2026/06/24/new-website-names-and-shames-companies-that-still-dont-offer-passkeys-to-users
 https://techcrunch.com/2026/06/24/ntsb-launches-probe-into-fatal-texas-tesla-crash
 https://techcrunch.com/2026/06/24/slate-autos-radically-simple-electric-truck-starts-at-24950
 https://techcrunch.com/2026/06/25/amazon-ups-india-bet-with-fresh-13b-ai-infrastructure-investment
+https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world
 https://techcrunch.com/2026/06/25/google-finance-gets-a-dedicated-app-for-android
 https://techcrunch.com/2026/06/25/trump-admin-bars-polestar-from-selling-its-new-evs-in-the-us
 https://techcrunch.com/2026/06/25/xbox-follows-apple-with-price-increases
@@ -194,6 +197,7 @@ https://techcrunch.com/2026/06/26/xprize-founder-says-humans-behave-better-when-
 https://techcrunch.com/2026/06/27/indian-payments-chief-thinks-ai-will-be-heavily-involved-in-next-era-of-digital-payment-growth
 https://techcrunch.com/2026/06/27/instagram-is-testing-more-ways-for-users-to-customize-your-algorithm
 https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back
+https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise
 https://techcrunch.com/2026/06/30/amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic
 https://techcrunch.com/2026/06/30/anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists
 https://techcrunch.com/2026/06/30/crypto-exchange-okx-wants-ai-agents-to-hire-and-pay-each-other
@@ -208,13 +212,16 @@ https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-compa
 https://techcrunch.com/2026/07/02/rivian-thinks-it-will-sell-more-evs-than-expected-this-year
 https://techcrunch.com/2026/07/02/tesla-saw-a-massive-sales-jump-in-the-second-quarter
 https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk
+https://techcrunch.com/2026/07/05/this-humanoid-robotics-company-is-going-public-but-its-ceo-isnt-promising-a-robot-in-your-home-anytime-soon
 https://techcrunch.com/2026/07/05/trump-memecoin-investors-lost-3-8-billion-analysis-finds
 https://techcrunch.com/2026/07/05/ubers-european-expansion-plans-may-have-hit-a-speed-bump
 https://techcrunch.com/2026/07/06/apple-brings-back-card-payments-for-apple-account-purchases-in-india-after-a-four-year-hiatus
 https://techcrunch.com/2026/07/06/microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales
 https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models
+https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine
 https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet
 https://techcrunch.com/2026/07/08/apple-to-produce-made-in-america-wireless-chips-with-broadcom
+https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment
 https://techcrunch.com/2026/07/09/dont-want-to-invest-in-elon-musk-two-new-etfs-explicitly-exclude-him
 https://techcrunch.com/2026/07/09/google-will-now-disclose-which-ads-are-made-with-ai
 https://techcrunch.com/2026/07/09/how-to-stop-metas-ai-image-generator-from-using-your-instagram-photos
@@ -243,6 +250,7 @@ https://techcrunch.com/2026/07/16/period-tracker-stardust-shares-users-health-da
 https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app
 https://techcrunch.com/2026/07/16/ubers-14-8b-delivery-hero-deal-would-nearly-double-its-global-footprint
 https://techcrunch.com/2026/07/16/yes-you-can-now-order-doordash-from-the-command-line
+https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard
 https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act
 https://techcrunch.com/2026/07/17/fbi-arrests-man-accused-of-using-steam-games-to-drain-victims-crypto-wallets
 https://techcrunch.com/2026/07/17/i-replaced-my-space-heater-and-ceiling-fan-with-one-dyson-appliance
@@ -282,11 +290,13 @@ https://techcrunch.com/2026/07/24/techcrunch-disrupt-2026s-new-smart-money-stage
 https://techcrunch.com/2026/07/25/kalshi-demands-netflix-take-down-trailer-for-prediction-games-documentary
 https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai
 https://techcrunch.com/2026/07/25/warner-bros-lawsuit-accuses-amazon-of-illegally-poaching-executives
+https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai
 https://techcrunch.com/2026/07/26/can-apple-make-smart-glasses-that-arent-a-constant-privacy-threat
 https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai
 https://techcrunch.com/2026/07/27/amazons-new-satellite-network-for-mobile-phones-could-turn-up-the-heat-on-spacex
 https://techcrunch.com/2026/07/27/apple-sued-after-alleged-app-store-crypto-scam-cost-users-1-8m
 https://techcrunch.com/2026/07/27/as-rivals-chase-acquisitions-peacock-bets-on-bundles-through-a-new-deal-with-youtube
+https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume
 https://techcrunch.com/2026/07/27/europe-got-its-own-tbpn-style-live-show-and-its-already-a-hot-spot-on-a-press-tour
 https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows
 https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system
@@ -304,6 +314,7 @@ https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-peop
 https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever
 https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag
 https://techcrunch.com/2026/07/29/sorry-haters-ferraris-first-ev-is-doing-just-fine
+https://techcrunch.com/2026/07/29/us-government-bans-new-foreign-made-humanoids-robot-dogs-and-solar-inverters-citing-risks-to-national-security
 https://techcrunch.com/2026/07/29/winamp-aims-for-a-comeback-with-a-new-music-player-powered-by-deezer
 https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents
 https://techcrunch.com/2026/07/30/apple-says-gaming-slowdown-and-app-store-changes-hurt-services-growth
@@ -436,6 +447,7 @@ https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-riva
 https://techcrunch.com/2026/08/12/google-unveils-the-pixel-watch-5-with-a-smarter-gemini-and-advanced-health-monitoring
 https://techcrunch.com/2026/08/12/googles-quick-share-adds-a-tap-to-share-mode
 https://techcrunch.com/2026/08/12/lovable-confirms-new-13-3b-valuation-raises-another-400m
+https://techcrunch.com/2026/08/12/northrops-robot-space-mechanic-is-a-new-way-to-keep-satellites-at-work-longer
 https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise
 https://techcrunch.com/2026/08/12/pixel-11-has-few-hardware-changes-and-more-gemini
 https://techcrunch.com/2026/08/12/reservoir-raises-8m-to-make-water-heaters-that-people-and-the-grid-will-actually-want
@@ -1057,6 +1069,7 @@ https://techcrunch.com/2026/09/21/kairos-power-gets-up-to-100m-from-samsung-grou
 https://techcrunch.com/2026/09/21/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026
 https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com
 https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch
+https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems
 https://techcrunch.com/2026/09/21/ouras-2-2b-ipo-is-mostly-a-payday-for-existing-shareholders
 https://techcrunch.com/2026/09/21/where-will-the-next-breakout-startup-come-from-benchmarks-full-partnership-weighs-in-at-techcrunch-disrupt-2026
 https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete
