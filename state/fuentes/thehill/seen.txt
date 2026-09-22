@@ -205,6 +205,7 @@ https://thehill.com/homenews/6098461-protecting-freedom-speech-government-power
 https://thehill.com/homenews/6099431-live-updates-trump-iran-camp-david
 https://thehill.com/homenews/6100754-live-updates-trump-white-house-media-ban-united-nations-general-assembly
 https://thehill.com/homenews/6101941-bessent-defends-white-house-media-ban
+https://thehill.com/homenews/6103251-donald-trump-un-general-assembly-address-new-york-city
 https://thehill.com/homenews/administration/6040220-live-updates-donald-trump-iran-war-economy-midterms
 https://thehill.com/homenews/administration/6040588-donald-trump-white-house-helipad-ballroom-construction
 https://thehill.com/homenews/administration/6040729-donald-trump-legislative-director-leaving
@@ -523,6 +524,7 @@ https://thehill.com/homenews/administration/6102128-us-china-lowering-tariffs
 https://thehill.com/homenews/administration/6102467-trump-white-house-helipad-inaudible
 https://thehill.com/homenews/administration/6102606-trump-bans-white-house-press
 https://thehill.com/homenews/administration/6102632-trump-approval-rating-historic-low
+https://thehill.com/homenews/administration/6102803-trump-economy-midterm-concerns
 https://thehill.com/homenews/administration/6102816-trump-mamdani-gracie-mansion-visit
 https://thehill.com/homenews/administration/6103061-white-house-launches-trump-tv
 https://thehill.com/homenews/analysis/6040221-democrats-leftist-win-senate-race
@@ -540,6 +542,7 @@ https://thehill.com/homenews/analysis/6089109-paxton-defeat-cornyn-trump
 https://thehill.com/homenews/analysis/6091704-attorney-general-blanche-press-briefing
 https://thehill.com/homenews/analysis/6094080-trump-republicans-artificial-intelligence-data-centers-regulation
 https://thehill.com/homenews/analysis/6099274-trump-recognition-kenneedy-center-renovation
+https://thehill.com/homenews/analysis/6102812-ashley-hinson-iran-war
 https://thehill.com/homenews/analysis/6102924-trump-media-courtroom-battle
 https://thehill.com/homenews/campaign/6022972-graham-wins-south-carolina-senate-primary
 https://thehill.com/homenews/campaign/6030474-live-results-oklahoma-gop-governor-primary-runoff
@@ -789,6 +792,7 @@ https://thehill.com/homenews/campaign/fight-for-2028/6048815-south-carolina-gop-
 https://thehill.com/homenews/campaign/fight-for-2028/6063145-democrats-normal-party-woke-trump-live-discussion
 https://thehill.com/homenews/campaign/fight-for-2028/6075731-donald-trump-gop-convention-midterms-texas-live-discussion
 https://thehill.com/homenews/campaign/fight-for-2028/6089196-donald-trump-joe-biden-comparison-us-economy-discussion
+https://thehill.com/homenews/campaign/fight-for-2028/6102239-gavin-newsom-2028-democratic-party-future-live-discussion
 https://thehill.com/homenews/editors-call/6046390-us-canada-tariff-war-trump-beef-iran-sanctions-darline-graham-south-carolina-discussion
 https://thehill.com/homenews/editors-call/6060567-house-prevent-shutdown-jewish-democrats-divided-live-discussion
 https://thehill.com/homenews/editors-call/6088072-donald-trump-administration-response-rising-ai-fears-discussion
@@ -922,6 +926,8 @@ https://thehill.com/homenews/house/6101601-salazar-trump-hispanic-voters-recepti
 https://thehill.com/homenews/house/6101822-bipartisan-endorsement-mike-lawler
 https://thehill.com/homenews/house/6102459-mike-simpson-opposes-pentagon-arch-funding
 https://thehill.com/homenews/house/6102460-raskin-attacks-trump-arch-plan
+https://thehill.com/homenews/house/6102813-gop-lawmakers-distance-trump-midterms
+https://thehill.com/homenews/house/6103214-hakeem-jeffries-michael-lawler-new-york-jared-golden-endorsement-criticism
 https://thehill.com/homenews/lgbtq/6044688-log-cabin-republicans-transgender-support-ends
 https://thehill.com/homenews/media/6040779-alina-habba-press-secretary-karoline-leavitt
 https://thehill.com/homenews/media/6045875-scott-jennings-press-secretary-reports
@@ -1049,6 +1055,7 @@ https://thehill.com/homenews/senate/6101336-senate-gop-john-kennedy-donald-trump
 https://thehill.com/homenews/senate/6101458-cassidy-criticizes-trump-jr-gifts
 https://thehill.com/homenews/senate/6101578-john-barrasso-gop-midterms-messaging-us-economy-affordability
 https://thehill.com/homenews/senate/6101666-gary-peters-joins-usc
+https://thehill.com/homenews/senate/6102916-senate-gop-diesel-export-ban
 https://thehill.com/homenews/space/6054908-where-northern-lights-may-shine-amid-geomagnetic-storm-watches
 https://thehill.com/homenews/space/6057441-americans-skeptical-ufo-origins-gallup-poll
 https://thehill.com/homenews/space/6067876-nasa-jared-isaacman-outlines-moon-base
@@ -1506,6 +1513,7 @@ https://thehill.com/opinion/education/6094581-end-publisher-apc-costs
 https://thehill.com/opinion/education/6097990-trump-education-call-to-action
 https://thehill.com/opinion/education/6098408-students-self-censoring-civics-class
 https://thehill.com/opinion/education/6099337-protect-college-sports-act
+https://thehill.com/opinion/education/6102004-ala-school-library-book-controversy
 https://thehill.com/opinion/energy-environment/6047556-states-lead-clean-energy-transition
 https://thehill.com/opinion/energy-environment/6050929-iran-war-shifts-oil-traffic
 https://thehill.com/opinion/energy-environment/6055220-katrina-anniversary-fema-crisis
@@ -1752,6 +1760,7 @@ https://thehill.com/opinion/white-house/6096693-crabtree-secret-service
 https://thehill.com/opinion/white-house/6098204-trump-xi-summit-trade-tensions
 https://thehill.com/opinion/white-house/6099102-beware-of-politicians-claiming-to-protect-us-from-the-press
 https://thehill.com/opinion/white-house/6100755-trump-ai-bubble-economic-risk
+https://thehill.com/opinion/white-house/6103009-the-kennedy-center-fix-it-dont-tear-it-down
 https://thehill.com/policy/6075420-vance-defends-tucker-carlson-friendship
 https://thehill.com/policy/6088373-snap-benefits-are-changing-in-october-what-to-know
 https://thehill.com/policy/cybersecurity/6069692-fbi-leaked-drivers-licenses-dark-web
@@ -1842,6 +1851,7 @@ https://thehill.com/policy/defense/6099284-pentagon-omitted-service-member-death
 https://thehill.com/policy/defense/6099888-centcom-billion-barrel-oil-milestone
 https://thehill.com/policy/defense/6100257-us-strike-caribbean-boat-deaths
 https://thehill.com/policy/defense/6101604-houthis-rebels-yemen-red-sea-saudi-arabia
+https://thehill.com/policy/defense/6102669-trump-hung-cao-waiver-jeopardy
 https://thehill.com/policy/defense/6102879-hegseth-establishes-pentagon-homeland-defense-board
 https://thehill.com/policy/energy-environment/6040914-almanacs-release-predictions-for-fall-winter-but-can-you-trust-them
 https://thehill.com/policy/energy-environment/6041522-cramer-north-dakota-wetlands-fws
@@ -2084,6 +2094,8 @@ https://thehill.com/policy/international/6101242-bessent-china-trade-board
 https://thehill.com/policy/international/6101963-us-travel-warning-middle-east
 https://thehill.com/policy/international/6102263-gallup-poll-un-performance
 https://thehill.com/policy/international/6102469-trump-lukashenko-potash-deal-clash
+https://thehill.com/policy/international/6102649-israel-ambassador-un-pushes-back-us-criticism
+https://thehill.com/policy/international/6102741-trump-greenland-military-deal-nato-impact
 https://thehill.com/policy/international/6102785-ratcliffe-zelensky-airport-meeting
 https://thehill.com/policy/national-security/6049802-cia-director-ratcliffe-moscow-visit
 https://thehill.com/policy/national-security/6056134-senators-oppose-ice-shocking-gloves
@@ -2245,6 +2257,7 @@ https://thehill.com/policy/transportation/6101332-russian-diesel-refineries-hit
 https://thehill.com/policy/transportation/6102156-smart-air-traffic-management-dc
 https://thehill.com/policy/transportation/6102275-sean-duffy-ai-program-faa-air-traffic-control-rollout
 https://thehill.com/policy/transportation/6102284-faa-halts-northeast-flights
+https://thehill.com/policy/transportation/6103213-don-beyer-faa-ai-tool-air-traffic-control-criticism
 https://thehill.com/policy/transportation/aviation/6074113-amazon-cargo-plane-sends-up-billowing-cloud-of-smoke-after-overrunning-runway-at-miami-airport
 https://thehill.com/regulation/court-battles/6042548-woman-arrested-ny-state-capitol-bomb-plot
 https://thehill.com/regulation/court-battles/6043480-trump-white-house-ballroom-supreme-court
