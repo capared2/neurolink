@@ -292,6 +292,7 @@ https://theverge.com/ai-artificial-intelligence/998986/texas-puts-data-center-pe
 https://theverge.com/ai-artificial-intelligence/999063/pew-data-center-survey-september-2026
 https://theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3
 https://theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel
+https://theverge.com/ai-artificial-intelligence/999249/openai-creators-patreon-execs-hire-sam-yam
 https://theverge.com/antitrust/982578/google-just-showed-off-its-new-prototype-of-how-third-party-app-stores-will-look
 https://theverge.com/apple/985133/apple-is-automatically-upgrading-some-recent-mac-mini-m4-orders-to-m6-or-m5-pro-versions-for-free
 https://theverge.com/bulletin/795051/verge-podcast-ad-free-set-up-how-to
@@ -454,6 +455,8 @@ https://theverge.com/entertainment/998279/paramount-has-reportedly-reached-a-set
 https://theverge.com/entertainment/998302/paramount-warner-bros-discovery-merger-settlement
 https://theverge.com/entertainment/998342/spotify-might-make-free-tier-users-wait-to-listen-to-new-releases
 https://theverge.com/entertainment/999056/paramount-warner-bros-discovery-merger-annual-film-quota-guardrails
+https://theverge.com/entertainment/999280/the-other-ray-gunn
+https://theverge.com/entertainment/999291/i-need-to-see-everything-now
 https://theverge.com/film/767588/star-wars-starfighter-cast
 https://theverge.com/fitness-tracker-review/696156/whoop-mg-review-wearables-fitness-tracker-health
 https://theverge.com/gadgets/712844/today-im-toying-with
@@ -737,6 +740,7 @@ https://theverge.com/games/998338/steam-frame-mission-debriefing
 https://theverge.com/games/998434/microsoft-patent-application-shows-how-it-might-start-using-in-game-context-to-show-ads
 https://theverge.com/games/998758/xbox-activision-blizzard
 https://theverge.com/games/999161/state-of-decay-developer-undead-labs-announces-layoffs-as-it-goes-independent
+https://theverge.com/games/999268/control-resonant-review-ps5-xbox
 https://theverge.com/headphone-review/695609/nothing-headphone-1-review
 https://theverge.com/health/688503/rfk-jr-vaccines
 https://theverge.com/health/981670/daniel-eks-body-scanning-clinic-neko-health-will-open-in-nyc-on-september-24th
@@ -1022,6 +1026,7 @@ https://theverge.com/policy/998118/google-fined-over-450-million-for-location-da
 https://theverge.com/policy/998726/trump-tv-youtube-livestream
 https://theverge.com/policy/998966/shinyhunters-fbi-hack
 https://theverge.com/policy/999111/california-will-fine-creators-for-sneaky-political-ads
+https://theverge.com/policy/999189/pornhubs-age-checks-are-being-investigated-in-the-uk
 https://theverge.com/report/820656/valve-interview-arm-gaming-steamos-pierre-loup-griffais
 https://theverge.com/report/829265/hoto-fanttik-profile-origins-xiaomi-aukey-tiktok
 https://theverge.com/report/840822/australia-social-media-ban-under-16-response
@@ -1083,6 +1088,7 @@ https://theverge.com/science/996399/nasas-curiosity-rover-celebrates-5000-days-o
 https://theverge.com/science/996981/new-cat-just-dropped
 https://theverge.com/science/997083/flash-flood-warning-tacls-satellite-machine-learning
 https://theverge.com/science/997834/ai-cyberattack-energy-critical-infrastructure
+https://theverge.com/streaming/909230/its-an-amazing-art-form-that-is-way-too-limited-in-peoples-minds
 https://theverge.com/streaming/950116/fox-roku-takeover
 https://theverge.com/streaming/959684/netflix-wonka-golden-ticket-gene-wilder
 https://theverge.com/streaming/965638/good-mythical-morning-will-release-new-episodes-on-netflix-and-youtube-simultaneously
@@ -1125,6 +1131,7 @@ https://theverge.com/tech/897420/android-sideloading-unverified-developers-proce
 https://theverge.com/tech/897471/meta-ai-moderation
 https://theverge.com/tech/897915/amazon-transformer-alexa-phone
 https://theverge.com/tech/898282/gemini-task-automation-uber-doordash-hands-on
+https://theverge.com/tech/900284/apple-ios-26-4-uk-age-verification
 https://theverge.com/tech/900655/steve-jobs-imac-ibook-ipod
 https://theverge.com/tech/901470/kitchenaid-artisan-plus-tilting-stand-mixer-speed-control-light
 https://theverge.com/tech/905258/xteink-x3-e-ink-reader-ebooks-hands-on
@@ -1779,7 +1786,10 @@ https://theverge.com/tech/998914/trump-truth-social-api-lawsuit-san-francisco
 https://theverge.com/tech/998940/valve-beta-pyrowave-video-codec-steam-remote-play
 https://theverge.com/tech/998985/earths-changelog-patch-notes-positive-news
 https://theverge.com/tech/998991/acers-ceo-expects-pc-prices-to-come-down-eventually
+https://theverge.com/tech/999018/eight-sleep-pod-6-intelligent-sleep-system-sensors-health-tracking
 https://theverge.com/tech/999067/the-original-smart-oven-goes-dark
+https://theverge.com/tech/999183/linkedin-is-cracking-down-on-fake-employees
+https://theverge.com/tech/999253/xiaomi-18-pro-max-privacy-display-launch-china
 https://theverge.com/transportation/760217/a-wild-miraidon-appeared
 https://theverge.com/transportation/784461/lucid-nuro-uber-robotaxi-first-vehicle-delivery
 https://theverge.com/transportation/787250/mkbhd-cancels-his-tesla-roadster-order
