@@ -135,6 +135,7 @@ https://theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-
 https://theverge.com/ai-artificial-intelligence/961978/anthropic-claude-cowork-mobile-web
 https://theverge.com/ai-artificial-intelligence/962871/amazon-is-reportedly-trying-to-catch-up-in-the-ai-agent-race-with-moonraker
 https://theverge.com/ai-artificial-intelligence/966072/suno-ai-music-training-scraping-youtube-hack
+https://theverge.com/ai-artificial-intelligence/970324/openai-brings-its-updated-voice-mode-to-the-chatgpt-desktop-app
 https://theverge.com/ai-artificial-intelligence/971750/perplexity-personal-computer-windows-ai-agents
 https://theverge.com/ai-artificial-intelligence/973384/linkedin-seems-like-ai-slop-button
 https://theverge.com/ai-artificial-intelligence/973467/ai-bet-situational-awareness-oops-stonks
@@ -298,6 +299,8 @@ https://theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicia
 https://theverge.com/ai-artificial-intelligence/999249/openai-creators-patreon-execs-hire-sam-yam
 https://theverge.com/ai-artificial-intelligence/999443/bernie-sanders-ai-superintelligence-ban-act
 https://theverge.com/ai-artificial-intelligence/999470/anthropic-biolab-claude-crispr
+https://theverge.com/ai-artificial-intelligence/999526/meta-muse-ai-agent-hands-on-shopping
+https://theverge.com/ai-artificial-intelligence/999540/you-can-now-summon-chatgpt-voice-from-your-phone
 https://theverge.com/antitrust/982578/google-just-showed-off-its-new-prototype-of-how-third-party-app-stores-will-look
 https://theverge.com/apple/985133/apple-is-automatically-upgrading-some-recent-mac-mini-m4-orders-to-m6-or-m5-pro-versions-for-free
 https://theverge.com/bulletin/795051/verge-podcast-ad-free-set-up-how-to
@@ -596,6 +599,7 @@ https://theverge.com/gadgets/999177/an-endurance-watch-with-solar-on-both-sides
 https://theverge.com/gadgets/999329/metroid-prime-remastered-nintendo-flow-usbc-apple-deal-sale
 https://theverge.com/gadgets/999380/una-watch-sports-gps-modular
 https://theverge.com/gadgets/999406/blue-yeti-2-usb-microphone-price-availability
+https://theverge.com/gadgets/999676/a-very-happy-vergemas-was-had-by-all
 https://theverge.com/games/684957/splitgate-2-hat-apology
 https://theverge.com/games/816118/valve-steam-frame-vr-headset-streaming-arm-steamos-hands-on
 https://theverge.com/games/819080/valve-brings-back-steam-machines-steam-os-steam-frame-news-announcements
@@ -897,7 +901,11 @@ https://theverge.com/news/998592/xbox-is-merging-its-forza-developers-into-a-sin
 https://theverge.com/news/998622/microsoft-xbox-layoffs-studio-changes-rumors
 https://theverge.com/news/998665/nvidia-game-ready-driver-control-resonant-gears-of-war-e-day-download
 https://theverge.com/news/998794/undead-labs-xbox-separation-independent-studio
+https://theverge.com/news/999195/microsoft-surface-pro-12-inch-surface-laptop-13-inch-qualcomm-x2-plus
+https://theverge.com/news/999211/microsoft-surface-mouse-haptic-feedback
 https://theverge.com/news/999404/xbox-mythic-achievement-feature
+https://theverge.com/news/999646/microsoft-ink-canvas-announce
+https://theverge.com/news/999664/qualcomm-snapdragon-x2-linux-support-arm
 https://theverge.com/nintendo/686603/nintendo-switch-2-review
 https://theverge.com/podcast/905198/meta-lawsuits-facebook-instagram-youtube-social-media-addiction-section-230
 https://theverge.com/podcast/969231/samsung-unpacked-2026-vergecast-livestream
@@ -941,6 +949,7 @@ https://theverge.com/podcast/997539/join-us-for-a-version-history-livestream-of-
 https://theverge.com/podcast/997725/the-hidden-monopoly-behind-your-ti-graphing-calculator
 https://theverge.com/podcast/998414/todays-vergecast-googlebooks-are-coming-for-your-mac
 https://theverge.com/podcast/999116/todays-vergecast-dlss5-explained-with-linus-tech-tips
+https://theverge.com/podcast/999624/todays-vergecast-folding-phones-in-cars-evs-in-mexico
 https://theverge.com/pokemon/620617/honda-miraidon-motorcycle
 https://theverge.com/policy/677373/lawyers-chatgpt-hallucinations-ai
 https://theverge.com/policy/694155/big-balls-is-still-here
@@ -1117,6 +1126,7 @@ https://theverge.com/streaming/993580/prime-videos-shop-the-scene-feature-finds-
 https://theverge.com/streaming/994861/netflix-crazy-taxi-sonic-stranger-than-heaven
 https://theverge.com/streaming/999202/youtube-multiple-personalized-ai-video-feeds
 https://theverge.com/streaming/999374/youtubes-coachella-broadcast-deal-extended-through-2030
+https://theverge.com/streaming/999409/ad-free-disney-plus-is-reportedly-getting-a-price-hike-to-21-49-per-month
 https://theverge.com/tech/24008239/sphere-las-vegas-experience-u2-screen
 https://theverge.com/tech/784323/upgrading-240hz-oled-gaming-monitor
 https://theverge.com/tech/795383/google-pixel-watch-4-review-android-smartwatch-gemini-wearable
@@ -1784,6 +1794,8 @@ https://theverge.com/tech/998272/peloton-tread-flex-fitness-treadmills
 https://theverge.com/tech/998274/youtube-will-hunt-for-ai-voice-deepfakes-that-sound-like-creators
 https://theverge.com/tech/998328/apples-smart-display-could-finally-arrive-next-month
 https://theverge.com/tech/998400/googlebooks-googlebooks-googlebooks
+https://theverge.com/tech/998457/meta-connect-2026-live-blog-mark-zuckerberg-keynote
+https://theverge.com/tech/998480/meta-connect-2026-biggest-news-announcements
 https://theverge.com/tech/998539/amazon-data-center-water-conservation-colorado-river
 https://theverge.com/tech/998566/beats-360-headphones-review
 https://theverge.com/tech/998581/apple-music-hall-london-venue-battersea
