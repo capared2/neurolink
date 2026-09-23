@@ -4,6 +4,7 @@ https://theverge.com/2013/5/22/4354796/xbox-one-always-online-requirement-used-g
 https://theverge.com/2013/8/29/4640308/dark-patterns-inside-the-interfaces-designed-to-trick-you
 https://theverge.com/2014/10/17/6994871/comic-sans-typewriter-exists
 https://theverge.com/2015/3/18/8237799/sony-playstation-vue-tv-streaming-launch
+https://theverge.com/2015/6/9/8751947/june-oven-identify-your-food
 https://theverge.com/2015/7/7/8905037/google-ad-discrimination-adfisher
 https://theverge.com/2015/9/22/9374067/the-simpsons-vhs-tape-urban-legend
 https://theverge.com/2017/10/10/16452162/windows-phone-history-glorious-failure
@@ -290,6 +291,7 @@ https://theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5
 https://theverge.com/ai-artificial-intelligence/998986/texas-puts-data-center-permits-on-hold
 https://theverge.com/ai-artificial-intelligence/999063/pew-data-center-survey-september-2026
 https://theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3
+https://theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel
 https://theverge.com/antitrust/982578/google-just-showed-off-its-new-prototype-of-how-third-party-app-stores-will-look
 https://theverge.com/apple/985133/apple-is-automatically-upgrading-some-recent-mac-mini-m4-orders-to-m6-or-m5-pro-versions-for-free
 https://theverge.com/bulletin/795051/verge-podcast-ad-free-set-up-how-to
@@ -451,6 +453,7 @@ https://theverge.com/entertainment/997965/what-creepypasta-or-internet-horror-de
 https://theverge.com/entertainment/998279/paramount-has-reportedly-reached-a-settlement-with-the-state-ags-blocking-its-warner-bros-merger
 https://theverge.com/entertainment/998302/paramount-warner-bros-discovery-merger-settlement
 https://theverge.com/entertainment/998342/spotify-might-make-free-tier-users-wait-to-listen-to-new-releases
+https://theverge.com/entertainment/999056/paramount-warner-bros-discovery-merger-annual-film-quota-guardrails
 https://theverge.com/film/767588/star-wars-starfighter-cast
 https://theverge.com/fitness-tracker-review/696156/whoop-mg-review-wearables-fitness-tracker-health
 https://theverge.com/gadgets/712844/today-im-toying-with
@@ -732,6 +735,7 @@ https://theverge.com/games/998320/got-an-intel-panther-lake-laptop-or-handheld-a
 https://theverge.com/games/998338/steam-frame-mission-debriefing
 https://theverge.com/games/998434/microsoft-patent-application-shows-how-it-might-start-using-in-game-context-to-show-ads
 https://theverge.com/games/998758/xbox-activision-blizzard
+https://theverge.com/games/999161/state-of-decay-developer-undead-labs-announces-layoffs-as-it-goes-independent
 https://theverge.com/headphone-review/695609/nothing-headphone-1-review
 https://theverge.com/health/688503/rfk-jr-vaccines
 https://theverge.com/health/981670/daniel-eks-body-scanning-clinic-neko-health-will-open-in-nyc-on-september-24th
@@ -1774,6 +1778,7 @@ https://theverge.com/tech/998914/trump-truth-social-api-lawsuit-san-francisco
 https://theverge.com/tech/998940/valve-beta-pyrowave-video-codec-steam-remote-play
 https://theverge.com/tech/998985/earths-changelog-patch-notes-positive-news
 https://theverge.com/tech/998991/acers-ceo-expects-pc-prices-to-come-down-eventually
+https://theverge.com/tech/999067/the-original-smart-oven-goes-dark
 https://theverge.com/transportation/760217/a-wild-miraidon-appeared
 https://theverge.com/transportation/784461/lucid-nuro-uber-robotaxi-first-vehicle-delivery
 https://theverge.com/transportation/787250/mkbhd-cancels-his-tesla-roadster-order

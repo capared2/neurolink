@@ -157,6 +157,7 @@ https://thehill.com/business/6101988-payment-size-revealed-in-massive-oracle-set
 https://thehill.com/business/6102424-bessent-supports-warsh-after-fed-hike
 https://thehill.com/business/6104529-cvs-class-action-settlement-file-claim-payment
 https://thehill.com/business/6104926-doordash-pays-nyc-settlement
+https://thehill.com/business/6105363-barkin-inflation-short-order
 https://thehill.com/business/agriculture/6052290-ranchers-protest-foreign-imported-beef
 https://thehill.com/business/economy/6043886-one-seemingly-ordinary-job-has-gotten-much-more-deadly-over-the-past-10-years-federal-data-shows
 https://thehill.com/business/economy/6060815-these-30-industries-could-see-the-fastest-job-decline-in-the-next-decade-labor-department
@@ -213,6 +214,8 @@ https://thehill.com/homenews/6101941-bessent-defends-white-house-media-ban
 https://thehill.com/homenews/6103251-donald-trump-un-general-assembly-address-new-york-city
 https://thehill.com/homenews/6103272-senator-subpoena-trump-jr-hunter-biden
 https://thehill.com/homenews/6104940-ex-trump-social-media-consultant-fraud
+https://thehill.com/homenews/6105208-trump-un-speech-iran-venezuela
+https://thehill.com/homenews/6105496-trump-administration-drone-strike-controversy
 https://thehill.com/homenews/administration/6040220-live-updates-donald-trump-iran-war-economy-midterms
 https://thehill.com/homenews/administration/6040588-donald-trump-white-house-helipad-ballroom-construction
 https://thehill.com/homenews/administration/6040729-donald-trump-legislative-director-leaving
@@ -545,6 +548,7 @@ https://thehill.com/homenews/administration/6104499-trump-makes-rubio-nsa
 https://thehill.com/homenews/administration/6104608-vance-mocks-white-house-ban
 https://thehill.com/homenews/administration/6104760-potential-us-iran-peace-deal
 https://thehill.com/homenews/administration/6104767-trump-deflects-media-ban-legal-fight
+https://thehill.com/homenews/administration/6105227-trump-withdrew-white-house-credentials
 https://thehill.com/homenews/analysis/6040221-democrats-leftist-win-senate-race
 https://thehill.com/homenews/analysis/6042626-treasury-secretary-bessent-buyback
 https://thehill.com/homenews/analysis/6057609-gop-campaign-centered-trump
@@ -562,6 +566,7 @@ https://thehill.com/homenews/analysis/6094080-trump-republicans-artificial-intel
 https://thehill.com/homenews/analysis/6099274-trump-recognition-kenneedy-center-renovation
 https://thehill.com/homenews/analysis/6102812-ashley-hinson-iran-war
 https://thehill.com/homenews/analysis/6102924-trump-media-courtroom-battle
+https://thehill.com/homenews/analysis/6105267-aoc-political-future-rumors
 https://thehill.com/homenews/campaign/6022972-graham-wins-south-carolina-senate-primary
 https://thehill.com/homenews/campaign/6030474-live-results-oklahoma-gop-governor-primary-runoff
 https://thehill.com/homenews/campaign/6030475-live-results-south-carolina-live-results
@@ -812,6 +817,7 @@ https://thehill.com/homenews/campaign/6104890-beshear-releases-new-book
 https://thehill.com/homenews/campaign/6104961-donalds-removes-trump-mentions
 https://thehill.com/homenews/campaign/6105048-harris-el-sayed-michigan-senate-race
 https://thehill.com/homenews/campaign/6105117-hinson-trails-turek-iowa-senate-poll
+https://thehill.com/homenews/campaign/6105450-nessel-endorses-elsayed
 https://thehill.com/homenews/campaign/data-nerds/6040929-democratic-socialist-angie-nixon-florida-upset-what-to-know-discussion
 https://thehill.com/homenews/campaign/data-nerds/6054870-democratic-party-senate-control-division-2026-midterms-discussion
 https://thehill.com/homenews/campaign/data-nerds/6068929-abdul-el-sayed-democratic-tensions-michigan-senate-race-discussion
@@ -1094,6 +1100,8 @@ https://thehill.com/homenews/senate/6104230-democrats-demand-tariff-refunds
 https://thehill.com/homenews/senate/6104394-jackson-attacks-collins-corruption-navatek
 https://thehill.com/homenews/senate/6104468-senate-democrats-ai-china
 https://thehill.com/homenews/senate/6104919-kelly-criticizes-hegseth-testosterone
+https://thehill.com/homenews/senate/6105280-hunter-biden-responds-senator-request
+https://thehill.com/homenews/senate/6105396-senate-judiciary-investigates-donald-trump-jr
 https://thehill.com/homenews/space/6054908-where-northern-lights-may-shine-amid-geomagnetic-storm-watches
 https://thehill.com/homenews/space/6057441-americans-skeptical-ufo-origins-gallup-poll
 https://thehill.com/homenews/space/6067876-nasa-jared-isaacman-outlines-moon-base
@@ -1343,6 +1351,7 @@ https://thehill.com/newsletters/energy-environment/6091753-house-set-to-vote-on-
 https://thehill.com/newsletters/energy-environment/6094254-harold-hamms-oil-company-announces-venezuela-deal
 https://thehill.com/newsletters/energy-environment/6096975-trump-memo-reduces-esa-protections-newsletter
 https://thehill.com/newsletters/energy-environment/6099147-how-data-centers-may-use-forever-chemicals
+https://thehill.com/newsletters/energy-environment/6105320-trump-eyes-diesel-export-ban
 https://thehill.com/newsletters/healthcare/6042627-schwartz-recognizes-cdc-strife-in-first-talks-with-staff
 https://thehill.com/newsletters/healthcare/6044727-trump-eyes-vaccine-categories
 https://thehill.com/newsletters/healthcare/6048133-back-to-school-season-fuels-growing-measles-concerns
@@ -1365,6 +1374,7 @@ https://thehill.com/newsletters/healthcare/6094294-cassidy-trumps-handling-of-me
 https://thehill.com/newsletters/healthcare/6097014-kennedy-fans-vaccine-injury-concerns-at-anti-vaccine-event
 https://thehill.com/newsletters/healthcare/6099295-cdc-director-says-rfk-jr-has-final-say
 https://thehill.com/newsletters/healthcare/6102928-trump-admin-reportedly-considers-nih-grant-approval-takeover
+https://thehill.com/newsletters/healthcare/6105393-maha-lashes-out-rfk-jr
 https://thehill.com/newsletters/keeping-score/6046222-kyle-kirkwood-trump-freedom-250-grand-prix-indycar
 https://thehill.com/newsletters/keeping-score/6046806-san-francisco-49ers-owner-arrested-in-ohio
 https://thehill.com/newsletters/keeping-score/6057895-mark-walter-lakers-sale-controversy
@@ -1419,6 +1429,7 @@ https://thehill.com/newsletters/technology/6094035-policymakers-cool-on-antitrus
 https://thehill.com/newsletters/technology/6096796-trump-regulators-eye-crypto-after-clarity-act-impasse
 https://thehill.com/newsletters/technology/6098979-congress-ai-policy-debate
 https://thehill.com/newsletters/technology/6102756-ai-fears-hit-trump-xi-agenda
+https://thehill.com/newsletters/technology/6105266-trump-looks-to-rebrand-ai
 https://thehill.com/newsletters/the-gavel/6050577-supreme-court-mail-in-voting-trump-policy
 https://thehill.com/newsletters/the-gavel/6064292-white-house-ballroom-trump-supreme-court-standing
 https://thehill.com/newsletters/the-gavel/6077380-supreme-court-trump-midterms
@@ -2071,6 +2082,7 @@ https://thehill.com/policy/healthcare/6102442-collins-murray-omb-nih-grants
 https://thehill.com/policy/healthcare/6103211-glp-1-manufacturers-sued-risks-vision-loss
 https://thehill.com/policy/healthcare/6104381-vance-oz-aca-obamacare-crackdown
 https://thehill.com/policy/healthcare/6105092-collins-urges-nih-grants-oversight-block
+https://thehill.com/policy/healthcare/6105262-lawsuit-trump-medicaid-work-requirements
 https://thehill.com/policy/international/6040680-iran-minister-slams-trump-economic-dday
 https://thehill.com/policy/international/6042225-rubio-cuba-sanctions
 https://thehill.com/policy/international/6043090-iran-reaction-us-sanctions-trump-administration-war
@@ -2440,6 +2452,8 @@ https://thehill.com/regulation/court-battles/6099454-naacp-lawsuit-trump-armed-a
 https://thehill.com/regulation/court-battles/6101969-trump-appointee-judge-media-lawsuit
 https://thehill.com/regulation/court-battles/6102804-mo-court-reinstates-gop-house-map
 https://thehill.com/regulation/court-battles/6104532-san-francisco-sues-truth-social-posts
+https://thehill.com/regulation/court-battles/6105303-usps-employee-indictment-mail-in-ballots
+https://thehill.com/regulation/court-battles/6105403-kagan-denies-surrogacy-emergency-bid
 https://thehill.com/the-hill-notable-staffers-2026/6063654-raphael-schreiber-legislative-director-thomas-massie
 https://thehill.com/the-hill-notable-staffers-2026/6064525-rubi-flores-policy-director-congressional-hispanic-caucus
 https://thehill.com/the-hill-notable-staffers-2026/6067510-omar-hossino-chief-counsel-national-security-adviser-house-republican-policy-committee
