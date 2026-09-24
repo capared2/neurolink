@@ -88,6 +88,7 @@ https://aljazeera.com/economy/2026/9/23/as-ai-leaders-warn-of-catastrophe-us-and
 https://aljazeera.com/economy/2026/9/23/the-white-house-press-pool-what-is-it-and-how-does-it-work
 https://aljazeera.com/economy/2026/9/23/us-lawmakers-propose-sweeping-ai-restrictions-with-superintelligence-ban
 https://aljazeera.com/economy/2026/9/23/wall-streets-nasdaq-hits-all-time-high-as-ai-frenzy-gathers-pace
+https://aljazeera.com/economy/2026/9/24/ai-model-claude-discovers-crispr-like-enzyme-system-anthropic-says
 https://aljazeera.com/economy/2026/9/3/asia-looks-to-store-oil-gas-closer-to-home-after-strait-of-hormuz-crisis
 https://aljazeera.com/economy/2026/9/3/canada-ready-for-a-trade-deal-with-us-that-benefits-both-carney-says
 https://aljazeera.com/economy/2026/9/3/chinas-support-for-iran-shows-its-limits-as-us-ramps-up-pressure-on-tehran
@@ -1229,6 +1230,7 @@ https://aljazeera.com/news/2026/9/23/syrias-al-sharaa-warns-israeli-attacks-enda
 https://aljazeera.com/news/2026/9/23/they-told-me-to-go-back-to-my-country-inside-the-uks-wave-of-racism
 https://aljazeera.com/news/2026/9/23/trump-administration-invites-putin-to-attend-g20-summit-in-miami
 https://aljazeera.com/news/2026/9/23/trump-administration-to-defend-its-ban-of-major-news-outlets-in-court
+https://aljazeera.com/news/2026/9/23/trump-meets-chinas-xi-jinping-at-us-airport-on-arrival-for-three-day-trip
 https://aljazeera.com/news/2026/9/23/trump-pushes-russia-ukraine-energy-truce-can-it-work
 https://aljazeera.com/news/2026/9/23/trump-rallies-shield-of-the-americas-coalition-against-drug-cartels
 https://aljazeera.com/news/2026/9/23/un-general-assembly-quiz-who-said-these-10-famous-quotes
@@ -1240,6 +1242,13 @@ https://aljazeera.com/news/2026/9/23/yemen-government-forces-claim-control-of-mo
 https://aljazeera.com/news/2026/9/23/yemeni-government-in-military-and-diplomatic-push-to-reverse-houthi-gains
 https://aljazeera.com/news/2026/9/23/zelenskyy-calls-for-sustained-pressure-on-patient-zero-putin-in-un-speech
 https://aljazeera.com/news/2026/9/23/zelenskyy-says-ukraine-ready-for-energy-truce-with-russia-after-trump-talks
+https://aljazeera.com/news/2026/9/24/ai-corporate-leaders-tell-un-the-industry-needs-global-regulation
+https://aljazeera.com/news/2026/9/24/australia-says-openai-agent-hacked-medicare-portal
+https://aljazeera.com/news/2026/9/24/israel-moves-to-bar-both-main-arab-lists-from-october-election
+https://aljazeera.com/news/2026/9/24/they-uprooted-it-all-israel-bulldozes-palestinian-owned-olive-groves
+https://aljazeera.com/news/2026/9/24/turkiye-agrees-to-gradual-handover-of-bashiqa-base-to-iraq
+https://aljazeera.com/news/2026/9/24/venezuelas-delcy-rodriguez-promises-elections-at-un-gives-no-date
+https://aljazeera.com/news/2026/9/24/why-is-kenya-turning-against-tata-chemicals-in-magadi
 https://aljazeera.com/news/2026/9/3/20-million-children-a-year-face-online-sexual-abuse-unicef-says
 https://aljazeera.com/news/2026/9/3/advocates-decry-us-house-vote-to-defund-universities-that-boycott-israel
 https://aljazeera.com/news/2026/9/3/billionaire-leon-black-sues-us-congressional-panel-over-epstein-subpoena
@@ -1527,6 +1536,7 @@ https://aljazeera.com/news/liveblog/2026/9/15/iran-war-live-centcom-refutes-iran
 https://aljazeera.com/news/liveblog/2026/9/2/iran-war-live-us-bombs-iran-tehran-retaliates-on-gulf-neighbours-jordan
 https://aljazeera.com/news/liveblog/2026/9/22/iran-war-live-irgc-says-us-israel-must-accept-withdrawal-from-region
 https://aljazeera.com/news/liveblog/2026/9/23/iran-war-live-trump-confirms-very-good-meeting-with-iran-at-un
+https://aljazeera.com/news/liveblog/2026/9/24/iran-war-live-tehran-says-it-wont-be-bullied-remains-open-for-talks
 https://aljazeera.com/news/liveblog/2026/9/7/iran-war-live-tehran-to-announce-new-hormuz-shipping-route-in-coming-days
 https://aljazeera.com/news/liveblog/2026/9/8/iran-war-live-qatar-warns-of-industrial-catastrophe-if-crisis-continues
 https://aljazeera.com/news/liveblog/2026/9/9/iran-war-live-us-hits-iranian-tankers-irgc-attacks-us-base-in-jordan

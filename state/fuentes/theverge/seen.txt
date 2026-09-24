@@ -1127,6 +1127,7 @@ https://theverge.com/streaming/994861/netflix-crazy-taxi-sonic-stranger-than-hea
 https://theverge.com/streaming/999202/youtube-multiple-personalized-ai-video-feeds
 https://theverge.com/streaming/999374/youtubes-coachella-broadcast-deal-extended-through-2030
 https://theverge.com/streaming/999409/ad-free-disney-plus-is-reportedly-getting-a-price-hike-to-21-49-per-month
+https://theverge.com/streaming/999723/pluto-tv-new-ui
 https://theverge.com/tech/24008239/sphere-las-vegas-experience-u2-screen
 https://theverge.com/tech/784323/upgrading-240hz-oled-gaming-monitor
 https://theverge.com/tech/795383/google-pixel-watch-4-review-android-smartwatch-gemini-wearable
@@ -1821,12 +1822,19 @@ https://theverge.com/tech/999067/the-original-smart-oven-goes-dark
 https://theverge.com/tech/999140/made-on-youtube-creator-tools-ai-thumbnails-tests
 https://theverge.com/tech/999183/linkedin-is-cracking-down-on-fake-employees
 https://theverge.com/tech/999253/xiaomi-18-pro-max-privacy-display-launch-china
+https://theverge.com/tech/999281/ray-ban-meta-audio-glasses-meta-connect-2026
 https://theverge.com/tech/999295/mcdonalds-drive-thru-menu-ads
 https://theverge.com/tech/999303/crkd-tiny-wireless-gamepad-tmr-thumbsticks
 https://theverge.com/tech/999305/discord-updated-age-assurance-global-rollout
 https://theverge.com/tech/999328/switchbot-k11-plus-pro-robot-vacuum-upgrade-suction-power
 https://theverge.com/tech/999419/elgato-stream-deck-neo-update-infobar-customizable-spotify
+https://theverge.com/tech/999454/meta-muse-ai-agent-video-chat-connect-2026
 https://theverge.com/tech/999486/ifixit-valve-steam-frame-teardown-repairability
+https://theverge.com/tech/999517/meta-vr-glasses-connect-2026-hands-on
+https://theverge.com/tech/999593/meta-connect-2026-everything-announced
+https://theverge.com/tech/999652/the-beats-360-are-essentially-true-wireless-earbuds-disguised-as-headphones
+https://theverge.com/tech/999673/meta-connect-2026-muse-glasses-features
+https://theverge.com/tech/999750/muse-charm-meta-ai-hardware
 https://theverge.com/transportation/760217/a-wild-miraidon-appeared
 https://theverge.com/transportation/784461/lucid-nuro-uber-robotaxi-first-vehicle-delivery
 https://theverge.com/transportation/787250/mkbhd-cancels-his-tesla-roadster-order
@@ -1918,3 +1926,4 @@ https://theverge.com/transportation/998895/rivian-ceo-says-r3-will-be-materially
 https://theverge.com/transportation/999043/tesla-gets-grok-bot
 https://theverge.com/transportation/999432/nhtsa-opens-probe-into-commas-driver-assist-devices
 https://theverge.com/tv/621815/kiana-mai-pretty-pretty-please-i-dont-want-to-be-a-magical-girl
+https://theverge.com/tv/756298/paramount-plus-skydance-merger-complete-david-ellison
