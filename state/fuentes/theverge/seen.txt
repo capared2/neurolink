@@ -797,6 +797,7 @@ https://theverge.com/news/618168/google-search-eu-dma-charge-violation
 https://theverge.com/news/619586/framework-laptop-16-update-one-key-but-not-done
 https://theverge.com/news/621650/intel-ohio-chip-factory-delayed-2030
 https://theverge.com/news/630222/android-march-find-my-device-people-location-sharing-update
+https://theverge.com/news/645154/eu-fines-x-dsa-violations-xai-elon-musk
 https://theverge.com/news/645777/waymo-japan-autonomous-test-robotaxi-international
 https://theverge.com/news/645815/google-used-ai-to-enhance-the-wizard-of-oz-for-the-las-vegas-spheres-giant-screen
 https://theverge.com/news/655275/smartphone-tablet-labels-eu-energy-efficiency-battery-life-repairability
@@ -985,6 +986,8 @@ https://theverge.com/podcast/999624/todays-vergecast-folding-phones-in-cars-evs-
 https://theverge.com/pokemon/620617/honda-miraidon-motorcycle
 https://theverge.com/policy/1000005/flock-senate-hearing
 https://theverge.com/policy/1000282/whats-going-on-with-this-trump-picture
+https://theverge.com/policy/1000520/the-us-backs-elon-musk-in-fight-to-overturn-e120m-eu-fine
+https://theverge.com/policy/1000526/silicon-valleys-power-ranking
 https://theverge.com/policy/677373/lawyers-chatgpt-hallucinations-ai
 https://theverge.com/policy/694155/big-balls-is-still-here
 https://theverge.com/policy/799473/facebook-meta-ice-jawboning
@@ -1174,6 +1177,8 @@ https://theverge.com/tech/1000268/htx-studio-custom-desk-wireless-qi-charging
 https://theverge.com/tech/1000328/google-gemini-ai-live-avatar-face
 https://theverge.com/tech/1000370/meta-instagram-attorney-client-privilege-hats
 https://theverge.com/tech/1000443/qualcomms-new-elite-sound-chip-might-finally-deliver-the-wi-fi-earbud-dream
+https://theverge.com/tech/1000465/i-tried-the-meta-vr-glasses-too-here-are-my-first-impressions
+https://theverge.com/tech/1000495/microsoft-is-killing-off-the-copilot-plus-pc-brand
 https://theverge.com/tech/24008239/sphere-las-vegas-experience-u2-screen
 https://theverge.com/tech/784323/upgrading-240hz-oled-gaming-monitor
 https://theverge.com/tech/795383/google-pixel-watch-4-review-android-smartwatch-gemini-wearable
@@ -1895,6 +1900,7 @@ https://theverge.com/tech/999904/google-pixel-watch-5-health-features-rollout
 https://theverge.com/tech/999919/microsoft-xbox-reorganization-activision-notepad
 https://theverge.com/tech/999944/meta-muse-charm-ai-interact-5g-modem
 https://theverge.com/tldr/1000094/hot-jimothy-summer-is-over-now-its-three-bowls-of-water-fall
+https://theverge.com/transportation/1000317/tesla-semi-launch-customer-delivery-freight-battery-engineer
 https://theverge.com/transportation/760217/a-wild-miraidon-appeared
 https://theverge.com/transportation/784461/lucid-nuro-uber-robotaxi-first-vehicle-delivery
 https://theverge.com/transportation/787250/mkbhd-cancels-his-tesla-roadster-order
