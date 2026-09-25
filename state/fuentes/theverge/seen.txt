@@ -117,7 +117,9 @@ https://theverge.com/ai-artificial-intelligence/1000222/meta-muse-ai-filesystem
 https://theverge.com/ai-artificial-intelligence/1000309/youtuber-elliot-choy-says-an-ai-kalshi-ad-stole-one-of-his-videos-and-changed-his-race
 https://theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google
 https://theverge.com/ai-artificial-intelligence/1000758/suno-sony-umg-lawsuit-ai-music
+https://theverge.com/ai-artificial-intelligence/1000769/another-tech-worker-has-resigned-over-concerns-that-ai-is-already-progressing-too-fast
 https://theverge.com/ai-artificial-intelligence/1000784/meta-muse-filesystem
+https://theverge.com/ai-artificial-intelligence/1000943/bill-gates-says-regulate-ai-because-its-powerful-enough-to-cause-a-billion-deaths
 https://theverge.com/ai-artificial-intelligence/648595/anthropic-claude-research-google-workplace
 https://theverge.com/ai-artificial-intelligence/679852/trump-ai-safety-institute-name-mission-change
 https://theverge.com/ai-artificial-intelligence/767973/vibe-coding-ai-future-end-evolution
@@ -1206,6 +1208,8 @@ https://theverge.com/tech/1000753/have-meta-glasses-changed-how-we-think-about-p
 https://theverge.com/tech/1000772/apple-code-leak-homepod-mini-2-ipad-mini-8-apple-tv-4k
 https://theverge.com/tech/1000794/tesla-optimus-production-issues-hands
 https://theverge.com/tech/1000851/i-think-google-has-a-bit-of-an-seo-problem-with-googlebooks
+https://theverge.com/tech/1000973/the-dutch-government-might-make-the-leap-to-linux
+https://theverge.com/tech/1000976/white-house-app-store-rankings-news
 https://theverge.com/tech/24008239/sphere-las-vegas-experience-u2-screen
 https://theverge.com/tech/784323/upgrading-240hz-oled-gaming-monitor
 https://theverge.com/tech/795383/google-pixel-watch-4-review-android-smartwatch-gemini-wearable
@@ -1221,6 +1225,7 @@ https://theverge.com/tech/870583/xteink-x4-e-ink-reader-books-hands-on
 https://theverge.com/tech/872963/fitbit-james-park-eric-friedman-luffu-caregivers-family-health-app
 https://theverge.com/tech/873131/elon-musks-boring-company-is-going-to-dubai
 https://theverge.com/tech/873655/anker-nano-charger-smart-display-45w-folding-prongs
+https://theverge.com/tech/876196/top-app-store-apps-developers
 https://theverge.com/tech/876480/meta-facebook-animate-profile-picture-restyle-ai
 https://theverge.com/tech/880812/ramageddon-ram-shortage-memory-crisis-price-2026-phones-laptops
 https://theverge.com/tech/883225/samsung-galaxy-unpacked-s26-2026
@@ -1241,11 +1246,13 @@ https://theverge.com/tech/900284/apple-ios-26-4-uk-age-verification
 https://theverge.com/tech/900506/crkd-atom-plus-gamepad-wireless-bluetooth-controller-tmr-rumble-motion
 https://theverge.com/tech/900655/steve-jobs-imac-ibook-ipod
 https://theverge.com/tech/901470/kitchenaid-artisan-plus-tilting-stand-mixer-speed-control-light
+https://theverge.com/tech/902703/white-house-app-iphone-android
 https://theverge.com/tech/905258/xteink-x3-e-ink-reader-ebooks-hands-on
 https://theverge.com/tech/905398/apple-iphone-anniversary-jobs-release
 https://theverge.com/tech/907856/iphone-fold-dummy-design-delay-production
 https://theverge.com/tech/908962/dyson-hushjet-mini-cool-personal-handheld-fan-hands-on
 https://theverge.com/tech/909617/meta-removes-ads-from-lawyers-seeking-plaintiffs-for-social-media-addiction-cases
+https://theverge.com/tech/909784/frances-government-is-switching-to-linux
 https://theverge.com/tech/911617/amazon-globalstar-apple-iphone-watch-satellite-internet
 https://theverge.com/tech/912287/adobe-firefly-ai-assistant-announcement-editing
 https://theverge.com/tech/912346/amazon-fire-tv-stick-hd-slimmest-ever
@@ -1932,6 +1939,7 @@ https://theverge.com/tech/999944/meta-muse-charm-ai-interact-5g-modem
 https://theverge.com/tldr/1000094/hot-jimothy-summer-is-over-now-its-three-bowls-of-water-fall
 https://theverge.com/transportation/1000317/tesla-semi-launch-customer-delivery-freight-battery-engineer
 https://theverge.com/transportation/1000701/vws-id-buzz-is-taking-another-year-off
+https://theverge.com/transportation/1001000/geely-says-its-new-ev-smart-charging-tech-uses-ai-to-help-batteries-last-longer
 https://theverge.com/transportation/760217/a-wild-miraidon-appeared
 https://theverge.com/transportation/784461/lucid-nuro-uber-robotaxi-first-vehicle-delivery
 https://theverge.com/transportation/787250/mkbhd-cancels-his-tesla-roadster-order
