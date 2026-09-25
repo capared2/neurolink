@@ -584,6 +584,7 @@ https://thehill.com/homenews/administration/6109283-xi-china-us-ai-responsibilit
 https://thehill.com/homenews/administration/6109549-diplomats-ai-super-intelligence
 https://thehill.com/homenews/administration/6110237-trump-government-ad-criticism
 https://thehill.com/homenews/administration/6110337-first-circuit-blocks-third-country-deportation
+https://thehill.com/homenews/administration/6110575-white-house-press-pool-limbo
 https://thehill.com/homenews/analysis/6040221-democrats-leftist-win-senate-race
 https://thehill.com/homenews/analysis/6042626-treasury-secretary-bessent-buyback
 https://thehill.com/homenews/analysis/6057609-gop-campaign-centered-trump
@@ -874,6 +875,7 @@ https://thehill.com/homenews/campaign/6109083-donalds-trump-agenda-website
 https://thehill.com/homenews/campaign/6109465-democrats-gain-young-men
 https://thehill.com/homenews/campaign/6110022-former-primary-challenger-backs-marshall-opponent
 https://thehill.com/homenews/campaign/6110148-younger-voters-negative-capitalism
+https://thehill.com/homenews/campaign/6110597-texas-voter-registration-application-backlog
 https://thehill.com/homenews/campaign/data-nerds/6040929-democratic-socialist-angie-nixon-florida-upset-what-to-know-discussion
 https://thehill.com/homenews/campaign/data-nerds/6054870-democratic-party-senate-control-division-2026-midterms-discussion
 https://thehill.com/homenews/campaign/data-nerds/6068929-abdul-el-sayed-democratic-tensions-michigan-senate-race-discussion
@@ -1077,6 +1079,8 @@ https://thehill.com/homenews/media/6107052-lemon-blames-cnn-white-house-media-ba
 https://thehill.com/homenews/media/6107631-trump-press-ban-lawsuit-hearing
 https://thehill.com/homenews/media/6108225-cnn-msnow-politico-reporters-blocked-white-house-judge-ruling-access
 https://thehill.com/homenews/media/6109272-cnn-msnow-reporters-regain-white-house-access-trump-media-ban
+https://thehill.com/homenews/media/6110466-trump-blasts-cnn-msnow-xi-visit
+https://thehill.com/homenews/media/6110573-scott-jennings-trump-dividend-ambivalence
 https://thehill.com/homenews/nexstar_media_wire/6033849-no-more-sunsets-before-5-p-m-how-permanent-daylight-saving-would-change-winter
 https://thehill.com/homenews/senate/6040557-jon-ossoff-white-house-feud-donald-trump-natalie-harp
 https://thehill.com/homenews/senate/6041270-live-results-massachusetts-senate-primary
@@ -1436,6 +1440,7 @@ https://thehill.com/newsletters/defense-national-security/6097079-state-departme
 https://thehill.com/newsletters/defense-national-security/6099382-hegseth-backs-trump-on-banning-media-outlets
 https://thehill.com/newsletters/defense-national-security/6102932-gop-nominees-call-end-iran-war-while-campaign-trail
 https://thehill.com/newsletters/defense-national-security/6107715-house-lame-duck-impeachment-dilemma-hegseth
+https://thehill.com/newsletters/defense-national-security/6110708-gop-lawmakers-concerned-after-f-35-equipment-ended-up-in-china
 https://thehill.com/newsletters/energy-environment/6042606-wetlands-policy-causes-gop-friction
 https://thehill.com/newsletters/energy-environment/6044586-doi-outlines-short-term-plan-for-water-cuts-in-ca-az-nv
 https://thehill.com/newsletters/energy-environment/6047881-politicians-aim-to-distance-themselves-from-data-centers
@@ -1456,6 +1461,7 @@ https://thehill.com/newsletters/energy-environment/6096975-trump-memo-reduces-es
 https://thehill.com/newsletters/energy-environment/6099147-how-data-centers-may-use-forever-chemicals
 https://thehill.com/newsletters/energy-environment/6105320-trump-eyes-diesel-export-ban
 https://thehill.com/newsletters/energy-environment/6107716-wright-opposes-diesel-export-ban
+https://thehill.com/newsletters/energy-environment/6110633-whitehouse-vs-white-house-on-permitting-timeline
 https://thehill.com/newsletters/healthcare/6042627-schwartz-recognizes-cdc-strife-in-first-talks-with-staff
 https://thehill.com/newsletters/healthcare/6044727-trump-eyes-vaccine-categories
 https://thehill.com/newsletters/healthcare/6048133-back-to-school-season-fuels-growing-measles-concerns
@@ -1480,6 +1486,7 @@ https://thehill.com/newsletters/healthcare/6099295-cdc-director-says-rfk-jr-has-
 https://thehill.com/newsletters/healthcare/6102928-trump-admin-reportedly-considers-nih-grant-approval-takeover
 https://thehill.com/newsletters/healthcare/6105393-maha-lashes-out-rfk-jr
 https://thehill.com/newsletters/healthcare/6107507-lawsuit-challenges-medically-frail-exemption
+https://thehill.com/newsletters/healthcare/6110563-fda-pick-sidesteps-tough-questions
 https://thehill.com/newsletters/keeping-score/6046222-kyle-kirkwood-trump-freedom-250-grand-prix-indycar
 https://thehill.com/newsletters/keeping-score/6046806-san-francisco-49ers-owner-arrested-in-ohio
 https://thehill.com/newsletters/keeping-score/6057895-mark-walter-lakers-sale-controversy
@@ -2349,12 +2356,14 @@ https://thehill.com/policy/international/6109295-carney-preps-us-invasion-risk
 https://thehill.com/policy/international/6109385-xi-jinping-donald-trump-summit-gifts-panda-bears-student-visas
 https://thehill.com/policy/international/6110373-israel-netanyahu-speech-united-nations-defiant
 https://thehill.com/policy/international/6110376-pezeshkian-disputes-trump-midterms-claim
+https://thehill.com/policy/international/6110716-masoud-pezeshkian-claims-khamenei-healthy
 https://thehill.com/policy/national-security/6049802-cia-director-ratcliffe-moscow-visit
 https://thehill.com/policy/national-security/6056134-senators-oppose-ice-shocking-gloves
 https://thehill.com/policy/national-security/6059574-homan-ice-bus-stop-arrests
 https://thehill.com/policy/national-security/6076466-americans-fear-domestic-terrorism-more
 https://thehill.com/policy/national-security/6082996-trump-scales-back-airport-security
 https://thehill.com/policy/national-security/6100961-ice-officer-shoots-austin-man
+https://thehill.com/policy/national-security/6110700-homan-defends-ice-operations-doj-event
 https://thehill.com/policy/sports-gaming/6042577-seattle-times-columnist-resigns-trans-athletes
 https://thehill.com/policy/sports-gaming/6044141-trump-scheduled-indycars-first-dc-grandprix
 https://thehill.com/policy/sports-gaming/6046074-photos-indycar-freedom-250-grand-prix
