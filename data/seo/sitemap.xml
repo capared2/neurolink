@@ -2,22 +2,26 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <sitemap>
     <loc>https://gigantum.net/sitemap-secciones.xml</loc>
-    <lastmod>2026-09-25T14:01:23.530442Z</lastmod>
+    <lastmod>2026-09-25T18:50:36.217764Z</lastmod>
   </sitemap>
   <sitemap>
     <loc>https://gigantum.net/sitemap-news.xml</loc>
-    <lastmod>2026-09-25T14:01:23.530451Z</lastmod>
+    <lastmod>2026-09-25T18:50:36.217776Z</lastmod>
   </sitemap>
   <sitemap>
     <loc>https://gigantum.net/sitemap-noticias-0001.xml</loc>
-    <lastmod>2026-09-25T14:01:23.530455Z</lastmod>
+    <lastmod>2026-09-25T18:50:36.217779Z</lastmod>
   </sitemap>
   <sitemap>
     <loc>https://gigantum.net/sitemap-noticias-0002.xml</loc>
-    <lastmod>2026-09-25T14:01:23.530457Z</lastmod>
+    <lastmod>2026-09-25T18:50:36.217782Z</lastmod>
   </sitemap>
   <sitemap>
     <loc>https://gigantum.net/sitemap-noticias-0003.xml</loc>
-    <lastmod>2026-09-25T14:01:23.530459Z</lastmod>
+    <lastmod>2026-09-25T18:50:36.217784Z</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://gigantum.net/sitemap-noticias-0004.xml</loc>
+    <lastmod>2026-09-25T18:50:36.217786Z</lastmod>
   </sitemap>
 </sitemapindex>
