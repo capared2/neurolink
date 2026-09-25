@@ -129,6 +129,7 @@ https://theverge.com/ai-artificial-intelligence/914463/openai-sora-bill-peebles-
 https://theverge.com/ai-artificial-intelligence/915660/mythos-script-kiddies-hackers-attack-cybersecurity-ai
 https://theverge.com/ai-artificial-intelligence/915662/john-ternus-apple-ceo-tim-cook-ai-problem-siri
 https://theverge.com/ai-artificial-intelligence/916972/even-the-fancy-lawyers-are-getting-pantsed-by-ai
+https://theverge.com/ai-artificial-intelligence/919648/anthropic-claude-creative-connectors-adobe-blender
 https://theverge.com/ai-artificial-intelligence/921546/elon-musk-xai-openai-trial-model-distillation
 https://theverge.com/ai-artificial-intelligence/924063/openai-phone-rumors-2027-ming-chi-kuo
 https://theverge.com/ai-artificial-intelligence/930522/ai-research-papers-slop-peer-review-problem
@@ -624,6 +625,7 @@ https://theverge.com/gadgets/999676/a-very-happy-vergemas-was-had-by-all
 https://theverge.com/games/1000039/remedy-is-patching-control-resonant-to-make-enemies-less-tanky
 https://theverge.com/games/1000088/nintendo-switch-piracy-reddit-mod-lawsuit
 https://theverge.com/games/1000111/400-dollar-gta-vi-goodtime-state-collectible-box
+https://theverge.com/games/1000578/get-ready-for-the-witcher-3-remaster
 https://theverge.com/games/684957/splitgate-2-hat-apology
 https://theverge.com/games/816118/valve-steam-frame-vr-headset-streaming-arm-steamos-hands-on
 https://theverge.com/games/819080/valve-brings-back-steam-machines-steam-os-steam-frame-news-announcements
@@ -791,6 +793,7 @@ https://theverge.com/microsoft/679753/microsoft-linkedin-chief-office-ai-reorg
 https://theverge.com/microsoft/964697/microsoft-might-have-more-plans-for-connecting-your-phone-and-windows
 https://theverge.com/mobile/650749/huawei-mate-xt-trifoldphotos
 https://theverge.com/news/1000374/microsoft-comms-pr-brad-smith-cela
+https://theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot
 https://theverge.com/news/609772/google-maps-gulf-of-america-rename-mexico
 https://theverge.com/news/610580/apple-maps-gulf-of-america
 https://theverge.com/news/618168/google-search-eu-dma-charge-violation
@@ -862,6 +865,7 @@ https://theverge.com/news/839927/meta-facebook-instagram-eu-ad-model-choice
 https://theverge.com/news/840308/spotify-music-videos-beta-us-canada
 https://theverge.com/news/841036/facebook-redesign-instagram-photos-feed-algorithm
 https://theverge.com/news/841219/google-gemini-us-military-ai-platform-genai-mil
+https://theverge.com/news/841369/chatgpt-apps-adobe-photoshop-acrobat-express
 https://theverge.com/news/845280/google-cc-morning-briefing-gemini-ai-agent
 https://theverge.com/news/845882/x-corp-operation-bluebird-twitter-lawsuit-trademark-infringement
 https://theverge.com/news/850328/comedian-trump-kennedy-center-domains
@@ -1174,11 +1178,17 @@ https://theverge.com/tech/1000085/inmo-air3-smart-glasses-recall-cpsc-free-softw
 https://theverge.com/tech/1000140/jensen-huang-nvidia-ai-energy-climate-change-supervillain
 https://theverge.com/tech/1000228/meta-wants-to-make-game-development-multiplayer
 https://theverge.com/tech/1000268/htx-studio-custom-desk-wireless-qi-charging
+https://theverge.com/tech/1000321/apple-intelligence-home-security-camera-amazon-ring-alexa-google-nest-gemini-home-review
 https://theverge.com/tech/1000328/google-gemini-ai-live-avatar-face
 https://theverge.com/tech/1000370/meta-instagram-attorney-client-privilege-hats
 https://theverge.com/tech/1000443/qualcomms-new-elite-sound-chip-might-finally-deliver-the-wi-fi-earbud-dream
 https://theverge.com/tech/1000465/i-tried-the-meta-vr-glasses-too-here-are-my-first-impressions
 https://theverge.com/tech/1000495/microsoft-is-killing-off-the-copilot-plus-pc-brand
+https://theverge.com/tech/1000558/zuck-wants-everyone-to-know-he-doesnt-need-everyone-to-know-hes-jacked
+https://theverge.com/tech/1000602/photoshop-and-lightroom-tools-are-now-in-gemini
+https://theverge.com/tech/1000614/ugreen-nexode-240w-usb-c-cable-480-mbps
+https://theverge.com/tech/1000667/crypto-hacks-keep-happening
+https://theverge.com/tech/1000678/heres-the-apple-music-hall-opening-lineup
 https://theverge.com/tech/24008239/sphere-las-vegas-experience-u2-screen
 https://theverge.com/tech/784323/upgrading-240hz-oled-gaming-monitor
 https://theverge.com/tech/795383/google-pixel-watch-4-review-android-smartwatch-gemini-wearable
@@ -1884,6 +1894,7 @@ https://theverge.com/tech/999328/switchbot-k11-plus-pro-robot-vacuum-upgrade-suc
 https://theverge.com/tech/999419/elgato-stream-deck-neo-update-infobar-customizable-spotify
 https://theverge.com/tech/999454/meta-muse-ai-agent-video-chat-connect-2026
 https://theverge.com/tech/999486/ifixit-valve-steam-frame-teardown-repairability
+https://theverge.com/tech/999489/insta360-smart-glasses-mirrorless-interview
 https://theverge.com/tech/999517/meta-vr-glasses-connect-2026-hands-on
 https://theverge.com/tech/999593/meta-connect-2026-everything-announced
 https://theverge.com/tech/999652/the-beats-360-are-essentially-true-wireless-earbuds-disguised-as-headphones
