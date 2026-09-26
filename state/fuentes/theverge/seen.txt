@@ -122,6 +122,7 @@ https://theverge.com/ai-artificial-intelligence/1000784/meta-muse-filesystem
 https://theverge.com/ai-artificial-intelligence/1000943/bill-gates-says-regulate-ai-because-its-powerful-enough-to-cause-a-billion-deaths
 https://theverge.com/ai-artificial-intelligence/1001032/openai-didnt-notice-its-ai-bots-trying-to-hack-the-education-departments-website
 https://theverge.com/ai-artificial-intelligence/1001047/big-tech-is-too-cowardly-to-run-ads-for-the-musk-documentary
+https://theverge.com/ai-artificial-intelligence/1001049/openai-training-pause
 https://theverge.com/ai-artificial-intelligence/648595/anthropic-claude-research-google-workplace
 https://theverge.com/ai-artificial-intelligence/679852/trump-ai-safety-institute-name-mission-change
 https://theverge.com/ai-artificial-intelligence/767973/vibe-coding-ai-future-end-evolution
@@ -365,6 +366,8 @@ https://theverge.com/entertainment/1000148/a-quick-look-at-a-long-movie
 https://theverge.com/entertainment/1000386/nicolas-cages-madden-movie-just-got-its-first-full-trailer
 https://theverge.com/entertainment/1000595/silent-hill-townfall-resident-evil
 https://theverge.com/entertainment/1000700/paranatural-photography
+https://theverge.com/entertainment/1001056/this-american-life-npr-kids-group-chat-comment-section
+https://theverge.com/entertainment/1001112/john-goodman-joins-the-cast-of-the-last-of-us
 https://theverge.com/entertainment/815745/pluribus-review-apple-tv
 https://theverge.com/entertainment/845459/disclosure-day-spielberg-trailer-release-date
 https://theverge.com/entertainment/877906/mewgenics-steam-sales-edmund-mcmillen-interview
@@ -1108,6 +1111,7 @@ https://theverge.com/policy/999189/pornhubs-age-checks-are-being-investigated-in
 https://theverge.com/policy/999412/data-center-water-electricity-disclosure-bills
 https://theverge.com/policy/999778/elizabeth-holmes-will-transfer-to-a-halfway-house
 https://theverge.com/report/1000180/muse-openclaw-instinct-lookalike
+https://theverge.com/report/1000994/decap-drums-that-knock-interview
 https://theverge.com/report/820656/valve-interview-arm-gaming-steamos-pierre-loup-griffais
 https://theverge.com/report/829265/hoto-fanttik-profile-origins-xiaomi-aukey-tiktok
 https://theverge.com/report/840822/australia-social-media-ban-under-16-response
@@ -1215,6 +1219,8 @@ https://theverge.com/tech/1000794/tesla-optimus-production-issues-hands
 https://theverge.com/tech/1000851/i-think-google-has-a-bit-of-an-seo-problem-with-googlebooks
 https://theverge.com/tech/1000973/the-dutch-government-might-make-the-leap-to-linux
 https://theverge.com/tech/1000976/white-house-app-store-rankings-news
+https://theverge.com/tech/1001065/look-at-all-of-the-silicon-valley-bigwigs-gathered-to-pay-fealty-to-trump-and-xi-jinping
+https://theverge.com/tech/1001098/the-drama-at-automattic-continues
 https://theverge.com/tech/24008239/sphere-las-vegas-experience-u2-screen
 https://theverge.com/tech/784323/upgrading-240hz-oled-gaming-monitor
 https://theverge.com/tech/795383/google-pixel-watch-4-review-android-smartwatch-gemini-wearable
