@@ -622,6 +622,9 @@ https://thehill.com/homenews/administration/6113324-trump-eliminates-biden-ev-ma
 https://thehill.com/homenews/administration/6113353-trump-denies-byron-donalds-endorsement-story
 https://thehill.com/homenews/administration/6113491-live-updates-trump-presidents-cup-chicago-iran
 https://thehill.com/homenews/administration/6113577-trump-accuses-outlets-fake-news
+https://thehill.com/homenews/administration/6113670-trump-rejects-iranian-ceasefire
+https://thehill.com/homenews/administration/6113681-blanche-defends-trump-media-ban
+https://thehill.com/homenews/administration/6113865-trump-praises-uk-arrests-raf-plot
 https://thehill.com/homenews/analysis/6040221-democrats-leftist-win-senate-race
 https://thehill.com/homenews/analysis/6042626-treasury-secretary-bessent-buyback
 https://thehill.com/homenews/analysis/6057609-gop-campaign-centered-trump
@@ -920,6 +923,8 @@ https://thehill.com/homenews/campaign/6112624-election-forecasters-dont-see-poll
 https://thehill.com/homenews/campaign/6113111-kehoe-missouri-map-blocked
 https://thehill.com/homenews/campaign/6113414-graham-andrews-south-carolina-poll-close
 https://thehill.com/homenews/campaign/6113603-talarico-leads-paxton-texas-senate
+https://thehill.com/homenews/campaign/6113673-cook-predicts-democratic-midterm-wins
+https://thehill.com/homenews/campaign/6113828-beshear-democrats-target-gop-governors
 https://thehill.com/homenews/campaign/data-nerds/6040929-democratic-socialist-angie-nixon-florida-upset-what-to-know-discussion
 https://thehill.com/homenews/campaign/data-nerds/6054870-democratic-party-senate-control-division-2026-midterms-discussion
 https://thehill.com/homenews/campaign/data-nerds/6068929-abdul-el-sayed-democratic-tensions-michigan-senate-race-discussion
@@ -1080,6 +1085,7 @@ https://thehill.com/homenews/house/6109291-bipartisan-support-newborn-tax-credit
 https://thehill.com/homenews/house/6110400-beyer-claims-illegal-activity-trump-arch
 https://thehill.com/homenews/house/6111370-massie-criticizes-trump-retribution-tour
 https://thehill.com/homenews/house/6112131-lawmakers-missed-ai-deadline
+https://thehill.com/homenews/house/6113638-jim-jordan-trump-impeachment-prediction
 https://thehill.com/homenews/lgbtq/6044688-log-cabin-republicans-transgender-support-ends
 https://thehill.com/homenews/media/6040779-alina-habba-press-secretary-karoline-leavitt
 https://thehill.com/homenews/media/6045875-scott-jennings-press-secretary-reports
@@ -1246,7 +1252,12 @@ https://thehill.com/homenews/senate/6111138-mike-lee-suggests-panda-express
 https://thehill.com/homenews/senate/6111974-senate-passes-aviation-mental-health-bills
 https://thehill.com/homenews/senate/6112039-jack-smith-senate-testimony
 https://thehill.com/homenews/senate/6112200-republicans-oppose-putin-g20-invitation
+https://thehill.com/homenews/senate/6112686-pastor-challenges-incumbent-roger-marshall
 https://thehill.com/homenews/senate/6113446-fetterman-gop-speculation-51st-democrat-midterms
+https://thehill.com/homenews/senate/6113679-mark-kelly-criticizes-trump-iran-war
+https://thehill.com/homenews/senate/6113713-tillis-blasts-trump-paxton-endorsement
+https://thehill.com/homenews/senate/6113733-tillis-criticizes-trump-jr-gift
+https://thehill.com/homenews/senate/6113763-gop-senator-opposes-living-building-names
 https://thehill.com/homenews/space/6054908-where-northern-lights-may-shine-amid-geomagnetic-storm-watches
 https://thehill.com/homenews/space/6057441-americans-skeptical-ufo-origins-gallup-poll
 https://thehill.com/homenews/space/6067876-nasa-jared-isaacman-outlines-moon-base
@@ -1638,6 +1649,7 @@ https://thehill.com/newsletters/this-week-on-the-hill/6058323-government-funding
 https://thehill.com/newsletters/this-week-on-the-hill/6072342-trump-pentagon-911-anniversary
 https://thehill.com/newsletters/this-week-on-the-hill/6086967-senate-budget-resolution-crypto-farm-bill
 https://thehill.com/newsletters/this-week-on-the-hill/6099111-senate-protect-college-sports-act-heidi-overton-fda
+https://thehill.com/newsletters/this-week-on-the-hill/6112478-senate-october-recess-last-week-bills
 https://thehill.com/newsletters/whole-hog-politics/6042216-peltola-leads-alaska-nonpartisan-primary
 https://thehill.com/newsletters/whole-hog-politics/6056105-trump-gop-midterm-strategy
 https://thehill.com/newsletters/whole-hog-politics/6070182-texas-triangle-midterm-outlook
@@ -1802,6 +1814,7 @@ https://thehill.com/opinion/energy-environment/6097199-combatting-climate-pessim
 https://thehill.com/opinion/energy-environment/6107050-house-revokes-california-pollution-waiver
 https://thehill.com/opinion/energy-environment/6110537-diesel-export-ban-risks-scarcity
 https://thehill.com/opinion/energy-environment/6111745-rescinding-roadless-conservation-rule
+https://thehill.com/opinion/energy-environment/6112764-china-nepal-flood-deaths
 https://thehill.com/opinion/finance/6039678-billionaire-wealth-wealth-inequality
 https://thehill.com/opinion/finance/6043925-female-earnings-separation-risk
 https://thehill.com/opinion/finance/6044493-housing-supply-unlock-tax-cuts
@@ -1861,12 +1874,14 @@ https://thehill.com/opinion/healthcare/6098188-congress-expand-health-spending-p
 https://thehill.com/opinion/healthcare/6104439-nonfatal-overdoses-reach-record-highs
 https://thehill.com/opinion/healthcare/6109266-private-equity-hospital-closures
 https://thehill.com/opinion/healthcare/6110960-lowering-healthcare-costs-middlemen
+https://thehill.com/opinion/healthcare/6111550-rfk-jr-autism-conspiracy-claims
 https://thehill.com/opinion/immigration/6039522-reducing-immigration-litigation-hostility
 https://thehill.com/opinion/immigration/6053193-mega-master-calendar-hearings-impact
 https://thehill.com/opinion/immigration/6058430-florida-mandatory-death-penalty
 https://thehill.com/opinion/immigration/6066746-ice-shock-gloves-purchase
 https://thehill.com/opinion/immigration/6079166-uscis-marriage-fraud-crackdown
 https://thehill.com/opinion/immigration/6082457-media-ideological-monoculture-crisis
+https://thehill.com/opinion/immigration/6112891-iranian-minorities-awaiting-visa-relief
 https://thehill.com/opinion/international/6036841-turkey-saudi-pakistan-military-pact
 https://thehill.com/opinion/international/6040259-trump-tripp-eurasian-peace-route
 https://thehill.com/opinion/international/6044866-vance-urges-ukraine-energy-strikes
@@ -2035,6 +2050,7 @@ https://thehill.com/opinion/technology/6105118-researchers-must-recalibrate-ai-p
 https://thehill.com/opinion/technology/6107306-unauthorized-electronics-secure-facilities
 https://thehill.com/opinion/technology/6109925-election-infrastructure-trust
 https://thehill.com/opinion/technology/6110968-altman-ai-regulation-monopoly
+https://thehill.com/opinion/technology/6112075-us-space-academy-site-bidding
 https://thehill.com/opinion/white-house/6036778-what-is-trump-afraid-we-will-see-about-how-the-tariffs-were-formulated
 https://thehill.com/opinion/white-house/6042186-trump-navy-war
 https://thehill.com/opinion/white-house/6042342-fda-food-safety-reform
@@ -2238,6 +2254,7 @@ https://thehill.com/policy/energy-environment/6088321-trump-russia-ukraine-gas-p
 https://thehill.com/policy/energy-environment/6088763-oil-prices-jump-houthi-attacks
 https://thehill.com/policy/energy-environment/6088870-trump-epa-climate-change-coal-gas-power-plants
 https://thehill.com/policy/energy-environment/6088997-costco-nearly-doubles-cost-of-motor-oil-limits-purchases
+https://thehill.com/policy/energy-environment/6090862-permanent-daylight-saving-time-how-would-your-state-be-impacted
 https://thehill.com/policy/energy-environment/6094068-epa-methylene-chloride-mc
 https://thehill.com/policy/energy-environment/6094229-tharold-hamms-continental-venezuela-oil
 https://thehill.com/policy/energy-environment/6094781-greene-blames-trump-gas-prices
@@ -2618,6 +2635,7 @@ https://thehill.com/policy/technology/6104694-ai-reshaping-voter-information
 https://thehill.com/policy/technology/6106883-senate-democrats-ai-chip-bills
 https://thehill.com/policy/technology/6107156-trump-renames-ai-super-intelligence
 https://thehill.com/policy/technology/6107305-senate-ai-surveillance-hearing-flock
+https://thehill.com/policy/technology/6107508-cloud-pics-wanted-nasa-renews-call-for-peoples-photos-of-the-sky
 https://thehill.com/policy/technology/6108568-australia-albert-albanese-openai-agent-hack
 https://thehill.com/policy/technology/6108574-trump-xi-ai-talks
 https://thehill.com/policy/technology/6108766-flock-safety-alpr-policy-changes
