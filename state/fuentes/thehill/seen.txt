@@ -612,6 +612,7 @@ https://thehill.com/homenews/administration/6111967-trump-criticizes-obama-china
 https://thehill.com/homenews/administration/6111993-trump-xi-upcoming-meetings-apec-g20
 https://thehill.com/homenews/administration/6112342-trump-xi-summit-takeaways
 https://thehill.com/homenews/administration/6112568-white-house-defends-trump-ads-midterms
+https://thehill.com/homenews/administration/6112681-trump-xi-visit-media-clash
 https://thehill.com/homenews/administration/6112712-trump-approval-ratings-midterm-elections
 https://thehill.com/homenews/administration/6112779-trump-cancels-billion-federal-funding
 https://thehill.com/homenews/administration/6112947-donald-trump-xi-jinping-tariffs
@@ -619,6 +620,8 @@ https://thehill.com/homenews/administration/6113000-trump-iran-proposal-ceasefir
 https://thehill.com/homenews/administration/6113290-kennedy-center-whistleblower-letter-repairs
 https://thehill.com/homenews/administration/6113324-trump-eliminates-biden-ev-mandate
 https://thehill.com/homenews/administration/6113353-trump-denies-byron-donalds-endorsement-story
+https://thehill.com/homenews/administration/6113491-live-updates-trump-presidents-cup-chicago-iran
+https://thehill.com/homenews/administration/6113577-trump-accuses-outlets-fake-news
 https://thehill.com/homenews/analysis/6040221-democrats-leftist-win-senate-race
 https://thehill.com/homenews/analysis/6042626-treasury-secretary-bessent-buyback
 https://thehill.com/homenews/analysis/6057609-gop-campaign-centered-trump
@@ -912,9 +915,11 @@ https://thehill.com/homenews/campaign/6110022-former-primary-challenger-backs-ma
 https://thehill.com/homenews/campaign/6110148-younger-voters-negative-capitalism
 https://thehill.com/homenews/campaign/6110597-texas-voter-registration-application-backlog
 https://thehill.com/homenews/campaign/6111164-donald-trump-midterms-campaign-trail-oklahoma-alabama
+https://thehill.com/homenews/campaign/6111968-ossoff-jewish-glass-ceiling
 https://thehill.com/homenews/campaign/6112624-election-forecasters-dont-see-polling-sugar-high-democrats-fear-for-now
 https://thehill.com/homenews/campaign/6113111-kehoe-missouri-map-blocked
 https://thehill.com/homenews/campaign/6113414-graham-andrews-south-carolina-poll-close
+https://thehill.com/homenews/campaign/6113603-talarico-leads-paxton-texas-senate
 https://thehill.com/homenews/campaign/data-nerds/6040929-democratic-socialist-angie-nixon-florida-upset-what-to-know-discussion
 https://thehill.com/homenews/campaign/data-nerds/6054870-democratic-party-senate-control-division-2026-midterms-discussion
 https://thehill.com/homenews/campaign/data-nerds/6068929-abdul-el-sayed-democratic-tensions-michigan-senate-race-discussion
@@ -1826,6 +1831,7 @@ https://thehill.com/opinion/finance/6095830-fed-interest-rate-hike
 https://thehill.com/opinion/finance/6099509-us-debt-vat-solution
 https://thehill.com/opinion/finance/6104927-billionaire-philanthropy-vs-taxation
 https://thehill.com/opinion/finance/6110940-small-business-cipa-lawsuits
+https://thehill.com/opinion/finance/6111892-national-debt-impact-economy
 https://thehill.com/opinion/finance/6112015-us-split-digital-physical-economies
 https://thehill.com/opinion/healthcare/6040418-fda-regulatory-delay-regenative-labs
 https://thehill.com/opinion/healthcare/6042789-states-fight-hemp-loophole
@@ -2069,6 +2075,7 @@ https://thehill.com/opinion/white-house/6102157-jimmy-lai-hong-kong-prison
 https://thehill.com/opinion/white-house/6103009-the-kennedy-center-fix-it-dont-tear-it-down
 https://thehill.com/opinion/white-house/6103023-trump-voter-data-accuracy
 https://thehill.com/opinion/white-house/6103602-media-outlets-sue-trump-administration
+https://thehill.com/opinion/white-house/6112000-trump-white-house-press-ban
 https://thehill.com/policy/6075420-vance-defends-tucker-carlson-friendship
 https://thehill.com/policy/6088373-snap-benefits-are-changing-in-october-what-to-know
 https://thehill.com/policy/cybersecurity/6069692-fbi-leaked-drivers-licenses-dark-web
@@ -2247,9 +2254,11 @@ https://thehill.com/policy/energy-environment/6102672-diesel-prices-states-oil-g
 https://thehill.com/policy/energy-environment/6104284-super-strong-el-nino-could-lead-to-450k-deaths-map-shows-the-states-hit-hardest
 https://thehill.com/policy/energy-environment/6104783-president-donald-trump-diesel-export-ban-gas-prices-unga
 https://thehill.com/policy/energy-environment/6107064-white-house-diesel-export-ban
+https://thehill.com/policy/energy-environment/6107352-100-to-99-chance-el-nino-lasts-6-months-what-does-that-mean-for-you
 https://thehill.com/policy/energy-environment/6107616-business-groups-urge-trump-diesel-ban
 https://thehill.com/policy/energy-environment/6107629-diesel-export-ban-gas-prices-oil-refineries
 https://thehill.com/policy/energy-environment/6110095-whitehouse-sees-permitting-reform-progress
+https://thehill.com/policy/energy-environment/6113144-severe-weather-impacting-east-coast-hawaii-this-weekend
 https://thehill.com/policy/healthcare/6036144-cases-of-scromiting-condition-tied-to-cannabis-use-spike-among-teens-young-adults-new-study
 https://thehill.com/policy/healthcare/6041007-blueberry-recall-fda-publix
 https://thehill.com/policy/healthcare/6041051-cdc-salmonella-jalapeno-outbreak
@@ -2459,6 +2468,7 @@ https://thehill.com/policy/international/6110376-pezeshkian-disputes-trump-midte
 https://thehill.com/policy/international/6110716-masoud-pezeshkian-claims-khamenei-healthy
 https://thehill.com/policy/international/6110895-pezeshkian-us-conflict-iran
 https://thehill.com/policy/international/6111886-huckabee-explains-anti-israel-sentiment
+https://thehill.com/policy/international/6112252-russia-escalates-nato-hybrid-warfare
 https://thehill.com/policy/international/6112561-iran-us-seven-day-peace-plan
 https://thehill.com/policy/national-security/6049802-cia-director-ratcliffe-moscow-visit
 https://thehill.com/policy/national-security/6056134-senators-oppose-ice-shocking-gloves
@@ -2759,6 +2769,7 @@ https://thehill.com/regulation/court-battles/6110459-trump-deportation-third-cou
 https://thehill.com/regulation/court-battles/6110805-justice-jackson-critiques-scotus-emergency-docket
 https://thehill.com/regulation/court-battles/6111517-scotus-lifts-block-save-overhaul
 https://thehill.com/regulation/court-battles/6112248-norm-eisen-supreme-court-immigration-database
+https://thehill.com/regulation/court-battles/6112423-supreme-court-explaining-emergency-decisions
 https://thehill.com/regulation/court-battles/6112509-trump-national-security-media-ban
 https://thehill.com/regulation/court-battles/6112550-mo-congressional-redistricting-battle
 https://thehill.com/regulation/court-battles/6112693-tiktok-alabama-lawsuit-settlement
