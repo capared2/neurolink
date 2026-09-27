@@ -625,6 +625,7 @@ https://thehill.com/homenews/administration/6113577-trump-accuses-outlets-fake-n
 https://thehill.com/homenews/administration/6113670-trump-rejects-iranian-ceasefire
 https://thehill.com/homenews/administration/6113681-blanche-defends-trump-media-ban
 https://thehill.com/homenews/administration/6113865-trump-praises-uk-arrests-raf-plot
+https://thehill.com/homenews/administration/6113998-trump-criticizes-supreme-court-missouri-map
 https://thehill.com/homenews/analysis/6040221-democrats-leftist-win-senate-race
 https://thehill.com/homenews/analysis/6042626-treasury-secretary-bessent-buyback
 https://thehill.com/homenews/analysis/6057609-gop-campaign-centered-trump
@@ -925,6 +926,7 @@ https://thehill.com/homenews/campaign/6113414-graham-andrews-south-carolina-poll
 https://thehill.com/homenews/campaign/6113603-talarico-leads-paxton-texas-senate
 https://thehill.com/homenews/campaign/6113673-cook-predicts-democratic-midterm-wins
 https://thehill.com/homenews/campaign/6113828-beshear-democrats-target-gop-governors
+https://thehill.com/homenews/campaign/6114094-manchin-slams-paxton-character
 https://thehill.com/homenews/campaign/data-nerds/6040929-democratic-socialist-angie-nixon-florida-upset-what-to-know-discussion
 https://thehill.com/homenews/campaign/data-nerds/6054870-democratic-party-senate-control-division-2026-midterms-discussion
 https://thehill.com/homenews/campaign/data-nerds/6068929-abdul-el-sayed-democratic-tensions-michigan-senate-race-discussion
@@ -1085,7 +1087,11 @@ https://thehill.com/homenews/house/6109291-bipartisan-support-newborn-tax-credit
 https://thehill.com/homenews/house/6110400-beyer-claims-illegal-activity-trump-arch
 https://thehill.com/homenews/house/6111370-massie-criticizes-trump-retribution-tour
 https://thehill.com/homenews/house/6112131-lawmakers-missed-ai-deadline
+https://thehill.com/homenews/house/6112471-democrats-to-confront-netanyahu-israel-west-bank
 https://thehill.com/homenews/house/6113638-jim-jordan-trump-impeachment-prediction
+https://thehill.com/homenews/house/6113743-khanna-trump-third-impeachment
+https://thehill.com/homenews/house/6113992-crawford-diesel-prices-iran-war
+https://thehill.com/homenews/house/6114136-uk-arrests-raf-fairford-terrorists
 https://thehill.com/homenews/lgbtq/6044688-log-cabin-republicans-transgender-support-ends
 https://thehill.com/homenews/media/6040779-alina-habba-press-secretary-karoline-leavitt
 https://thehill.com/homenews/media/6045875-scott-jennings-press-secretary-reports
@@ -2487,6 +2493,7 @@ https://thehill.com/policy/international/6110895-pezeshkian-us-conflict-iran
 https://thehill.com/policy/international/6111886-huckabee-explains-anti-israel-sentiment
 https://thehill.com/policy/international/6112252-russia-escalates-nato-hybrid-warfare
 https://thehill.com/policy/international/6112561-iran-us-seven-day-peace-plan
+https://thehill.com/policy/international/6113728-araghchi-warns-trump-aggression
 https://thehill.com/policy/national-security/6049802-cia-director-ratcliffe-moscow-visit
 https://thehill.com/policy/national-security/6056134-senators-oppose-ice-shocking-gloves
 https://thehill.com/policy/national-security/6059574-homan-ice-bus-stop-arrests
@@ -2646,6 +2653,9 @@ https://thehill.com/policy/technology/6111414-dc-circuit-upholds-anthropic-black
 https://thehill.com/policy/technology/6111941-donald-trump-scott-bessent-artificial-intelligence-czar
 https://thehill.com/policy/technology/6112365-6th-circuit-rules-against-kalshi
 https://thehill.com/policy/technology/6113061-openai-access-government-websites
+https://thehill.com/policy/technology/6113698-bill-gates-ai-nuclear-comparison
+https://thehill.com/policy/technology/6113895-waiting-at-a-red-light-it-may-not-know-youre-there
+https://thehill.com/policy/technology/6114077-trump-anthropic-ceo-meeting
 https://thehill.com/policy/transportation/6050209-tsa-phases-out-gold-program
 https://thehill.com/policy/transportation/6050669-uber-new-family-features-teen-accounts-stream-safety
 https://thehill.com/policy/transportation/6059553-google-maps-renames-lake-america
