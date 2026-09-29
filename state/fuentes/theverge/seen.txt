@@ -37,6 +37,7 @@ https://theverge.com/2020/9/18/21445168/tesla-driver-sleeping-police-charged-can
 https://theverge.com/2021/1/12/22227508/weber-june-acquired-smart-oven-grilling-tech
 https://theverge.com/2021/1/14/22227621/samsung-galaxy-smarttag-price-release-date-tile-locator
 https://theverge.com/2021/4/9/22375366/facebook-ad-gender-bias-delivery-algorithm-discrimination
+https://theverge.com/2021/5/1/22413196/valve-steam-lawsuit-wolfire-games-humble-bundle-app-store-cut-epic-apple
 https://theverge.com/2021/6/13/22532185/xbox-series-x-mini-fridge-available-holiday-2021
 https://theverge.com/2021/7/7/22566634/moderna-mrna-flu-vaccine-trial
 https://theverge.com/2021/9/14/22673497/tesla-nhtsa-autopilot-investigation-data-ford-gm-vw-toyota
@@ -103,6 +104,7 @@ https://theverge.com/2024/8/6/24205146/quibi-history-ebooks-future-vergecast
 https://theverge.com/2024/9/17/24247129/kitchenaids-new-walnut-stand-mixer-is-indeed-as-impractical-as-it-is-beautiful
 https://theverge.com/2024/9/24/24250252/the-rodecaster-video-could-help-podcasters-become-broadcasters
 https://theverge.com/2024/9/24/24252933/logitech-mx-creative-console-release-date-pricing
+https://theverge.com/2024/9/27/24255841/steam-forced-arbitration-policy-lawsuit
 https://theverge.com/2024/9/4/24235213/x-brazil-suppression-speech-elon-musk-india-turkey
 https://theverge.com/2024/9/5/24236307/philips-hue-play-sync-box-8k-upgrade-price-release-date
 https://theverge.com/2024/9/5/24236438/govee-matter-smart-light-strips-stringlights-star-light-projector-ai-sync-box-kit-2
@@ -135,6 +137,8 @@ https://theverge.com/ai-artificial-intelligence/1001527/chatgpt-florida-ban-firs
 https://theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent
 https://theverge.com/ai-artificial-intelligence/1001591/anthropic-is-launching-claude-sonnet-5-5
 https://theverge.com/ai-artificial-intelligence/1001692/openai-reportedly-offered-to-invest-100-million-in-hugging-face-after-its-agents-hacked-the-platform
+https://theverge.com/ai-artificial-intelligence/1001755/pope-leo-ai-fake-news
+https://theverge.com/ai-artificial-intelligence/1001760/mozilla-targets-tech-ceos-in-nyc-ad-campaign
 https://theverge.com/ai-artificial-intelligence/648595/anthropic-claude-research-google-workplace
 https://theverge.com/ai-artificial-intelligence/679852/trump-ai-safety-institute-name-mission-change
 https://theverge.com/ai-artificial-intelligence/767973/vibe-coding-ai-future-end-evolution
@@ -662,6 +666,8 @@ https://theverge.com/games/1000818/control-resonant-reading-collectibles-documen
 https://theverge.com/games/1001002/pokemon-30th-celebration-scalping-resellers
 https://theverge.com/games/1001179/the-sift-is-coming-to-minecraft-in-2027
 https://theverge.com/games/1001206/out-of-the-park-baseball-cozy-sim-video-game-review
+https://theverge.com/games/1001737/lego-racers-remake-step-on-it-decompliation
+https://theverge.com/games/1001754/valve-corporation-v-users-of-valves-video-game-platform-steam-is-a-real-court-case
 https://theverge.com/games/684957/splitgate-2-hat-apology
 https://theverge.com/games/816118/valve-steam-frame-vr-headset-streaming-arm-steamos-hands-on
 https://theverge.com/games/819080/valve-brings-back-steam-machines-steam-os-steam-frame-news-announcements
@@ -920,6 +926,7 @@ https://theverge.com/news/909640/microsoft-removing-copilot-windows-11-buttons
 https://theverge.com/news/918001/github-major-outage-commits
 https://theverge.com/news/921112/microsoft-auto-sr-xbox-ally-x-preview
 https://theverge.com/news/931884/youtube-likeness-detection-ai-deepfake-expansion-all-adults
+https://theverge.com/news/936945/pope-leo-letter-encyclical-ai-anthropic-labor-warfare
 https://theverge.com/news/941830/microsoft-project-solara-os-ai-agent-gadgets
 https://theverge.com/news/945359/microsoft-xbox-25th-anniversary-console-controller-release-date
 https://theverge.com/news/961528/microsoft-layoffs-july-2026-sales-xbox
@@ -1269,6 +1276,9 @@ https://theverge.com/tech/1001492/walmart-dynamic-pricing-digital-shelf-labels
 https://theverge.com/tech/1001522/bose-headphones-get-auracast-support
 https://theverge.com/tech/1001592/ios-27-0-1-is-out-now-with-a-fix-for-unexpected-iphone-18-pro-restarts
 https://theverge.com/tech/1001599/google-gives-its-arts-culture-app-a-redesign
+https://theverge.com/tech/1001731/they-probably-wanted-to-steal-gpus-instead-they-got-40000-pounds-of-sand
+https://theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal
+https://theverge.com/tech/1001797/nothings-headphone-1-pro-review
 https://theverge.com/tech/24008239/sphere-las-vegas-experience-u2-screen
 https://theverge.com/tech/784323/upgrading-240hz-oled-gaming-monitor
 https://theverge.com/tech/795383/google-pixel-watch-4-review-android-smartwatch-gemini-wearable

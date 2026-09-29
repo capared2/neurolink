@@ -103,10 +103,12 @@ https://aljazeera.com/economy/2026/9/27/can-iran-shift-trade-north-to-caspian-se
 https://aljazeera.com/economy/2026/9/27/strait-of-hormuz-tensions-linger-as-iran-and-us-move-further-from-a-deal
 https://aljazeera.com/economy/2026/9/28/anthropic-ceo-amodei-to-have-dinner-with-trump-at-white-house
 https://aljazeera.com/economy/2026/9/28/apple-ordered-to-pay-5-7bn-in-patent-infringement-case
+https://aljazeera.com/economy/2026/9/28/gold-falls-amid-rising-oil-prices-and-higher-us-dollar
 https://aljazeera.com/economy/2026/9/28/iraq-looks-for-oil-export-alternatives-to-the-troubled-strait-of-hormuz
 https://aljazeera.com/economy/2026/9/28/oil-prices-surge-after-trump-rejects-irans-plan-to-reopen-strait-of-hormuz
 https://aljazeera.com/economy/2026/9/28/trump-announces-15bn-steel-mill-project-in-iowa-before-us-midterms
 https://aljazeera.com/economy/2026/9/28/us-china-list-goods-recommended-for-tariff-cuts-following-trump-xi-summit
+https://aljazeera.com/economy/2026/9/29/openai-scraps-release-of-latest-ai-model-over-safety-concerns
 https://aljazeera.com/economy/2026/9/3/asia-looks-to-store-oil-gas-closer-to-home-after-strait-of-hormuz-crisis
 https://aljazeera.com/economy/2026/9/3/canada-ready-for-a-trade-deal-with-us-that-benefits-both-carney-says
 https://aljazeera.com/economy/2026/9/3/chinas-support-for-iran-shows-its-limits-as-us-ramps-up-pressure-on-tehran
@@ -1425,6 +1427,7 @@ https://aljazeera.com/news/2026/9/27/venezuela-frees-39-political-prisoners-afte
 https://aljazeera.com/news/2026/9/27/yemen-government-forces-widen-attacks-against-houthis-what-we-know
 https://aljazeera.com/news/2026/9/27/yemens-health-system-could-collapse-in-some-areas-minister-warns
 https://aljazeera.com/news/2026/9/28/american-and-six-ukrainians-released-by-india-after-six-months-in-jail
+https://aljazeera.com/news/2026/9/28/anti-south-asian-hate-speech-has-exploded-online-in-us-new-report-finds
 https://aljazeera.com/news/2026/9/28/ben-gvir-joins-hundreds-of-israelis-to-storm-al-aqsa-mosque-compound
 https://aljazeera.com/news/2026/9/28/cattle-to-feed-why-a-global-meat-crisis-is-looming
 https://aljazeera.com/news/2026/9/28/child-among-three-killed-off-french-coast-in-channel-crossing-attempt
@@ -1433,6 +1436,7 @@ https://aljazeera.com/news/2026/9/28/ethiopia-accuses-sudan-egypt-of-backing-tig
 https://aljazeera.com/news/2026/9/28/flights-between-iraqs-najaf-and-iran-resumed-as-tehran-protests-us-curbs
 https://aljazeera.com/news/2026/9/28/florida-authorities-ask-court-to-block-openais-chatgpt-over-safety-issues
 https://aljazeera.com/news/2026/9/28/frances-far-right-national-rally-gains-ground-in-senate-vote
+https://aljazeera.com/news/2026/9/28/french-far-right-leader-bardella-refutes-anti-semitism-allegations
 https://aljazeera.com/news/2026/9/28/indian-university-suspends-classes-amid-violent-protests-over-alleged-rape
 https://aljazeera.com/news/2026/9/28/iran-denies-link-to-attack-on-airbase-as-uk-minister-warns-of-proxies
 https://aljazeera.com/news/2026/9/28/iran-touts-hormuz-attacks-as-oil-flows-increase-despite-tensions
@@ -1457,6 +1461,8 @@ https://aljazeera.com/news/2026/9/28/uk-pledges-tougher-stance-on-israeli-action
 https://aljazeera.com/news/2026/9/28/un-commemoration-of-durban-declaration-whats-on-agenda-who-will-attend
 https://aljazeera.com/news/2026/9/28/venezuelans-rally-for-opposition-leaders-return-and-presidential-elections
 https://aljazeera.com/news/2026/9/28/why-south-korea-is-demanding-an-apology-from-ukraine-over-north-korean-pows
+https://aljazeera.com/news/2026/9/29/africas-space-ambitions-are-moving-from-policy-to-practice
+https://aljazeera.com/news/2026/9/29/hungary-lifts-immunity-of-prime-minister-magyar-two-orban-era-ministers
 https://aljazeera.com/news/2026/9/3/20-million-children-a-year-face-online-sexual-abuse-unicef-says
 https://aljazeera.com/news/2026/9/3/advocates-decry-us-house-vote-to-defund-universities-that-boycott-israel
 https://aljazeera.com/news/2026/9/3/billionaire-leon-black-sues-us-congressional-panel-over-epstein-subpoena
@@ -2223,6 +2229,7 @@ https://aljazeera.com/sports/2026/9/28/athletes-criticise-organisational-logisti
 https://aljazeera.com/sports/2026/9/28/azeez-al-shaair-honours-slain-palestinian-sisters-despite-nfl-sanctions
 https://aljazeera.com/sports/2026/9/28/belgium-france-uefa-nations-league-mbappe-injury-olise-de-bruyne
 https://aljazeera.com/sports/2026/9/28/israeli-fans-monkey-chants-ireland-adam-idah-uefa-nations-league
+https://aljazeera.com/sports/2026/9/28/olise-scores-late-to-grab-france-1-0-nations-league-win-at-belgium
 https://aljazeera.com/sports/2026/9/28/spain-croatia-uefa-nations-league-yamal-modric-teams-form
 https://aljazeera.com/sports/2026/9/28/sri-lankas-rumesh-pathirage-wins-asian-games-javelin-gold
 https://aljazeera.com/sports/2026/9/28/virat-kohli-passes-15000-odi-runs-as-india-beat-west-indies
