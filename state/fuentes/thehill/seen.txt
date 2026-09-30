@@ -187,6 +187,7 @@ https://thehill.com/business/6112042-33-new-costco-locations-announced-heres-wha
 https://thehill.com/business/6112272-us-consumer-sentiment-drops-inflation-gas
 https://thehill.com/business/6115963-cook-warns-ai-price-pressures
 https://thehill.com/business/6118506-consumer-confidence-reaches-dozen-year-low
+https://thehill.com/business/6119380-us-china-tariff-cuts
 https://thehill.com/business/agriculture/6052290-ranchers-protest-foreign-imported-beef
 https://thehill.com/business/budget/6118661-gao-trump-rescission-unlawful
 https://thehill.com/business/economy/6043886-one-seemingly-ordinary-job-has-gotten-much-more-deadly-over-the-past-10-years-federal-data-shows
@@ -258,6 +259,7 @@ https://thehill.com/homenews/6112657-rfk-jr-vaccine-lawsuit-ethics-newsletter
 https://thehill.com/homenews/6112836-live-updates-trump-college-football-gop
 https://thehill.com/homenews/6115677-blood-pressure-medication-recalled-nationwide-under-fdas-class-ii-risk-level
 https://thehill.com/homenews/6119054-cotton-presses-hegseth-to-review-supply-chains-after-f-35-parts-ended-up-in-china
+https://thehill.com/homenews/6119349-eric-cantor-phrma-president-newsletter
 https://thehill.com/homenews/administration/6040220-live-updates-donald-trump-iran-war-economy-midterms
 https://thehill.com/homenews/administration/6040588-donald-trump-white-house-helipad-ballroom-construction
 https://thehill.com/homenews/administration/6040729-donald-trump-legislative-director-leaving
@@ -683,6 +685,7 @@ https://thehill.com/homenews/administration/6118592-venezuelan-national-charged-
 https://thehill.com/homenews/administration/6118906-tech-ceos-sign-white-house-ai-accord
 https://thehill.com/homenews/administration/6119087-trump-launches-ai-america-gov
 https://thehill.com/homenews/administration/6119096-trump-republicans-ai-data-centers
+https://thehill.com/homenews/administration/6119209-treasury-auto-enrolls-trump-accounts
 https://thehill.com/homenews/analysis/6040221-democrats-leftist-win-senate-race
 https://thehill.com/homenews/analysis/6042626-treasury-secretary-bessent-buyback
 https://thehill.com/homenews/analysis/6057609-gop-campaign-centered-trump
@@ -991,6 +994,7 @@ https://thehill.com/homenews/campaign/6115256-trump-midterms-barbara-comstock
 https://thehill.com/homenews/campaign/6115282-republican-peanut-commission-chair-backs-ossoff
 https://thehill.com/homenews/campaign/6115967-talarico-leads-paxton-texas-senate
 https://thehill.com/homenews/campaign/6115986-iowa-steel-plant-republicans-trump
+https://thehill.com/homenews/campaign/6119443-marshall-cease-desist-hamilton-ad
 https://thehill.com/homenews/campaign/data-nerds/6040929-democratic-socialist-angie-nixon-florida-upset-what-to-know-discussion
 https://thehill.com/homenews/campaign/data-nerds/6054870-democratic-party-senate-control-division-2026-midterms-discussion
 https://thehill.com/homenews/campaign/data-nerds/6068929-abdul-el-sayed-democratic-tensions-michigan-senate-race-discussion
@@ -1359,6 +1363,7 @@ https://thehill.com/homenews/senate/6117627-lee-blocks-kennedy-center-protection
 https://thehill.com/homenews/senate/6117781-eric-schmitt-jack-smith-hawks-hawkeyes-fani-willis
 https://thehill.com/homenews/senate/6118654-klobuchar-on-schmitt-glad-one-of-us-knows-difference-between-hawks-hawkeyes
 https://thehill.com/homenews/senate/6118659-jack-smith-trump-probe-senate-hearing-takeaways
+https://thehill.com/homenews/senate/6119354-senate-blocks-west-bank-resolution
 https://thehill.com/homenews/space/6054908-where-northern-lights-may-shine-amid-geomagnetic-storm-watches
 https://thehill.com/homenews/space/6057441-americans-skeptical-ufo-origins-gallup-poll
 https://thehill.com/homenews/space/6067876-nasa-jared-isaacman-outlines-moon-base
@@ -2443,6 +2448,7 @@ https://thehill.com/policy/energy-environment/6116167-arizona-national-park-visi
 https://thehill.com/policy/energy-environment/6117779-schumer-gop-ai-data-center-bill
 https://thehill.com/policy/energy-environment/6118358-noreaster-shipwreck-warren-sawyer
 https://thehill.com/policy/energy-environment/6118862-jon-husted-ai-data-centers-ratepayer-protection-act
+https://thehill.com/policy/energy-environment/6119251-epa-reconsiders-texas-air-regulations
 https://thehill.com/policy/healthcare/6036144-cases-of-scromiting-condition-tied-to-cannabis-use-spike-among-teens-young-adults-new-study
 https://thehill.com/policy/healthcare/6041007-blueberry-recall-fda-publix
 https://thehill.com/policy/healthcare/6041051-cdc-salmonella-jalapeno-outbreak
@@ -2546,6 +2552,7 @@ https://thehill.com/policy/healthcare/6114202-novo-nordisk-cagrisema-zepbound-co
 https://thehill.com/policy/healthcare/6115908-democrats-attack-collins-medicaid-cuts
 https://thehill.com/policy/healthcare/6118137-cdc-updates-measles-death-tally
 https://thehill.com/policy/healthcare/6118339-senators-question-vfc-delay
+https://thehill.com/policy/healthcare/6119302-maha-summit-corporate-takeaways
 https://thehill.com/policy/international/6040680-iran-minister-slams-trump-economic-dday
 https://thehill.com/policy/international/6042225-rubio-cuba-sanctions
 https://thehill.com/policy/international/6043090-iran-reaction-us-sanctions-trump-administration-war
@@ -2994,6 +3001,8 @@ https://thehill.com/regulation/court-battles/6115332-supreme-court-transgender-i
 https://thehill.com/regulation/court-battles/6115797-alito-recuses-climate-change-lawsuits-suncor-v-boulder
 https://thehill.com/regulation/court-battles/6118645-supreme-court-trump-third-country-deportation-emergency-ruling
 https://thehill.com/regulation/court-battles/6119030-supreme-court-tennessee-execution-christa-pike
+https://thehill.com/regulation/court-battles/6119135-judge-blocks-nyc-pied-a-terre-tax
+https://thehill.com/regulation/court-battles/6119432-nyc-mayor-appeals-pied-a-terre-tax
 https://thehill.com/the-hill-notable-staffers-2026/6063654-raphael-schreiber-legislative-director-thomas-massie
 https://thehill.com/the-hill-notable-staffers-2026/6064525-rubi-flores-policy-director-congressional-hispanic-caucus
 https://thehill.com/the-hill-notable-staffers-2026/6067510-omar-hossino-chief-counsel-national-security-adviser-house-republican-policy-committee
