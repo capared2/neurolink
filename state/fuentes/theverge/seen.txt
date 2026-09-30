@@ -153,6 +153,7 @@ https://theverge.com/ai-artificial-intelligence/1002238/openai-google-anthropic-
 https://theverge.com/ai-artificial-intelligence/1002344/is-ai-pricing-your-big-mac
 https://theverge.com/ai-artificial-intelligence/1002390/openai-execs-reportedly-brushed-off-warnings-about-ai-hacking-risks
 https://theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety
+https://theverge.com/ai-artificial-intelligence/1002584/trump-us-ai-safety-deal-self-regulation-tech-execs
 https://theverge.com/ai-artificial-intelligence/648595/anthropic-claude-research-google-workplace
 https://theverge.com/ai-artificial-intelligence/679852/trump-ai-safety-institute-name-mission-change
 https://theverge.com/ai-artificial-intelligence/767973/vibe-coding-ai-future-end-evolution
@@ -545,6 +546,7 @@ https://theverge.com/gadgets/1000122/cyberpowerpc-gaming-prebuilt-rtx-5070-core-
 https://theverge.com/gadgets/1000859/roku-pro-series-oled-nothing-phone-4a-pro-deal-sale
 https://theverge.com/gadgets/1001235/lenovos-googlebook-is-150-cheaper-than-we-thought
 https://theverge.com/gadgets/1001313/dreame-x50-ultra-robot-vacuum-mop-asus-rog-ally-deal-sale
+https://theverge.com/gadgets/1001432/logitechs-new-headphones-can-get-you-into-the-zone-and-or-vibe
 https://theverge.com/gadgets/1001829/oura-is-delaying-its-ipo
 https://theverge.com/gadgets/1001832/google-is-appealing-an-eu-order-to-open-up-search-and-android
 https://theverge.com/gadgets/1002087/razer-deathstalker-v2-pro-tkl-witcher-3-remastered-deal-sale
@@ -870,6 +872,7 @@ https://theverge.com/news/1001610/trump-weakens-fuel-efficiency-standards
 https://theverge.com/news/1001819/the-struggle-to-make-things-in-america
 https://theverge.com/news/1002099/xbox-mythic-achievement-announcement-feature
 https://theverge.com/news/1002294/microsoft-windows-11-26h2-update-download-install
+https://theverge.com/news/1002563/apple-smart-home-hub-homepad-rumor-launch-date
 https://theverge.com/news/609772/google-maps-gulf-of-america-rename-mexico
 https://theverge.com/news/610580/apple-maps-gulf-of-america
 https://theverge.com/news/618168/google-search-eu-dma-charge-violation
@@ -1336,9 +1339,12 @@ https://theverge.com/tech/1002107/apple-ceo-john-ternus-product-launch-strategy
 https://theverge.com/tech/1002191/apple-creator-studio-final-cut-camera-update-iphone-18-pro-variable-aperture
 https://theverge.com/tech/1002257/color-matters
 https://theverge.com/tech/1002264/arlo-essential-solar-panel-security-camera-battery
+https://theverge.com/tech/1002355/tp-link-wi-fi-8-wireless-router-archer-tri-band-preorder
 https://theverge.com/tech/1002367/amazon-vehicles-in-nyc-got-over-14000-traffic-and-parking-citations-from-2020-to-2025
 https://theverge.com/tech/1002410/shinyhunters-hacking-suspect-arrested
 https://theverge.com/tech/1002448/elon-musk-grokipedia-ai-updating-again
+https://theverge.com/tech/1002533/samsung-galaxy-tab-s12-plus-ultra-android-tablets-specs-price
+https://theverge.com/tech/1002552/samsung-galaxy-smarttag-3-design-battery-price-features
 https://theverge.com/tech/24008239/sphere-las-vegas-experience-u2-screen
 https://theverge.com/tech/784323/upgrading-240hz-oled-gaming-monitor
 https://theverge.com/tech/795383/google-pixel-watch-4-review-android-smartwatch-gemini-wearable
@@ -1349,6 +1355,7 @@ https://theverge.com/tech/851298/clicks-communicator-phone-blackberry-keyboard
 https://theverge.com/tech/853006/govee-sky-ceiling-light-ultra-specs
 https://theverge.com/tech/854183/oled-gaming-monitors-rgb-stripe-lg-samsung-display-ces-2026
 https://theverge.com/tech/854519/intel-core-ultra-3-panther-lake-18-a-release-date-decoder-ring
+https://theverge.com/tech/856883/ces-2026-wi-fi-8-asus-broadcom-mediatek
 https://theverge.com/tech/861248/dreame-leaptic-cube-action-camera-8k-stabilization-ai
 https://theverge.com/tech/866975/sony-linkbuds-clip-open-earbuds-review
 https://theverge.com/tech/869659/aluminium-why-googles-android-for-pc-launch-may-be-messy-and-controversial
@@ -1374,6 +1381,7 @@ https://theverge.com/tech/897471/meta-ai-moderation
 https://theverge.com/tech/897915/amazon-transformer-alexa-phone
 https://theverge.com/tech/898282/gemini-task-automation-uber-doordash-hands-on
 https://theverge.com/tech/899709/rolling-square-supertiny-usb-c-gan-charger-power-adapter-worlds-smallest
+https://theverge.com/tech/899906/fcc-router-ban-march-2026-explainer
 https://theverge.com/tech/900219/sony-honda-afeela-discontinue-cancel-refund
 https://theverge.com/tech/900284/apple-ios-26-4-uk-age-verification
 https://theverge.com/tech/900506/crkd-atom-plus-gamepad-wireless-bluetooth-controller-tmr-rumble-motion
