@@ -419,6 +419,7 @@ https://theverge.com/entertainment/1001112/john-goodman-joins-the-cast-of-the-la
 https://theverge.com/entertainment/1001821/spider-man-slightly-used-day
 https://theverge.com/entertainment/1001861/everyone-loves-a-good-murder-board
 https://theverge.com/entertainment/1002034/spotify-down-outage
+https://theverge.com/entertainment/1002958/neon-a24-creative-commons-scp-foundation-movie
 https://theverge.com/entertainment/815745/pluribus-review-apple-tv
 https://theverge.com/entertainment/845459/disclosure-day-spielberg-trailer-release-date
 https://theverge.com/entertainment/877906/mewgenics-steam-sales-edmund-mcmillen-interview
@@ -565,6 +566,7 @@ https://theverge.com/gadgets/1002167/your-new-chromebook-wont-get-10-years-of-ch
 https://theverge.com/gadgets/1002485/dyson-says-its-500-toothbrushes-were-breaking-because-of-water-seepage
 https://theverge.com/gadgets/1002750/the-adorable-chompi-sampler-is-now-open-source
 https://theverge.com/gadgets/1002774/titw-giveaway-14
+https://theverge.com/gadgets/1003029/microns-dram-revenue-increased-343-percent-over-the-past-year
 https://theverge.com/gadgets/712844/today-im-toying-with
 https://theverge.com/gadgets/847777/oh-snap-i-have-a-new-favorite-phone-grip
 https://theverge.com/gadgets/906883/whoop-bevel-lawsuit-fitness-tech
@@ -889,6 +891,7 @@ https://theverge.com/news/1002099/xbox-mythic-achievement-announcement-feature
 https://theverge.com/news/1002294/microsoft-windows-11-26h2-update-download-install
 https://theverge.com/news/1002563/apple-smart-home-hub-homepad-rumor-launch-date
 https://theverge.com/news/1002736/xbox-not-for-sale-asha-sharma-interview
+https://theverge.com/news/1003037/paramount-david-ellison-co-ceo-ynon-kriez
 https://theverge.com/news/609772/google-maps-gulf-of-america-rename-mexico
 https://theverge.com/news/610580/apple-maps-gulf-of-america
 https://theverge.com/news/618168/google-search-eu-dma-charge-violation
@@ -960,6 +963,7 @@ https://theverge.com/news/823958/here-come-the-third-party-steam-machine-accesso
 https://theverge.com/news/827412/facebooks-groups-are-getting-usernames
 https://theverge.com/news/831451/china-humanoid-robotics-bubble
 https://theverge.com/news/838814/facebook-instagram-hijacked-accounts-hub
+https://theverge.com/news/839353/pc-ram-shortage-pricing-spike-news
 https://theverge.com/news/839927/meta-facebook-instagram-eu-ad-model-choice
 https://theverge.com/news/840308/spotify-music-videos-beta-us-canada
 https://theverge.com/news/841036/facebook-redesign-instagram-photos-feed-algorithm
@@ -1050,6 +1054,7 @@ https://theverge.com/podcast/1000751/vergecast-meta-connect-muse-googlebooks
 https://theverge.com/podcast/1000914/atlassian-ceo-mike-cannon-brookes-saaspocalypse-ai-enterprise-software-trello-jira
 https://theverge.com/podcast/1001702/todays-vergecast-shuhei-yoshida-on-the-future-of-gaming
 https://theverge.com/podcast/1002375/todays-vergecast-pokemon-trading-cards-are-their-own-economy
+https://theverge.com/podcast/1002956/todays-vergecast-dots-are-openais-cute-lil-guys
 https://theverge.com/podcast/905198/meta-lawsuits-facebook-instagram-youtube-social-media-addiction-section-230
 https://theverge.com/podcast/969231/samsung-unpacked-2026-vergecast-livestream
 https://theverge.com/podcast/971627/ai-smartphones-openai-vergecast
@@ -1106,6 +1111,7 @@ https://theverge.com/policy/1002376/trump-renewable-energy-job-losses
 https://theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai
 https://theverge.com/policy/1002504/asus-escape-us-router-ban-us-manufacturing
 https://theverge.com/policy/1002829/this-week-in-the-big-ai-data-center-buildout
+https://theverge.com/policy/1003008/the-pentagon-is-working-with-elon-musk-and-palmer-luckey-to-shape-the-future-of-warfare
 https://theverge.com/policy/677373/lawyers-chatgpt-hallucinations-ai
 https://theverge.com/policy/694155/big-balls-is-still-here
 https://theverge.com/policy/799473/facebook-meta-ice-jawboning
@@ -1379,6 +1385,7 @@ https://theverge.com/tech/1002665/google-paying-publishers-ai-search-features
 https://theverge.com/tech/1002740/ikea-forling-led-standing-lamp-color-lightsaber-star-wars
 https://theverge.com/tech/1002766/amazon-delivery-driver-smart-glasses-privacy
 https://theverge.com/tech/1002788/old-reddit-ai-scraping
+https://theverge.com/tech/1002980/google-gemini-4-argon
 https://theverge.com/tech/24008239/sphere-las-vegas-experience-u2-screen
 https://theverge.com/tech/784323/upgrading-240hz-oled-gaming-monitor
 https://theverge.com/tech/795383/google-pixel-watch-4-review-android-smartwatch-gemini-wearable
