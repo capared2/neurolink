@@ -165,6 +165,7 @@ https://theverge.com/ai-artificial-intelligence/1002854/openai-claims-moonshot-e
 https://theverge.com/ai-artificial-intelligence/1003197/amodeis-extreme-ai-warnings-were-questioned-by-tech-ceos
 https://theverge.com/ai-artificial-intelligence/1003246/openais-president-withdraws-from-second-ai-super-pac-donation
 https://theverge.com/ai-artificial-intelligence/1003258/ai-chatbots-are-still-removing-womens-hijabs
+https://theverge.com/ai-artificial-intelligence/1003399/meta-openai-ai-agents-muse-dots-battle
 https://theverge.com/ai-artificial-intelligence/648595/anthropic-claude-research-google-workplace
 https://theverge.com/ai-artificial-intelligence/679852/trump-ai-safety-institute-name-mission-change
 https://theverge.com/ai-artificial-intelligence/767973/vibe-coding-ai-future-end-evolution
@@ -431,15 +432,19 @@ https://theverge.com/entertainment/1002034/spotify-down-outage
 https://theverge.com/entertainment/1002835/carrie-review-amazon-prime-video
 https://theverge.com/entertainment/1002958/neon-a24-creative-commons-scp-foundation-movie
 https://theverge.com/entertainment/1003182/universal-hollywood-fast-and-furious-rollercoaster-noise
+https://theverge.com/entertainment/1003297/microdramas-neighbours-epis-roseberry-reelshort-dramabox-vertical-video
+https://theverge.com/entertainment/1003606/visionquest-marvel-disney-plus-trailer-ruaridh-mollica-tommy-speed-ultron
 https://theverge.com/entertainment/815745/pluribus-review-apple-tv
 https://theverge.com/entertainment/845459/disclosure-day-spielberg-trailer-release-date
 https://theverge.com/entertainment/877906/mewgenics-steam-sales-edmund-mcmillen-interview
+https://theverge.com/entertainment/885432/reigns-the-witcher-interview-steam-iphone-android
 https://theverge.com/entertainment/891979/project-hail-mary-review-ryan-gosling
 https://theverge.com/entertainment/897923/ghost-in-the-machine-valerie-veatch-interview
 https://theverge.com/entertainment/913387/some-fresh-playdate-news
 https://theverge.com/entertainment/918901/is-letterboxd-looking-for-a-new-owner
 https://theverge.com/entertainment/928395/spotify-20th-anniversary-wrapped-recap
 https://theverge.com/entertainment/936358/amazon-spider-noir-review
+https://theverge.com/entertainment/937984/007-first-light-review-james-bond-ps5-xbox
 https://theverge.com/entertainment/938437/backrooms-youtube-kane-parsons-a12
 https://theverge.com/entertainment/940421/backrooms-blockbuster-38-million-opening
 https://theverge.com/entertainment/944229/grand-theft-auto-6-release-calendar-summer-game-fest
@@ -582,6 +587,7 @@ https://theverge.com/gadgets/1003107/hp-omnibook-5-14-intel-wildcat-lake-8gb-mac
 https://theverge.com/gadgets/1003187/google-japan-escalated-its-annual-concept-keyboard
 https://theverge.com/gadgets/1003196/huawei-mate-90-pro-max-ruiying-z10-camera
 https://theverge.com/gadgets/1003278/casios-limited-edition-g-shock-watch-costs-more-than-a-car
+https://theverge.com/gadgets/1003705/today-toying-with-titw-ohsnap-wallet-2
 https://theverge.com/gadgets/712844/today-im-toying-with
 https://theverge.com/gadgets/847777/oh-snap-i-have-a-new-favorite-phone-grip
 https://theverge.com/gadgets/905189/raspberry-pi-price-increases-pi-4-3gb
@@ -731,6 +737,10 @@ https://theverge.com/games/1001754/valve-corporation-v-users-of-valves-video-gam
 https://theverge.com/games/1002768/gears-of-war-eday-review-xbox
 https://theverge.com/games/1002796/mike-tomlin-minecraft-creator
 https://theverge.com/games/1002815/microsoft-jewel-is-now-on-mobile
+https://theverge.com/games/1003487/a-whole-lot-of-changes-for-control-resonant
+https://theverge.com/games/1003549/sony-ps5-quick-spectral-super-resolution-qssr
+https://theverge.com/games/1003593/steam-deck-2-is-amd-gainsborough-the-chip-valves-been-waiting-for
+https://theverge.com/games/1003614/007-first-lights-new-dlc-adds-photo-mode-and-a-dog-you-can-pet
 https://theverge.com/games/684957/splitgate-2-hat-apology
 https://theverge.com/games/816118/valve-steam-frame-vr-headset-streaming-arm-steamos-hands-on
 https://theverge.com/games/819080/valve-brings-back-steam-machines-steam-os-steam-frame-news-announcements
@@ -910,6 +920,8 @@ https://theverge.com/news/1002563/apple-smart-home-hub-homepad-rumor-launch-date
 https://theverge.com/news/1002736/xbox-not-for-sale-asha-sharma-interview
 https://theverge.com/news/1003037/paramount-david-ellison-co-ceo-ynon-kriez
 https://theverge.com/news/1003195/lemmos-fancy-e-bike-is-one-of-the-first-with-a-semi-solid-state-battery
+https://theverge.com/news/1003515/microsoft-ryan-roslansky-office-teams-linkedin-leaving
+https://theverge.com/news/1003546/microsoft-windows-event-october-7th-rtx-spark-teaser
 https://theverge.com/news/609772/google-maps-gulf-of-america-rename-mexico
 https://theverge.com/news/610580/apple-maps-gulf-of-america
 https://theverge.com/news/618168/google-search-eu-dma-charge-violation
@@ -1074,6 +1086,7 @@ https://theverge.com/podcast/1000751/vergecast-meta-connect-muse-googlebooks
 https://theverge.com/podcast/1000914/atlassian-ceo-mike-cannon-brookes-saaspocalypse-ai-enterprise-software-trello-jira
 https://theverge.com/podcast/1001702/todays-vergecast-shuhei-yoshida-on-the-future-of-gaming
 https://theverge.com/podcast/1002375/todays-vergecast-pokemon-trading-cards-are-their-own-economy
+https://theverge.com/podcast/1002851/utah-ai-data-center-stratos-kevin-oleary-investigation-backlash
 https://theverge.com/podcast/1002956/todays-vergecast-dots-are-openais-cute-lil-guys
 https://theverge.com/podcast/905198/meta-lawsuits-facebook-instagram-youtube-social-media-addiction-section-230
 https://theverge.com/podcast/969231/samsung-unpacked-2026-vergecast-livestream
@@ -1133,6 +1146,7 @@ https://theverge.com/policy/1002504/asus-escape-us-router-ban-us-manufacturing
 https://theverge.com/policy/1002829/this-week-in-the-big-ai-data-center-buildout
 https://theverge.com/policy/1003008/the-pentagon-is-working-with-elon-musk-and-palmer-luckey-to-shape-the-future-of-warfare
 https://theverge.com/policy/1003271/new-york-click-to-cancel-subscriptions-rules
+https://theverge.com/policy/1003426/nyc-click-to-cancel-subscriptions-rule
 https://theverge.com/policy/677373/lawyers-chatgpt-hallucinations-ai
 https://theverge.com/policy/694155/big-balls-is-still-here
 https://theverge.com/policy/799473/facebook-meta-ice-jawboning
@@ -1412,12 +1426,20 @@ https://theverge.com/tech/1002766/amazon-delivery-driver-smart-glasses-privacy
 https://theverge.com/tech/1002788/old-reddit-ai-scraping
 https://theverge.com/tech/1002811/amazon-kindle-paperwhite-colorsoft-accessory-refresh
 https://theverge.com/tech/1002980/google-gemini-4-argon
+https://theverge.com/tech/1003034/meta-vr-glasses-vs-augmented-reality
 https://theverge.com/tech/1003068/elon-musk-grokipedia-v-0-3-spacexai
 https://theverge.com/tech/1003134/android-central-a-good-blog-has-been-gutted
 https://theverge.com/tech/1003170/the-galaxy-buds-on-are-samsungs-first-clip-on-earbuds
 https://theverge.com/tech/1003253/2gb-raspberry-pis-are-getting-pricier
 https://theverge.com/tech/1003269/samsungs-smart-glasses-might-arrive-next-month
 https://theverge.com/tech/1003328/samsung-s26-price-hikes-us
+https://theverge.com/tech/1003365/microsoft-copilot-os-for-work-notepad
+https://theverge.com/tech/1003427/audibles-new-character-guide-can-help-you-keep-track-of-whos-talking-in-your-audiobooks
+https://theverge.com/tech/1003447/att-t-mobile-and-verizon-launch-joint-venture-aimed-at-eliminating-dead-zones
+https://theverge.com/tech/1003522/watch-boston-dynamics-atlas-robot-change-a-drill-bit-with-its-new-four-fingered-hands
+https://theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed
+https://theverge.com/tech/1003735/android-central-layoffs
+https://theverge.com/tech/1003750/universal-audios-2nd-gen-volt-interfaces-support-32-bit-audio-and-have-full-color-screens
 https://theverge.com/tech/24008239/sphere-las-vegas-experience-u2-screen
 https://theverge.com/tech/784323/upgrading-240hz-oled-gaming-monitor
 https://theverge.com/tech/795383/google-pixel-watch-4-review-android-smartwatch-gemini-wearable
@@ -1500,6 +1522,7 @@ https://theverge.com/tech/928479/google-googlebook-laptops-android-tease-alumini
 https://theverge.com/tech/928653/google-android-17-9-biggest-new-features-android-show-io
 https://theverge.com/tech/928724/gemini-intelligence-android-io-autofill
 https://theverge.com/tech/930246/motorola-razr-fold-review-battery
+https://theverge.com/tech/930336/att-tmobile-verizon-joint-venture-agreement-satellite-coverage
 https://theverge.com/tech/930573/age-verification-bills-linux-open-source
 https://theverge.com/tech/931532/bambu-agpl-pawel-jarczak-open-source-threat-dmca-github
 https://theverge.com/tech/932153/snap-youtube-tiktok-lawsuit-social-media-addiction-schools
@@ -2165,6 +2188,7 @@ https://theverge.com/transportation/1001418/volkswagen-replaces-id4-id-tiguan-ev
 https://theverge.com/transportation/1001463/car-data-privacy-northeastern-study-honda-gm-ford
 https://theverge.com/transportation/1001686/teslas-roadster-2-launch-just-got-pushed-back-two-more-weeks
 https://theverge.com/transportation/1002173/bmws-revamped-i3-boasts-up-to-468-miles-of-range
+https://theverge.com/transportation/1003456/the-nyc-councils-marathon-e-bike-hearing-seemed-like-a-waste-of-time
 https://theverge.com/transportation/760217/a-wild-miraidon-appeared
 https://theverge.com/transportation/784461/lucid-nuro-uber-robotaxi-first-vehicle-delivery
 https://theverge.com/transportation/787250/mkbhd-cancels-his-tesla-roadster-order
@@ -2183,6 +2207,7 @@ https://theverge.com/transportation/962772/waymo-kicks-off-driverless-trips-in-f
 https://theverge.com/transportation/966108/robotaxi-passengers-are-falling-asleep-spilling-food-and-even-giving-birth-during-their-rides
 https://theverge.com/transportation/970003/tesla-robotaxi-mileage-waymo-cities-earnings-musk
 https://theverge.com/transportation/973099/zoox-amazon-nhtsa-robotaxi-approval
+https://theverge.com/transportation/975542/can-nyc-thread-the-needle-on-e-bikes
 https://theverge.com/transportation/976190/elon-musks-terafab-will-be-built-where-else-in-texas
 https://theverge.com/transportation/977306/boeing-selling-evtol-archer-wisk-air-taxi
 https://theverge.com/transportation/977533/joby-resonant-sciences-acquisition-evtol
