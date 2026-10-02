@@ -169,6 +169,8 @@ https://theverge.com/ai-artificial-intelligence/1003258/ai-chatbots-are-still-re
 https://theverge.com/ai-artificial-intelligence/1003399/meta-openai-ai-agents-muse-dots-battle
 https://theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision
 https://theverge.com/ai-artificial-intelligence/1003810/openai-severs-ties-with-three-researchers-accused-of-disclosing-confidential-information
+https://theverge.com/ai-artificial-intelligence/1003916/chatgpt-now-has-a-virtual-changing-room
+https://theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability
 https://theverge.com/ai-artificial-intelligence/648595/anthropic-claude-research-google-workplace
 https://theverge.com/ai-artificial-intelligence/679852/trump-ai-safety-institute-name-mission-change
 https://theverge.com/ai-artificial-intelligence/767973/vibe-coding-ai-future-end-evolution
@@ -433,6 +435,7 @@ https://theverge.com/entertainment/1001821/spider-man-slightly-used-day
 https://theverge.com/entertainment/1001861/everyone-loves-a-good-murder-board
 https://theverge.com/entertainment/1002034/spotify-down-outage
 https://theverge.com/entertainment/1002835/carrie-review-amazon-prime-video
+https://theverge.com/entertainment/1002887/star-wars-galactic-racer-review
 https://theverge.com/entertainment/1002958/neon-a24-creative-commons-scp-foundation-movie
 https://theverge.com/entertainment/1003182/universal-hollywood-fast-and-furious-rollercoaster-noise
 https://theverge.com/entertainment/1003297/microdramas-neighbours-epis-roseberry-reelshort-dramabox-vertical-video
@@ -948,6 +951,7 @@ https://theverge.com/news/664796/mexico-lawsuit-google-gulf-of-mexico-america
 https://theverge.com/news/666443/judge-slams-lawyers-ai-bogus-research
 https://theverge.com/news/668365/charter-cox-megamerger-deal-34-billion
 https://theverge.com/news/668762/microsoft-grok-3-xai-models
+https://theverge.com/news/670346/google-try-on-clothes-ai-shopping-io-2025
 https://theverge.com/news/672092/senate-republican-vote-car-truck-pollution-ev-waiver-california
 https://theverge.com/news/683846/macos-tahoe-intel-x86-arm-m-cpu
 https://theverge.com/news/687749/spigen-apple-watch-classic-c1-charger-stand
@@ -1259,6 +1263,7 @@ https://theverge.com/policy/999778/elizabeth-holmes-will-transfer-to-a-halfway-h
 https://theverge.com/report/1000180/muse-openclaw-instinct-lookalike
 https://theverge.com/report/1000994/decap-drums-that-knock-interview
 https://theverge.com/report/1002172/potato-by-air-wing-drone-delivery
+https://theverge.com/report/1002963/ai-hallucinations-customer-service-jobs-agents
 https://theverge.com/report/820656/valve-interview-arm-gaming-steamos-pierre-loup-griffais
 https://theverge.com/report/829265/hoto-fanttik-profile-origins-xiaomi-aukey-tiktok
 https://theverge.com/report/840822/australia-social-media-ban-under-16-response
@@ -1447,9 +1452,12 @@ https://theverge.com/tech/1003427/audibles-new-character-guide-can-help-you-keep
 https://theverge.com/tech/1003447/att-t-mobile-and-verizon-launch-joint-venture-aimed-at-eliminating-dead-zones
 https://theverge.com/tech/1003522/watch-boston-dynamics-atlas-robot-change-a-drill-bit-with-its-new-four-fingered-hands
 https://theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed
+https://theverge.com/tech/1003681/microsoft-data-centers-ai-environment-biomimicry
 https://theverge.com/tech/1003735/android-central-layoffs
 https://theverge.com/tech/1003750/universal-audios-2nd-gen-volt-interfaces-support-32-bit-audio-and-have-full-color-screens
 https://theverge.com/tech/1003877/apple-security-camera-no-video
+https://theverge.com/tech/1003920/androids-developer-verification-rules-just-took-effect-for-the-first-time
+https://theverge.com/tech/1003929/amazon-ai-data-center-blog-warning
 https://theverge.com/tech/24008239/sphere-las-vegas-experience-u2-screen
 https://theverge.com/tech/784323/upgrading-240hz-oled-gaming-monitor
 https://theverge.com/tech/795383/google-pixel-watch-4-review-android-smartwatch-gemini-wearable

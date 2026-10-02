@@ -732,6 +732,7 @@ https://thehill.com/homenews/administration/6124187-trump-threatens-iran-peace-d
 https://thehill.com/homenews/administration/6124271-trump-iran-midterm-risk
 https://thehill.com/homenews/administration/6124325-manner-slams-hegseth-cuts
 https://thehill.com/homenews/administration/6124439-trump-meme-coin-investor-gala
+https://thehill.com/homenews/administration/6124669-trump-xi-mamdani-gop-concerns
 https://thehill.com/homenews/administration/6124986-trump-paxton-talarico-texas-senate-race
 https://thehill.com/homenews/analysis/6040221-democrats-leftist-win-senate-race
 https://thehill.com/homenews/analysis/6042626-treasury-secretary-bessent-buyback
@@ -1057,6 +1058,8 @@ https://thehill.com/homenews/campaign/6123742-troy-jackson-susan-collins-maine-a
 https://thehill.com/homenews/campaign/6123950-wisconsin-poll-david-crowley-tom-tiffany-tie
 https://thehill.com/homenews/campaign/6124020-peltola-alaska-senate-ad
 https://thehill.com/homenews/campaign/6124121-watch-live-donald-trump-midterms-oklahoma-republicans
+https://thehill.com/homenews/campaign/6124450-khanna-ocasio-cortez-democratic-primaries
+https://thehill.com/homenews/campaign/6124602-young-candidates-generation-z-congressional-runs
 https://thehill.com/homenews/campaign/data-nerds/6040929-democratic-socialist-angie-nixon-florida-upset-what-to-know-discussion
 https://thehill.com/homenews/campaign/data-nerds/6054870-democratic-party-senate-control-division-2026-midterms-discussion
 https://thehill.com/homenews/campaign/data-nerds/6068929-abdul-el-sayed-democratic-tensions-michigan-senate-race-discussion
@@ -1108,6 +1111,7 @@ https://thehill.com/homenews/education/6120237-university-of-michigan-freshmen-g
 https://thehill.com/homenews/education/6120525-cornell-university-frat-house-rape-investigation
 https://thehill.com/homenews/education/6121865-cornell-university-gang-rape-case-report-confidential
 https://thehill.com/homenews/education/6122817-college-education-gallup-poll
+https://thehill.com/homenews/education/6123904-cornell-frat-gang-rape-investigation-jane-doe
 https://thehill.com/homenews/house/6040081-young-democrats-eye-congress-affordability
 https://thehill.com/homenews/house/6041674-fbi-raids-swalwell-home
 https://thehill.com/homenews/house/6041953-house-ethics-jimmy-gomez
@@ -1459,6 +1463,8 @@ https://thehill.com/homenews/senate/6122049-slotkin-criticizes-cornell-gang-rape
 https://thehill.com/homenews/senate/6122591-schumer-democrats-senate-majority
 https://thehill.com/homenews/senate/6122945-democrats-call-pulte-resign
 https://thehill.com/homenews/senate/6124359-schmitt-perjury-claim-debunked
+https://thehill.com/homenews/senate/6124725-trump-senate-race-risk
+https://thehill.com/homenews/senate/6125208-donald-trump-senate-gop-permanent-daylight-savings-bill
 https://thehill.com/homenews/space/6054908-where-northern-lights-may-shine-amid-geomagnetic-storm-watches
 https://thehill.com/homenews/space/6057441-americans-skeptical-ufo-origins-gallup-poll
 https://thehill.com/homenews/space/6067876-nasa-jared-isaacman-outlines-moon-base
@@ -1845,6 +1851,7 @@ https://thehill.com/newsletters/morning-report/6114499-donald-trump-florida-repu
 https://thehill.com/newsletters/morning-report/6116812-donald-trump-economic-win-iowa-steel-plant-midterms-iran-war-affordability
 https://thehill.com/newsletters/morning-report/6119594-jd-vance-rfk-jr-maha-trump-jack-smith-eric-schmitt-midterms
 https://thehill.com/newsletters/morning-report/6122378-donald-trump-deep-red-campaign-blitz-gop-midterms-what-to-know
+https://thehill.com/newsletters/morning-report/6125164-cornell-gang-rape-allegations-furor-new-york-donald-trump-midterms
 https://thehill.com/newsletters/on-the-ballot/6038891-on-the-ballot-bipartisan-couples-tough-odds-research
 https://thehill.com/newsletters/on-the-ballot/6051469-on-the-ballot-markey-moulton-massachusetts-senate-primary
 https://thehill.com/newsletters/on-the-ballot/6066962-on-the-ballot-hasan-piker-democrats-michigan
@@ -1908,12 +1915,14 @@ https://thehill.com/newsletters/whole-hog-politics/6070182-texas-triangle-midter
 https://thehill.com/newsletters/whole-hog-politics/6082989-trump-dividend-stimulus-plans
 https://thehill.com/newsletters/whole-hog-politics/6096880-vance-minimizes-gop-scandal
 https://thehill.com/newsletters/whole-hog-politics/6110561-gop-midterm-election-struggles
+https://thehill.com/newsletters/whole-hog-politics/6124191-schmitt-senate-hearing-blunder
 https://thehill.com/newsletters/whole-hog-politics/whole-hog-politics-live-briefing/6043072-bipartisan-data-center-backlash-political-influence-discussion
 https://thehill.com/newsletters/whole-hog-politics/whole-hog-politics-live-briefing/6056700-hasan-piker-democrats-senate-control-texas-new-hampshire-gop-midterms-discussion
 https://thehill.com/newsletters/whole-hog-politics/whole-hog-politics-live-briefing/6070985-vance-el-sayed-controversial-friends-discussion
 https://thehill.com/newsletters/whole-hog-politics/whole-hog-politics-live-briefing/6083907-25-years-sept-11-attacks-american-politics-live-discussion
 https://thehill.com/newsletters/whole-hog-politics/whole-hog-politics-live-briefing/6097431-republican-redistricting-gains-expectations-vs-reality-midterms-discussion
 https://thehill.com/newsletters/whole-hog-politics/whole-hog-politics-live-briefing/6111089-gop-candidates-distance-trump-midterms-live-discussion
+https://thehill.com/newsletters/whole-hog-politics/whole-hog-politics-live-briefing/6125250-donald-trump-midterm-focus-content-creators-influencers-2026-discussion
 https://thehill.com/opinion/6041890-ohio-top-state-business
 https://thehill.com/opinion/6043861-supreme-court-reform
 https://thehill.com/opinion/6054052-trump-ground-beef-tariff-claim
@@ -1981,6 +1990,8 @@ https://thehill.com/opinion/campaign/6115789-revenge-of-the-citizens-lets-text-t
 https://thehill.com/opinion/campaign/6118274-insurgent-democrats-seek-reform
 https://thehill.com/opinion/campaign/6120989-gop-healthcare-policy-failure
 https://thehill.com/opinion/campaign/6121000-maryland-question-3-gerrymandering
+https://thehill.com/opinion/campaign/6123886-tafoya-challenging-flanagan-welfare-scandal
+https://thehill.com/opinion/campaign/6124629-democrats-target-rural-voters
 https://thehill.com/opinion/civil-rights/6042440-meaning-behind-woke-language
 https://thehill.com/opinion/civil-rights/6043787-business-refuses-service-religious-political-views
 https://thehill.com/opinion/civil-rights/6044413-debate-jewish-religion-race
@@ -2237,6 +2248,7 @@ https://thehill.com/opinion/judiciary/6090911-democrats-plan-subpoena-lawsuits
 https://thehill.com/opinion/judiciary/6105662-the-enemy-within-the-judicial-gates
 https://thehill.com/opinion/judiciary/6106573-unprecedented-threats-federal-judges
 https://thehill.com/opinion/judiciary/6111668-climate-gun-rights-parochial-schools
+https://thehill.com/opinion/judiciary/6117254-virginia-tuition-grant-religious-discrimination
 https://thehill.com/opinion/judiciary/6118395-judicial-resources-compensation-rules
 https://thehill.com/opinion/judiciary/supreme-court/6049783-voters-trust-court-recordings
 https://thehill.com/opinion/judiciary/supreme-court/6069206-scotus-paves-way-trump-order
@@ -2402,6 +2414,7 @@ https://thehill.com/opinion/white-house/6102157-jimmy-lai-hong-kong-prison
 https://thehill.com/opinion/white-house/6103009-the-kennedy-center-fix-it-dont-tear-it-down
 https://thehill.com/opinion/white-house/6103023-trump-voter-data-accuracy
 https://thehill.com/opinion/white-house/6103602-media-outlets-sue-trump-administration
+https://thehill.com/opinion/white-house/6109490-trump-midterm-insurrection-act-risk
 https://thehill.com/opinion/white-house/6112000-trump-white-house-press-ban
 https://thehill.com/opinion/white-house/6112312-trump-iran-war-crimes-report
 https://thehill.com/opinion/white-house/6112344-trump-legacy-nuclear-ai-climate
@@ -3036,6 +3049,7 @@ https://thehill.com/policy/technology/6118532-trump-to-rename-ai-superintelligen
 https://thehill.com/policy/technology/6119187-nvidia-ceo-trump-ai-ally
 https://thehill.com/policy/technology/6120650-cftc-adam-kinzinger-biden-pardons-kalshi
 https://thehill.com/policy/technology/6121648-paul-blocks-kosa-kids-safety-bill
+https://thehill.com/policy/technology/6123796-trump-tech-leaders-pledge-ai-safety
 https://thehill.com/policy/technology/6124245-openai-subpoena-rob-bonta-california
 https://thehill.com/policy/technology/6124265-ftc-investigates-openai-anthropic
 https://thehill.com/policy/technology/6124282-ro-khanna-ai-theft-investigation-china
@@ -3314,4 +3328,5 @@ https://thehill.com/video-clips/6117947-sen-john-kennedy-and-jack-smith-heated-e
 https://thehill.com/video-clips/6120796-watch-live-pete-hegseth-state-of-force-address-trump-administration
 https://thehill.com/video-clips/6121030-attorney-general-todd-blanche-talks-ai-regulations-election-integrity-jack-smith-hearing-yt
 https://thehill.com/video-clips/6123945-watch-live-donald-trump-texas-manufacturing-economy-ken-paxton-senate-race
+https://thehill.com/video-clips/6125203-watch-live-kathy-hochul-letitia-james-cornell-alleged-rape-case
 https://thehill.com/video-clips/political-news-clips/6076019-at-least-5-dead-several-hospitalized-after-amazon-cargo-plane-crashes-at-miami-airport-newsnation-yt
