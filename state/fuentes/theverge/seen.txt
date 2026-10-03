@@ -30,6 +30,7 @@ https://theverge.com/2020/12/18/22189637/space-force-military-branch-official-na
 https://theverge.com/2020/2/13/21136623/huawei-wanzhou-meng-doj-trade-secrets-justice-department-zte-china
 https://theverge.com/2020/2/18/21142093/activision-blizzard-overwatch-diablo-tv-show-netflix
 https://theverge.com/2020/2/3/21120531/disney-plus-hamilton-streaming-theaters-distribution-broadway
+https://theverge.com/2020/3/4/21165014/waymo-fifth-generation-self-driving-radar-camera-lidar-jaguar-ipace
 https://theverge.com/2020/4/24/21234279/lysol-poison-health-experts-trump-injections-epa-coronavirus
 https://theverge.com/2020/5/12/21255870/facebook-content-moderator-settlement-scola-ptsd-mental-health
 https://theverge.com/2020/6/18/21291519/justwatch-streaming-search-engine-filter-app-impressions-hbo-max-disney-plus-netflix-hulu
@@ -62,6 +63,7 @@ https://theverge.com/2023/12/27/24016212/new-york-times-openai-microsoft-lawsuit
 https://theverge.com/2023/2/4/23585948/spotify-founder-daniel-ek-ai-body-health-scanner
 https://theverge.com/2023/3/13/23637401/samsung-fake-moon-photos-ai-galaxy-s21-s23-ultra
 https://theverge.com/2023/3/6/23628238/elon-musk-alex-gibney-documentary-announced
+https://theverge.com/2023/3/7/23627656/gm-ultra-cruise-sensor-radar-lidar-hands-free
 https://theverge.com/2023/5/15/23724252/microsoft-windows-11-phone-link-iphone-ios-support-available-now
 https://theverge.com/2023/5/17/23727341/cars-am-radio-ev-senate-bill-markey-cruz
 https://theverge.com/2023/5/23/23733592/frore-airjet-zotac-mini-desktop-pc-zbox-pi430aj-price
@@ -175,6 +177,7 @@ https://theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-fea
 https://theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent
 https://theverge.com/ai-artificial-intelligence/1004401/the-new-york-times-pitted-five-musicians-against-an-ai-in-a-songwriting-competition
 https://theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm
+https://theverge.com/ai-artificial-intelligence/1004517/one-of-the-authors-of-the-stochastic-parrots-paper-explains-what-it-actually-means
 https://theverge.com/ai-artificial-intelligence/648595/anthropic-claude-research-google-workplace
 https://theverge.com/ai-artificial-intelligence/679852/trump-ai-safety-institute-name-mission-change
 https://theverge.com/ai-artificial-intelligence/767973/vibe-coding-ai-future-end-evolution
@@ -222,6 +225,7 @@ https://theverge.com/ai-artificial-intelligence/971750/perplexity-personal-compu
 https://theverge.com/ai-artificial-intelligence/973384/linkedin-seems-like-ai-slop-button
 https://theverge.com/ai-artificial-intelligence/973467/ai-bet-situational-awareness-oops-stonks
 https://theverge.com/ai-artificial-intelligence/974018/pippa-seedance-artist-royalties
+https://theverge.com/ai-artificial-intelligence/975017/ai-spiralism-chatbot-movement
 https://theverge.com/ai-artificial-intelligence/975615/this-week-in-the-big-ai-data-center-buildout
 https://theverge.com/ai-artificial-intelligence/976553/ai-is-now-designing-brand-new-biological-viruses
 https://theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant
@@ -759,6 +763,7 @@ https://theverge.com/games/1003549/sony-ps5-quick-spectral-super-resolution-qssr
 https://theverge.com/games/1003593/steam-deck-2-is-amd-gainsborough-the-chip-valves-been-waiting-for
 https://theverge.com/games/1003614/007-first-lights-new-dlc-adds-photo-mode-and-a-dog-you-can-pet
 https://theverge.com/games/1004343/a-valorant-player-says-they-got-banned-after-accidentally-buying-a-cheaters-used-cpu
+https://theverge.com/games/1004418/capcom-ai-game-development
 https://theverge.com/games/684957/splitgate-2-hat-apology
 https://theverge.com/games/816118/valve-steam-frame-vr-headset-streaming-arm-steamos-hands-on
 https://theverge.com/games/819080/valve-brings-back-steam-machines-steam-os-steam-frame-news-announcements
