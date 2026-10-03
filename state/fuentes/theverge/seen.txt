@@ -754,6 +754,7 @@ https://theverge.com/games/1003487/a-whole-lot-of-changes-for-control-resonant
 https://theverge.com/games/1003549/sony-ps5-quick-spectral-super-resolution-qssr
 https://theverge.com/games/1003593/steam-deck-2-is-amd-gainsborough-the-chip-valves-been-waiting-for
 https://theverge.com/games/1003614/007-first-lights-new-dlc-adds-photo-mode-and-a-dog-you-can-pet
+https://theverge.com/games/1004343/a-valorant-player-says-they-got-banned-after-accidentally-buying-a-cheaters-used-cpu
 https://theverge.com/games/684957/splitgate-2-hat-apology
 https://theverge.com/games/816118/valve-steam-frame-vr-headset-streaming-arm-steamos-hands-on
 https://theverge.com/games/819080/valve-brings-back-steam-machines-steam-os-steam-frame-news-announcements
@@ -1008,6 +1009,7 @@ https://theverge.com/news/818738/samsung-movingstyle-portable-display-tv-availab
 https://theverge.com/news/821581/disney-youtube-tv-deal-agreement-espn
 https://theverge.com/news/823562/cloudflare-outage-wake-up-call-websites
 https://theverge.com/news/823958/here-come-the-third-party-steam-machine-accessories
+https://theverge.com/news/825510/nvidia-china-smuggling-ai-chips-h200
 https://theverge.com/news/827412/facebooks-groups-are-getting-usernames
 https://theverge.com/news/831451/china-humanoid-robotics-bubble
 https://theverge.com/news/836221/raspberry-pi-price-increases-ram-costs
@@ -1015,6 +1017,7 @@ https://theverge.com/news/838814/facebook-instagram-hijacked-accounts-hub
 https://theverge.com/news/839353/pc-ram-shortage-pricing-spike-news
 https://theverge.com/news/839927/meta-facebook-instagram-eu-ad-model-choice
 https://theverge.com/news/840308/spotify-music-videos-beta-us-canada
+https://theverge.com/news/840557/nvidia-h200-ai-chips-china-exports-us
 https://theverge.com/news/841036/facebook-redesign-instagram-photos-feed-algorithm
 https://theverge.com/news/841219/google-gemini-us-military-ai-platform-genai-mil
 https://theverge.com/news/841369/chatgpt-apps-adobe-photoshop-acrobat-express
@@ -1340,6 +1343,8 @@ https://theverge.com/science/997083/flash-flood-warning-tacls-satellite-machine-
 https://theverge.com/science/997834/ai-cyberattack-energy-critical-infrastructure
 https://theverge.com/streaming/1002597/amazon-fire-tv-stick-4k-direct-power
 https://theverge.com/streaming/1003793/youtube-is-going-after-clippers-and-aggregators
+https://theverge.com/streaming/1004300/sling-tv-pass-cable-drops
+https://theverge.com/streaming/1004323/netflix-david-fincher-shawn-levy-mike-flanagan-duffer-brothers-greta-gerwig
 https://theverge.com/streaming/909230/its-an-amazing-art-form-that-is-way-too-limited-in-peoples-minds
 https://theverge.com/streaming/938759/youtube-custom-ai-feed-prompt-availability
 https://theverge.com/streaming/950116/fox-roku-takeover
@@ -1473,6 +1478,9 @@ https://theverge.com/tech/1004074/samsung-raised-prices-on-its-galaxy-a-series-p
 https://theverge.com/tech/1004133/beehiiv-price-increase-reactions
 https://theverge.com/tech/1004177/elon-musk-unfollows-shivon-zilis
 https://theverge.com/tech/1004275/these-guides-can-help-you-cut-off-tech-thats-collecting-your-data
+https://theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents
+https://theverge.com/tech/1004320/feds-arrested-a-california-man-accused-of-smuggling-300-million-of-servers-with-nvidia-ai-chips-into-china
+https://theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link
 https://theverge.com/tech/24008239/sphere-las-vegas-experience-u2-screen
 https://theverge.com/tech/784323/upgrading-240hz-oled-gaming-monitor
 https://theverge.com/tech/795383/google-pixel-watch-4-review-android-smartwatch-gemini-wearable
