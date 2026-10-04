@@ -44,6 +44,7 @@ https://theverge.com/2021/7/7/22566634/moderna-mrna-flu-vaccine-trial
 https://theverge.com/2021/9/14/22673497/tesla-nhtsa-autopilot-investigation-data-ford-gm-vw-toyota
 https://theverge.com/2021/9/18/22678226/castlevania-grimoire-of-souls-apple-arcade-michiru-yamane
 https://theverge.com/2022/10/28/23427137/elon-musk-twitter-matt-levine-money-stuff
+https://theverge.com/2022/11/22/23474381/elon-musk-twitter-moderation-council-activist-promise
 https://theverge.com/2022/2/2/22914236/tesla-phantom-braking-complaints-nhtsa-fsd
 https://theverge.com/2022/3/31/23004352/microsoft-phone-link-rebranding-windows-11-design-update
 https://theverge.com/2022/5/23/23138438/rodecaster-ii-pro-audio-mixer-announced-price-release-date
@@ -99,6 +100,7 @@ https://theverge.com/2024/5/23/24163198/apple-foldable-macbooks-shipments-2026-k
 https://theverge.com/2024/5/7/24151109/apple-final-cut-camera-app-support-multicam-ipad
 https://theverge.com/2024/6/23/24184310/yes-it-is-crazy-to-build-a-new-v16-engine
 https://theverge.com/2024/6/26/24186332/rivian-tease-mystery-vehicle-r1-r2-r3-shareholder-letter
+https://theverge.com/2024/6/6/24173356/f1-2026-tech-changes-explained
 https://theverge.com/2024/7/16/24195063/apple-smart-display-rumors-homepod-ipad
 https://theverge.com/2024/7/20/24202627/iphone-gamma-ps1-emulator-updates-graphics-multitap-multidisc-video-games
 https://theverge.com/2024/7/24/24204706/marc-andreessen-ben-horowitz-a16z-trump-donations
@@ -179,6 +181,8 @@ https://theverge.com/ai-artificial-intelligence/1004401/the-new-york-times-pitte
 https://theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm
 https://theverge.com/ai-artificial-intelligence/1004517/one-of-the-authors-of-the-stochastic-parrots-paper-explains-what-it-actually-means
 https://theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft
+https://theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true
+https://theverge.com/ai-artificial-intelligence/1004598/ill-believe-it-when-i-see-it
 https://theverge.com/ai-artificial-intelligence/648595/anthropic-claude-research-google-workplace
 https://theverge.com/ai-artificial-intelligence/679852/trump-ai-safety-institute-name-mission-change
 https://theverge.com/ai-artificial-intelligence/767973/vibe-coding-ai-future-end-evolution
@@ -217,6 +221,7 @@ https://theverge.com/ai-artificial-intelligence/952906/sam-altman-film-artificia
 https://theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development
 https://theverge.com/ai-artificial-intelligence/961978/anthropic-claude-cowork-mobile-web
 https://theverge.com/ai-artificial-intelligence/962871/amazon-is-reportedly-trying-to-catch-up-in-the-ai-agent-race-with-moonraker
+https://theverge.com/ai-artificial-intelligence/965937/elon-musk-says-xs-codebase-will-be-made-open-source
 https://theverge.com/ai-artificial-intelligence/966072/suno-ai-music-training-scraping-youtube-hack
 https://theverge.com/ai-artificial-intelligence/967781/chinese-ai-models-open-source-moonshot-kimi-k3-alibaba-qwen
 https://theverge.com/ai-artificial-intelligence/968988/openai-hugging-face-hack-ai
@@ -456,6 +461,7 @@ https://theverge.com/entertainment/1004009/whats-in-your-cart-for-bandcamp-frida
 https://theverge.com/entertainment/1004016/paramount-warner-bros-skydance-megamerger-name
 https://theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview
 https://theverge.com/entertainment/1004376/sony-pictures-battlefield-movie-michael-b-jordan
+https://theverge.com/entertainment/1004592/avengers-endgame-is-the-highest-grossing-movie-in-history-again
 https://theverge.com/entertainment/815745/pluribus-review-apple-tv
 https://theverge.com/entertainment/845459/disclosure-day-spielberg-trailer-release-date
 https://theverge.com/entertainment/877906/mewgenics-steam-sales-edmund-mcmillen-interview
@@ -2256,6 +2262,7 @@ https://theverge.com/transportation/1003601/teslas-recovery-hits-a-speed-bump
 https://theverge.com/transportation/1003943/california-will-fine-robotaxi-companies-for-interfering-with-first-responders
 https://theverge.com/transportation/1003967/tesla-charging-breakaway-emergency-shooting
 https://theverge.com/transportation/1004127/rivian-q3-2026-production-delivery-r2
+https://theverge.com/transportation/1004559/a-computer-glitch-brought-f1s-malaysia-race-to-a-halt
 https://theverge.com/transportation/760217/a-wild-miraidon-appeared
 https://theverge.com/transportation/784461/lucid-nuro-uber-robotaxi-first-vehicle-delivery
 https://theverge.com/transportation/787250/mkbhd-cancels-his-tesla-roadster-order
