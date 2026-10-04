@@ -178,6 +178,7 @@ https://theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hand
 https://theverge.com/ai-artificial-intelligence/1004401/the-new-york-times-pitted-five-musicians-against-an-ai-in-a-songwriting-competition
 https://theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm
 https://theverge.com/ai-artificial-intelligence/1004517/one-of-the-authors-of-the-stochastic-parrots-paper-explains-what-it-actually-means
+https://theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft
 https://theverge.com/ai-artificial-intelligence/648595/anthropic-claude-research-google-workplace
 https://theverge.com/ai-artificial-intelligence/679852/trump-ai-safety-institute-name-mission-change
 https://theverge.com/ai-artificial-intelligence/767973/vibe-coding-ai-future-end-evolution
@@ -404,6 +405,7 @@ https://theverge.com/business/990989/why-is-this-trailer-for-the-elizabeth-holme
 https://theverge.com/cars/981760/bugattis-tourbillon-inspired-microled-tv-twists-turns-and-unfolds
 https://theverge.com/column/1000778/smart-home-june-oven-graveyard
 https://theverge.com/column/1002625/optimizer-fibermaxxing-wellness-health
+https://theverge.com/column/1003566/history-apple-ipod-mp3-music-player
 https://theverge.com/column/837829/spotify-video-service
 https://theverge.com/column/885244/smart-tv-web-crawler-ai
 https://theverge.com/column/925487/david-sacks-trump-administration-ai-model-review
@@ -591,6 +593,8 @@ https://theverge.com/entertainment/999986/npr-gen-z-comments
 https://theverge.com/film/767588/star-wars-starfighter-cast
 https://theverge.com/fitness-tracker-review/696156/whoop-mg-review-wearables-fitness-tracker-health
 https://theverge.com/gadgets/1000122/cyberpowerpc-gaming-prebuilt-rtx-5070-core-i7-asrock-oled-monitor-deal-sale
+https://theverge.com/gadgets/1000323/apple-ipad-mini-amazon-prime-big-deal-days-sale
+https://theverge.com/gadgets/1000832/macbook-air-m5-amazon-prime-big-deal-sale
 https://theverge.com/gadgets/1000859/roku-pro-series-oled-nothing-phone-4a-pro-deal-sale
 https://theverge.com/gadgets/1001235/lenovos-googlebook-is-150-cheaper-than-we-thought
 https://theverge.com/gadgets/1001313/dreame-x50-ultra-robot-vacuum-mop-asus-rog-ally-deal-sale
@@ -609,6 +613,8 @@ https://theverge.com/gadgets/1003196/huawei-mate-90-pro-max-ruiying-z10-camera
 https://theverge.com/gadgets/1003278/casios-limited-edition-g-shock-watch-costs-more-than-a-car
 https://theverge.com/gadgets/1003705/today-toying-with-titw-ohsnap-wallet-2
 https://theverge.com/gadgets/1003792/a-screen-free-camera-thats-compatible-with-monoculars
+https://theverge.com/gadgets/1004242/airpods-pro-3-amazon-october-prime-day-deal-sale
+https://theverge.com/gadgets/1004360/this-toolless-modular-lever-action-wallet-is-the-coolest-ive-stuck-to-my-phone
 https://theverge.com/gadgets/712844/today-im-toying-with
 https://theverge.com/gadgets/847777/oh-snap-i-have-a-new-favorite-phone-grip
 https://theverge.com/gadgets/905189/raspberry-pi-price-increases-pi-4-3gb
@@ -1114,6 +1120,7 @@ https://theverge.com/podcast/1000347/todays-vergecast-meta-and-snap-battle-for-y
 https://theverge.com/podcast/1000517/why-olpcs-100-laptop-never-stood-a-chance
 https://theverge.com/podcast/1000751/vergecast-meta-connect-muse-googlebooks
 https://theverge.com/podcast/1000914/atlassian-ceo-mike-cannon-brookes-saaspocalypse-ai-enterprise-software-trello-jira
+https://theverge.com/podcast/1001215/the-forgotten-chromebook-that-started-it-all
 https://theverge.com/podcast/1001702/todays-vergecast-shuhei-yoshida-on-the-future-of-gaming
 https://theverge.com/podcast/1002375/todays-vergecast-pokemon-trading-cards-are-their-own-economy
 https://theverge.com/podcast/1002851/utah-ai-data-center-stratos-kevin-oleary-investigation-backlash
@@ -1489,6 +1496,7 @@ https://theverge.com/tech/1004074/samsung-raised-prices-on-its-galaxy-a-series-p
 https://theverge.com/tech/1004131/3d-movies-are-finally-worth-watching-xreal-meta-glasses-vision-pro
 https://theverge.com/tech/1004133/beehiiv-price-increase-reactions
 https://theverge.com/tech/1004177/elon-musk-unfollows-shivon-zilis
+https://theverge.com/tech/1004199/amazon-kindle-openai-dots-witcher-3-remastered-bose-wired-headphones
 https://theverge.com/tech/1004275/these-guides-can-help-you-cut-off-tech-thats-collecting-your-data
 https://theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents
 https://theverge.com/tech/1004320/feds-arrested-a-california-man-accused-of-smuggling-300-million-of-servers-with-nvidia-ai-chips-into-china

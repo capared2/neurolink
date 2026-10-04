@@ -203,6 +203,7 @@ https://thehill.com/business/6123503-us-economy-remains-resilient
 https://thehill.com/business/6123510-us-economy-jobs-report-september-bls
 https://thehill.com/business/6124140-federal-reserves-future-inflation-hikes-jefferson
 https://thehill.com/business/6126321-paramount-warner-bros-merger-name-reveal
+https://thehill.com/business/6128205-hassett-dismisses-negative-economic-polls
 https://thehill.com/business/agriculture/6052290-ranchers-protest-foreign-imported-beef
 https://thehill.com/business/budget/6118661-gao-trump-rescission-unlawful
 https://thehill.com/business/economy/6043886-one-seemingly-ordinary-job-has-gotten-much-more-deadly-over-the-past-10-years-federal-data-shows
@@ -288,6 +289,7 @@ https://thehill.com/homenews/6124122-2-5-billion-amazon-settlement-more-payments
 https://thehill.com/homenews/6126189-senate-pac-shifts-ad-spend
 https://thehill.com/homenews/6126304-g7-oil-market-stabilization-plan
 https://thehill.com/homenews/6126910-refugees-legal-immigrants-lose-medicaid-coverage
+https://thehill.com/homenews/6127239-cornell-rape-allegations-spark-congressional-action
 https://thehill.com/homenews/administration/6040220-live-updates-donald-trump-iran-war-economy-midterms
 https://thehill.com/homenews/administration/6040588-donald-trump-white-house-helipad-ballroom-construction
 https://thehill.com/homenews/administration/6040729-donald-trump-legislative-director-leaving
@@ -757,6 +759,8 @@ https://thehill.com/homenews/administration/6127480-seniors-medicare-improvement
 https://thehill.com/homenews/administration/6127540-trump-praises-yaniv-hayoun
 https://thehill.com/homenews/administration/6127587-trump-posts-tom-cotton-phone-number
 https://thehill.com/homenews/administration/6127691-trump-cotton-fued-daylight-savings-posts
+https://thehill.com/homenews/administration/6127907-trump-nebraska-gop-midterms-cornell-case-alito
+https://thehill.com/homenews/administration/6128176-trump-creates-super-intelligence-force
 https://thehill.com/homenews/analysis/6040221-democrats-leftist-win-senate-race
 https://thehill.com/homenews/analysis/6042626-treasury-secretary-bessent-buyback
 https://thehill.com/homenews/analysis/6057609-gop-campaign-centered-trump
@@ -1089,10 +1093,13 @@ https://thehill.com/homenews/campaign/6126457-hayden-endorses-hamilton-kansas-se
 https://thehill.com/homenews/campaign/6126619-gop-trump-immigration-enforcement-midterms
 https://thehill.com/homenews/campaign/6126725-lepage-dunlap-debate-maine
 https://thehill.com/homenews/campaign/6126765-hamilton-rejects-harris-campaign
+https://thehill.com/homenews/campaign/6126950-trump-funnels-millions-from-massive-war-chest-into-key-house-senate-races-heres-where
 https://thehill.com/homenews/campaign/6126981-trump-worried-whatley-roy-cooper
 https://thehill.com/homenews/campaign/6127360-karl-rove-paxton-talarico-debate-warning
 https://thehill.com/homenews/campaign/6127564-senate-polls-democrats-midterm-elections
+https://thehill.com/homenews/campaign/6127863-voters-weigh-midterm-issues
 https://thehill.com/homenews/campaign/6127929-trump-defends-ohio-data-centers
+https://thehill.com/homenews/campaign/6128086-trump-vows-gop-win-midterms
 https://thehill.com/homenews/campaign/data-nerds/6040929-democratic-socialist-angie-nixon-florida-upset-what-to-know-discussion
 https://thehill.com/homenews/campaign/data-nerds/6054870-democratic-party-senate-control-division-2026-midterms-discussion
 https://thehill.com/homenews/campaign/data-nerds/6068929-abdul-el-sayed-democratic-tensions-michigan-senate-race-discussion
@@ -1150,6 +1157,7 @@ https://thehill.com/homenews/education/6125830-hochul-james-cornell-rape-investi
 https://thehill.com/homenews/education/6126037-cornell-university-nonconsensual-sexual-contact-survey-2025
 https://thehill.com/homenews/education/6126503-cornell-rape-chi-phi-frat-greek-life
 https://thehill.com/homenews/education/6126823-head-start-programs-trump-reforms-hhs
+https://thehill.com/homenews/education/6128142-cornell-president-promises-reforms
 https://thehill.com/homenews/house/6040081-young-democrats-eye-congress-affordability
 https://thehill.com/homenews/house/6041674-fbi-raids-swalwell-home
 https://thehill.com/homenews/house/6041953-house-ethics-jimmy-gomez
@@ -1689,6 +1697,7 @@ https://thehill.com/homenews/state-watch/6112617-hong-regrets-cnn-thanksgiving
 https://thehill.com/homenews/state-watch/6112822-ny-nj-noreaster-declare-emergency
 https://thehill.com/homenews/state-watch/6115182-what-will-winter-be-like-near-you-heres-what-the-outlooks-suggest
 https://thehill.com/homenews/state-watch/6115357-gofundme-cancer-treatment-campaign
+https://thehill.com/homenews/state-watch/6116007-more-canadians-to-observe-permanent-daylight-saving-time-why-cant-the-us
 https://thehill.com/homenews/state-watch/6116174-pennsylvania-surpasses-900-measles-cases
 https://thehill.com/homenews/state-watch/6116605-kemp-suspends-georgia-gas-tax
 https://thehill.com/homenews/state-watch/6117228-new-york-times-gaming-engineer-california-shooting
@@ -2081,6 +2090,7 @@ https://thehill.com/opinion/congress-blog/6106886-house-early-exit-gop
 https://thehill.com/opinion/congress-blog/6113972-hoyer-affordability-economic-progress
 https://thehill.com/opinion/congress-blog/6119239-democrats-congress-oversight-prep
 https://thehill.com/opinion/congress-blog/6120818-bipartisan-housing-act-success
+https://thehill.com/opinion/congress-blog/6126730-congressional-oversight-deteriorates-partisan
 https://thehill.com/opinion/congress-blog/energy-environment/6111870-dc-green-mandates-electricity-costs
 https://thehill.com/opinion/congress-blog/homeland-security/6081859-us-preparedness-bioattack-risk
 https://thehill.com/opinion/congress-blog/homeland-security/6093500-federal-nonprofit-security-grant-shortfall
@@ -2097,6 +2107,7 @@ https://thehill.com/opinion/congress-blog/politics/6098739-horseshoe-party-polit
 https://thehill.com/opinion/congress-blog/religious-rights/5888078-safe-zones-religious-freedom
 https://thehill.com/opinion/congress-blog/religious-rights/6106800-us-refugee-ceiling-lowest-record
 https://thehill.com/opinion/congress-blog/technology/6116752-congressional-action-ai-regulations
+https://thehill.com/opinion/congress-blog/technology/6124343-starship-achieves-low-earth-orbit
 https://thehill.com/opinion/congress-blog/the-administration/6061597-trump-harp-controversy-analyzed
 https://thehill.com/opinion/congress-blog/the-administration/6120575-congress-investigate-trump-corruption
 https://thehill.com/opinion/criminal-justice/6033653-spanberger-corrections-public-safety
@@ -2239,6 +2250,7 @@ https://thehill.com/opinion/immigration/6079166-uscis-marriage-fraud-crackdown
 https://thehill.com/opinion/immigration/6082457-media-ideological-monoculture-crisis
 https://thehill.com/opinion/immigration/6112891-iranian-minorities-awaiting-visa-relief
 https://thehill.com/opinion/immigration/6116385-biden-border-cartel-impact
+https://thehill.com/opinion/immigration/6121649-ai-asylum-representation
 https://thehill.com/opinion/international/6036841-turkey-saudi-pakistan-military-pact
 https://thehill.com/opinion/international/6040259-trump-tripp-eurasian-peace-route
 https://thehill.com/opinion/international/6044866-vance-urges-ukraine-energy-strikes
@@ -2945,6 +2957,7 @@ https://thehill.com/policy/international/6120983-uk-us-air-base-incident-andy-bu
 https://thehill.com/policy/international/6122412-netanyahu-flydubai-copilot-attack
 https://thehill.com/policy/international/6124127-treasury-targets-iranian-transportation-industry-sanctions
 https://thehill.com/policy/international/6124534-man-arrested-uk-raf-fairford
+https://thehill.com/policy/international/6124543-trump-hostage-affairs-coale-belarus-russia-ukraine
 https://thehill.com/policy/international/6125316-flydubai-pilot-smit-machchhar-emergency-landing
 https://thehill.com/policy/international/6127503-us-suspends-brazil-consular-services-friday
 https://thehill.com/policy/international/6127537-raf-fairford-terror-investigation-suspect-released
