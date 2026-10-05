@@ -51,6 +51,7 @@ https://theverge.com/2022/5/23/23138438/rodecaster-ii-pro-audio-mixer-announced-
 https://theverge.com/2022/5/25/23141533/amazon-package-delivery-injuries-dsp-contractors-rates-2021
 https://theverge.com/2022/6/9/23161624/meta-portal-pivot-business-product
 https://theverge.com/2022/7/8/23200141/elon-musk-shivon-zilis-twins-twitter
+https://theverge.com/2022/8/30/23328977/google-open-source-bug-bounty-supply-chain-hacks-dependencies
 https://theverge.com/2022/9/15/23355197/blade-runner-tv-show-series-2099-amazon-prime-video
 https://theverge.com/2022/9/20/23363085/ea-marvel-iron-man-game-motive-studio
 https://theverge.com/2023/1/17/23559150/coachella-youtube-streaming
@@ -173,6 +174,7 @@ https://theverge.com/ai-artificial-intelligence/1003246/openais-president-withdr
 https://theverge.com/ai-artificial-intelligence/1003258/ai-chatbots-are-still-removing-womens-hijabs
 https://theverge.com/ai-artificial-intelligence/1003399/meta-openai-ai-agents-muse-dots-battle
 https://theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision
+https://theverge.com/ai-artificial-intelligence/1003794/ai-education-computational-model-thought
 https://theverge.com/ai-artificial-intelligence/1003810/openai-severs-ties-with-three-researchers-accused-of-disclosing-confidential-information
 https://theverge.com/ai-artificial-intelligence/1003916/chatgpt-now-has-a-virtual-changing-room
 https://theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability
@@ -184,6 +186,10 @@ https://theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcra
 https://theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true
 https://theverge.com/ai-artificial-intelligence/1004598/ill-believe-it-when-i-see-it
 https://theverge.com/ai-artificial-intelligence/1004609/trump-names-his-super-intelligence-force-headed-by-spy-chief-jay-clayton
+https://theverge.com/ai-artificial-intelligence/1004634/google-pauses-open-source-bug-bounty-over-ai-slop-submissions
+https://theverge.com/ai-artificial-intelligence/1004655/openai-chatgpt-visual-ads
+https://theverge.com/ai-artificial-intelligence/1004672/mac-delete-apple-intelligence-ai-tool
+https://theverge.com/ai-artificial-intelligence/1004745/sony-reportedly-demanded-music-platforms-take-down-over-260000-ai-deepfake-tracks
 https://theverge.com/ai-artificial-intelligence/648595/anthropic-claude-research-google-workplace
 https://theverge.com/ai-artificial-intelligence/679852/trump-ai-safety-institute-name-mission-change
 https://theverge.com/ai-artificial-intelligence/767973/vibe-coding-ai-future-end-evolution
@@ -465,6 +471,7 @@ https://theverge.com/entertainment/1004376/sony-pictures-battlefield-movie-micha
 https://theverge.com/entertainment/1004592/avengers-endgame-is-the-highest-grossing-movie-in-history-again
 https://theverge.com/entertainment/1004595/prick-industrial-glam-punk-album-review
 https://theverge.com/entertainment/1004623/whats-your-music-consumption-medium-of-choice
+https://theverge.com/entertainment/1004734/cnn-ceo-mark-thompson-paramount-warner-bros
 https://theverge.com/entertainment/815745/pluribus-review-apple-tv
 https://theverge.com/entertainment/845459/disclosure-day-spielberg-trailer-release-date
 https://theverge.com/entertainment/877906/mewgenics-steam-sales-edmund-mcmillen-interview
@@ -1137,6 +1144,7 @@ https://theverge.com/podcast/1002375/todays-vergecast-pokemon-trading-cards-are-
 https://theverge.com/podcast/1002851/utah-ai-data-center-stratos-kevin-oleary-investigation-backlash
 https://theverge.com/podcast/1002956/todays-vergecast-dots-are-openais-cute-lil-guys
 https://theverge.com/podcast/1004059/openai-dots-kindle-homepad-cybercab-vergecast
+https://theverge.com/podcast/1004286/senator-adam-schiff-ai-trump-regulation-corruption
 https://theverge.com/podcast/905198/meta-lawsuits-facebook-instagram-youtube-social-media-addiction-section-230
 https://theverge.com/podcast/969231/samsung-unpacked-2026-vergecast-livestream
 https://theverge.com/podcast/971627/ai-smartphones-openai-vergecast
@@ -1504,6 +1512,7 @@ https://theverge.com/tech/1003936/home-assistant-says-big-tech-ruined-the-cloud-
 https://theverge.com/tech/1003956/keurig-alta-coffee-machine-altarounds-pucks-appliance-preorder
 https://theverge.com/tech/1004053/nacon-sony-playstation-licensed-revolution-5-unlimited-wireless-controller
 https://theverge.com/tech/1004074/samsung-raised-prices-on-its-galaxy-a-series-phones
+https://theverge.com/tech/1004079/tcl-p80-ultra-nxtpaper-matte-display-iphone-duo
 https://theverge.com/tech/1004131/3d-movies-are-finally-worth-watching-xreal-meta-glasses-vision-pro
 https://theverge.com/tech/1004133/beehiiv-price-increase-reactions
 https://theverge.com/tech/1004177/elon-musk-unfollows-shivon-zilis
@@ -1513,6 +1522,9 @@ https://theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents
 https://theverge.com/tech/1004320/feds-arrested-a-california-man-accused-of-smuggling-300-million-of-servers-with-nvidia-ai-chips-into-china
 https://theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link
 https://theverge.com/tech/1004611/john-ternus-has-basically-made-himself-apples-design-chief
+https://theverge.com/tech/1004637/the-pixel-10a-now-costs-100-more
+https://theverge.com/tech/1004643/google-android-apps-intel-googlebooks-performance
+https://theverge.com/tech/1004659/matty-benedetto-unnecessary-inventions-extension-c-usb-cable
 https://theverge.com/tech/24008239/sphere-las-vegas-experience-u2-screen
 https://theverge.com/tech/784323/upgrading-240hz-oled-gaming-monitor
 https://theverge.com/tech/795383/google-pixel-watch-4-review-android-smartwatch-gemini-wearable
@@ -1545,6 +1557,7 @@ https://theverge.com/tech/891741/apple-macbook-neo-a18-pro-review
 https://theverge.com/tech/891933/meta-oversight-board-ai-labels-deepfake-c2pa-facebook-instagram
 https://theverge.com/tech/892939/meta-facebook-whatsapp-messenger-scam-detection
 https://theverge.com/tech/893907/facebook-marketplace-ai-auto-reply-listings
+https://theverge.com/tech/894319/google-pixel-10a-review-screen-specs-battery-camera
 https://theverge.com/tech/897420/android-sideloading-unverified-developers-process
 https://theverge.com/tech/897471/meta-ai-moderation
 https://theverge.com/tech/897915/amazon-transformer-alexa-phone
@@ -1600,6 +1613,7 @@ https://theverge.com/tech/930336/att-tmobile-verizon-joint-venture-agreement-sat
 https://theverge.com/tech/930573/age-verification-bills-linux-open-source
 https://theverge.com/tech/931532/bambu-agpl-pawel-jarczak-open-source-threat-dmca-github
 https://theverge.com/tech/932153/snap-youtube-tiktok-lawsuit-social-media-addiction-schools
+https://theverge.com/tech/932312/linus-torvalds-linux-ai-security-bugs
 https://theverge.com/tech/933114/with-mass-layoffs-plannned-meta-reassigns-thousands-of-employees-to-ai-initiatives
 https://theverge.com/tech/933125/android-xr-samsung-warby-parker-gentle-monster-project-aura-xreal-google-io-2026
 https://theverge.com/tech/933705/google-gemini-app-updates-io-2026
@@ -1672,6 +1686,7 @@ https://theverge.com/tech/967741/heres-another-look-at-samsungs-upcoming-galaxy-
 https://theverge.com/tech/967926/samsung-galaxy-unpacked-july-2026-watch
 https://theverge.com/tech/967942/samsung-galaxy-unpacked-july-2026-news
 https://theverge.com/tech/967983/lg-monitors-mcafee-adware-gamers-nexus
+https://theverge.com/tech/968375/sony-udio-lawsuit-songs-ai-copyright
 https://theverge.com/tech/968459/fire-tv-now-easier-to-view-and-navigate
 https://theverge.com/tech/968535/philips-hues-latest-camera-might-be-for-your-tv
 https://theverge.com/tech/968663/samsung-galaxy-z-fold-8-wide-hands-on
