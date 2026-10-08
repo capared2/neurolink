@@ -38,6 +38,7 @@ https://theverge.com/2020/6/18/21291519/justwatch-streaming-search-engine-filter
 https://theverge.com/2020/9/18/21445168/tesla-driver-sleeping-police-charged-canada-autopilot
 https://theverge.com/2021/1/12/22227508/weber-june-acquired-smart-oven-grilling-tech
 https://theverge.com/2021/1/14/22227621/samsung-galaxy-smarttag-price-release-date-tile-locator
+https://theverge.com/2021/10/15/22728144/nintendo-64-sega-genesis-controllers-switch-online-expansion-pack-buy-order
 https://theverge.com/2021/4/9/22375366/facebook-ad-gender-bias-delivery-algorithm-discrimination
 https://theverge.com/2021/5/1/22413196/valve-steam-lawsuit-wolfire-games-humble-bundle-app-store-cut-epic-apple
 https://theverge.com/2021/6/13/22532185/xbox-series-x-mini-fridge-available-holiday-2021
@@ -519,7 +520,9 @@ https://theverge.com/entertainment/1005997/the-social-reconing-review-facebook-z
 https://theverge.com/entertainment/1006221/sebastian-maniscalco-siriusxm-channel-controversy
 https://theverge.com/entertainment/1006568/spotify-audiobooks-go-even-more-global
 https://theverge.com/entertainment/1006663/monhun-is-rising-on-netflix
+https://theverge.com/entertainment/1007492/cupertino-cbs-tv-review
 https://theverge.com/entertainment/1007548/crunchyroll-is-getting-a-spot-on-the-playstation-5s-home-screen
+https://theverge.com/entertainment/1007725/joe-rogan-spotify-podcast-deal
 https://theverge.com/entertainment/815745/pluribus-review-apple-tv
 https://theverge.com/entertainment/845459/disclosure-day-spielberg-trailer-release-date
 https://theverge.com/entertainment/877906/mewgenics-steam-sales-edmund-mcmillen-interview
@@ -700,11 +703,13 @@ https://theverge.com/gadgets/1006610/best-amazon-october-prime-day-tech-deals-da
 https://theverge.com/gadgets/1006710/bissell-carpet-cleaning-prime-day-deal-sale
 https://theverge.com/gadgets/1006806/apple-watch-series-12-prime-day-deal-sale
 https://theverge.com/gadgets/1006810/meta-quest-3s-prime-day-deal-sale
+https://theverge.com/gadgets/1006943/oppos-find-x10-phones-launch-outside-china-on-october-21st
 https://theverge.com/gadgets/1007040/nvidias-powerful-rtx-spark-laptops-can-cost-up-to-7000
 https://theverge.com/gadgets/1007110/october-prime-day-budget-deals-under-50
 https://theverge.com/gadgets/1007149/roku-oled-tv-pro-prime-day-deal-sale
 https://theverge.com/gadgets/1007489/teengage-engineering-stop-making-synths
 https://theverge.com/gadgets/1007528/heres-the-magnetic-usb-c-port-that-microsoft-built
+https://theverge.com/gadgets/1007668/read-this-profile-of-garmins-ceo
 https://theverge.com/gadgets/712844/today-im-toying-with
 https://theverge.com/gadgets/847777/oh-snap-i-have-a-new-favorite-phone-grip
 https://theverge.com/gadgets/905189/raspberry-pi-price-increases-pi-4-3gb
@@ -871,6 +876,8 @@ https://theverge.com/games/1005911/this-zelda-wind-waker-recomp-is-making-me-que
 https://theverge.com/games/1006092/playstation-portal-oled-wi-fi-alliance-certifications
 https://theverge.com/games/1006448/titanfall-2-vr-mod-circuitlord-jordan-juarez
 https://theverge.com/games/1006956/somebody-made-a-native-pc-port-of-the-silent-hills-p-t-demo
+https://theverge.com/games/1007602/xbox-xp-division-film-tv-products-events
+https://theverge.com/games/1007770/gta-6-leaks-cyberleek-jason-lucia-naked
 https://theverge.com/games/684957/splitgate-2-hat-apology
 https://theverge.com/games/816118/valve-steam-frame-vr-headset-streaming-arm-steamos-hands-on
 https://theverge.com/games/819080/valve-brings-back-steam-machines-steam-os-steam-frame-news-announcements
@@ -1688,8 +1695,13 @@ https://theverge.com/tech/1007132/icann-domains-2026-ai-agi
 https://theverge.com/tech/1007147/microsoft-surface-laptop-ultra-windows-event-everything-announced
 https://theverge.com/tech/1007384/windows-11-insiders-are-getting-a-battery-status-widget-for-keeping-an-eye-on-your-peripherals-power-levels
 https://theverge.com/tech/1007409/androids-physical-navigation-buttons-are-back-on-googlebooks-but-not-the-way-you-think
+https://theverge.com/tech/1007473/amazon-alexa-tablet-12-pro-nanomatte-hands-on
 https://theverge.com/tech/1007500/florida-asked-a-judge-to-order-meta-to-remove-kids-under-14-from-its-platforms
 https://theverge.com/tech/1007552/a-rumored-pixel-feature-could-make-it-easier-to-use-face-unlock-in-the-dark
+https://theverge.com/tech/1007648/amazon-alexa-tablets-price-specs
+https://theverge.com/tech/1007672/google-maps-and-waze-get-live-fuel-prices-in-the-uk
+https://theverge.com/tech/1007715/senator-accuses-trump-mobile-of-skipping-fcc-filings
+https://theverge.com/tech/1007721/custom-giant-functional-oversized-nintendo-64-n64-controller
 https://theverge.com/tech/24008239/sphere-las-vegas-experience-u2-screen
 https://theverge.com/tech/784323/upgrading-240hz-oled-gaming-monitor
 https://theverge.com/tech/795383/google-pixel-watch-4-review-android-smartwatch-gemini-wearable
