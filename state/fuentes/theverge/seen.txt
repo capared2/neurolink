@@ -230,6 +230,9 @@ https://theverge.com/ai-artificial-intelligence/1008134/claude-can-now-turn-data
 https://theverge.com/ai-artificial-intelligence/1008198/usa-today-openai-copyright-lawsuit
 https://theverge.com/ai-artificial-intelligence/1008339/former-openai-safety-researchers-ask-for-more-transparency-about-their-firings
 https://theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner
+https://theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers
+https://theverge.com/ai-artificial-intelligence/1008605/zuck-accelerated-muse-launch-in-response-to-instinct
+https://theverge.com/ai-artificial-intelligence/1008683/openai-disrupted-an-iranian-influence-campaign-that-published-ai-articles-across-a-dozen-publications
 https://theverge.com/ai-artificial-intelligence/648595/anthropic-claude-research-google-workplace
 https://theverge.com/ai-artificial-intelligence/679852/trump-ai-safety-institute-name-mission-change
 https://theverge.com/ai-artificial-intelligence/767973/vibe-coding-ai-future-end-evolution
@@ -533,7 +536,9 @@ https://theverge.com/entertainment/1007548/crunchyroll-is-getting-a-spot-on-the-
 https://theverge.com/entertainment/1007725/joe-rogan-spotify-podcast-deal
 https://theverge.com/entertainment/1007990/look-whos-talking-now
 https://theverge.com/entertainment/1008011/real-people-faced-off-inside-a-giant-street-fighter-arcade-cabinet-in-times-square
+https://theverge.com/entertainment/1008441/playdate-season-3
 https://theverge.com/entertainment/1008459/marvel-new-york-comic-con-zodiac-your-friendly-neighborhood-spider-man-season-2-zombies
+https://theverge.com/entertainment/1008609/meet-the-people-holding-up-the-internet
 https://theverge.com/entertainment/815745/pluribus-review-apple-tv
 https://theverge.com/entertainment/845459/disclosure-day-spielberg-trailer-release-date
 https://theverge.com/entertainment/877906/mewgenics-steam-sales-edmund-mcmillen-interview
@@ -1122,6 +1127,7 @@ https://theverge.com/news/668762/microsoft-grok-3-xai-models
 https://theverge.com/news/670346/google-try-on-clothes-ai-shopping-io-2025
 https://theverge.com/news/672013/google-synthid-detector-ai-generated-content-watermark-i-o-2025
 https://theverge.com/news/672092/senate-republican-vote-car-truck-pollution-ev-waiver-california
+https://theverge.com/news/676726/netflix-the-altruists-casting-ftx-sam-bankman-fried-caroline-ellison
 https://theverge.com/news/683846/macos-tahoe-intel-x86-arm-m-cpu
 https://theverge.com/news/687749/spigen-apple-watch-classic-c1-charger-stand
 https://theverge.com/news/696047/senate-republican-spending-bill-passage-renewable-wind-solar-energy
@@ -1285,6 +1291,7 @@ https://theverge.com/podcast/1006181/muse-dot-instinct-ai-agents-vergecast
 https://theverge.com/podcast/1007388/best-headphones-2026-vergecast
 https://theverge.com/podcast/1007408/meta-muse-openai-dots-ai-agent-race-privacy-free
 https://theverge.com/podcast/1008390/alexa-plus-tablet-review-vergecast
+https://theverge.com/podcast/1008707/amazon-alexa-tablet-googlebooks-apple-vergecast
 https://theverge.com/podcast/905198/meta-lawsuits-facebook-instagram-youtube-social-media-addiction-section-230
 https://theverge.com/podcast/969231/samsung-unpacked-2026-vergecast-livestream
 https://theverge.com/podcast/971627/ai-smartphones-openai-vergecast
@@ -1352,6 +1359,8 @@ https://theverge.com/policy/1007571/the-ftc-is-sending-money-to-people-affected-
 https://theverge.com/policy/1007713/the-fcc-might-let-political-groups-send-you-more-ai-robocalls
 https://theverge.com/policy/1008076/bipartisan-energy-permitting-bill-data-centers
 https://theverge.com/policy/1008115/trump-microsoft-worker-visa-program-vance
+https://theverge.com/policy/1008677/trump-super-intelligence-ai-rebranding
+https://theverge.com/policy/1008806/frances-haugen-social-reckoning-facebook-whistleblower
 https://theverge.com/policy/677373/lawyers-chatgpt-hallucinations-ai
 https://theverge.com/policy/694155/big-balls-is-still-here
 https://theverge.com/policy/799473/facebook-meta-ice-jawboning
@@ -1543,6 +1552,7 @@ https://theverge.com/streaming/1004300/sling-tv-pass-cable-drops
 https://theverge.com/streaming/1004323/netflix-david-fincher-shawn-levy-mike-flanagan-duffer-brothers-greta-gerwig
 https://theverge.com/streaming/1005942/netflix-the-conjuring-unspoken-games
 https://theverge.com/streaming/1006911/disney-plus-super-bowl-lxi-streaming
+https://theverge.com/streaming/1008722/youtube-meta-twitch-government-execution-livestream
 https://theverge.com/streaming/909230/its-an-amazing-art-form-that-is-way-too-limited-in-peoples-minds
 https://theverge.com/streaming/938759/youtube-custom-ai-feed-prompt-availability
 https://theverge.com/streaming/950116/fox-roku-takeover
@@ -1757,6 +1767,7 @@ https://theverge.com/tech/1008145/google-pixel-watch-1-2-free-safety-signal-emer
 https://theverge.com/tech/1008148/spacexai-omarchy-grok-david-heinemeier-hansson
 https://theverge.com/tech/1008182/apples-leadership-shuffles-continue
 https://theverge.com/tech/1008233/the-pixels-multi-camera-feature-expands-to-discord-whatsapp-and-more
+https://theverge.com/tech/1008254/instinct-agent-ai-hands-on-muse-dots
 https://theverge.com/tech/1008303/razer-basilisk-v4-pro-flagship-gaming-mouse-battery
 https://theverge.com/tech/1008310/more-2nd-party-apple-home-devices-leak
 https://theverge.com/tech/1008340/spotifast-spotify-desktop-alternative-windows-linux-macos-winamp-skins
@@ -1765,6 +1776,12 @@ https://theverge.com/tech/1008404/samsung-slashing-smartphone-production-rising-
 https://theverge.com/tech/1008422/apple-macbook-pro-touchscreen-ipad-mini-rumor
 https://theverge.com/tech/1008450/trump-nvidia-space-x-trades-awards
 https://theverge.com/tech/1008530/us-government-livestream-execution-firing-squad-fort-hood
+https://theverge.com/tech/1008563/googlebook-software-impressions-thoughts-roundtable
+https://theverge.com/tech/1008648/apple-signed-a-licensing-deal-with-an-ai-podcast-startup-from-former-notebooklm-leaders
+https://theverge.com/tech/1008658/meta-tiktok-bytedance-ads-ban
+https://theverge.com/tech/1008660/higher-iphone-prices-could-be-driving-down-demand
+https://theverge.com/tech/1008801/microsoft-windows-surface-event-hybrid-ai-notepad
+https://theverge.com/tech/1008812/apple-lg-homekit-tap-to-control-rumor
 https://theverge.com/tech/24008239/sphere-las-vegas-experience-u2-screen
 https://theverge.com/tech/784323/upgrading-240hz-oled-gaming-monitor
 https://theverge.com/tech/795383/google-pixel-watch-4-review-android-smartwatch-gemini-wearable
@@ -1817,6 +1834,7 @@ https://theverge.com/tech/905398/apple-iphone-anniversary-jobs-release
 https://theverge.com/tech/905946/windows-11-forced-obsolescence-linux-thinkpad
 https://theverge.com/tech/907856/iphone-fold-dummy-design-delay-production
 https://theverge.com/tech/908962/dyson-hushjet-mini-cool-personal-handheld-fan-hands-on
+https://theverge.com/tech/909122/amazons-starlink-competitor-leo-gets-a-new-date
 https://theverge.com/tech/909617/meta-removes-ads-from-lawyers-seeking-plaintiffs-for-social-media-addiction-cases
 https://theverge.com/tech/909784/frances-government-is-switching-to-linux
 https://theverge.com/tech/911617/amazon-globalstar-apple-iphone-watch-satellite-internet
@@ -1916,6 +1934,7 @@ https://theverge.com/tech/965090/microsoft-windows-11-search-menu-ads
 https://theverge.com/tech/965643/microsoft-windows-11-july-2026-patch-tuesday-updates
 https://theverge.com/tech/965660/metas-ai-can-now-dub-your-voice-in-more-languages-on-instagram-and-facebook
 https://theverge.com/tech/965884/motorola-edge-70-max-qi2-wireless-price-availability
+https://theverge.com/tech/966112/google-gemini-notebook-notebooklm
 https://theverge.com/tech/966457/common-sense-media-says-that-googles-ai-search-is-unsafe-for-kids-with-no-way-for-parents-and-teachers-to-turn-it-off
 https://theverge.com/tech/966560/xteink-e-ink-e-reader-x4-pro-touchscreen-light-hands-on
 https://theverge.com/tech/966884/microsoft-comic-sans-chat-open-source
