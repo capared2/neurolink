@@ -229,6 +229,7 @@ https://theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-poli
 https://theverge.com/ai-artificial-intelligence/1008134/claude-can-now-turn-data-into-animated-explainers
 https://theverge.com/ai-artificial-intelligence/1008198/usa-today-openai-copyright-lawsuit
 https://theverge.com/ai-artificial-intelligence/1008339/former-openai-safety-researchers-ask-for-more-transparency-about-their-firings
+https://theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner
 https://theverge.com/ai-artificial-intelligence/648595/anthropic-claude-research-google-workplace
 https://theverge.com/ai-artificial-intelligence/679852/trump-ai-safety-institute-name-mission-change
 https://theverge.com/ai-artificial-intelligence/767973/vibe-coding-ai-future-end-evolution
@@ -532,6 +533,7 @@ https://theverge.com/entertainment/1007548/crunchyroll-is-getting-a-spot-on-the-
 https://theverge.com/entertainment/1007725/joe-rogan-spotify-podcast-deal
 https://theverge.com/entertainment/1007990/look-whos-talking-now
 https://theverge.com/entertainment/1008011/real-people-faced-off-inside-a-giant-street-fighter-arcade-cabinet-in-times-square
+https://theverge.com/entertainment/1008459/marvel-new-york-comic-con-zodiac-your-friendly-neighborhood-spider-man-season-2-zombies
 https://theverge.com/entertainment/815745/pluribus-review-apple-tv
 https://theverge.com/entertainment/845459/disclosure-day-spielberg-trailer-release-date
 https://theverge.com/entertainment/877906/mewgenics-steam-sales-edmund-mcmillen-interview
@@ -892,6 +894,7 @@ https://theverge.com/games/1007953/new-switch-sports-resort-trailer-shows-off-ar
 https://theverge.com/games/1007965/gta-6-music-radio-stations-podcasts
 https://theverge.com/games/1008132/45-minutes-of-indie-game-news
 https://theverge.com/games/1008327/paramount-pictures-cyberpunk-2077-film-movie
+https://theverge.com/games/1008353/amd-will-bring-fsr-4-to-handhelds-by-the-end-of-2026
 https://theverge.com/games/682063/the-new-york-times-nyt-games-crossplay-scrabble-pips
 https://theverge.com/games/684957/splitgate-2-hat-apology
 https://theverge.com/games/816118/valve-steam-frame-vr-headset-streaming-arm-steamos-hands-on
@@ -1487,6 +1490,7 @@ https://theverge.com/science/1005077/el-nino-planetary-wave-kelvin
 https://theverge.com/science/1006082/google-nuclear-energy-power-purchase-agreement-constellation
 https://theverge.com/science/1007407/this-week-in-the-big-ai-data-center-buildout
 https://theverge.com/science/1008267/peptides-trump-administration-compounding-pharmacies
+https://theverge.com/science/1008467/spacex-announces-plan-to-become-a-major-mobile-carrier
 https://theverge.com/science/786067/clippers-kawhi-leonard-salary-cap-investigation-carbon-credit-climate-change
 https://theverge.com/science/839303/rfk-jr-s-vaccine-committee-says-hepatitis-b-shot-can-wait
 https://theverge.com/science/960442/spacex-phone-prototype-elon-musk
@@ -1755,6 +1759,10 @@ https://theverge.com/tech/1008303/razer-basilisk-v4-pro-flagship-gaming-mouse-ba
 https://theverge.com/tech/1008310/more-2nd-party-apple-home-devices-leak
 https://theverge.com/tech/1008340/spotifast-spotify-desktop-alternative-windows-linux-macos-winamp-skins
 https://theverge.com/tech/1008401/california-shut-down-rek-fighting-robot-company-human
+https://theverge.com/tech/1008404/samsung-slashing-smartphone-production-rising-memory-costs
+https://theverge.com/tech/1008422/apple-macbook-pro-touchscreen-ipad-mini-rumor
+https://theverge.com/tech/1008450/trump-nvidia-space-x-trades-awards
+https://theverge.com/tech/1008530/us-government-livestream-execution-firing-squad-fort-hood
 https://theverge.com/tech/24008239/sphere-las-vegas-experience-u2-screen
 https://theverge.com/tech/784323/upgrading-240hz-oled-gaming-monitor
 https://theverge.com/tech/795383/google-pixel-watch-4-review-android-smartwatch-gemini-wearable
@@ -2627,5 +2635,6 @@ https://theverge.com/transportation/999432/nhtsa-opens-probe-into-commas-driver-
 https://theverge.com/transportation/999785/amflow-tl-review-avinox-esuv-e-bike-avinox
 https://theverge.com/transportation/999891/waymo-safety-data-injury-crash-human-driver
 https://theverge.com/transportation/999932/bentley-launched-its-first-fully-electric-vehicle-the-torcal-suv
+https://theverge.com/tv/606081/your-friendly-neighborhood-spider-man-community-justice
 https://theverge.com/tv/621815/kiana-mai-pretty-pretty-please-i-dont-want-to-be-a-magical-girl
 https://theverge.com/tv/756298/paramount-plus-skydance-merger-complete-david-ellison
