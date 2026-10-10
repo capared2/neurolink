@@ -237,9 +237,11 @@ https://theverge.com/ai-artificial-intelligence/1008683/openai-disrupted-an-iran
 https://theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos
 https://theverge.com/ai-artificial-intelligence/1008930/nikon-small-world-in-motion-winner-ai
 https://theverge.com/ai-artificial-intelligence/1008992/laura-reiley-sam-altman-chatgpt-suicide-research
+https://theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots
 https://theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip
 https://theverge.com/ai-artificial-intelligence/1009190/microsoft-ai-decision-model
 https://theverge.com/ai-artificial-intelligence/1009251/anthropic-published-a-report-about-investigating-unintended-model-actions-during-evaluations-and-internal-use
+https://theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet
 https://theverge.com/ai-artificial-intelligence/648595/anthropic-claude-research-google-workplace
 https://theverge.com/ai-artificial-intelligence/679852/trump-ai-safety-institute-name-mission-change
 https://theverge.com/ai-artificial-intelligence/767973/vibe-coding-ai-future-end-evolution
@@ -546,8 +548,10 @@ https://theverge.com/entertainment/1008011/real-people-faced-off-inside-a-giant-
 https://theverge.com/entertainment/1008441/playdate-season-3
 https://theverge.com/entertainment/1008459/marvel-new-york-comic-con-zodiac-your-friendly-neighborhood-spider-man-season-2-zombies
 https://theverge.com/entertainment/1008609/meet-the-people-holding-up-the-internet
+https://theverge.com/entertainment/1008654/k-pop-sunmi-wonder-girls-interview
 https://theverge.com/entertainment/1008748/fjord-cristian-mungiu-interview
 https://theverge.com/entertainment/1008928/mastodon-is-pressing-their-new-album-on-literal-mastodon-fossils
+https://theverge.com/entertainment/1009277/dj-mehdi-gets-a-square-named-after-him-in-paris
 https://theverge.com/entertainment/815745/pluribus-review-apple-tv
 https://theverge.com/entertainment/845459/disclosure-day-spielberg-trailer-release-date
 https://theverge.com/entertainment/877906/mewgenics-steam-sales-edmund-mcmillen-interview
@@ -936,6 +940,7 @@ https://theverge.com/games/939551/minecraft-dungeons-ii-2-release-date-trailer
 https://theverge.com/games/942678/nintendo-ds-rules-for-travel
 https://theverge.com/games/943147/amazon-gaming-strategy-james-bond-snoop-dogg-luna
 https://theverge.com/games/944107/paramount-is-making-a-unified-games-studio
+https://theverge.com/games/949010/best-handheld-gaming-pc
 https://theverge.com/games/950265/robloxs-new-types-of-accounts-with-increased-restrictions-for-kids-are-rolling-out-globally
 https://theverge.com/games/952204/grand-theft-auto-vi-price
 https://theverge.com/games/952765/steam-machine-review
@@ -1305,6 +1310,7 @@ https://theverge.com/podcast/1007388/best-headphones-2026-vergecast
 https://theverge.com/podcast/1007408/meta-muse-openai-dots-ai-agent-race-privacy-free
 https://theverge.com/podcast/1008390/alexa-plus-tablet-review-vergecast
 https://theverge.com/podcast/1008707/amazon-alexa-tablet-googlebooks-apple-vergecast
+https://theverge.com/podcast/1008733/warner-skydance-paramount-ellison-debt-failure
 https://theverge.com/podcast/905198/meta-lawsuits-facebook-instagram-youtube-social-media-addiction-section-230
 https://theverge.com/podcast/969231/samsung-unpacked-2026-vergecast-livestream
 https://theverge.com/podcast/971627/ai-smartphones-openai-vergecast
@@ -1802,11 +1808,14 @@ https://theverge.com/tech/1008812/apple-lg-homekit-tap-to-control-rumor
 https://theverge.com/tech/1008833/amazon-kindle-light-leak
 https://theverge.com/tech/1008836/social-reckoning-cupertino-techlash-installer
 https://theverge.com/tech/1008918/google-fitbit-edge-launch-next-week
+https://theverge.com/tech/1008957/lg-mrgb95b-rgb-led-tv-review
 https://theverge.com/tech/1008967/pc-shipments-dropped-around-20-percent-in-q3-analyst-firms-say
 https://theverge.com/tech/1009115/apple-may-have-filed-to-trademark-the-word-homeview
 https://theverge.com/tech/1009127/google-is-reportedly-working-on-an-upgraded-tv-streamer
 https://theverge.com/tech/1009225/kalshi-is-investigating-trades-about-trumps-new-press-secretary-pick
+https://theverge.com/tech/1009294/ledger-wallet-tampering-suspected-after-reports-of-crypto-thefts
 https://theverge.com/tech/24008239/sphere-las-vegas-experience-u2-screen
+https://theverge.com/tech/625223/book-log-read-goodreads
 https://theverge.com/tech/784323/upgrading-240hz-oled-gaming-monitor
 https://theverge.com/tech/795383/google-pixel-watch-4-review-android-smartwatch-gemini-wearable
 https://theverge.com/tech/798921/facebook-local-jobs-us

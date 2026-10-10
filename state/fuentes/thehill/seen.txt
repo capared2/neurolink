@@ -868,8 +868,11 @@ https://thehill.com/homenews/administration/6139442-vance-rejects-hasan-executio
 https://thehill.com/homenews/administration/6139679-trump-cancels-tuscaloosa-trip
 https://thehill.com/homenews/administration/6139973-trump-guilfoyle-debt-controversy
 https://thehill.com/homenews/administration/6139979-trump-mixed-hasan-execution-livestream
+https://thehill.com/homenews/administration/6140148-live-updates-trump-tennessee-rally-execution-livestream
 https://thehill.com/homenews/administration/6140233-trump-supreme-court-clinton-lawsuit-appeal
 https://thehill.com/homenews/administration/6140425-trump-nobel-peace-prize-criticism
+https://thehill.com/homenews/administration/6140462-democrats-slam-trump-putin-diesel-deal
+https://thehill.com/homenews/administration/6140694-trump-defends-russian-diesel-deal
 https://thehill.com/homenews/analysis/6040221-democrats-leftist-win-senate-race
 https://thehill.com/homenews/analysis/6042626-treasury-secretary-bessent-buyback
 https://thehill.com/homenews/analysis/6057609-gop-campaign-centered-trump
@@ -892,6 +895,7 @@ https://thehill.com/homenews/analysis/6110670-rising-bond-yields-midterm-trouble
 https://thehill.com/homenews/analysis/6124603-death-penalty-christa-pike-tennessee
 https://thehill.com/homenews/analysis/6130693-russia-pneumonic-plague-fear
 https://thehill.com/homenews/analysis/6132671-trump-pauses-taxpayer-funded-ads
+https://thehill.com/homenews/analysis/6140076-trump-guilfoyle-controversy-response-column
 https://thehill.com/homenews/campaign/6022972-graham-wins-south-carolina-senate-primary
 https://thehill.com/homenews/campaign/6030474-live-results-oklahoma-gop-governor-primary-runoff
 https://thehill.com/homenews/campaign/6030475-live-results-south-carolina-live-results
@@ -1282,6 +1286,7 @@ https://thehill.com/homenews/campaign/6138736-cook-political-report-shifts-house
 https://thehill.com/homenews/campaign/6138767-vance-set-to-visit-texas-for-second-time-in-two-weeks
 https://thehill.com/homenews/campaign/6139306-ocasio-cortez-el-sayed-michigan-campaign
 https://thehill.com/homenews/campaign/6139683-jackson-leads-collins-poll
+https://thehill.com/homenews/campaign/6140552-james-talarico-returns-flu-absence-campaign
 https://thehill.com/homenews/campaign/data-nerds/6040929-democratic-socialist-angie-nixon-florida-upset-what-to-know-discussion
 https://thehill.com/homenews/campaign/data-nerds/6054870-democratic-party-senate-control-division-2026-midterms-discussion
 https://thehill.com/homenews/campaign/data-nerds/6068929-abdul-el-sayed-democratic-tensions-michigan-senate-race-discussion
@@ -1975,6 +1980,7 @@ https://thehill.com/homenews/state-watch/6134658-christa-pike-tennessee-botched-
 https://thehill.com/homenews/state-watch/6134934-jamaal-howard-death-penalty-appeal
 https://thehill.com/homenews/state-watch/6138437-mamdani-ice-shooting-new-york
 https://thehill.com/homenews/state-watch/6139528-desantis-withdraws-death-warrant
+https://thehill.com/homenews/state-watch/6140615-erie-mass-shooting-nine-dead
 https://thehill.com/homenews/sunday-talk-shows/6045326-sunday-shows-trump-canada-trade-republican-primaries
 https://thehill.com/homenews/sunday-talk-shows/6059207-sunday-shows-trump-gop-economic-tensions-foreign-relations
 https://thehill.com/homenews/sunday-talk-shows/6073362-sunday-shows-trump-rnc-convention-iran-war
@@ -2415,6 +2421,7 @@ https://thehill.com/opinion/congress-blog/labor/6072523-senate-labor-contracts-a
 https://thehill.com/opinion/congress-blog/labor/6072685-national-minimum-wage-future
 https://thehill.com/opinion/congress-blog/labor/6072884-osha-safety-standards-failure
 https://thehill.com/opinion/congress-blog/labor/6104591-congress-federal-union-accountability
+https://thehill.com/opinion/congress-blog/labor/6139141-epa-union-contract-lawsuit
 https://thehill.com/opinion/congress-blog/politics/6072170-conservative-shift-israel-generation
 https://thehill.com/opinion/congress-blog/politics/6073712-bipartisan-rejecting-socialist-policies
 https://thehill.com/opinion/congress-blog/politics/6081670-911-anniversary-political-accountability
@@ -2441,6 +2448,7 @@ https://thehill.com/opinion/criminal-justice/6108239-postpartum-psychosis-verdic
 https://thehill.com/opinion/criminal-justice/6112380-states-copying-controversial-execution-policies
 https://thehill.com/opinion/criminal-justice/6128840-teaching-men-consent
 https://thehill.com/opinion/criminal-justice/6133003-bop-staffing-safety-crisis
+https://thehill.com/opinion/criminal-justice/6138825-smith-no-kings-shirt
 https://thehill.com/opinion/cybersecurity/6047624-iranian-hackers-water-infrastructure
 https://thehill.com/opinion/cybersecurity/6077287-cybersecurity-needs-aviation-security-layers
 https://thehill.com/opinion/cybersecurity/6086743-ncc-to-oversee-vetted-hacking-firms
@@ -2748,6 +2756,8 @@ https://thehill.com/opinion/national-security/6128724-iran-is-losing-thats-why-w
 https://thehill.com/opinion/national-security/6130478-tsa-horizon-25-security-strategy
 https://thehill.com/opinion/national-security/6134101-putin-rules-war-crimes
 https://thehill.com/opinion/national-security/6135624-german-intelligence-head-arrested
+https://thehill.com/opinion/national-security/6139049-combating-horizontal-escalation-adversaries
+https://thehill.com/opinion/national-security/6139525-american-national-security-maintenance
 https://thehill.com/opinion/robbys-radar/6041771-cnn-erin-burnett-natalie-harp
 https://thehill.com/opinion/robbys-radar/6047297-data-centers-public-opposition
 https://thehill.com/opinion/robbys-radar/6049731-el-sayed-hasan-piker-distancing
@@ -2818,6 +2828,7 @@ https://thehill.com/opinion/technology/6131723-ai-online-scam-losses
 https://thehill.com/opinion/technology/6131982-stop-ai-child-exploitation
 https://thehill.com/opinion/technology/6135669-faa-modernization-funding-critique
 https://thehill.com/opinion/technology/6137559-the-hypocrisy-of-the-data-center-moratorium
+https://thehill.com/opinion/technology/6139168-ai-risks-high-tech-feudalism
 https://thehill.com/opinion/white-house/6036778-what-is-trump-afraid-we-will-see-about-how-the-tariffs-were-formulated
 https://thehill.com/opinion/white-house/6042186-trump-navy-war
 https://thehill.com/opinion/white-house/6042342-fda-food-safety-reform
@@ -3406,6 +3417,7 @@ https://thehill.com/policy/international/6138816-nobel-winner-navi-pillay-donald
 https://thehill.com/policy/international/6139090-israel-condemns-navi-pillay-nobel
 https://thehill.com/policy/international/6139686-trump-administration-icc-sanctions-akane-rejects
 https://thehill.com/policy/international/6140027-flydubai-co-pilot-ben-gurion-airport
+https://thehill.com/policy/international/6140669-pope-decries-death-penalty
 https://thehill.com/policy/national-security/6049802-cia-director-ratcliffe-moscow-visit
 https://thehill.com/policy/national-security/6056134-senators-oppose-ice-shocking-gloves
 https://thehill.com/policy/national-security/6059574-homan-ice-bus-stop-arrests
@@ -3608,6 +3620,7 @@ https://thehill.com/policy/technology/6134371-cantwell-unveils-ai-regulation-fra
 https://thehill.com/policy/technology/6136384-nfl-urges-supreme-court-prediction-markets
 https://thehill.com/policy/technology/6136675-vance-suspends-microsoft-perm
 https://thehill.com/policy/technology/6137774-openai-bans-iran-russia-influence-operations
+https://thehill.com/policy/technology/6140504-kalshi-investigates-press-secretary-bets
 https://thehill.com/policy/transportation/6050209-tsa-phases-out-gold-program
 https://thehill.com/policy/transportation/6050669-uber-new-family-features-teen-accounts-stream-safety
 https://thehill.com/policy/transportation/6059553-google-maps-renames-lake-america
