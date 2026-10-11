@@ -22,6 +22,7 @@ https://nbcnews.com/business/ceo-interviews/zillow-ceo-wacksman-real-estate-ai-i
 https://nbcnews.com/business/consumer/canada-retaliates-against-trump-tariffs-rcna594280
 https://nbcnews.com/business/consumer/china-us-tariff-cuts-60-billion-trump-xi-rcna600214
 https://nbcnews.com/business/consumer/different-prices-ticket-found-stubhub-rcna600254
+https://nbcnews.com/business/consumer/halloween-candy-prices-jump-81-americans-stock-rcna601827
 https://nbcnews.com/business/consumer/starbucks-responds-chipotle-merger-report-rcna602388
 https://nbcnews.com/business/consumer/toys-r-us-opening-120-new-stores-rcna598543
 https://nbcnews.com/business/consumer/trumps-moves-boost-diesel-supplies-not-yet-lowered-prices-rcna602495
@@ -258,6 +259,7 @@ https://nbcnews.com/health/diet-fitness/simple-high-fiber-breakfast-womens-healt
 https://nbcnews.com/health/diet-fitness/whole-grains-servings-per-day-heart-health-study-rcna600702
 https://nbcnews.com/health/disease/4-biggest-red-flags-family-medical-history-expert-tip-rcna600984
 https://nbcnews.com/health/disease/chicago-med-student-cancer-diagnosis-first-symptoms-leukemia-rcna600683
+https://nbcnews.com/health/disease/ron-bennington-stage-4-colon-cancer-symptoms-rcna602570
 https://nbcnews.com/health/hayden-panettiere-coroners-report-details-rcna599401
 https://nbcnews.com/health/health-care/texas-ag-paxton-investigates-military-healthcare-contractor-denied-cla-rcna592347
 https://nbcnews.com/health/health-care/thought-insurance-coverage-tumor-was-flagged-pre-existing-condition-rcna594220
@@ -1582,6 +1584,7 @@ https://nbcnews.com/select/shopping/amazon-prime-benefits-cost-ncna1269672
 https://nbcnews.com/select/shopping/amazon-prime-day-2026-gift-card-deals-rcna601499
 https://nbcnews.com/select/shopping/amazon-prime-day-history-rcna217249
 https://nbcnews.com/select/shopping/amazon-prime-day-smartwatch-deals-2026-rcna601488
+https://nbcnews.com/select/shopping/angie-katsanevas-rhoslc-favorite-things-rcna602574
 https://nbcnews.com/select/shopping/apple-iphone-18-airpods-5-watch-series-12-launch-rcna598416
 https://nbcnews.com/select/shopping/apple-iphone-duo-rcna596872
 https://nbcnews.com/select/shopping/are-colored-mascaras-safe-rcna597111
@@ -1886,6 +1889,7 @@ https://nbcnews.com/sports/nfl/nfl-kickoff-season-preview-2026-all-teams-rcna594
 https://nbcnews.com/sports/nfl/nfl-los-angeles-chargers-houston-texans-results-playoffs-rcna598901
 https://nbcnews.com/sports/nfl/nfl-new-england-patriots-drake-maye-new-york-jets-justin-herbert-rcna601527
 https://nbcnews.com/sports/nfl/nfl-nfc-east-giants-commanders-eagles-cowboys-rcna601467
+https://nbcnews.com/sports/nfl/nfl-referees-officials-flags-suspension-rcna602202
 https://nbcnews.com/sports/nfl/nfl-results-chargers-cowboys-rams-winless-rcna598255
 https://nbcnews.com/sports/nfl/nfl-reviewing-arizona-cardinals-trey-mcbride-referee-official-rcna601512
 https://nbcnews.com/sports/nfl/nfl-suspends-two-referees-unprofessional-conduct-trey-mcbride-rcna601736
@@ -2079,6 +2083,7 @@ https://nbcnews.com/world/asia/former-husband-laws-hong-kong-socialite-abby-choi
 https://nbcnews.com/world/asia/hong-kong-activist-joshua-wong-pleads-guilty-second-national-security-rcna595649
 https://nbcnews.com/world/asia/hong-kong-court-convicts-wall-street-journal-publisher-union-rcna596962
 https://nbcnews.com/world/asia/hopes-finding-survivors-dim-week-catastrophic-nepal-flood-rcna595673
+https://nbcnews.com/world/asia/india-protests-cockroach-leaders-released-modi-elections-rcna602742
 https://nbcnews.com/world/asia/indonesia-cancels-flights-anak-krakatau-volcano-erupts-rcna596330
 https://nbcnews.com/world/asia/indonesian-passenger-ship-search-rcna597448
 https://nbcnews.com/world/asia/japan-more-than-100000-centenarians-rcna598081
@@ -2301,6 +2306,7 @@ https://nbcnews.com/world/middle-east/palestinian-nbc-news-team-attacked-masked-
 https://nbcnews.com/world/middle-east/people-fleeing-iran-backed-rebels-advance-yemen-describe-hysterical-pa-rcna597462
 https://nbcnews.com/world/middle-east/riyadh-airport-attacked-rcna602662
 https://nbcnews.com/world/middle-east/rubio-waives-human-rights-restrictions-release-320-million-military-ai-rcna601047
+https://nbcnews.com/world/middle-east/saudi-airport-attack-trump-us-join-fight-houthis-rcna602744
 https://nbcnews.com/world/middle-east/saudi-arabia-mecca-houthis-drone-iran-war-trump-oil-gas-prices-rcna598075
 https://nbcnews.com/world/middle-east/saudi-arabia-shutdown-key-pipeline-limits-oil-flow-yemen-houthis-rcna597362
 https://nbcnews.com/world/middle-east/smit-machchhar-pilot-hero-averting-crash-israel-plane-rcna600874
@@ -2324,10 +2330,12 @@ https://nbcnews.com/world/phillipines/philippines-president-posts-bail-arrest-or
 https://nbcnews.com/world/pope-leo-xiv/contradicting-trump-pope-leo-says-artificial-intelligence-safety-conce-rcna600390
 https://nbcnews.com/world/pope-leo-xiv/pope-leo-champions-free-press-rcna599810
 https://nbcnews.com/world/pope-leo-xiv/pope-leo-draws-vast-crowds-paris-warns-ai-paradise-machines-rcna599958
+https://nbcnews.com/world/pope-leo-xiv/pope-leo-undergo-surgery-remove-nodule-lung-rcna602747
 https://nbcnews.com/world/russia/drones-hit-yandex-data-center-first-major-attack-russian-data-hub-rcna602241
 https://nbcnews.com/world/russia/mystery-us-military-plane-lands-moscow-rcna594262
 https://nbcnews.com/world/russia/north-korea-russia-open-first-road-bridge-state-media-reports-rcna596436
 https://nbcnews.com/world/russia/nuclear-energy-making-global-comeback-cfr-rcna594077
+https://nbcnews.com/world/russia/polands-police-warn-possible-plot-attack-prime-minister-donald-tusk-rcna602748
 https://nbcnews.com/world/russia/putin-says-russia-will-use-weapons-arsenal-territory-attacked-rcna601034
 https://nbcnews.com/world/russia/putins-party-secures-record-number-seats-russias-wartime-election-rcna599797
 https://nbcnews.com/world/russia/russia-close-german-cultural-centers-berlin-blames-moscow-airport-rcna595863
