@@ -1215,6 +1215,7 @@ https://skysports.com/football/arsenal-vs-lille/report/577615
 https://skysports.com/football/arsenal-women-vs-hb-kge-women/report/578232
 https://skysports.com/football/aston-villa-vs-arsenal/report/559454
 https://skysports.com/football/aston-villa-vs-brentford/report/559495
+https://skysports.com/football/aston-villa-vs-fenerbahce/report/577624
 https://skysports.com/football/aston-villa-vs-nottingham-forest/report/559474
 https://skysports.com/football/atletico-madrid-vs-manchester-united/report/577616
 https://skysports.com/football/bayern-munich-women-vs-manchester-city-women/report/578233
@@ -1324,7 +1325,9 @@ https://skysports.com/football/leeds-united-vs-newcastle-united/report/559479
 https://skysports.com/football/lincoln-city-vs-blackburn-rovers/report/560535
 https://skysports.com/football/lincoln-city-vs-southampton/report/560548
 https://skysports.com/football/lincoln-city-vs-swansea-city/report/560586
+https://skysports.com/football/lincoln-city-vs-west-ham-united/report/560614
 https://skysports.com/football/linz-ask-vs-celtic/report/577269
+https://skysports.com/football/linz-ask-vs-liverpool/report/577627
 https://skysports.com/football/liverpool-vs-atletico-madrid/report/577604
 https://skysports.com/football/liverpool-vs-fulham/report/559480
 https://skysports.com/football/liverpool-vs-manchester-city/report/559501
@@ -1334,6 +1337,7 @@ https://skysports.com/football/london-city-lionesses-vs-brighton-and-hove-albion
 https://skysports.com/football/london-city-lionesses-vs-manchester-united-women/report/575755
 https://skysports.com/football/manchester-city-vs-coventry-city/report/559471
 https://skysports.com/football/manchester-city-vs-norwich-city/report/577580
+https://skysports.com/football/manchester-city-vs-paris-saint-germain/report/577628
 https://skysports.com/football/manchester-city-vs-sunderland/report/559490
 https://skysports.com/football/manchester-city-women-vs-arsenal-women/report/575786
 https://skysports.com/football/manchester-city-women-vs-liverpool-women/report/575769
@@ -1947,6 +1951,7 @@ https://skysports.com/football/news/11095/13599187/bukayo-saka-arsenal-winger-mo
 https://skysports.com/football/news/11095/13599196/lisandro-martinez-future-of-defender-at-man-utd-in-doubt-following-public-outburst-directed-at-clubs-hierarchy
 https://skysports.com/football/news/11095/13599282/lisandro-martinez-manchester-united-outburst-qa-jason-wilcox-transfer-strategy-and-what-next
 https://skysports.com/football/news/11095/13599314/antoine-semenyo-manchester-city-forward-froze-after-alleged-racial-abuse-by-liverpool-fan-court-hears
+https://skysports.com/football/news/11095/13599417/lisandro-martinez-man-utd-defender-releases-statement-to-clarify-outburst-but-does-not-apologise
 https://skysports.com/football/news/11096/13576531/aston-villa-unai-emerys-problems-mounting-ahead-of-arsenal-test-after-threadbare-squad-falls-apart-against-brighton
 https://skysports.com/football/news/11096/13580813/free-agents-jadon-sancho-paul-pogba-and-dele-alli-among-players-available-on-free-transfer-after-summer-window-shuts
 https://skysports.com/football/news/11661/13193390/sky-sports-fantasy-podcast-fpl-tips-strategy-captaincy-and-transfers
@@ -2248,6 +2253,7 @@ https://skysports.com/football/news/11661/13599187/bukayo-saka-arsenal-winger-mo
 https://skysports.com/football/news/11661/13599196/lisandro-martinez-future-of-defender-at-man-utd-in-doubt-following-public-outburst-directed-at-clubs-hierarchy
 https://skysports.com/football/news/11661/13599282/lisandro-martinez-manchester-united-outburst-qa-jason-wilcox-transfer-strategy-and-what-next
 https://skysports.com/football/news/11661/13599314/antoine-semenyo-manchester-city-forward-froze-after-alleged-racial-abuse-by-liverpool-fan-court-hears
+https://skysports.com/football/news/11661/13599417/lisandro-martinez-man-utd-defender-releases-statement-to-clarify-outburst-but-does-not-apologise
 https://skysports.com/football/news/11662/13584237/man-utd-vs-man-city-ayyoub-bouaddi-elliot-anderson-and-enzo-fernandez-are-the-perfect-answer-to-rodris-summer-exit
 https://skysports.com/football/news/11667/13575283/carlos-baleba-transfer-manchester-united-complete-signing-of-cameroon-midfielder-from-brighton
 https://skysports.com/football/news/11667/13576671/man-utd-why-there-shouldnt-be-panic-after-michael-carricks-side-suffered-premier-league-loss-at-hull-on-opening-day
@@ -2940,6 +2946,7 @@ https://skysports.com/football/news/12040/13599187/bukayo-saka-arsenal-winger-mo
 https://skysports.com/football/news/12040/13599196/lisandro-martinez-future-of-defender-at-man-utd-in-doubt-following-public-outburst-directed-at-clubs-hierarchy
 https://skysports.com/football/news/12040/13599282/lisandro-martinez-manchester-united-outburst-qa-jason-wilcox-transfer-strategy-and-what-next
 https://skysports.com/football/news/12040/13599314/antoine-semenyo-manchester-city-forward-froze-after-alleged-racial-abuse-by-liverpool-fan-court-hears
+https://skysports.com/football/news/12040/13599417/lisandro-martinez-man-utd-defender-releases-statement-to-clarify-outburst-but-does-not-apologise
 https://skysports.com/football/news/12097/13554647/fanalysis-tournament-mode-now-live
 https://skysports.com/football/news/12098/13481245/world-cup-2026-fixture-schedule-and-uk-kick-off-times-day-by-day-breakdown-of-all-104-matches-including-england-scotland
 https://skysports.com/football/news/12098/13514357/middle-east-crisis-will-iran-play-at-world-cup-co-hosted-by-usa-how-conflict-affects-sport
@@ -3138,8 +3145,12 @@ https://skysports.com/football/news/13592803/millwall-0-1-swansea-ronald-winner-
 https://skysports.com/football/news/13592807/wolves-x-x-bolton
 https://skysports.com/football/news/13592811/olivia-holdt-tottenham-forward-on-being-second-in-wsl-chelsea-and-arsenal-tests-life-under-martin-ho
 https://skysports.com/football/news/13592815/birmingham-x-x-preston
+https://skysports.com/football/news/13592825/norwich-0-1-southampton-kuryu-matsuki-scores-saints-winner
 https://skysports.com/football/news/13592852/manchester-city-charges-everything-we-know-so-far-about-premier-league-allegations-and-what-happens-from-here
 https://skysports.com/football/news/13592945/lewis-ferguson-on-rangers-dream-after-summer-speculation-about-bologna-captains-future
+https://skysports.com/football/news/13592957/portsmouth-3-2-sheffield-united-ebou-adams-scores-late-pompey-winner-against-10-man-blades
+https://skysports.com/football/news/13592961/qpr-4-1-derby-rangers-thump-four-past-struggling-rams
+https://skysports.com/football/news/13592964/lincoln-0-6-west-ham-hammers-net-six-against-nine-man-imps
 https://skysports.com/football/news/13593034/man-city-ceo-ferran-soriano-says-fight-against-premier-league-could-take-years-to-conclude-amid-reports-of-decision-in-115-charges-case
 https://skysports.com/football/news/13593061/northern-ireland-0-0-hungary-michael-oneills-side-left-frustrated-by-goalless-draw-in-belfast
 https://skysports.com/football/news/13593114/gianni-infantino-fifa-accuses-european-football-chiefs-of-harassment-against-world-governing-bodys-president
@@ -3280,6 +3291,9 @@ https://skysports.com/football/news/13598752/arsenal-3-0-lille-jurrien-timber-eb
 https://skysports.com/football/news/13598758/a-premier-league-giant-to-fall-hull-ipswich-and-coventry-are-changing-the-relegation-equation-this-season
 https://skysports.com/football/news/13598759/england-5-0-greece-8-1-on-aggregate-alessia-russo-lauren-james-star-as-lionesses-cruise-into-world-cup-play-offs-second-round
 https://skysports.com/football/news/13598805/enzo-maresca-man-city-boss-defends-anfield-celebrations-after-beating-liverpool-in-first-game-since-guilty-verdict
+https://skysports.com/football/news/13598845/lask-3-6-liverpool-bradley-barcola-scores-hat-trick-as-florian-wirtz-shines-in-champions-league-victory
+https://skysports.com/football/news/13598853/aston-villa-6-0-fenerbahce-nicolas-jackson-and-ross-barkley-both-score-twice-in-big-champions-league-win
+https://skysports.com/football/news/13598859/man-city-2-4-psg-erling-haaland-scores-twice-but-enzo-marescas-side-suffer-first-defeat-of-season-in-front-of-pep-guardiola
 https://skysports.com/football/news/13598894/state-of-the-game-independent-football-regulators-report-finds-most-english-clubs-living-on-financial-brink
 https://skysports.com/football/news/13598938/andoni-iraola-liverpool-boss-has-100-per-cent-trust-in-florian-wirtz-and-bradley-barcola
 https://skysports.com/football/news/13598950/man-utd-defender-lisandro-martinez-extraordinarily-calls-out-clubs-hierarchy-after-atletico-madrid-loss-in-champions-league
@@ -3292,6 +3306,8 @@ https://skysports.com/football/news/13599187/bukayo-saka-arsenal-winger-more-of-
 https://skysports.com/football/news/13599196/lisandro-martinez-future-of-defender-at-man-utd-in-doubt-following-public-outburst-directed-at-clubs-hierarchy
 https://skysports.com/football/news/13599282/lisandro-martinez-manchester-united-outburst-q-and-a-jason-wilcox-transfer-strategy-and-what-next
 https://skysports.com/football/news/13599314/antoine-semenyo-manchester-city-forward-froze-after-alleged-racial-abuse-by-liverpool-fan-court-hears
+https://skysports.com/football/news/13599400/gianni-infantino-the-key-questions-facing-fifa-president-at-crunch-council-meeting
+https://skysports.com/football/news/13599417/lisandro-martinez-man-utd-defender-releases-statement-to-clarify-outburst-but-does-not-apologise
 https://skysports.com/football/news/13866/13196034/carabao-cup-on-sky-sports-plus-fixtures-channel-and-subscription-how-to-watch-or-stream-your-football-team-this-season
 https://skysports.com/football/news/13866/13196034/sky-sports-plus-for-carabao-cup-fixtures-channel-and-subscription-how-to-watch-or-stream-your-football-team-this-season
 https://skysports.com/football/news/15205/13582716/tottenham-roberto-de-zerbis-criticism-of-spurs-forwards-and-medical-staff-worrying-says-paul-merson
@@ -3347,6 +3363,7 @@ https://skysports.com/football/northern-ireland-vs-hungary/report/554018
 https://skysports.com/football/norwich-city-vs-birmingham-city/report/560568
 https://skysports.com/football/norwich-city-vs-bolton-wanderers/report/560588
 https://skysports.com/football/norwich-city-vs-burnley/report/560529
+https://skysports.com/football/norwich-city-vs-southampton/report/560615
 https://skysports.com/football/nottingham-forest-vs-coventry-city/report/559492
 https://skysports.com/football/nottingham-forest-vs-leeds-united/report/577433
 https://skysports.com/football/nottingham-forest-vs-tottenham-hotspur/report/559473
@@ -3357,6 +3374,7 @@ https://skysports.com/football/plymouth-argyle-vs-coventry-city/report/577439
 https://skysports.com/football/portsmouth-vs-blackburn-rovers/report/560589
 https://skysports.com/football/portsmouth-vs-cardiff-city/report/560550
 https://skysports.com/football/portsmouth-vs-derby-county/report/560536
+https://skysports.com/football/portsmouth-vs-sheffield-united/report/560616
 https://skysports.com/football/portugal-vs-wales/report/553987
 https://skysports.com/football/preston-north-end-vs-blackburn-rovers/report/560551
 https://skysports.com/football/preston-north-end-vs-bristol-city/report/560537
@@ -3364,6 +3382,7 @@ https://skysports.com/football/preston-north-end-vs-everton/report/577434
 https://skysports.com/football/preston-north-end-vs-lincoln-city/report/560575
 https://skysports.com/football/preston-north-end-vs-millwall/report/560599
 https://skysports.com/football/queens-park-rangers-vs-cardiff-city/report/560544
+https://skysports.com/football/queens-park-rangers-vs-derby-county/report/560617
 https://skysports.com/football/queens-park-rangers-vs-preston-north-end/report/560590
 https://skysports.com/football/rangers-vs-celtic/report/577540
 https://skysports.com/football/rangers-vs-kilmarnock/report/558380
