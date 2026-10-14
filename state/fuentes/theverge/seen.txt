@@ -49,6 +49,7 @@ https://theverge.com/2021/9/14/22673497/tesla-nhtsa-autopilot-investigation-data
 https://theverge.com/2021/9/18/22678226/castlevania-grimoire-of-souls-apple-arcade-michiru-yamane
 https://theverge.com/2022/10/28/23427137/elon-musk-twitter-matt-levine-money-stuff
 https://theverge.com/2022/11/22/23474381/elon-musk-twitter-moderation-council-activist-promise
+https://theverge.com/2022/2/10/22927374/apple-airtag-safety-update-stalking
 https://theverge.com/2022/2/17/22937489/nhtsa-allows-adb-adaptive-driving-beam-technology
 https://theverge.com/2022/2/2/22914236/tesla-phantom-braking-complaints-nhtsa-fsd
 https://theverge.com/2022/3/31/23004352/microsoft-phone-link-rebranding-windows-11-design-update
@@ -966,6 +967,7 @@ https://theverge.com/games/1008960/steam-frame-october-2026-updates
 https://theverge.com/games/1009140/ram-shortage-intel-amd-ddr4-comeback
 https://theverge.com/games/1009561/nintendo-exec-confirms-no-plans-to-ditch-physical-games
 https://theverge.com/games/1010097/epic-games-disney-project-ai-coding-art
+https://theverge.com/games/1010740/a-gaming-trade-group-says-anbernics-handhelds-are-the-functional-equivalent-of-superfakes
 https://theverge.com/games/682063/the-new-york-times-nyt-games-crossplay-scrabble-pips
 https://theverge.com/games/684957/splitgate-2-hat-apology
 https://theverge.com/games/816118/valve-steam-frame-vr-headset-streaming-arm-steamos-hands-on
@@ -1918,8 +1920,12 @@ https://theverge.com/tech/1010086/cars-google-built-in-redesigned-play-store
 https://theverge.com/tech/1010164/apple-homeview-wall-mounted-sold-separately
 https://theverge.com/tech/1010344/meta-facebook-your-algorithm-ai
 https://theverge.com/tech/1010378/an-excellent-apple-tv-remote-app-for-android
+https://theverge.com/tech/1010561/apple-homeview-commercial-reaction
 https://theverge.com/tech/1010596/nvidia-will-give-gamers-full-control-over-dlss-5-in-old-games
 https://theverge.com/tech/1010619/apple-music-new-icon-ios-27-beta
+https://theverge.com/tech/1010718/elevation-labs-stops-selling-its-airtag-silencer
+https://theverge.com/tech/1010737/meta-says-its-github-was-hacked-exposing-1500-peoples-personal-data
+https://theverge.com/tech/1010778/threads-algorithm-change-bots
 https://theverge.com/tech/24008239/sphere-las-vegas-experience-u2-screen
 https://theverge.com/tech/625223/book-log-read-goodreads
 https://theverge.com/tech/784323/upgrading-240hz-oled-gaming-monitor
@@ -2091,6 +2097,7 @@ https://theverge.com/tech/968459/fire-tv-now-easier-to-view-and-navigate
 https://theverge.com/tech/968535/philips-hues-latest-camera-might-be-for-your-tv
 https://theverge.com/tech/968663/samsung-galaxy-z-fold-8-wide-hands-on
 https://theverge.com/tech/968728/samsung-galaxy-watch-9-ultra-2-hands-on-wearables-smartwatches
+https://theverge.com/tech/968786/anbernic-rg-sp-game-boy-advance-sp-handheld-emulator
 https://theverge.com/tech/969200/samsung-ai-health-assistant-beta
 https://theverge.com/tech/969208/samsung-galaxy-unpacked-2026-everything-announced
 https://theverge.com/tech/969373/samsungs-galaxy-unpacked-in-15-minutes
