@@ -22,6 +22,7 @@ https://theverge.com/2019/10/4/20898528/star-wars-le-creuset-collection-darth-va
 https://theverge.com/2019/11/26/20977968/google-graveyard-products-shut-down-dead-not-supported-discontinues-spring-cleaning
 https://theverge.com/2019/12/17/21025959/sony-back-button-attachment-ps4-dualshock-4-controller-buttons-accessory-paddles
 https://theverge.com/2019/2/14/18224568/tesla-dog-sentry-mode-software-update
+https://theverge.com/2019/4/22/18510828/tesla-elon-musk-autonomy-day-investor-comments-self-driving-cars-predictions
 https://theverge.com/2019/4/4/18295190/facebook-ad-delivery-housing-job-race-gender-bias-study-northeastern-upturn
 https://theverge.com/2019/5/31/18646098/formula-e-gen2-drive-electric-racecar
 https://theverge.com/2019/8/28/20836524/google-pixel-3a-production-china-nokia-factory-vietnam-trade-war-tariffs
@@ -115,6 +116,7 @@ https://theverge.com/2024/3/7/24093570/rivian-r3-r3x-electric-suv-crossover-pics
 https://theverge.com/2024/4/18/24132766/elgato-neo-family-devices-stream-deck
 https://theverge.com/2024/4/27/24142989/a2rl-autonomous-race-cars-f1-abu-dhabi
 https://theverge.com/2024/4/30/24144571/instagram-algorithm-ranking-recommendations-reposted-content
+https://theverge.com/2024/4/5/24122592/more-on-elon-musks-robotaxi-promises-from-over-the-years
 https://theverge.com/2024/4/9/24125089/fairbuds-fairphone-noise-canceling-earbuds-battery-replace-repairability
 https://theverge.com/2024/5/14/24155310/google-gemini-ai-sidebar-gmail-docs-slides-io
 https://theverge.com/2024/5/14/24155927/google-ai-synthid-watermark-text-video-io
@@ -281,6 +283,8 @@ https://theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-ch
 https://theverge.com/ai-artificial-intelligence/1011616/the-openai-engineer-accused-of-planting-a-bug-allegedly-had-a-one-way-ticket-booked-to-saudi-arabia
 https://theverge.com/ai-artificial-intelligence/1011767/bank-of-america-wants-a-human-in-the-loop
 https://theverge.com/ai-artificial-intelligence/1011771/openai-agrees-not-to-use-trade-secrets-it-allegedly-took-from-apple
+https://theverge.com/ai-artificial-intelligence/1011807/google-deepmind-is-building-a-new-robotics-lab-in-cambridge
+https://theverge.com/ai-artificial-intelligence/1011847/elon-musk-is-promising-to-make-you-whole-if-grok-messes-up-a-purchase-or-leaks-your-credit-card
 https://theverge.com/ai-artificial-intelligence/648595/anthropic-claude-research-google-workplace
 https://theverge.com/ai-artificial-intelligence/679852/trump-ai-safety-institute-name-mission-change
 https://theverge.com/ai-artificial-intelligence/767973/vibe-coding-ai-future-end-evolution
@@ -607,6 +611,8 @@ https://theverge.com/entertainment/1009630/social-reckoning-box-office-other-mom
 https://theverge.com/entertainment/1010433/jason-jones-ai-novel-halo-destiny
 https://theverge.com/entertainment/1011428/even-more-pleasure
 https://theverge.com/entertainment/1011451/not-so-solitary-solitaire
+https://theverge.com/entertainment/1011816/october-2026-game-reviews-dressmaker-castlevania
+https://theverge.com/entertainment/1011879/gta-6-launch-trailer
 https://theverge.com/entertainment/815745/pluribus-review-apple-tv
 https://theverge.com/entertainment/845459/disclosure-day-spielberg-trailer-release-date
 https://theverge.com/entertainment/877906/mewgenics-steam-sales-edmund-mcmillen-interview
@@ -816,6 +822,7 @@ https://theverge.com/gadgets/1011227/apple-homeview-smart-display-deal-sale
 https://theverge.com/gadgets/1011266/sprout-pi-adds-bluetooth-streaming-and-usb-c-to-your-aging-ipod
 https://theverge.com/gadgets/1011339/today-im-toying-with-giveaway-16
 https://theverge.com/gadgets/1011544/that-asus-expertbook-will-actually-have-12gb-of-ram-instead-of-8gb-hooray
+https://theverge.com/gadgets/1011988/sk-hynix-reportedly-wants-permission-to-export-equipment-to-china-in-exchange-for-building-a-new-us-chip-factory
 https://theverge.com/gadgets/712844/today-im-toying-with
 https://theverge.com/gadgets/847777/oh-snap-i-have-a-new-favorite-phone-grip
 https://theverge.com/gadgets/905189/raspberry-pi-price-increases-pi-4-3gb
@@ -1003,6 +1010,7 @@ https://theverge.com/games/1011175/is-valve-making-a-micro-oled-steam-frame
 https://theverge.com/games/1011467/bond-on-switch-2-finally
 https://theverge.com/games/1011510/league-of-legends-classic-is-getting-put-in-the-vault
 https://theverge.com/games/1011785/big-walk-house-house-microsoft-xbox-bds-boycott
+https://theverge.com/games/1012048/fire-emblem-fortunes-weave-is-getting-even-bigger
 https://theverge.com/games/682063/the-new-york-times-nyt-games-crossplay-scrabble-pips
 https://theverge.com/games/684957/splitgate-2-hat-apology
 https://theverge.com/games/816118/valve-steam-frame-vr-headset-streaming-arm-steamos-hands-on
@@ -1219,6 +1227,9 @@ https://theverge.com/news/1010424/yandex-drone-strike-outage-disinformation-zele
 https://theverge.com/news/1011216/xbox-nano-controller-release-date-pricing
 https://theverge.com/news/1011646/nba-2k27-xbox-anywhere-game
 https://theverge.com/news/1011654/mckinsey-ai-client-interview
+https://theverge.com/news/1011891/microsoft-windows-11-speed-memory-improvements
+https://theverge.com/news/1011902/apple-iphone-duo-get-ready-preorder
+https://theverge.com/news/1012060/razers-new-wireless-headset-has-a-hidden-compartment-for-a-usb-c-dongle
 https://theverge.com/news/609772/google-maps-gulf-of-america-rename-mexico
 https://theverge.com/news/610580/apple-maps-gulf-of-america
 https://theverge.com/news/618168/google-search-eu-dma-charge-violation
@@ -1260,6 +1271,7 @@ https://theverge.com/news/761665/meta-ai-translation-facebook-instagram-reels
 https://theverge.com/news/764259/marshall-bromley-750-bluetooth-wireless-party-speaker
 https://theverge.com/news/765171/elon-musk-apple-openai-antitrust-lawsuit
 https://theverge.com/news/765881/google-android-apps-side-loading-developer-verification
+https://theverge.com/news/767297/dji-mic-3-wireless-microphone-launch
 https://theverge.com/news/769585/amazon-lens-live-ai-real-time-shopping
 https://theverge.com/news/771236/adobe-premiere-iphone-ios-video-editor-android
 https://theverge.com/news/771665/timekettle-w4-ai-interpreter-wireless-earbuds-bone-conduction
@@ -1320,6 +1332,7 @@ https://theverge.com/news/851696/roborock-launches-its-first-robot-lawnmower-in-
 https://theverge.com/news/857864/samsung-ballie-robot-shelved-ces-2026
 https://theverge.com/news/858102/characterai-google-teen-suicide-settlement
 https://theverge.com/news/860435/the-kids-are-offline
+https://theverge.com/news/863282/the-bbc-wants-that-youtube-ad-money
 https://theverge.com/news/865995/who-is-really-in-charge-of-design-at-apple
 https://theverge.com/news/866238/vimeo-layoffs-bending-spoons-acquisition
 https://theverge.com/news/868238/prediction-markets-polymarket-kalshi-robinhood
@@ -1416,6 +1429,7 @@ https://theverge.com/podcast/1008578/leapfrog-leappad-technology-version-history
 https://theverge.com/podcast/1008707/amazon-alexa-tablet-googlebooks-apple-vergecast
 https://theverge.com/podcast/1008733/warner-skydance-paramount-ellison-debt-failure
 https://theverge.com/podcast/1010286/vergecast-homeview-apple-smart-home
+https://theverge.com/podcast/1011170/benn-jordan-flock-cameras-alpr-ai-surveillance-privacy
 https://theverge.com/podcast/1011447/music-ai-slip-scam-vergecast
 https://theverge.com/podcast/905198/meta-lawsuits-facebook-instagram-youtube-social-media-addiction-section-230
 https://theverge.com/podcast/969231/samsung-unpacked-2026-vergecast-livestream
@@ -1495,6 +1509,9 @@ https://theverge.com/policy/1010891/banned-journalists-get-to-keep-their-press-p
 https://theverge.com/policy/1011388/ice-body-worn-cameras-auto-activate-dhs-gao
 https://theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy
 https://theverge.com/policy/1011722/unlike-netgear-and-asus-tp-link-says-its-prepared-to-spend-1-billion-to-make-wi-fi-routers-in-the-us
+https://theverge.com/policy/1011991/trump-nidal-hasan-execution-not-livestreaming
+https://theverge.com/policy/1012020/a-computer-glitch-delayed-nearly-600000-voter-registrations-in-texas
+https://theverge.com/policy/1012047/nvidia-apple-google-microsoft-amazon-meta-trump-ballroom
 https://theverge.com/policy/677373/lawyers-chatgpt-hallucinations-ai
 https://theverge.com/policy/694155/big-balls-is-still-here
 https://theverge.com/policy/799473/facebook-meta-ice-jawboning
@@ -1606,6 +1623,7 @@ https://theverge.com/report/1002963/ai-hallucinations-customer-service-jobs-agen
 https://theverge.com/report/1005859/microsoft-xbox-gta-6-streaming-rights
 https://theverge.com/report/1006636/jane-doe-cornell-dox
 https://theverge.com/report/1008342/folkston-georgia-ice-detention-hunger-strike-video
+https://theverge.com/report/1011927/instagram-celebrity-ai-slop-likeness-taylor-swift-mia-goth
 https://theverge.com/report/820656/valve-interview-arm-gaming-steamos-pierre-loup-griffais
 https://theverge.com/report/829265/hoto-fanttik-profile-origins-xiaomi-aukey-tiktok
 https://theverge.com/report/840822/australia-social-media-ban-under-16-response
@@ -1973,6 +1991,7 @@ https://theverge.com/tech/1010378/an-excellent-apple-tv-remote-app-for-android
 https://theverge.com/tech/1010561/apple-homeview-commercial-reaction
 https://theverge.com/tech/1010596/nvidia-will-give-gamers-full-control-over-dlss-5-in-old-games
 https://theverge.com/tech/1010619/apple-music-new-icon-ios-27-beta
+https://theverge.com/tech/1010629/xreal-has-a-new-premium-set-of-display-glasses
 https://theverge.com/tech/1010718/elevation-labs-stops-selling-its-airtag-silencer
 https://theverge.com/tech/1010727/eiliko-robot-hack-energize-lab
 https://theverge.com/tech/1010737/meta-says-its-github-was-hacked-exposing-1500-peoples-personal-data
@@ -1988,17 +2007,37 @@ https://theverge.com/tech/1010979/static-smartcard-incognito-wallet-tracker-appl
 https://theverge.com/tech/1010990/fujifilm-instax-square-2-analog-instant-film-camera-filters
 https://theverge.com/tech/1011058/netflix-layoff-six-percent-thousand-employees
 https://theverge.com/tech/1011062/apple-homeview-airplay-apps-streaming
+https://theverge.com/tech/1011133/ledger-atom-hardware-wallet-crypto-security-android
 https://theverge.com/tech/1011184/muse-got-dethroned-by-a-chicken-sandwich
 https://theverge.com/tech/1011200/anbernic-rg-dds-dual-screen-handheld-emulator-nintendo-3ds
 https://theverge.com/tech/1011202/meta-whatsapp-guest-calls
 https://theverge.com/tech/1011245/iphone-duo-repair-costs-applecare
 https://theverge.com/tech/1011324/apple-tv-4k-missed-features
+https://theverge.com/tech/1011338/iphone-handoff-t-mobile-work-iphone
 https://theverge.com/tech/1011359/james-warner-youtube-snappiness-epix-pro-digital-camera
+https://theverge.com/tech/1011384/e-ink-paper-color-kaleido-4-screen-upgrade-gamut-contrast-brightness
 https://theverge.com/tech/1011420/the-judge-might-be-on-apples-side-in-its-trade-secrets-battle-against-openai
 https://theverge.com/tech/1011431/apple-homeview-smart-display-best-feature
+https://theverge.com/tech/1011475/amazon-bee-frontier-eclipse-price-specs
 https://theverge.com/tech/1011487/microsoft-scam-messages-marketplace-takedown
 https://theverge.com/tech/1011526/the-link-to-windows-app-for-android-might-soon-let-you-shut-down-your-pc-remotely
+https://theverge.com/tech/1011704/nvidia-claims-rtx-spark-is-by-far-the-fastest-single-windows-chip-ever-made
+https://theverge.com/tech/1011705/nvidia-rtx-spark-everything-runs-on-arm
+https://theverge.com/tech/1011706/not-all-nvidia-rtx-spark-chips-are-equal-some-have-fewer-cores
 https://theverge.com/tech/1011779/googlebook-os-on-chromebooks-is-apparently-fast-and-smooth
+https://theverge.com/tech/1011797/google-ai-universal-cart-shopping-tool-launch
+https://theverge.com/tech/1011818/anbernic-rg-dds-nintendo-3ds-handheld-emulator-pricing-availability
+https://theverge.com/tech/1011839/sony-ecm-w5-wireless-microphone-kit-transmiter-receiver-alpha-camera
+https://theverge.com/tech/1011918/microsoft-is-giving-away-25-free-games-with-windows-11-pc-purchases-starting-next-month
+https://theverge.com/tech/1011938/muse-ai-data-friends-consent
+https://theverge.com/tech/1011956/discover-tech-zero-click-ads-spyware
+https://theverge.com/tech/1011958/times-profile-of-john-ternus-is-mostly-about-the-iphone-duo
+https://theverge.com/tech/1011967/shellys-new-presence-sensor-simultaneously-detects-up-to-ten-people-without-a-camera
+https://theverge.com/tech/1011996/microsoft-windows-rtx-spark-platform-changes-notepad
+https://theverge.com/tech/1012003/microsoft-windows-11-new-photos-app-onedrive-icloud
+https://theverge.com/tech/1012086/arduino-usb-webcam-ai-computer-vision-uno-ventuno-q-microcomputer
+https://theverge.com/tech/1012093/bbc-news-now-has-a-youtube-livestream
+https://theverge.com/tech/1012113/someone-got-iphone-os-1-0-running-in-a-browser-tab
 https://theverge.com/tech/24008239/sphere-las-vegas-experience-u2-screen
 https://theverge.com/tech/625223/book-log-read-goodreads
 https://theverge.com/tech/784323/upgrading-240hz-oled-gaming-monitor
@@ -2010,9 +2049,12 @@ https://theverge.com/tech/851298/clicks-communicator-phone-blackberry-keyboard
 https://theverge.com/tech/853006/govee-sky-ceiling-light-ultra-specs
 https://theverge.com/tech/854183/oled-gaming-monitors-rgb-stripe-lg-samsung-display-ces-2026
 https://theverge.com/tech/854519/intel-core-ultra-3-panther-lake-18-a-release-date-decoder-ring
+https://theverge.com/tech/855463/amd-strix-halo-ai-max-plus-388-392-handheld-gaming
 https://theverge.com/tech/856883/ces-2026-wi-fi-8-asus-broadcom-mediatek
 https://theverge.com/tech/861248/dreame-leaptic-cube-action-camera-8k-stabilization-ai
+https://theverge.com/tech/864415/arduino-uno-q-computer-qualcomm-dragonwing-4gb-upgrade
 https://theverge.com/tech/866975/sony-linkbuds-clip-open-earbuds-review
+https://theverge.com/tech/867214/intel-core-ultra-x9-panther-lake-388h-laptop-cpu-review
 https://theverge.com/tech/869659/aluminium-why-googles-android-for-pc-launch-may-be-messy-and-controversial
 https://theverge.com/tech/870583/xteink-x4-e-ink-reader-books-hands-on
 https://theverge.com/tech/872393/raspberry-pi-price-increase-ram-shortage-costs
@@ -2025,6 +2067,7 @@ https://theverge.com/tech/880812/ramageddon-ram-shortage-memory-crisis-price-202
 https://theverge.com/tech/883225/samsung-galaxy-unpacked-s26-2026
 https://theverge.com/tech/883593/amd-forges-100-billion-deal-with-meta-for-ai-chips
 https://theverge.com/tech/883855/age-verification-internet-apps-laws-privacy-safety
+https://theverge.com/tech/885113/google-swallows-ai-robotics-moonshot-intrinsic
 https://theverge.com/tech/888001/google-accelerates-chrome-releases-cutting-cycle-in-half
 https://theverge.com/tech/888775/facebook-is-reportedly-having-some-issues-right-now
 https://theverge.com/tech/889836/apple-music-ai-transparency-tags-launch
@@ -2106,6 +2149,7 @@ https://theverge.com/tech/939596/acer-swift-air-14-aspire-18-nitro-16-computex-p
 https://theverge.com/tech/939686/adobes-conversational-ai-agent-is-a-mediocre-design-intern
 https://theverge.com/tech/939782/arduboy-fx-c-arduino-handheld-hands-on
 https://theverge.com/tech/940498/dell-xps-13-student-laptop-intel-wildcat-panther-lake-computex-price
+https://theverge.com/tech/940589/nvidia-rtx-spark-n1-n1x-laptop-desktop-pc-cpu-gpu-ai-release-date
 https://theverge.com/tech/941138/google-gemini-spark-ai-agent-hands-on
 https://theverge.com/tech/941318/asus-new-zenbook-14-might-be-another-macbook-neo-competitor-if-the-price-is-right
 https://theverge.com/tech/942328/nanoleaf-switchbot-onerobotics-sale-ai-robotics
@@ -2204,6 +2248,7 @@ https://theverge.com/tech/972968/samsungs-smartphone-biz-posts-first-ever-loss-b
 https://theverge.com/tech/973027/razer-huntsman-v3-he-magnetic-mechanical-keyboard-snap-tap-price-impressions
 https://theverge.com/tech/973053/xiaomi-skynomad-n90-max-extended-range-electric-suv
 https://theverge.com/tech/973216/i-just-want-this-little-ball-to-be-real
+https://theverge.com/tech/973276/google-deepmind-gemini-robotics-2-whole-body
 https://theverge.com/tech/973738/robot-vacuum-ban-fewer-choices-higher-prices
 https://theverge.com/tech/974086/microsoft-wants-to-make-windows-work-better-with-8gb-of-ram
 https://theverge.com/tech/974155/hp-hyperx-omen-15-gaming-laptop-rtx-5050-review
