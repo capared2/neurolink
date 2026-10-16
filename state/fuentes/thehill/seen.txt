@@ -361,6 +361,7 @@ https://thehill.com/homenews/6149569-starshield-access-restriction-turmoil
 https://thehill.com/homenews/6150454-early-winter-weather-predictions-released-by-noaa
 https://thehill.com/homenews/6151960-pentagon-hegseth-supports-execution-livestream-cancellation
 https://thehill.com/homenews/6152422-doj-sues-california-election-officials
+https://thehill.com/homenews/6152693-anthropic-pac-splits-q3-donations-down-the-middle
 https://thehill.com/homenews/administration/5743349-who-is-katie-zacharia-new-dhs-spokesperson
 https://thehill.com/homenews/administration/6040220-live-updates-donald-trump-iran-war-economy-midterms
 https://thehill.com/homenews/administration/6040588-donald-trump-white-house-helipad-ballroom-construction
@@ -977,6 +978,8 @@ https://thehill.com/homenews/administration/6152072-zacharia-trump-press-secreta
 https://thehill.com/homenews/administration/6152255-zacharia-suggests-scarlett-johannson
 https://thehill.com/homenews/administration/6152301-white-house-ballroom-private-donations
 https://thehill.com/homenews/administration/6152303-trump-mocks-musk-arizona-rally
+https://thehill.com/homenews/administration/6152530-ex-fbi-agents-trump-documents-lawsuit
+https://thehill.com/homenews/administration/6152572-execution-livestream-donald-trump-pete-hegseth-takeaways
 https://thehill.com/homenews/analysis/6040221-democrats-leftist-win-senate-race
 https://thehill.com/homenews/analysis/6042626-treasury-secretary-bessent-buyback
 https://thehill.com/homenews/analysis/6057609-gop-campaign-centered-trump
@@ -1464,6 +1467,8 @@ https://thehill.com/homenews/campaign/6151685-trump-iowa-senate-race-hinson-turk
 https://thehill.com/homenews/campaign/6151882-maha-action-pac-iowa-donation
 https://thehill.com/homenews/campaign/6151939-gop-midterm-washout-risk
 https://thehill.com/homenews/campaign/6152001-hinojosa-abbott-texas-governor
+https://thehill.com/homenews/campaign/6152457-trump-attacks-cornyn-paxton-elections
+https://thehill.com/homenews/campaign/6152571-musk-texas-pac-paxton-senate
 https://thehill.com/homenews/campaign/data-nerds/6040929-democratic-socialist-angie-nixon-florida-upset-what-to-know-discussion
 https://thehill.com/homenews/campaign/data-nerds/6054870-democratic-party-senate-control-division-2026-midterms-discussion
 https://thehill.com/homenews/campaign/data-nerds/6068929-abdul-el-sayed-democratic-tensions-michigan-senate-race-discussion
@@ -1795,6 +1800,7 @@ https://thehill.com/homenews/media/6145787-clinton-swisher-launch-high-stakes-po
 https://thehill.com/homenews/media/6149007-fbi-refutes-ms-now-russia-report
 https://thehill.com/homenews/media/6149284-spicer-felt-bad-zacharia-press-secretary
 https://thehill.com/homenews/media/6150085-trump-seeks-bbc-deposition-delay
+https://thehill.com/homenews/media/6152534-omar-immigration-fraud-investigation
 https://thehill.com/homenews/nexstar_media_wire/6033849-no-more-sunsets-before-5-p-m-how-permanent-daylight-saving-would-change-winter
 https://thehill.com/homenews/senate/6040557-jon-ossoff-white-house-feud-donald-trump-natalie-harp
 https://thehill.com/homenews/senate/6041270-live-results-massachusetts-senate-primary
@@ -1998,6 +2004,7 @@ https://thehill.com/homenews/senate/6149563-trump-ukraine-starlink-controversy
 https://thehill.com/homenews/senate/6150025-thom-tillis-pentagon-ig-ukraine-starlink-limits
 https://thehill.com/homenews/senate/6150091-elizabeth-warren-bank-of-america-fine-treasury-department
 https://thehill.com/homenews/senate/6152383-senators-block-saudi-nuclear-deal
+https://thehill.com/homenews/senate/6152642-defense-inspector-general-ukraine-starlink-senators
 https://thehill.com/homenews/space/6054908-where-northern-lights-may-shine-amid-geomagnetic-storm-watches
 https://thehill.com/homenews/space/6057441-americans-skeptical-ufo-origins-gallup-poll
 https://thehill.com/homenews/space/6067876-nasa-jared-isaacman-outlines-moon-base
@@ -2227,6 +2234,7 @@ https://thehill.com/homenews/state-watch/6149368-voting-rights-group-warns-doj-c
 https://thehill.com/homenews/state-watch/6149885-palatine-man-charged-in-alleged-mass-shooting-plot-targeting-hindu-place-of-worship
 https://thehill.com/homenews/state-watch/6149888-university-of-chicago-sexual-assault
 https://thehill.com/homenews/state-watch/6151659-man-arrested-hindu-temple-shooting-plot
+https://thehill.com/homenews/state-watch/6152592-bend-oregon-elementary-school-shooting
 https://thehill.com/homenews/sunday-talk-shows/6045326-sunday-shows-trump-canada-trade-republican-primaries
 https://thehill.com/homenews/sunday-talk-shows/6059207-sunday-shows-trump-gop-economic-tensions-foreign-relations
 https://thehill.com/homenews/sunday-talk-shows/6073362-sunday-shows-trump-rnc-convention-iran-war
@@ -2326,6 +2334,7 @@ https://thehill.com/newsletters/business-economy/6139540-what-to-know-about-trum
 https://thehill.com/newsletters/business-economy/6143939-bisignano-vows-social-security-will-last-another-90-years
 https://thehill.com/newsletters/business-economy/6146419-most-see-lawmakers-as-out-of-touch-on-spending-poll
 https://thehill.com/newsletters/business-economy/6149219-inflation-rose-slightly-in-september
+https://thehill.com/newsletters/business-economy/6152531-mortgage-rates-hit-brakes
 https://thehill.com/newsletters/defense-national-security/6042716-us-approves-possible-4-5-billion-sale-of-refueling-aircraft-to-qatar
 https://thehill.com/newsletters/defense-national-security/6048001-trump-forgoes-military-strikes-attempts-economic-chokehold-iran
 https://thehill.com/newsletters/defense-national-security/6050716-hegseth-loeffler-small-defense-contractors-newsletter
@@ -2356,6 +2365,7 @@ https://thehill.com/newsletters/defense-national-security/6139878-fierce-biparti
 https://thehill.com/newsletters/defense-national-security/6144319-zelensky-criticized-trump-russian-diesel
 https://thehill.com/newsletters/defense-national-security/6146728-cleveland-to-be-home-of-next-submarine-repair-center
 https://thehill.com/newsletters/defense-national-security/6149566-hegseth-army-convention-protest
+https://thehill.com/newsletters/defense-national-security/6152767-pentagon-school-director-paul-craft-resigns
 https://thehill.com/newsletters/energy-environment/6042606-wetlands-policy-causes-gop-friction
 https://thehill.com/newsletters/energy-environment/6044586-doi-outlines-short-term-plan-for-water-cuts-in-ca-az-nv
 https://thehill.com/newsletters/energy-environment/6047881-politicians-aim-to-distance-themselves-from-data-centers
@@ -2391,6 +2401,7 @@ https://thehill.com/newsletters/energy-environment/6140010-trump-says-russia-wil
 https://thehill.com/newsletters/energy-environment/6144117-trump-claims-theres-an-energy-ceasefire
 https://thehill.com/newsletters/energy-environment/6146768-trump-still-seeks-to-block-wind-project
 https://thehill.com/newsletters/energy-environment/6149640-taiwan-buys-alaska-gas
+https://thehill.com/newsletters/energy-environment/6152484-what-does-trumps-russia-deal-actually-mean
 https://thehill.com/newsletters/healthcare/6042627-schwartz-recognizes-cdc-strife-in-first-talks-with-staff
 https://thehill.com/newsletters/healthcare/6044727-trump-eyes-vaccine-categories
 https://thehill.com/newsletters/healthcare/6048133-back-to-school-season-fuels-growing-measles-concerns
@@ -2428,6 +2439,7 @@ https://thehill.com/newsletters/healthcare/6140164-gop-priorities-alienate-maha-
 https://thehill.com/newsletters/healthcare/6144267-synthetically-concentrated-kratom-derivatives-draw-federal-attention
 https://thehill.com/newsletters/healthcare/6146827-pennsylvania-measles-outbreak-deaths
 https://thehill.com/newsletters/healthcare/6149557-fda-abortion-pill-review-angers-gop-lawmakers
+https://thehill.com/newsletters/healthcare/6152770-rfk-jr-fda-peptides-white-house
 https://thehill.com/newsletters/keeping-score/6046222-kyle-kirkwood-trump-freedom-250-grand-prix-indycar
 https://thehill.com/newsletters/keeping-score/6046806-san-francisco-49ers-owner-arrested-in-ohio
 https://thehill.com/newsletters/keeping-score/6057895-mark-walter-lakers-sale-controversy
@@ -4025,6 +4037,7 @@ https://thehill.com/policy/technology/6149365-states-sue-openai-safety
 https://thehill.com/policy/technology/6150160-anthropicpac-spending-q3-ai
 https://thehill.com/policy/technology/6150621-ftc-subpoena-openai-anthropic-safety-incidents-probe
 https://thehill.com/policy/technology/6151072-trump-crypto-advisor-patrick-witt-leaves
+https://thehill.com/policy/technology/6152345-elon-musk-starlink-ukraine-starshield
 https://thehill.com/policy/transportation/6050209-tsa-phases-out-gold-program
 https://thehill.com/policy/transportation/6050669-uber-new-family-features-teen-accounts-stream-safety
 https://thehill.com/policy/transportation/6059553-google-maps-renames-lake-america
