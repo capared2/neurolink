@@ -239,6 +239,7 @@ https://thehill.com/business/6137340-trump-accounts-auto-enrollment-children
 https://thehill.com/business/6137377-mortgage-rates-rise-multi-week-high
 https://thehill.com/business/6138704-flock-safety-offers-separation-packages
 https://thehill.com/business/6141712-check-your-email-15-8-million-being-sent-to-users-of-cash-advance-app-ftc-says
+https://thehill.com/business/6143238-trader-joes-to-open-more-than-30-new-stores-soon-heres-where
 https://thehill.com/business/6145444-thousands-of-bottles-of-acetaminophen-sold-on-amazon-recalled
 https://thehill.com/business/6145505-kroger-layoffs-ai
 https://thehill.com/business/6146632-bank-america-treasury-fine
@@ -1003,10 +1004,13 @@ https://thehill.com/homenews/administration/6155047-trump-press-secretary-contro
 https://thehill.com/homenews/administration/6155131-laura-loomer-katie-zacharia-white-house-press-secretary
 https://thehill.com/homenews/administration/6155208-zacharia-white-house-exit-legal-credentials
 https://thehill.com/homenews/administration/6155287-katie-zacharia-white-house-exit-five-days
+https://thehill.com/homenews/administration/6155519-live-updates-trump-and-zelensky-relationship-rocky-over-russia-sanctions-starlink-obama-campaigns-in-michigan-ohio
 https://thehill.com/homenews/administration/6155544-secret-service-deputy-director-quinn-resigns
 https://thehill.com/homenews/administration/6155603-katie-zacharia-press-secretary-exit-statement
 https://thehill.com/homenews/administration/6155621-trump-waives-russian-sanctions-act-tariffs
 https://thehill.com/homenews/administration/6155709-eisenhower-building-landmark-painting
+https://thehill.com/homenews/administration/6155725-trump-waives-russia-sanctions
+https://thehill.com/homenews/administration/6155776-trump-arch-plans-omit-military-complex
 https://thehill.com/homenews/analysis/6040221-democrats-leftist-win-senate-race
 https://thehill.com/homenews/analysis/6042626-treasury-secretary-bessent-buyback
 https://thehill.com/homenews/analysis/6057609-gop-campaign-centered-trump
@@ -1777,6 +1781,7 @@ https://thehill.com/homenews/house/6151777-brian-fitzpatrick-congress-trump-us-u
 https://thehill.com/homenews/house/6152445-potential-democratic-senate-agenda
 https://thehill.com/homenews/house/6152919-massie-calls-trump-fire-hegseth
 https://thehill.com/homenews/house/6155515-lawmakers-report-suspicious-mailings
+https://thehill.com/homenews/house/6155846-george-santos-press-secretary
 https://thehill.com/homenews/lgbtq/6044688-log-cabin-republicans-transgender-support-ends
 https://thehill.com/homenews/media/6040779-alina-habba-press-secretary-karoline-leavitt
 https://thehill.com/homenews/media/6045875-scott-jennings-press-secretary-reports
@@ -2828,6 +2833,7 @@ https://thehill.com/opinion/criminal-justice/6148562-trump-administration-icc-sa
 https://thehill.com/opinion/criminal-justice/6149650-death-penalty-cruelty-debate
 https://thehill.com/opinion/criminal-justice/6151020-second-amendment-practicality-debate
 https://thehill.com/opinion/criminal-justice/6152924-cornell-sexual-assault-outrage
+https://thehill.com/opinion/criminal-justice/6154211-prison-budget-reentry-reform
 https://thehill.com/opinion/cybersecurity/6047624-iranian-hackers-water-infrastructure
 https://thehill.com/opinion/cybersecurity/6077287-cybersecurity-needs-aviation-security-layers
 https://thehill.com/opinion/cybersecurity/6086743-ncc-to-oversee-vetted-hacking-firms
@@ -2932,6 +2938,7 @@ https://thehill.com/opinion/finance/6136928-hyper-scaler-capital-spending-impact
 https://thehill.com/opinion/finance/6139410-us-fiscal-crisis-ai-bet
 https://thehill.com/opinion/finance/6144101-voters-interrupt-congress-overspending
 https://thehill.com/opinion/finance/6152679-inflation-clouds-economic-growth
+https://thehill.com/opinion/finance/6154116-us-farmers-face-economic-headwinds
 https://thehill.com/opinion/healthcare/6040418-fda-regulatory-delay-regenative-labs
 https://thehill.com/opinion/healthcare/6042789-states-fight-hemp-loophole
 https://thehill.com/opinion/healthcare/6042966-modernize-family-formation-policy
@@ -3084,6 +3091,7 @@ https://thehill.com/opinion/judiciary/6117254-virginia-tuition-grant-religious-d
 https://thehill.com/opinion/judiciary/6118395-judicial-resources-compensation-rules
 https://thehill.com/opinion/judiciary/6137784-media-undermines-supreme-court
 https://thehill.com/opinion/judiciary/6143434-preempting-chinese-lawfare-congress-bills
+https://thehill.com/opinion/judiciary/6155337-journalist-face-privacy-act-showdown
 https://thehill.com/opinion/judiciary/supreme-court/6049783-voters-trust-court-recordings
 https://thehill.com/opinion/judiciary/supreme-court/6069206-scotus-paves-way-trump-order
 https://thehill.com/opinion/judiciary/supreme-court/6114201-thomas-supreme-court-legacy
@@ -3901,6 +3909,7 @@ https://thehill.com/policy/international/6152977-new-dinosaur-species-identified
 https://thehill.com/policy/international/6153604-volodymyr-zelensky-europe-trump-diesel
 https://thehill.com/policy/international/6153675-bolton-criticizes-zelensky-trump
 https://thehill.com/policy/international/6154450-washington-post-photographer-israeli-settler-attack
+https://thehill.com/policy/international/6155800-zelensky-condemns-trump-russia-sanctions-waiver
 https://thehill.com/policy/national-security/6049802-cia-director-ratcliffe-moscow-visit
 https://thehill.com/policy/national-security/6056134-senators-oppose-ice-shocking-gloves
 https://thehill.com/policy/national-security/6059574-homan-ice-bus-stop-arrests

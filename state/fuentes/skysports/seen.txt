@@ -1243,6 +1243,7 @@ https://skysports.com/football/afc-wimbledon-vs-milton-keynes-dons/report/561674
 https://skysports.com/football/arsenal-vs-chelsea/report/559464
 https://skysports.com/football/arsenal-vs-leeds-united/report/559494
 https://skysports.com/football/arsenal-vs-lille/report/577615
+https://skysports.com/football/arsenal-women-vs-birmingham-city-women/report/575791
 https://skysports.com/football/arsenal-women-vs-hb-kge-women/report/578232
 https://skysports.com/football/aston-villa-vs-arsenal/report/559454
 https://skysports.com/football/aston-villa-vs-brentford/report/559495
@@ -1327,6 +1328,7 @@ https://skysports.com/football/england-u21-vs-slovakia-u21/report/527118
 https://skysports.com/football/england-vs-czech-republic/report/554078
 https://skysports.com/football/england-vs-spain/report/554000
 https://skysports.com/football/england-women-vs-greece-women/report/559088
+https://skysports.com/football/everton-vs-chelsea/report/559507
 https://skysports.com/football/everton-vs-ipswich-town/report/559487
 https://skysports.com/football/everton-vs-manchester-united/report/559467
 https://skysports.com/football/everton-vs-wolverhampton-wanderers/report/577575
@@ -1384,10 +1386,12 @@ https://skysports.com/football/manchester-united-vs-manchester-city/report/55948
 https://skysports.com/football/manchester-united-vs-sabah/report/577612
 https://skysports.com/football/manchester-united-vs-tottenham-hotspur/report/559502
 https://skysports.com/football/manchester-united-women-vs-liverpool-women/report/575787
+https://skysports.com/football/middlesbrough-vs-cardiff-city/report/560622
 https://skysports.com/football/middlesbrough-vs-millwall/report/560562
 https://skysports.com/football/middlesbrough-vs-norwich-city/report/560574
 https://skysports.com/football/middlesbrough-vs-wolverhampton-wanderers/report/560598
 https://skysports.com/football/millwall-vs-bolton-wanderers/report/560549
+https://skysports.com/football/millwall-vs-lincoln-city/report/560623
 https://skysports.com/football/millwall-vs-newcastle-united/report/577582
 https://skysports.com/football/millwall-vs-swansea-city/report/560610
 https://skysports.com/football/millwall-vs-west-ham-united/report/560587
@@ -3226,6 +3230,9 @@ https://skysports.com/football/news/13592699/west-ham-1-1-qpr-jarrod-bowens-stop
 https://skysports.com/football/news/13592700/southampton-portsmouth
 https://skysports.com/football/news/13592704/falkirk-1-2-dundee-ashley-hay-nets-stoppage-time-winner-as-dundee-come-from-behind-to-win-away-from-home
 https://skysports.com/football/news/13592709/hearts-5-0-st-mirren-laurent-mendy-calvin-miller-claudio-braga-and-josh-mcpake-all-score-as-jambos-record-biggest-home-win-since-2023
+https://skysports.com/football/news/13592735/middlesbrough-2-2-cardiff-will-lankshear-strikes-again-as-boro-battle-back-for-a-point
+https://skysports.com/football/news/13592736/millwall-2-2-lincoln-lions-fight-back-to-hold-10-man-imps
+https://skysports.com/football/news/13592742/watford-2-0-charlton-alessio-dionisis-hornets-bounce-back-from-nightmare-week-to-win
 https://skysports.com/football/news/13592767/arsenal-2-1-leeds-riccardo-calafiori-and-bruno-guimaraes-on-target-as-champions-fight-back-to-go-level-with-man-city
 https://skysports.com/football/news/13592769/aston-villa-2-2-brentford-unbeaten-bees-find-leveller-through-kristoffer-ajer-to-halt-villa-turnaround-at-villa-park
 https://skysports.com/football/news/13592771/chelsea-5-1-bournemouth-jordan-hendersons-stunning-strikes-help-fast-starting-blues-to-bounce-back-win
@@ -3386,6 +3393,7 @@ https://skysports.com/football/news/13598196/swansea-soaring-burnley-get-their-f
 https://skysports.com/football/news/13598360/matthias-jaissle-newcastle-boss-apologises-for-coventry-loss-as-jamie-carragher-says-they-were-beaten-up
 https://skysports.com/football/news/13598724/gianni-infantino-fifa-president-received-payment-of-lb1-3m-from-world-cup-company
 https://skysports.com/football/news/13598732/premier-league-predictions-and-jones-knows-best-bets-brentford-vs-liverpool-leeds-vs-manchester-united-and-more
+https://skysports.com/football/news/13598748/everton-0-2-chelsea-pedro-neto-scores-twice-after-morgan-rogers-escapes-red-card-in-premier-league-win
 https://skysports.com/football/news/13598750/atletico-madrid-2-0-man-utd-leny-yoro-sent-off-as-michael-carricks-side-extend-winless-run-to-five-games
 https://skysports.com/football/news/13598752/arsenal-3-0-lille-jurrien-timber-eberechi-eze-and-bukayo-saka-on-target-as-gunners-win-in-champions-league
 https://skysports.com/football/news/13598758/a-premier-league-giant-to-fall-hull-ipswich-and-coventry-are-changing-the-relegation-equation-this-season
@@ -3432,6 +3440,7 @@ https://skysports.com/football/news/13599948/lisandro-martinez-man-utd-defender-
 https://skysports.com/football/news/13599969/man-utd-transfer-news-michael-carrick-opens-door-to-january-signings-ahead-of-planned-defensive-rebuild
 https://skysports.com/football/news/13599972/mikel-arteta-says-arsenal-plan-to-take-another-team-photo-including-william-saliba-after-defenders-omission
 https://skysports.com/football/news/13600072/liverpool-set-to-raid-aston-villa-for-johan-manzambi-as-arsenal-eye-move-for-bayern-munich-defender-paper-talk
+https://skysports.com/football/news/13600177/arsenal-1-1-birmingham-olivia-smith-stunner-saves-gunners-from-shocking-defeat-but-pressure-intensifies-on-renee-slegers
 https://skysports.com/football/news/13866/13196034/carabao-cup-on-sky-sports-plus-fixtures-channel-and-subscription-how-to-watch-or-stream-your-football-team-this-season
 https://skysports.com/football/news/13866/13196034/sky-sports-plus-for-carabao-cup-fixtures-channel-and-subscription-how-to-watch-or-stream-your-football-team-this-season
 https://skysports.com/football/news/15205/13582716/tottenham-roberto-de-zerbis-criticism-of-spurs-forwards-and-medical-staff-worrying-says-paul-merson
@@ -3601,6 +3610,7 @@ https://skysports.com/football/ukraine-vs-northern-ireland/report/554050
 https://skysports.com/football/wales-vs-denmark/report/554066
 https://skysports.com/football/wales-vs-norway/report/554040
 https://skysports.com/football/watford-vs-burnley/report/560603
+https://skysports.com/football/watford-vs-charlton-athletic/report/560627
 https://skysports.com/football/watford-vs-preston-north-end/report/560564
 https://skysports.com/football/watford-vs-stoke-city/report/560579
 https://skysports.com/football/watford-vs-west-ham-united/report/560531
@@ -3746,6 +3756,7 @@ https://skysports.com/golf/news/12040/13599307/patrick-reed-american-reassures-f
 https://skysports.com/golf/news/12040/13599506/dp-world-india-championship-rory-mcilroy-four-off-clubhouse-lead-after-thunder-and-lightning-delays-in-first-round
 https://skysports.com/golf/news/12040/13599715/liv-golf-bankruptcy-process-dp-world-tour-accused-of-interfering-after-taking-harder-line-on-tour-membership
 https://skysports.com/golf/news/12040/13599990/dp-world-india-championship-rory-mcilroy-four-off-clubhouse-lead-but-through-only-four-holes-of-second-round
+https://skysports.com/golf/news/12040/13600134/dp-world-india-championship-rory-mcilroy-drops-10-shots-off-the-lead-as-eugenio-chacarra-moving-into-position-for-another-big-win
 https://skysports.com/golf/news/12176/11933264/sky-sports-golf-podcast
 https://skysports.com/golf/news/12176/12950625/golf-leaderboards-pga-tour-lpga-tour-liv-golf-dp-world-tour-ladies-european-tour-major-championships-and-more
 https://skysports.com/golf/news/12176/13313909/solheim-cup-2026-teams-captains-venue-format-and-how-players-will-qualify-for-europe-vs-usa-in-the-netherlands
@@ -3932,6 +3943,7 @@ https://skysports.com/golf/news/13599307/patrick-reed-american-reassures-former-
 https://skysports.com/golf/news/13599506/dp-world-india-championship-rory-mcilroy-four-off-clubhouse-lead-after-thunder-and-lightning-delays-in-first-round
 https://skysports.com/golf/news/13599715/liv-golf-bankruptcy-process-dp-world-tour-accused-of-interfering-after-taking-harder-line-on-tour-membership
 https://skysports.com/golf/news/13599990/dp-world-india-championship-rory-mcilroy-four-off-clubhouse-lead-but-through-only-four-holes-of-second-round
+https://skysports.com/golf/news/13600134/dp-world-india-championship-rory-mcilroy-drops-10-shots-off-the-lead-as-eugenio-chacarra-moving-into-position-for-another-big-win
 https://skysports.com/golf/news/14866/13565082/the-open-rory-mcilroy-right-to-criticise-bryson-dechambeau-circus-should-players-have-to-speak-with-the-media
 https://skysports.com/golf/news/24512/13529496/the-masters-2026-leaderboard-latest-golf-scores-from-augusta-national-and-tee-times-for-opening-major-of-the-year
 https://skysports.com/golf/news/26733/13577351/ryder-cup-2027-luke-donald-expects-new-faces-for-team-europe-in-very-challenging-threepeat-bid-against-team-usa
@@ -4546,6 +4558,7 @@ https://skysports.com/racing/news/12040/13597377/cesarewitch-alphonse-le-grande-
 https://skysports.com/racing/news/12040/13597525/today-on-sky-sports-racing-newcastle-worcester-and-yarmouth
 https://skysports.com/racing/news/12040/13597717/today-on-sky-sports-racing-southwell-hereford-and-wolverhampton-feature-live-on-tuesday
 https://skysports.com/racing/news/12040/13598193/today-on-sky-sports-racing-il-est-francais-makes-stable-debut-for-dan-skelton
+https://skysports.com/racing/news/12040/13600183/ascot-almeraq-proves-his-class-in-british-champions-sprint
 https://skysports.com/racing/news/12426/13568714/kevin-doyle-former-premier-league-striker-chasing-cheltenham-festival-glory-with-augusta-kate-and-la-bague-au-roi
 https://skysports.com/racing/news/12426/13568836/american-affair-flies-the-flag-for-goldie-at-goodwood
 https://skysports.com/racing/news/12426/13569034/jockey-jim-crowley-announces-retirement-from-the-saddle-due-to-injury-and-plans-to-start-training
@@ -4682,6 +4695,7 @@ https://skysports.com/racing/news/13597525/today-on-sky-sports-racing-newcastle-
 https://skysports.com/racing/news/13597717/today-on-sky-sports-racing-southwell-hereford-and-wolverhampton-feature-live-on-tuesday
 https://skysports.com/racing/news/13598193/today-on-sky-sports-racing-il-est-francais-makes-stable-debut-for-dan-skelton
 https://skysports.com/racing/news/13599865/ascot-tips-calandagan-backed-to-retain-champion-stakes-title
+https://skysports.com/racing/news/13600183/ascot-almeraq-proves-his-class-in-british-champions-sprint
 https://skysports.com/racing/news/37685/13570698/hollie-doyle-expect-thunder-call-to-play-a-part-in-shergar-cup-at-ascot-live-on-sky-sports-racing-on-saturday
 https://skysports.com/racing/news/37685/13575525/hollie-doyle-klassleader-looks-well-treated-in-the-ebor
 https://skysports.com/racing/news/37685/13584477/hollie-doyle-blog-backing-pierre-bonnard-to-bag-10th-leger-for-aidan-obrien-at-doncaster

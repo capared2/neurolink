@@ -300,6 +300,7 @@ https://theverge.com/ai-artificial-intelligence/1012677/spacex-is-almost-sort-of
 https://theverge.com/ai-artificial-intelligence/1012753/china-is-weighing-export-controls-on-ai
 https://theverge.com/ai-artificial-intelligence/1012863/openai-says-an-ai-model-swiped-fake-crypto-on-an-ethereum-test-network
 https://theverge.com/ai-artificial-intelligence/1013097/ai-datacenter-pr-interview
+https://theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web
 https://theverge.com/ai-artificial-intelligence/1013303/charles-schwab-is-blocking-ai-agents-too
 https://theverge.com/ai-artificial-intelligence/648595/anthropic-claude-research-google-workplace
 https://theverge.com/ai-artificial-intelligence/679852/trump-ai-safety-institute-name-mission-change
@@ -638,6 +639,7 @@ https://theverge.com/entertainment/1012438/hollywood-tech-backlash-you-can-see-e
 https://theverge.com/entertainment/1012554/the-batman-part-ii-is-getting-some-help-from-steven-soderbergh
 https://theverge.com/entertainment/1012640/the-bbc-might-charge-brits-to-watch-youtube
 https://theverge.com/entertainment/1013277/wu-tang-once-upon-a-time-in-shaolin-pablo-torre-martin-shkreli
+https://theverge.com/entertainment/1013381/jad-abumrad-radiolab-dolly-parton-fela-kuti-podcast-interview
 https://theverge.com/entertainment/815745/pluribus-review-apple-tv
 https://theverge.com/entertainment/845459/disclosure-day-spielberg-trailer-release-date
 https://theverge.com/entertainment/876658/the-mummy-4-lands-its-official-release-date-for-may-19-2028
@@ -854,6 +856,7 @@ https://theverge.com/gadgets/1012134/alienware-34-ultrawide-qd-oled-belkin-scree
 https://theverge.com/gadgets/1012173/sony-wh-1000xm6-headphones-deal-sale
 https://theverge.com/gadgets/1012616/watch-how-quick-and-easy-it-is-to-swap-the-fairbuds-2-batteries
 https://theverge.com/gadgets/1012962/apple-tv-4k-fourth-generation-fanttik-s1-pro-deal-sale
+https://theverge.com/gadgets/1013105/pikmin-4-nintendo-switch-deal-sale
 https://theverge.com/gadgets/712844/today-im-toying-with
 https://theverge.com/gadgets/842702/tetris-my-play-watch-smartwatch-hands-on
 https://theverge.com/gadgets/847777/oh-snap-i-have-a-new-favorite-phone-grip
@@ -1478,6 +1481,7 @@ https://theverge.com/podcast/1008733/warner-skydance-paramount-ellison-debt-fail
 https://theverge.com/podcast/1010286/vergecast-homeview-apple-smart-home
 https://theverge.com/podcast/1011170/benn-jordan-flock-cameras-alpr-ai-surveillance-privacy
 https://theverge.com/podcast/1011447/music-ai-slip-scam-vergecast
+https://theverge.com/podcast/1012416/spacex-starlink-elon-musk-cell-carrier-wireless-mobile-att-verizon-t-mobile
 https://theverge.com/podcast/1012419/meta-glasses-cameras-recording-vergecast
 https://theverge.com/podcast/1012911/apple-homeview-apps-carplay-vergecast
 https://theverge.com/podcast/889177/prediction-markets-news-gambling-polymarket-kalshi-iran-war-regulation
@@ -1567,6 +1571,7 @@ https://theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovatio
 https://theverge.com/policy/1013126/tech-billionaires-have-reportedly-donated-over-340-million-to-fight-a-wealth-tax-in-california
 https://theverge.com/policy/1013130/katie-zacharia-white-house-out-report
 https://theverge.com/policy/1013213/another-dji-front-company-bites-the-dust
+https://theverge.com/policy/1013382/no-kings-midterms-edition
 https://theverge.com/policy/677373/lawyers-chatgpt-hallucinations-ai
 https://theverge.com/policy/694155/big-balls-is-still-here
 https://theverge.com/policy/799473/facebook-meta-ice-jawboning
@@ -2127,8 +2132,11 @@ https://theverge.com/tech/1013025/apple-home-collection-products-lg-schneider-sm
 https://theverge.com/tech/1013041/yashica-y16-pocket-digital-camera-retro-film-preorder
 https://theverge.com/tech/1013064/godox-a2-xenon-iphone-flash-magsafe-rechargeable
 https://theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment
+https://theverge.com/tech/1013320/bose-noise-cancelling-wired-earbuds-review
 https://theverge.com/tech/1013327/apple-says-iphone-duo-preorder-demand-has-been-extraordinary
 https://theverge.com/tech/1013367/best-tech-documentaries-musk-holmes-installer
+https://theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites
+https://theverge.com/tech/1013411/adam-mosseri-says-instagram-is-working-out-what-to-do-about-ai-fakes
 https://theverge.com/tech/24008239/sphere-las-vegas-experience-u2-screen
 https://theverge.com/tech/625223/book-log-read-goodreads
 https://theverge.com/tech/784323/upgrading-240hz-oled-gaming-monitor
@@ -2933,6 +2941,7 @@ https://theverge.com/transportation/1012783/tesla-roadster-flying-stunt-producti
 https://theverge.com/transportation/1012868/watch-this-deep-dive-into-the-engineering-work-that-went-into-the-flying-tesla-roadster
 https://theverge.com/transportation/1012941/runnin-through-the-6-with-my-waymos
 https://theverge.com/transportation/1013280/tesla-chp-fsd-crash
+https://theverge.com/transportation/1013395/tesla-cannot-guarantee-roadster-pre-orders-will-be-delivered
 https://theverge.com/transportation/760217/a-wild-miraidon-appeared
 https://theverge.com/transportation/781908/electric-cargo-bike-car-replace-bike-bus
 https://theverge.com/transportation/784461/lucid-nuro-uber-robotaxi-first-vehicle-delivery
