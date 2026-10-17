@@ -1011,6 +1011,8 @@ https://thehill.com/homenews/administration/6155621-trump-waives-russian-sanctio
 https://thehill.com/homenews/administration/6155709-eisenhower-building-landmark-painting
 https://thehill.com/homenews/administration/6155725-trump-waives-russia-sanctions
 https://thehill.com/homenews/administration/6155776-trump-arch-plans-omit-military-complex
+https://thehill.com/homenews/administration/6155838-trump-california-doj-voter-rolls-jail
+https://thehill.com/homenews/administration/6155919-ice-houston-immigrant-investigation
 https://thehill.com/homenews/analysis/6040221-democrats-leftist-win-senate-race
 https://thehill.com/homenews/analysis/6042626-treasury-secretary-bessent-buyback
 https://thehill.com/homenews/analysis/6057609-gop-campaign-centered-trump
@@ -1519,6 +1521,7 @@ https://thehill.com/homenews/campaign/6154747-ocasio-cortez-abdul-el-sayed-michi
 https://thehill.com/homenews/campaign/6154926-voto-latino-texas-investment-talarico-hinojosa
 https://thehill.com/homenews/campaign/6155012-rep-andy-harris-press-clash-defense
 https://thehill.com/homenews/campaign/6155191-trump-campaign-rally-michigan-midterms
+https://thehill.com/homenews/campaign/6155340-rahm-emanuel-democratic-presidential-run
 https://thehill.com/homenews/campaign/data-nerds/6040929-democratic-socialist-angie-nixon-florida-upset-what-to-know-discussion
 https://thehill.com/homenews/campaign/data-nerds/6054870-democratic-party-senate-control-division-2026-midterms-discussion
 https://thehill.com/homenews/campaign/data-nerds/6068929-abdul-el-sayed-democratic-tensions-michigan-senate-race-discussion
@@ -2062,6 +2065,7 @@ https://thehill.com/homenews/senate/6150091-elizabeth-warren-bank-of-america-fin
 https://thehill.com/homenews/senate/6152383-senators-block-saudi-nuclear-deal
 https://thehill.com/homenews/senate/6152642-defense-inspector-general-ukraine-starlink-senators
 https://thehill.com/homenews/senate/6152690-senators-demand-starshield-probe
+https://thehill.com/homenews/senate/6155906-schumer-slams-trump-putin
 https://thehill.com/homenews/space/6054908-where-northern-lights-may-shine-amid-geomagnetic-storm-watches
 https://thehill.com/homenews/space/6057441-americans-skeptical-ufo-origins-gallup-poll
 https://thehill.com/homenews/space/6067876-nasa-jared-isaacman-outlines-moon-base
@@ -2294,6 +2298,7 @@ https://thehill.com/homenews/state-watch/6149888-university-of-chicago-sexual-as
 https://thehill.com/homenews/state-watch/6151659-man-arrested-hindu-temple-shooting-plot
 https://thehill.com/homenews/state-watch/6152592-bend-oregon-elementary-school-shooting
 https://thehill.com/homenews/state-watch/6154673-democrats-mamdani-parking-lot-ice-ban
+https://thehill.com/homenews/state-watch/6155983-no-kings-coalition-action-protests
 https://thehill.com/homenews/sunday-talk-shows/6045326-sunday-shows-trump-canada-trade-republican-primaries
 https://thehill.com/homenews/sunday-talk-shows/6059207-sunday-shows-trump-gop-economic-tensions-foreign-relations
 https://thehill.com/homenews/sunday-talk-shows/6073362-sunday-shows-trump-rnc-convention-iran-war
@@ -2939,6 +2944,7 @@ https://thehill.com/opinion/finance/6139410-us-fiscal-crisis-ai-bet
 https://thehill.com/opinion/finance/6144101-voters-interrupt-congress-overspending
 https://thehill.com/opinion/finance/6152679-inflation-clouds-economic-growth
 https://thehill.com/opinion/finance/6154116-us-farmers-face-economic-headwinds
+https://thehill.com/opinion/finance/6154138-national-debt-impact
 https://thehill.com/opinion/healthcare/6040418-fda-regulatory-delay-regenative-labs
 https://thehill.com/opinion/healthcare/6042789-states-fight-hemp-loophole
 https://thehill.com/opinion/healthcare/6042966-modernize-family-formation-policy
@@ -3074,6 +3080,7 @@ https://thehill.com/opinion/international/6146556-bahai-refugee-iranian-persecut
 https://thehill.com/opinion/international/6146856-trump-lebanon-hezbollah-peace-deal
 https://thehill.com/opinion/international/6148731-china-viewing-us-politics
 https://thehill.com/opinion/international/6151232-local-leaders-global-investment
+https://thehill.com/opinion/international/6154927-illicit-mining-funds-violence
 https://thehill.com/opinion/judiciary/6033495-california-black-infant-health-lawsuit
 https://thehill.com/opinion/judiciary/6048289-trump-fomb-puerto-rico-electricity
 https://thehill.com/opinion/judiciary/6050362-nfl-cte-one-fourth
@@ -3178,6 +3185,7 @@ https://thehill.com/opinion/national-security/6143073-john-nixon-interrogation-o
 https://thehill.com/opinion/national-security/6147183-russia-irkutsk-plague-concerns
 https://thehill.com/opinion/national-security/6148360-putin-outsmarts-trump-diplomacy
 https://thehill.com/opinion/national-security/6148364-israel-turkey-horn-africa
+https://thehill.com/opinion/national-security/6154838-political-distractions-national-security
 https://thehill.com/opinion/robbys-radar/6041771-cnn-erin-burnett-natalie-harp
 https://thehill.com/opinion/robbys-radar/6047297-data-centers-public-opposition
 https://thehill.com/opinion/robbys-radar/6049731-el-sayed-hasan-piker-distancing
