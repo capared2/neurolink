@@ -1017,6 +1017,11 @@ https://thehill.com/homenews/administration/6155776-trump-arch-plans-omit-milita
 https://thehill.com/homenews/administration/6155838-trump-california-doj-voter-rolls-jail
 https://thehill.com/homenews/administration/6155919-ice-houston-immigrant-investigation
 https://thehill.com/homenews/administration/6156177-huckabee-condemns-israel-photographer-attack
+https://thehill.com/homenews/administration/6156378-vance-claims-us-won-iran-war
+https://thehill.com/homenews/administration/6156403-live-updates-ukraine-attacks-st-petersburg-oil-depot
+https://thehill.com/homenews/administration/6156445-homan-omar-immigration-fraud-probe
+https://thehill.com/homenews/administration/6156511-trump-calls-netanyahu-peace-partner
+https://thehill.com/homenews/administration/6156515-wright-defends-trump-russia-sanctions-waiver
 https://thehill.com/homenews/analysis/6040221-democrats-leftist-win-senate-race
 https://thehill.com/homenews/analysis/6042626-treasury-secretary-bessent-buyback
 https://thehill.com/homenews/analysis/6057609-gop-campaign-centered-trump
@@ -1529,6 +1534,8 @@ https://thehill.com/homenews/campaign/6155340-rahm-emanuel-democratic-presidenti
 https://thehill.com/homenews/campaign/6156109-marsha-blackburn-kendrick-lamar-backlash-response
 https://thehill.com/homenews/campaign/6156134-stelson-leads-perry-poll-pennsylvania-house
 https://thehill.com/homenews/campaign/6156280-shapiro-launches-super-pac
+https://thehill.com/homenews/campaign/6156420-rogers-skeptical-russia-diesel-deal
+https://thehill.com/homenews/campaign/6156449-maine-senate-jackson-campaigns
 https://thehill.com/homenews/campaign/data-nerds/6040929-democratic-socialist-angie-nixon-florida-upset-what-to-know-discussion
 https://thehill.com/homenews/campaign/data-nerds/6054870-democratic-party-senate-control-division-2026-midterms-discussion
 https://thehill.com/homenews/campaign/data-nerds/6068929-abdul-el-sayed-democratic-tensions-michigan-senate-race-discussion
@@ -2309,6 +2316,7 @@ https://thehill.com/homenews/state-watch/6151659-man-arrested-hindu-temple-shoot
 https://thehill.com/homenews/state-watch/6152592-bend-oregon-elementary-school-shooting
 https://thehill.com/homenews/state-watch/6154673-democrats-mamdani-parking-lot-ice-ban
 https://thehill.com/homenews/state-watch/6155983-no-kings-coalition-action-protests
+https://thehill.com/homenews/state-watch/6156482-usaf-member-dies-utsa-game
 https://thehill.com/homenews/sunday-talk-shows/6045326-sunday-shows-trump-canada-trade-republican-primaries
 https://thehill.com/homenews/sunday-talk-shows/6059207-sunday-shows-trump-gop-economic-tensions-foreign-relations
 https://thehill.com/homenews/sunday-talk-shows/6073362-sunday-shows-trump-rnc-convention-iran-war
@@ -3278,6 +3286,8 @@ https://thehill.com/opinion/technology/6140381-protecting-ai-data-china
 https://thehill.com/opinion/technology/6143085-us-losing-global-ai-race
 https://thehill.com/opinion/technology/6143182-making-jobs-better-with-ai
 https://thehill.com/opinion/technology/6143872-rto-mandates-innovation-loss
+https://thehill.com/opinion/technology/6153897-ai-risks-child-development
+https://thehill.com/opinion/technology/6154497-nasa-seeks-commercial-space-stations
 https://thehill.com/opinion/technology/6154943-ai-data-centers-red-states
 https://thehill.com/opinion/white-house/6036778-what-is-trump-afraid-we-will-see-about-how-the-tariffs-were-formulated
 https://thehill.com/opinion/white-house/6042186-trump-navy-war
@@ -3333,8 +3343,10 @@ https://thehill.com/opinion/white-house/6137051-orban-style-taxpayer-giveaways
 https://thehill.com/opinion/white-house/6139752-trump-media-lawfare-threat
 https://thehill.com/opinion/white-house/6140356-bolden-calls-out-trump-dishonesty
 https://thehill.com/opinion/white-house/6150148-trump-policies-backfire-voters
+https://thehill.com/opinion/white-house/6152165-state-department-policy-shift
 https://thehill.com/policy/6075420-vance-defends-tucker-carlson-friendship
 https://thehill.com/policy/6088373-snap-benefits-are-changing-in-october-what-to-know
+https://thehill.com/policy/6143341-new-rule-could-impact-your-next-delayed-or-canceled-flight
 https://thehill.com/policy/cybersecurity/6069692-fbi-leaked-drivers-licenses-dark-web
 https://thehill.com/policy/defense/6040175-army-rotc-academic-standards-memo-debate
 https://thehill.com/policy/defense/6040353-airman-detained-again-capitol-trump-protest
@@ -3491,6 +3503,7 @@ https://thehill.com/policy/defense/6148920-pete-hegseth-ausa-convention-takeaway
 https://thehill.com/policy/defense/6149686-poll-opposes-liveexecution
 https://thehill.com/policy/defense/6152622-us-jungle-warfare-training-latin-america
 https://thehill.com/policy/defense/6154982-trump-starlink-ukraine-russia-fight
+https://thehill.com/policy/defense/6156521-zelensky-warns-trump-russia
 https://thehill.com/policy/defense/overnights/6112699-gop-senators-dismay-trump-xi-welcome
 https://thehill.com/policy/energy-environment/5918384-tropical-tracker-timeline-of-the-2026-atlantic-hurricane-season
 https://thehill.com/policy/energy-environment/6040914-almanacs-release-predictions-for-fall-winter-but-can-you-trust-them
@@ -3932,6 +3945,7 @@ https://thehill.com/policy/international/6153675-bolton-criticizes-zelensky-trum
 https://thehill.com/policy/international/6154450-washington-post-photographer-israeli-settler-attack
 https://thehill.com/policy/international/6155800-zelensky-condemns-trump-russia-sanctions-waiver
 https://thehill.com/policy/international/6156034-zelensky-open-us-negotiations
+https://thehill.com/policy/international/6156407-ukraine-drone-attack-russia-oil
 https://thehill.com/policy/national-security/6049802-cia-director-ratcliffe-moscow-visit
 https://thehill.com/policy/national-security/6056134-senators-oppose-ice-shocking-gloves
 https://thehill.com/policy/national-security/6059574-homan-ice-bus-stop-arrests
