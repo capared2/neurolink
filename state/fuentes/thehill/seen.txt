@@ -1022,6 +1022,8 @@ https://thehill.com/homenews/administration/6156403-live-updates-ukraine-attacks
 https://thehill.com/homenews/administration/6156445-homan-omar-immigration-fraud-probe
 https://thehill.com/homenews/administration/6156511-trump-calls-netanyahu-peace-partner
 https://thehill.com/homenews/administration/6156515-wright-defends-trump-russia-sanctions-waiver
+https://thehill.com/homenews/administration/6156538-pence-condemns-trump-putin-agreement
+https://thehill.com/homenews/administration/6156602-obama-trump-targets-omar-probe
 https://thehill.com/homenews/analysis/6040221-democrats-leftist-win-senate-race
 https://thehill.com/homenews/analysis/6042626-treasury-secretary-bessent-buyback
 https://thehill.com/homenews/analysis/6057609-gop-campaign-centered-trump
@@ -2304,6 +2306,7 @@ https://thehill.com/homenews/state-watch/6139528-desantis-withdraws-death-warran
 https://thehill.com/homenews/state-watch/6140615-erie-mass-shooting-nine-dead
 https://thehill.com/homenews/state-watch/6140891-ice-vehicle-strikes-man-houston
 https://thehill.com/homenews/state-watch/6141021-hurricane-isaias-florida-fatality
+https://thehill.com/homenews/state-watch/6143544-map-did-your-state-try-to-stop-changing-the-clocks-this-year
 https://thehill.com/homenews/state-watch/6143554-pa-leads-nation-measles-cases
 https://thehill.com/homenews/state-watch/6144163-christa-pike-tennessee-execution-difficult-veins
 https://thehill.com/homenews/state-watch/6145187-why-these-roller-coasters-are-closed-after-a-riders-death-at-six-flags-in-georgia
@@ -2858,6 +2861,8 @@ https://thehill.com/opinion/criminal-justice/6149650-death-penalty-cruelty-debat
 https://thehill.com/opinion/criminal-justice/6151020-second-amendment-practicality-debate
 https://thehill.com/opinion/criminal-justice/6152924-cornell-sexual-assault-outrage
 https://thehill.com/opinion/criminal-justice/6154211-prison-budget-reentry-reform
+https://thehill.com/opinion/criminal-justice/6154716-trump-nidal-hasan-execution-reversal
+https://thehill.com/opinion/criminal-justice/6155359-us-recidivism-reform-first-step-act
 https://thehill.com/opinion/cybersecurity/6047624-iranian-hackers-water-infrastructure
 https://thehill.com/opinion/cybersecurity/6077287-cybersecurity-needs-aviation-security-layers
 https://thehill.com/opinion/cybersecurity/6086743-ncc-to-oversee-vetted-hacking-firms
@@ -3344,6 +3349,7 @@ https://thehill.com/opinion/white-house/6139752-trump-media-lawfare-threat
 https://thehill.com/opinion/white-house/6140356-bolden-calls-out-trump-dishonesty
 https://thehill.com/opinion/white-house/6150148-trump-policies-backfire-voters
 https://thehill.com/opinion/white-house/6152165-state-department-policy-shift
+https://thehill.com/opinion/white-house/6155486-lessons-jim-brady-reagan-white-house
 https://thehill.com/policy/6075420-vance-defends-tucker-carlson-friendship
 https://thehill.com/policy/6088373-snap-benefits-are-changing-in-october-what-to-know
 https://thehill.com/policy/6143341-new-rule-could-impact-your-next-delayed-or-canceled-flight
@@ -3504,6 +3510,7 @@ https://thehill.com/policy/defense/6149686-poll-opposes-liveexecution
 https://thehill.com/policy/defense/6152622-us-jungle-warfare-training-latin-america
 https://thehill.com/policy/defense/6154982-trump-starlink-ukraine-russia-fight
 https://thehill.com/policy/defense/6156521-zelensky-warns-trump-russia
+https://thehill.com/policy/defense/6156614-bessent-warns-zelensky-starlink
 https://thehill.com/policy/defense/overnights/6112699-gop-senators-dismay-trump-xi-welcome
 https://thehill.com/policy/energy-environment/5918384-tropical-tracker-timeline-of-the-2026-atlantic-hurricane-season
 https://thehill.com/policy/energy-environment/6040914-almanacs-release-predictions-for-fall-winter-but-can-you-trust-them
@@ -3625,6 +3632,8 @@ https://thehill.com/policy/energy-environment/6146426-trump-attacks-offshore-win
 https://thehill.com/policy/energy-environment/6146697-ferc-pjm-data-centers-electricity
 https://thehill.com/policy/energy-environment/6149510-diesel-deal-trump-russia-ukraine-gas-prices
 https://thehill.com/policy/energy-environment/6155062-brent-crude-hits-110
+https://thehill.com/policy/energy-environment/6156548-wright-defends-gas-prices
+https://thehill.com/policy/energy-environment/6156714-trump-plans-east-potomac-golf
 https://thehill.com/policy/healthcare/6036144-cases-of-scromiting-condition-tied-to-cannabis-use-spike-among-teens-young-adults-new-study
 https://thehill.com/policy/healthcare/6041007-blueberry-recall-fda-publix
 https://thehill.com/policy/healthcare/6041051-cdc-salmonella-jalapeno-outbreak
@@ -3770,6 +3779,7 @@ https://thehill.com/policy/healthcare/6146555-medicare-all-support-midterm-elect
 https://thehill.com/policy/healthcare/6148134-cassidy-criticizes-trump-kennedy-vaccination-efforts
 https://thehill.com/policy/healthcare/6148980-paxton-gerber-toxic-metals-lawsuit
 https://thehill.com/policy/healthcare/6149286-obamacare-enrollment-dropped-millions-kff-report
+https://thehill.com/policy/healthcare/6149649-us-measles-outbreak-messaging-gap
 https://thehill.com/policy/healthcare/6149944-fda-greenlights-salt-substitutes-popular-foods
 https://thehill.com/policy/healthcare/6151217-senate-democrats-demand-epa-mifepristone
 https://thehill.com/policy/healthcare/6154416-us-measles-cases-exceed-4400
@@ -3946,6 +3956,7 @@ https://thehill.com/policy/international/6154450-washington-post-photographer-is
 https://thehill.com/policy/international/6155800-zelensky-condemns-trump-russia-sanctions-waiver
 https://thehill.com/policy/international/6156034-zelensky-open-us-negotiations
 https://thehill.com/policy/international/6156407-ukraine-drone-attack-russia-oil
+https://thehill.com/policy/international/6156570-zelensky-hopes-trump-changes-decision
 https://thehill.com/policy/national-security/6049802-cia-director-ratcliffe-moscow-visit
 https://thehill.com/policy/national-security/6056134-senators-oppose-ice-shocking-gloves
 https://thehill.com/policy/national-security/6059574-homan-ice-bus-stop-arrests
