@@ -314,6 +314,7 @@ https://theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deer
 https://theverge.com/ai-artificial-intelligence/1013714/openai-staffer-accused-of-planting-bug-was-allegedly-in-frequent-communication-with-a-saudi-royal
 https://theverge.com/ai-artificial-intelligence/1013773/us-civilian-agencies-cant-use-deepseek-dhs-says
 https://theverge.com/ai-artificial-intelligence/1013859/instead-i-have-decided-that-someone-else-should-stop-me
+https://theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai
 https://theverge.com/ai-artificial-intelligence/648595/anthropic-claude-research-google-workplace
 https://theverge.com/ai-artificial-intelligence/679852/trump-ai-safety-institute-name-mission-change
 https://theverge.com/ai-artificial-intelligence/767973/vibe-coding-ai-future-end-evolution
@@ -1080,6 +1081,7 @@ https://theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled
 https://theverge.com/games/1012541/valve-steam-achievement-sets
 https://theverge.com/games/1013132/xbox-ally-x20-asus-on-sale-price-date
 https://theverge.com/games/1013873/my-favorite-game-from-gdc-2025-just-got-a-release-date
+https://theverge.com/games/1013999/because-of-ai-copying-concerns-an-upcoming-indie-game-is-limiting-its-first-playtest-to-discord
 https://theverge.com/games/633885/gdc-2025-best-indie-games
 https://theverge.com/games/682063/the-new-york-times-nyt-games-crossplay-scrabble-pips
 https://theverge.com/games/684957/splitgate-2-hat-apology
@@ -1517,6 +1519,7 @@ https://theverge.com/podcast/1012419/meta-glasses-cameras-recording-vergecast
 https://theverge.com/podcast/1012839/pritzker-ai-privacy-data-centers-flock-congress-laws
 https://theverge.com/podcast/1012911/apple-homeview-apps-carplay-vergecast
 https://theverge.com/podcast/1013473/overhead-projector-version-history
+https://theverge.com/podcast/1014024/creator-app-developer-vergecast
 https://theverge.com/podcast/889177/prediction-markets-news-gambling-polymarket-kalshi-iran-war-regulation
 https://theverge.com/podcast/905198/meta-lawsuits-facebook-instagram-youtube-social-media-addiction-section-230
 https://theverge.com/podcast/969231/samsung-unpacked-2026-vergecast-livestream
@@ -1764,6 +1767,7 @@ https://theverge.com/science/1011127/ai-weather-forecast-microsoft
 https://theverge.com/science/1011488/starlink-uses-groks-voice-model-to-handle-customer-service-calls
 https://theverge.com/science/1012755/blue-origin-is-spending-big-to-build-out-new-glenn
 https://theverge.com/science/1013577/japan-is-launching-a-mars-moon-probe-later-today
+https://theverge.com/science/1013954/fossil-fuel-power-infrastructure-data-centers-report
 https://theverge.com/science/786067/clippers-kawhi-leonard-salary-cap-investigation-carbon-credit-climate-change
 https://theverge.com/science/839303/rfk-jr-s-vaccine-committee-says-hepatitis-b-shot-can-wait
 https://theverge.com/science/914729/blue-origin-successfully-reused-its-new-glenn-rocket
@@ -2105,6 +2109,7 @@ https://theverge.com/tech/1010619/apple-music-new-icon-ios-27-beta
 https://theverge.com/tech/1010629/xreal-has-a-new-premium-set-of-display-glasses
 https://theverge.com/tech/1010718/elevation-labs-stops-selling-its-airtag-silencer
 https://theverge.com/tech/1010727/eiliko-robot-hack-energize-lab
+https://theverge.com/tech/1010727/eiliko-robot-hack-energize-lab?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IkR3eVRaMFlOcVQiLCJwIjoiL3RlY2gvMTAxMDcyNy9laWxpa28tcm9ib3QtaGFjay1lbmVyZ2l6ZS1sYWIiLCJleHAiOjE3OTI4NjIzNjgsImlhdCI6MTc5MjQzMDM2OH0.lBn-8XmHcuNh_XB9WZn6pd3dVf588t44XI2iQrfO7Uk
 https://theverge.com/tech/1010737/meta-says-its-github-was-hacked-exposing-1500-peoples-personal-data
 https://theverge.com/tech/1010778/threads-algorithm-change-bots
 https://theverge.com/tech/1010780/alexa-tablet-12-pro-review
@@ -2199,7 +2204,12 @@ https://theverge.com/tech/1013742/hidisc-switch-2-dock-usb-c-hdmi-cable-dock
 https://theverge.com/tech/1013754/microsoft-abandons-the-uks-largest-data-center-project
 https://theverge.com/tech/1013803/hackers-stole-millions-of-california-students-data-in-a-breach
 https://theverge.com/tech/1013888/privacy-badger-can-now-block-online-trackers-on-safari-for-macos
+https://theverge.com/tech/1013918/miles-plug-vehicle-tracking-data-privacy-specs-price-launch-date
 https://theverge.com/tech/1013951/pew-research-40-of-u-s-adults-say-they-regularly-get-news-on-facebook
+https://theverge.com/tech/1013962/gemini-notebook-will-now-lay-out-its-plans-before-generating-a-slide-deck-or-video
+https://theverge.com/tech/1014082/florida-says-its-dmv-was-hacked-by-an-international-cybercriminal-organization
+https://theverge.com/tech/1014109/the-homepod-mini-2s-sound-glow-feature-is-reportedly-coming-to-more-of-apples-smart-speakers
+https://theverge.com/tech/1014115/elon-musk-spacex-trump-account
 https://theverge.com/tech/24008239/sphere-las-vegas-experience-u2-screen
 https://theverge.com/tech/625223/book-log-read-goodreads
 https://theverge.com/tech/784323/upgrading-240hz-oled-gaming-monitor
