@@ -661,6 +661,7 @@ https://theverge.com/entertainment/1013553/nicolas-cage-and-antonio-banderas-wil
 https://theverge.com/entertainment/1013557/you-can-see-everything-has-the-biggest-opening-weekend-for-a-doc-in-20-years
 https://theverge.com/entertainment/1013707/adam-savage-tested-ilm-model-maker-lorne-peterson-star-wars
 https://theverge.com/entertainment/1013939/spotify-is-now-asking-some-premium-family-plan-members-to-verify-with-qr-codes
+https://theverge.com/entertainment/1014189/star-wars-is-sort-of-coming-to-the-super-bowl
 https://theverge.com/entertainment/815745/pluribus-review-apple-tv
 https://theverge.com/entertainment/845459/disclosure-day-spielberg-trailer-release-date
 https://theverge.com/entertainment/876658/the-mummy-4-lands-its-official-release-date-for-may-19-2028
@@ -1307,6 +1308,8 @@ https://theverge.com/news/1012060/razers-new-wireless-headset-has-a-hidden-compa
 https://theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx
 https://theverge.com/news/1013118/elon-musk-says-he-wont-allow-ugly-ads-on-x
 https://theverge.com/news/1013838/microsoft-frontier-models-cannot-be-trusted
+https://theverge.com/news/1014202/revolut-down-outage-issues
+https://theverge.com/news/1014236/google-cloud-power-outage-recovery
 https://theverge.com/news/599220/it-m
 https://theverge.com/news/609772/google-maps-gulf-of-america-rename-mexico
 https://theverge.com/news/610580/apple-maps-gulf-of-america
@@ -1357,6 +1360,7 @@ https://theverge.com/news/771236/adobe-premiere-iphone-ios-video-editor-android
 https://theverge.com/news/771665/timekettle-w4-ai-interpreter-wireless-earbuds-bone-conduction
 https://theverge.com/news/775309/apple-iphone-14-15-satellite-connectivity-free
 https://theverge.com/news/779147/waymo-robotaxi-nashville-lyft-2026
+https://theverge.com/news/779934/nvidia-ban-china-no-longer-welcome
 https://theverge.com/news/783489/disney-plus-streaming-subscription-price-increase
 https://theverge.com/news/784872/meta-lab-pop-up-shops-smart-glasses-ai-ray-ban-display
 https://theverge.com/news/785744/amazon-ftc-prime-subscription-settlment
@@ -2213,6 +2217,9 @@ https://theverge.com/tech/1013962/gemini-notebook-will-now-lay-out-its-plans-bef
 https://theverge.com/tech/1014082/florida-says-its-dmv-was-hacked-by-an-international-cybercriminal-organization
 https://theverge.com/tech/1014109/the-homepod-mini-2s-sound-glow-feature-is-reportedly-coming-to-more-of-apples-smart-speakers
 https://theverge.com/tech/1014115/elon-musk-spacex-trump-account
+https://theverge.com/tech/1014195/googlebooks-dont-have-find-hub-because-laptops-arent-phones
+https://theverge.com/tech/1014209/google-home-speaker-bug-continuous-download
+https://theverge.com/tech/1014223/nvidia-cant-fulfill-chinas-35-billion-chip-demands
 https://theverge.com/tech/24008239/sphere-las-vegas-experience-u2-screen
 https://theverge.com/tech/625223/book-log-read-goodreads
 https://theverge.com/tech/784323/upgrading-240hz-oled-gaming-monitor
@@ -3024,6 +3031,7 @@ https://theverge.com/transportation/1013088/mercedes-amg-gt-suv-price-specs-perf
 https://theverge.com/transportation/1013220/robotaxi-self-driving-car-laws
 https://theverge.com/transportation/1013280/tesla-chp-fsd-crash
 https://theverge.com/transportation/1013395/tesla-cannot-guarantee-roadster-pre-orders-will-be-delivered
+https://theverge.com/transportation/1014217/get-ready-for-way-more-waymo
 https://theverge.com/transportation/760217/a-wild-miraidon-appeared
 https://theverge.com/transportation/781908/electric-cargo-bike-car-replace-bike-bus
 https://theverge.com/transportation/784461/lucid-nuro-uber-robotaxi-first-vehicle-delivery
