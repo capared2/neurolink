@@ -485,6 +485,7 @@ https://skysports.com/cricket/news/12040/13601039/south-africa-vs-australia-scot
 https://skysports.com/cricket/news/12040/13601229/england-slump-to-defeat-against-pakistan-in-odi-tri-series-after-faltering-chasing-303-in-rawalpindi
 https://skysports.com/cricket/news/12040/13601286/the-hundred-2027-will-allow-teams-to-field-four-overseas-players-in-playing-xi-in-increase-from-previous-seasons
 https://skysports.com/cricket/news/12040/13601291/david-warner-slams-pathetic-crowds-for-south-africa-vs-australia-test-matches
+https://skysports.com/cricket/news/12040/13601367/england-captain-harry-brook-laments-wickets-in-clumps-in-odi-batting-collapse-as-arafat-minhas-stars-for-pakistan
 https://skysports.com/cricket/news/12040/13601427/temba-bavuma-hits-test-best-179-as-south-africa-dominate-australia-on-day-three-of-second-test-in-gqeberha
 https://skysports.com/cricket/news/12075/13575182/england-vs-pakistan-stuart-broad-says-jordan-cox-could-replace-jamie-smith-as-england-wicketkeeper-after-impressive-second-test-73
 https://skysports.com/cricket/news/12080/13573973/the-hundred-nasser-hussain-praises-quality-of-2026-tournament-but-criticises-packed-schedule-ahead-of-pakistan-test-series
@@ -674,6 +675,7 @@ https://skysports.com/cricket/news/13601039/south-africa-vs-australia-scott-bola
 https://skysports.com/cricket/news/13601229/england-slump-to-defeat-against-pakistan-in-odi-tri-series-after-faltering-chasing-303-in-rawalpindi
 https://skysports.com/cricket/news/13601286/the-hundred-2027-will-allow-teams-to-field-four-overseas-players-in-playing-xi-in-increase-from-previous-seasons
 https://skysports.com/cricket/news/13601291/david-warner-slams-pathetic-crowds-for-south-africa-vs-australia-test-matches
+https://skysports.com/cricket/news/13601367/england-captain-harry-brook-laments-wickets-in-clumps-in-odi-batting-collapse-as-arafat-minhas-stars-for-pakistan
 https://skysports.com/cricket/news/13601427/temba-bavuma-hits-test-best-179-as-south-africa-dominate-australia-on-day-three-of-second-test-in-gqeberha
 https://skysports.com/cricket/news/15821/13575416/kate-cross-lancashire-and-england-bowler-to-retire-from-professional-cricket-after-glittering-career
 https://skysports.com/cricket/news/32461/13574602/englands-harry-brook-goes-top-of-icc-test-batting-rankings-as-travis-head-falls-after-australias-shock-bangladesh-defeat
@@ -1428,9 +1430,11 @@ https://skysports.com/football/liverpool-vs-fulham/report/559480
 https://skysports.com/football/liverpool-vs-manchester-city/report/559501
 https://skysports.com/football/liverpool-vs-nottingham-forest/report/559460
 https://skysports.com/football/liverpool-vs-tottenham-hotspur/report/577579
+https://skysports.com/football/liverpool-vs-villarreal/report/577635
 https://skysports.com/football/london-city-lionesses-vs-brighton-and-hove-albion-women/report/575777
 https://skysports.com/football/london-city-lionesses-vs-manchester-united-women/report/575755
 https://skysports.com/football/lyon-vs-crystal-palace/report/577769
+https://skysports.com/football/manchester-city-vs-aek-athens/report/577636
 https://skysports.com/football/manchester-city-vs-coventry-city/report/559471
 https://skysports.com/football/manchester-city-vs-ipswich-town/report/559510
 https://skysports.com/football/manchester-city-vs-norwich-city/report/577580
@@ -3385,6 +3389,10 @@ https://skysports.com/football/news/13592852/manchester-city-charges-everything-
 https://skysports.com/football/news/13592857/tranmere-1-2-barnet
 https://skysports.com/football/news/13592859/swindon-1-1-walsall
 https://skysports.com/football/news/13592864/grimsby-0-2-northampton
+https://skysports.com/football/news/13592873/wolves-1-1-portsmouth-terry-devlin-strikes-late-to-earn-point-for-pompey
+https://skysports.com/football/news/13592904/afc-wimbledon-0-3-mansfield
+https://skysports.com/football/news/13592907/blackpool-2-0-mk-dons
+https://skysports.com/football/news/13592911/notts-county-2-0-sheffield-wednesday
 https://skysports.com/football/news/13592945/lewis-ferguson-on-rangers-dream-after-summer-speculation-about-bologna-captains-future
 https://skysports.com/football/news/13592957/portsmouth-3-2-sheffield-united-ebou-adams-scores-late-pompey-winner-against-10-man-blades
 https://skysports.com/football/news/13592961/qpr-4-1-derby-rangers-thump-four-past-struggling-rams
@@ -3608,7 +3616,10 @@ https://skysports.com/football/news/13600861/wsl-london-city-lionesses-showing-r
 https://skysports.com/football/news/13600880/premier-league-fixtures-on-sky-sports-arsenal-vs-man-utd-north-london-derby-and-man-city-vs-chelsea-live-in-december
 https://skysports.com/football/news/13600882/scottish-premiership-celtic-step-up-against-hearts-rangers-slip-up-as-hibernians-woes-continue-under-marink-reedijk
 https://skysports.com/football/news/13600890/sarina-wiegman-england-women-boss-signs-new-two-year-contract-extension-through-to-end-of-euro-2029
+https://skysports.com/football/news/13600900/liverpool-4-3-villarreal-rio-ngumoha-stars-and-florian-wirtz-scores-as-reds-come-from-two-down-to-win-in-europe
+https://skysports.com/football/news/13600901/man-city-5-1-aek-athens-phil-foden-bags-hat-trick-as-enzo-marescas-side-claim-second-champions-league-win
 https://skysports.com/football/news/13600922/arsenal-were-spooked-by-brighton-defeat-and-have-reverted-to-type-they-wont-beat-bayern-munich-says-paul-merson
+https://skysports.com/football/news/13600929/psg-4-2-barcelona-european-giants-turn-out-in-classic-as-hansi-flicks-side-handed-first-defeat-of-the-season
 https://skysports.com/football/news/13601009/jota-celtic-winger-insists-he-is-stronger-after-wrestling-demons-during-18-month-injury-absence
 https://skysports.com/football/news/13601064/crystal-palace-manager-pierre-sage-under-increasing-pressure-after-5-0-defeat-to-brighton
 https://skysports.com/football/news/13601072/uefa-writes-letter-to-fifa-demanding-answers-over-gianni-infantinos-presidency-and-his-relationship-with-donald-trump
@@ -3680,6 +3691,7 @@ https://skysports.com/football/nottingham-forest-vs-leeds-united/report/577433
 https://skysports.com/football/nottingham-forest-vs-tottenham-hotspur/report/559473
 https://skysports.com/football/olympiques-lyon-women-vs-chelsea-women/report/578243
 https://skysports.com/football/paris-fc-women-vs-arsenal-women/report/578244
+https://skysports.com/football/paris-saint-germain-vs-barcelona/report/577638
 https://skysports.com/football/peterborough-united-vs-barnsley/report/577583
 https://skysports.com/football/plymouth-argyle-vs-coventry-city/report/577439
 https://skysports.com/football/portsmouth-vs-blackburn-rovers/report/560589
@@ -3805,6 +3817,7 @@ https://skysports.com/football/west-ham-united-vs-fulham/report/577587
 https://skysports.com/football/west-ham-united-vs-queens-park-rangers/report/560605
 https://skysports.com/football/west-ham-united-vs-wolverhampton-wanderers/report/560541
 https://skysports.com/football/west-ham-united-vs-wrexham/report/560581
+https://skysports.com/football/wolverhampton-wanderers-vs-portsmouth/report/560565
 https://skysports.com/football/wolverhampton-wanderers-vs-west-bromwich-albion/report/560592
 https://skysports.com/football/wrexham-vs-birmingham-city/report/560533
 https://skysports.com/football/wrexham-vs-burnley/report/560569
@@ -4319,6 +4332,7 @@ https://skysports.com/more-sports/snooker/news/13593146/graeme-dott-ex-snooker-w
 https://skysports.com/more-sports/snooker/news/13594525/allison-fisher-pool-pioneer-retiring-from-professional-competition-after-being-diagnosed-with-parkinsons-disease
 https://skysports.com/more-sports/snooker/news/13596931/graeme-dott-ex-world-snooker-champion-intends-to-appeal-against-conviction-and-jail-sentence-for-child-sex-abuse
 https://skysports.com/more-sports/snooker/news/13601071/ronnie-osullivan-the-rocket-stunned-by-qualifier-and-world-no-110-cheung-ka-wai-at-northern-ireland-open
+https://skysports.com/more-sports/snooker/news/13601484/mark-allen-snooker-star-suggests-career-could-be-over-after-losing-in-first-round-of-northern-ireland-open-in-belfast
 https://skysports.com/more-sports/winter-sports/news/12040/13516654/winter-paralympics-2026-russian-athletes-win-first-medals-since-being-allowed-to-compete-under-their-own-flag
 https://skysports.com/more-sports/winter-sports/news/13510949/winter-olympics-matt-weston-stars-gbs-record-medal-haul-too-much-snow-and-penis-injection-claims-the-games-report
 https://skysports.com/more-sports/winter-sports/news/13515832/winter-paralympics-2026-why-the-games-are-controversial-and-uncomfortable-with-10-athletes-from-russia-and-belarus-set-to-compete-under-own-flags
