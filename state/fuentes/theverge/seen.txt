@@ -319,6 +319,7 @@ https://theverge.com/ai-artificial-intelligence/1013773/us-civilian-agencies-can
 https://theverge.com/ai-artificial-intelligence/1013859/instead-i-have-decided-that-someone-else-should-stop-me
 https://theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai
 https://theverge.com/ai-artificial-intelligence/1014400/perplexity-computer-can-now-run-fully-offline-on-mac-but-youll-need-a-lot-of-ram
+https://theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed
 https://theverge.com/ai-artificial-intelligence/648595/anthropic-claude-research-google-workplace
 https://theverge.com/ai-artificial-intelligence/679852/trump-ai-safety-institute-name-mission-change
 https://theverge.com/ai-artificial-intelligence/767973/vibe-coding-ai-future-end-evolution
@@ -1329,6 +1330,8 @@ https://theverge.com/news/1014236/google-cloud-power-outage-recovery
 https://theverge.com/news/1014274/polymarket-allowed-bettors-to-wager-on-the-cornell-7-case
 https://theverge.com/news/1014455/amd-fsr-4-1-xbox-consoles-handhelds-laptops
 https://theverge.com/news/1014666/xbox-project-helix-launch-2028-rumor
+https://theverge.com/news/1014989/trump-fraud-tips-program-nick-shirley-influencers
+https://theverge.com/news/1015054/xbox-dashboard-blades-experiment
 https://theverge.com/news/599220/it-m
 https://theverge.com/news/609772/google-maps-gulf-of-america-rename-mexico
 https://theverge.com/news/610580/apple-maps-gulf-of-america
@@ -1802,6 +1805,7 @@ https://theverge.com/science/1014150/spacex-q3-2026-earnings
 https://theverge.com/science/1014825/peptide-tiktok-search-ban
 https://theverge.com/science/1014913/spacex-will-try-catching-starship-and-its-booster-for-first-time-musk-says
 https://theverge.com/science/1014984/spacex-tesla-merger-elon-musk-special-committees
+https://theverge.com/science/1014997/elon-musk-believes-starlink-connectivity-could-generate-several-hundred-billion-dollars-a-year-in-revenue
 https://theverge.com/science/786067/clippers-kawhi-leonard-salary-cap-investigation-carbon-credit-climate-change
 https://theverge.com/science/839303/rfk-jr-s-vaccine-committee-says-hepatitis-b-shot-can-wait
 https://theverge.com/science/914729/blue-origin-successfully-reused-its-new-glenn-rocket
@@ -1860,6 +1864,7 @@ https://theverge.com/streaming/1011789/youtube-might-be-getting-into-audiobooks
 https://theverge.com/streaming/1012317/youtubes-ai-chatbot-search-has-launched-on-mobile-in-the-us
 https://theverge.com/streaming/1014160/netflixs-ted-sarandos-reportedly-wants-more-focus-on-tv-shows-and-movies
 https://theverge.com/streaming/1014826/netflix-earnings-q3-2026-viewing-time
+https://theverge.com/streaming/1015099/youtube-dislike-button-hide-menu
 https://theverge.com/streaming/894128/peacock-nbcuniversal-ai-andy-cohen-bravo
 https://theverge.com/streaming/909230/its-an-amazing-art-form-that-is-way-too-limited-in-peoples-minds
 https://theverge.com/streaming/919441/google-ask-youtube-ai-chatbot-search
@@ -2264,6 +2269,7 @@ https://theverge.com/tech/1014533/tuesday-labs-voxel-series-1-home-robot-reserva
 https://theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats
 https://theverge.com/tech/1014712/oura-smart-rings-track-cardio-effort-vo2-max-cardiovascular
 https://theverge.com/tech/1014869/snap-specs-robert-downey-jr
+https://theverge.com/tech/1014999/google-gemini-ai-cars-android-auto
 https://theverge.com/tech/24008239/sphere-las-vegas-experience-u2-screen
 https://theverge.com/tech/625223/book-log-read-goodreads
 https://theverge.com/tech/784323/upgrading-240hz-oled-gaming-monitor
