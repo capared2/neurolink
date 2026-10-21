@@ -5,6 +5,7 @@ https://theverge.com/2013/5/22/4354796/xbox-one-always-online-requirement-used-g
 https://theverge.com/2013/5/3/4296002/another-rare-working-apple-1-signed-by-steve-wozniak-headed-to-auction
 https://theverge.com/2013/8/29/4640308/dark-patterns-inside-the-interfaces-designed-to-trick-you
 https://theverge.com/2014/10/17/6994871/comic-sans-typewriter-exists
+https://theverge.com/2014/4/12/5607614/heartbleed-openssl-bug-storystream
 https://theverge.com/2015/3/18/8237799/sony-playstation-vue-tv-streaming-launch
 https://theverge.com/2015/6/9/8751947/june-oven-identify-your-food
 https://theverge.com/2015/7/7/8905037/google-ad-discrimination-adfisher
@@ -320,6 +321,7 @@ https://theverge.com/ai-artificial-intelligence/1013859/instead-i-have-decided-t
 https://theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai
 https://theverge.com/ai-artificial-intelligence/1014400/perplexity-computer-can-now-run-fully-offline-on-mac-but-youll-need-a-lot-of-ram
 https://theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed
+https://theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems
 https://theverge.com/ai-artificial-intelligence/648595/anthropic-claude-research-google-workplace
 https://theverge.com/ai-artificial-intelligence/679852/trump-ai-safety-institute-name-mission-change
 https://theverge.com/ai-artificial-intelligence/767973/vibe-coding-ai-future-end-evolution
@@ -670,6 +672,7 @@ https://theverge.com/entertainment/1013707/adam-savage-tested-ilm-model-maker-lo
 https://theverge.com/entertainment/1013753/nintendo-switch-sports-resort-review-switch-2
 https://theverge.com/entertainment/1013939/spotify-is-now-asking-some-premium-family-plan-members-to-verify-with-qr-codes
 https://theverge.com/entertainment/1014189/star-wars-is-sort-of-coming-to-the-super-bowl
+https://theverge.com/entertainment/1014261/spotify-native-car-app-audi-android-automotive-carplay
 https://theverge.com/entertainment/1014276/professional-sports-authenticator-psa-stolen-graded-sports-pokemon-cards-fedex
 https://theverge.com/entertainment/1014284/spotify-ai-slop-spam-songs-removed
 https://theverge.com/entertainment/1014640/justwatch-tv-plus-free-store-streaming-service-movie-rental
@@ -677,6 +680,7 @@ https://theverge.com/entertainment/815745/pluribus-review-apple-tv
 https://theverge.com/entertainment/845459/disclosure-day-spielberg-trailer-release-date
 https://theverge.com/entertainment/876658/the-mummy-4-lands-its-official-release-date-for-may-19-2028
 https://theverge.com/entertainment/877906/mewgenics-steam-sales-edmund-mcmillen-interview
+https://theverge.com/entertainment/883947/resident-evil-requiem-review-ps5-xbox-switch-2
 https://theverge.com/entertainment/885432/reigns-the-witcher-interview-steam-iphone-android
 https://theverge.com/entertainment/891979/project-hail-mary-review-ryan-gosling
 https://theverge.com/entertainment/897923/ghost-in-the-machine-valerie-veatch-interview
@@ -1101,6 +1105,7 @@ https://theverge.com/games/1013873/my-favorite-game-from-gdc-2025-just-got-a-rel
 https://theverge.com/games/1013958/final-fantasy-resonance-review
 https://theverge.com/games/1013999/because-of-ai-copying-concerns-an-upcoming-indie-game-is-limiting-its-first-playtest-to-discord
 https://theverge.com/games/1014700/xbox-ceo-asha-sharma-layoffs
+https://theverge.com/games/1015246/resident-evil-requiem-made-more-money-from-ps5-discs-than-from-all-copies-on-xbox
 https://theverge.com/games/633885/gdc-2025-best-indie-games
 https://theverge.com/games/682063/the-new-york-times-nyt-games-crossplay-scrabble-pips
 https://theverge.com/games/684957/splitgate-2-hat-apology
@@ -1332,6 +1337,7 @@ https://theverge.com/news/1014455/amd-fsr-4-1-xbox-consoles-handhelds-laptops
 https://theverge.com/news/1014666/xbox-project-helix-launch-2028-rumor
 https://theverge.com/news/1014989/trump-fraud-tips-program-nick-shirley-influencers
 https://theverge.com/news/1015054/xbox-dashboard-blades-experiment
+https://theverge.com/news/1015299/nvidia-driver-microsoft-advanced-shader-delivery-support
 https://theverge.com/news/599220/it-m
 https://theverge.com/news/609772/google-maps-gulf-of-america-rename-mexico
 https://theverge.com/news/610580/apple-maps-gulf-of-america
@@ -1865,6 +1871,7 @@ https://theverge.com/streaming/1012317/youtubes-ai-chatbot-search-has-launched-o
 https://theverge.com/streaming/1014160/netflixs-ted-sarandos-reportedly-wants-more-focus-on-tv-shows-and-movies
 https://theverge.com/streaming/1014826/netflix-earnings-q3-2026-viewing-time
 https://theverge.com/streaming/1015099/youtube-dislike-button-hide-menu
+https://theverge.com/streaming/1015228/youtube-has-a-new-way-to-protect-hacked-channels
 https://theverge.com/streaming/894128/peacock-nbcuniversal-ai-andy-cohen-bravo
 https://theverge.com/streaming/909230/its-an-amazing-art-form-that-is-way-too-limited-in-peoples-minds
 https://theverge.com/streaming/919441/google-ask-youtube-ai-chatbot-search
@@ -2262,14 +2269,21 @@ https://theverge.com/tech/1014243/apple-is-committing-up-to-100-million-to-a-us-
 https://theverge.com/tech/1014246/adobe-lightroom-mobile-ai-quick-action-open-eyes-closed-blink-repair
 https://theverge.com/tech/1014250/tiktok-employees-internal-child-safety-warnings
 https://theverge.com/tech/1014252/peter-thiel-antichrist-lectures-analysis
+https://theverge.com/tech/1014316/iphone-duo-review-ama
 https://theverge.com/tech/1014375/flex-can-now-help-you-split-up-more-of-your-bills
 https://theverge.com/tech/1014399/ikea-microsoft-xbox-yxstaby-collection-furniture-accessories-available-online
 https://theverge.com/tech/1014446/google-chrome-suspicious-website-warning
 https://theverge.com/tech/1014533/tuesday-labs-voxel-series-1-home-robot-reservation
 https://theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats
+https://theverge.com/tech/1014709/iphone-duo-inner-screen-nano-texture-matte
 https://theverge.com/tech/1014712/oura-smart-rings-track-cardio-effort-vo2-max-cardiovascular
 https://theverge.com/tech/1014869/snap-specs-robert-downey-jr
 https://theverge.com/tech/1014999/google-gemini-ai-cars-android-auto
+https://theverge.com/tech/1015028/iphone-duo-review
+https://theverge.com/tech/1015234/insecure-tls-certificates-will-be-a-massive-cleanup-job-for-system-admins
+https://theverge.com/tech/1015257/php-vulnerability-patch-website-security-wordpress
+https://theverge.com/tech/1015303/joanna-stern-tested-the-iphone-duos-hinge-in-her-sleep
+https://theverge.com/tech/1015319/serato-dj-for-ios
 https://theverge.com/tech/24008239/sphere-las-vegas-experience-u2-screen
 https://theverge.com/tech/625223/book-log-read-goodreads
 https://theverge.com/tech/784323/upgrading-240hz-oled-gaming-monitor
