@@ -1901,6 +1901,7 @@ https://theverge.com/streaming/1014160/netflixs-ted-sarandos-reportedly-wants-mo
 https://theverge.com/streaming/1014826/netflix-earnings-q3-2026-viewing-time
 https://theverge.com/streaming/1015099/youtube-dislike-button-hide-menu
 https://theverge.com/streaming/1015228/youtube-has-a-new-way-to-protect-hacked-channels
+https://theverge.com/streaming/1016206/youtube-dislike-button-videos
 https://theverge.com/streaming/894128/peacock-nbcuniversal-ai-andy-cohen-bravo
 https://theverge.com/streaming/909230/its-an-amazing-art-form-that-is-way-too-limited-in-peoples-minds
 https://theverge.com/streaming/919441/google-ask-youtube-ai-chatbot-search
@@ -2325,6 +2326,7 @@ https://theverge.com/tech/1015799/meta-shares-class-ai-q3-2026-earnings
 https://theverge.com/tech/1015844/airbnb-chores-house-rules-update
 https://theverge.com/tech/1015877/meta-q3-2026-earnings-child-safety-settlement
 https://theverge.com/tech/1015906/php2shell-vulnerability-october-2026
+https://theverge.com/tech/1015974/automattic-is-reportedly-laying-off-staff
 https://theverge.com/tech/1016019/meta-made-a-deal-to-keep-mark-zuckerberg-from-leaving-california-over-its-billionaire-tax
 https://theverge.com/tech/1016029/10-million-people-have-already-set-up-muse-agents
 https://theverge.com/tech/24008239/sphere-las-vegas-experience-u2-screen
@@ -3143,6 +3145,7 @@ https://theverge.com/transportation/1014322/gm-onward-ai-ev-battery-compute-av
 https://theverge.com/transportation/1014607/vw-tells-id-4-owners-to-limit-charging-to-80-percent-or-risk-thermal-propagation
 https://theverge.com/transportation/1015281/gemini-ai-apple-carplay-voice-google-maps
 https://theverge.com/transportation/1015790/tesla-q3-2026-earnings-revenue-profit-roadster-spacex-merger
+https://theverge.com/transportation/1016118/tesla-robotaxi-customer-owned-vehicle-fleet-network-q3-2026-earnings
 https://theverge.com/transportation/760217/a-wild-miraidon-appeared
 https://theverge.com/transportation/781908/electric-cargo-bike-car-replace-bike-bus
 https://theverge.com/transportation/784461/lucid-nuro-uber-robotaxi-first-vehicle-delivery
