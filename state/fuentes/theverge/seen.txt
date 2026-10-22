@@ -101,6 +101,7 @@ https://theverge.com/2023/8/23/23837598/tesla-elon-musk-self-driving-false-promi
 https://theverge.com/2023/8/9/23825771/google-american-airlines-ai-flights-contrails-climate-change
 https://theverge.com/2023/9/12/23869741/tiktok-shop-available-us-marketplace-e-commerce-amazon
 https://theverge.com/2023/9/17/23877777/grand-theft-auto-v-now-10-years-old
+https://theverge.com/2024/1/25/24050200/apple-third-party-app-stores-allowed-iphone-ios-europe-digital-markets-act
 https://theverge.com/2024/10/10/24267132/tesla-robotaxi-we-robot-autonomous-fsd-elon-musk
 https://theverge.com/2024/10/21/24273820/intuit-ceo-sasan-goodarzi-turbotax-irs-quickbooks-ai-software-decoder-interview
 https://theverge.com/2024/10/23/24277962/character-ai-google-wrongful-death-lawsuit
@@ -913,6 +914,7 @@ https://theverge.com/gadgets/1013493/vibe-coding-ai-music-gear-hacking-custom-fi
 https://theverge.com/gadgets/1013645/apple-mac-mini-m4-lg-c6-oled-deal-sale
 https://theverge.com/gadgets/1013911/sonys-best-noise-canceling-earbuds-are-nearly-100-off-today-only
 https://theverge.com/gadgets/1014255/arturias-minifreak-49-synthesizer
+https://theverge.com/gadgets/1014332/oppo-find-x10-pro-max-camera-200-megapixels
 https://theverge.com/gadgets/1014456/dji-osmo-pocket-3-switch-sports-resort-deal-sale
 https://theverge.com/gadgets/1014565/amazon-fire-hd-10-tablet-deal-sale
 https://theverge.com/gadgets/1014764/logitech-x2-superstrike-haptics-wireless-gaming-mouse-deal-sale
@@ -1143,6 +1145,7 @@ https://theverge.com/games/910385/pragmata-review-ps5-xbox-switch-2-pc
 https://theverge.com/games/916403/two-more-states-announced-settlements-with-roblox
 https://theverge.com/games/927536/wordle-game-show-nbc-savannah-guthrie-jimmy-fallon-new-york-times
 https://theverge.com/games/933204/lg-1000hz-1080p-ultragear-25g590b
+https://theverge.com/games/933391/fortnite-ios-app-store-global-return
 https://theverge.com/games/938956/alienware-computex-tandem-qd-oled-penta-rgb-stripe-gaming-monitors-specs
 https://theverge.com/games/939396/final-fantasy-vii-revelation-remake-trilogy-third-game-announcement
 https://theverge.com/games/939536/fable-xbox-games-showcase-2026
@@ -1359,6 +1362,7 @@ https://theverge.com/news/1014989/trump-fraud-tips-program-nick-shirley-influenc
 https://theverge.com/news/1015054/xbox-dashboard-blades-experiment
 https://theverge.com/news/1015299/nvidia-driver-microsoft-advanced-shader-delivery-support
 https://theverge.com/news/1015321/xbox-cloud-gaming-pay-as-you-go-cloud-hours-pricing
+https://theverge.com/news/1015824/eiliko-energize-lab-statement-on-robot-hack-breach
 https://theverge.com/news/1015965/microsoft-headcount-down-2026
 https://theverge.com/news/599220/it-m
 https://theverge.com/news/609772/google-maps-gulf-of-america-rename-mexico
@@ -1465,7 +1469,9 @@ https://theverge.com/news/841219/google-gemini-us-military-ai-platform-genai-mil
 https://theverge.com/news/841369/chatgpt-apps-adobe-photoshop-acrobat-express
 https://theverge.com/news/845280/google-cc-morning-briefing-gemini-ai-agent
 https://theverge.com/news/845882/x-corp-operation-bluebird-twitter-lawsuit-trademark-infringement
+https://theverge.com/news/847149/apple-third-party-app-stores-payment-processing-ios-japan
 https://theverge.com/news/849061/instacart-ends-ai-pricing-tests-eversight
+https://theverge.com/news/850061/apple-brazil-third-party-app-stores-external-payment-systems
 https://theverge.com/news/850328/comedian-trump-kennedy-center-domains
 https://theverge.com/news/850515/billionaires-are-making-empty-threats-to-leave-california-if-theyre-asked-to-hoard-slighlty-less-money
 https://theverge.com/news/850876/lg-gallery-tv-ces-2026
@@ -2329,6 +2335,10 @@ https://theverge.com/tech/1015906/php2shell-vulnerability-october-2026
 https://theverge.com/tech/1015974/automattic-is-reportedly-laying-off-staff
 https://theverge.com/tech/1016019/meta-made-a-deal-to-keep-mark-zuckerberg-from-leaving-california-over-its-billionaire-tax
 https://theverge.com/tech/1016029/10-million-people-have-already-set-up-muse-agents
+https://theverge.com/tech/1016375/the-iphone-duos-crease-gets-a-lot-more-visible-after-10000-folds
+https://theverge.com/tech/1016397/australia-orders-apple-to-open-the-iphone-to-third-party-app-stores
+https://theverge.com/tech/1016408/the-php2shell-exploit-hit-cloudflare-hard
+https://theverge.com/tech/1016427/the-next-iphone-duo-could-have-face-id
 https://theverge.com/tech/24008239/sphere-las-vegas-experience-u2-screen
 https://theverge.com/tech/625223/book-log-read-goodreads
 https://theverge.com/tech/784323/upgrading-240hz-oled-gaming-monitor
