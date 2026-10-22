@@ -88,6 +88,7 @@ https://finance.yahoo.com/economy/article/michael-dell-defends-trump-accounts-sh
 https://finance.yahoo.com/economy/article/moodys-zandi-warns-that-higher-interest-rates-are-already-damaging-the-economy-175257674.html
 https://finance.yahoo.com/economy/article/more-americans-pull-back-on-retirement-saving-to-fund-todays-needs-goldman-report-132849507.html
 https://finance.yahoo.com/economy/article/mortgage-rates-creep-toward-new-high-of-75-172359287.html
+https://finance.yahoo.com/economy/article/mortgage-rates-dropped-for-the-first-time-in-months-160810388.html
 https://finance.yahoo.com/economy/article/new-data-shows-the-us-governments-166-billion-tariff-refund-process-is-quickly-tapering-off-201348435.html
 https://finance.yahoo.com/economy/article/no-need-for-urgency-new-york-feds-williams-squashes-notion-of-an-october-rate-hike-202237159.html
 https://finance.yahoo.com/economy/article/only-i-can-make-you-this-promise-trump-re-ups-pledge-to-send-americans-5000-if-gop-wins-135647789.html
@@ -660,6 +661,7 @@ https://finance.yahoo.com/economy/policy/articles/us-treasury-says-imposing-1-20
 https://finance.yahoo.com/economy/policy/articles/us-treasury-stick-debt-auction-194250429.html
 https://finance.yahoo.com/economy/policy/articles/us-treasury-triples-long-dated-151747086.html
 https://finance.yahoo.com/economy/policy/articles/us-treasurys-bessent-faces-g20-100422244.html
+https://finance.yahoo.com/economy/policy/articles/us-weekly-jobless-claims-near-123641130.html
 https://finance.yahoo.com/economy/policy/articles/us-yield-surge-adds-bessent-100001672.html
 https://finance.yahoo.com/economy/policy/articles/volkswagen-boss-visits-risk-german-121826403.html
 https://finance.yahoo.com/economy/policy/articles/volkswagen-plans-50-000-more-215210393.html
@@ -1302,6 +1304,7 @@ https://finance.yahoo.com/markets/article/canada-slaps-retaliatory-tariffs-of-up
 https://finance.yahoo.com/markets/article/cerebras-stock-pops-after-openai-ceo-altman-lauds-close-partner-105240308.html
 https://finance.yahoo.com/markets/article/cerebras-stock-surges-after-openai-ceo-altman-lauds-close-partner-105240308.html
 https://finance.yahoo.com/markets/article/charles-schwab-ceo-ai-agents-trading-on-your-behalf-need-rules-of-the-road-203402357.html
+https://finance.yahoo.com/markets/article/chip-stocks-break-a-bear-trap-after-a-3-trillion-rout--here-are-the-levels-bulls-need-to-hold-155619334.html
 https://finance.yahoo.com/markets/article/chip-stocks-fall-as-ai-breach-fuels-safety-concerns-but-nvidia-bucks-the-trend-chart-of-the-day-151753993.html
 https://finance.yahoo.com/markets/article/chip-stocks-shrug-off-a-scary-morning-but-history-says-the-shakeout-isnt-over-154222842.html
 https://finance.yahoo.com/markets/article/copper-just-soared-to-new-records--and-could-still-have-more-left-in-the-tank-chart-of-the-day-171432521.html
@@ -1368,6 +1371,7 @@ https://finance.yahoo.com/markets/article/market-may-be-mispricing-ai-doomsday-r
 https://finance.yahoo.com/markets/article/maye-musk-elon-really-wants-to-live-on-mars-in-the-coming-decades-193421298.html
 https://finance.yahoo.com/markets/article/mcdonalds-exec-says-glp-1-boom-is-an-opportunity-204354994.html
 https://finance.yahoo.com/markets/article/memory-stocks-slide-into-another-bear-market-as-chip-losses-near-25-trillion-chart-of-the-day-100000060.html
+https://finance.yahoo.com/markets/article/meta-and-chip-stocks-decline-as-ai-trade-comes-under-pressure-alphacheck-140107733.html
 https://finance.yahoo.com/markets/article/meta-is-having-its-moment-as-stocks-monster-rally-vindicates-the-bulls-chart-of-the-day-121302619.html
 https://finance.yahoo.com/markets/article/meta-muse-ai-may-throw-gas-on-the-labor-displacement-problem--but-its-not-all-doom-and-gloom-150747149.html
 https://finance.yahoo.com/markets/article/meta-muse-could-soon-drive-up-to-8-of-revenue-by-2030-deutsche-bank-analyst-132850093.html
@@ -2063,6 +2067,7 @@ https://finance.yahoo.com/markets/live/stock-market-today-monday-september-21-do
 https://finance.yahoo.com/markets/live/stock-market-today-monday-september-28-dow-sp-500-nasdaq-080420627.html
 https://finance.yahoo.com/markets/live/stock-market-today-thursday-august-27-dow-sp-500-nasdaq-082144520.html
 https://finance.yahoo.com/markets/live/stock-market-today-thursday-oct-1-dow-sp-500-nasdaq-080602402.html
+https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-22-dow-sp-500-nasdaq-tesla-meta-112217857.html
 https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-8-dow-sp-500-nasdaq-080537884.html
 https://finance.yahoo.com/markets/live/stock-market-today-thursday-september-10-dow-sp-500-nasdaq-083717303.html
 https://finance.yahoo.com/markets/live/stock-market-today-thursday-september-10-dow-sp-500-nasdaq-oil-gains-100-083717303.html
@@ -2249,6 +2254,7 @@ https://finance.yahoo.com/markets/stocks/article/mcdonalds-bets-on-hand-breaded-
 https://finance.yahoo.com/markets/stocks/article/mcdonalds-has-1-shot-to-turn-around-its-dreadful-year-164554149.html
 https://finance.yahoo.com/markets/stocks/article/meta-bulls-have-a-new-muse-stat-to-love-amazon-could-spoil-it-165920814.html
 https://finance.yahoo.com/markets/stocks/article/meta-stock-surges-with-wall-street-bullish-on-new-ai-agent-140959204.html
+https://finance.yahoo.com/markets/stocks/article/metas-new-nonvoting-shares-create-an-overhang--and-wall-street-wants-it-gone-124900698.html
 https://finance.yahoo.com/markets/stocks/article/micron-is-about-to-do-something-that-would-surprise-most-magnificent-7-investors-094730623.html
 https://finance.yahoo.com/markets/stocks/article/micron-just-blew-wall-street-away-again--heres-whats-next-091328638.html
 https://finance.yahoo.com/markets/stocks/article/micron-just-blew-wall-street-away-againheres-whats-next-091328638.html
@@ -2288,6 +2294,7 @@ https://finance.yahoo.com/markets/stocks/article/paramount-warner-bros-shares-ra
 https://finance.yahoo.com/markets/stocks/article/paypal-keeping-options-open-amid-buyout-rumors-ceo-says-203725063.html
 https://finance.yahoo.com/markets/stocks/article/pepsico-beats-earnings-expectations-lowers-guidance-as-it-aims-to-stabilize-north-america-business-103147761.html
 https://finance.yahoo.com/markets/stocks/article/pepsico-just-lost-kfc-to-coca-cola-heres-how-much-it-could-sting-financially-123341713.html
+https://finance.yahoo.com/markets/stocks/article/pg-beats-estimates-as-price-hikes-havent-hurt-demand-yet-111851559.html
 https://finance.yahoo.com/markets/stocks/article/qualcomm-and-amazon-ink-deal-for-custom-data-center-chips-170048117.html
 https://finance.yahoo.com/markets/stocks/article/robinhood-is-rolling-out-agentic-ai-trading-accounts-for-the-masses-230517174.html
 https://finance.yahoo.com/markets/stocks/article/rocket-lab-stock-tumbles-as-effort-to-take-market-share-from-spacex-slips-to-2027-163503484.html
@@ -2304,6 +2311,7 @@ https://finance.yahoo.com/markets/stocks/article/spacex-stock-poised-for-a-catal
 https://finance.yahoo.com/markets/stocks/article/spacex-stock-pops-ahead-of-starship-launch-180435710.html
 https://finance.yahoo.com/markets/stocks/article/spacex-stock-rises-with-data-center-overhaul-budding-uk-defense-deal-in-focus-160039841.html
 https://finance.yahoo.com/markets/stocks/article/spacex-stock-slammed-as-ai-memory-trade-crumbles-in-south-korea-155356794.html
+https://finance.yahoo.com/markets/stocks/article/spacex-stock-slips-as-tech-trade-tumbles-155900111.html
 https://finance.yahoo.com/markets/stocks/article/spacex-stock-slips-on-report-of-its-40-billion-in-new-debt-for-nvidia-chips-140223011.html
 https://finance.yahoo.com/markets/stocks/article/spacex-unveils-starbase-launch-site-in-louisiana-moves-up-orbital-data-center-launch-timeline-142539276.html
 https://finance.yahoo.com/markets/stocks/article/spacexs-next-starlink-move-could-squeeze-att-verizon--and-even-apple-and-samsung-115744807.html
@@ -4537,6 +4545,7 @@ https://finance.yahoo.com/media-advertising/articles/disney-hulu-add-growing-tre
 https://finance.yahoo.com/media-advertising/articles/disney-increases-park-prices-every-100045492.html
 https://finance.yahoo.com/media-advertising/articles/disney-price-jump-13-21-143019197.html
 https://finance.yahoo.com/media-advertising/articles/dolly-parton-singer-songwriter-1946-2026-185954855.html
+https://finance.yahoo.com/media-advertising/articles/elon-musk-makes-1-billion-160328616.html
 https://finance.yahoo.com/media-advertising/articles/father-son-david-ellison-considers-140000496.html
 https://finance.yahoo.com/media-advertising/articles/fcc-asks-court-reject-disney-213337290.html
 https://finance.yahoo.com/media-advertising/articles/federal-trade-commission-22-states-214057554.html
@@ -4551,6 +4560,7 @@ https://finance.yahoo.com/media-advertising/articles/hershey-adds-disclaimer-wra
 https://finance.yahoo.com/media-advertising/articles/john-malone-floats-potential-deal-162636297.html
 https://finance.yahoo.com/media-advertising/articles/judge-spared-alphabet-ad-tech-090718689.html
 https://finance.yahoo.com/media-advertising/articles/kennedy-center-finances-deteriorated-sharply-113140902.html
+https://finance.yahoo.com/media-advertising/articles/kfc-switches-coke-pepsi-still-150228909.html
 https://finance.yahoo.com/media-advertising/articles/live-nation-empire-music-fans-094529396.html
 https://finance.yahoo.com/media-advertising/articles/mark-thompson-remain-cnn-chairman-125229558.html
 https://finance.yahoo.com/media-advertising/articles/meta-bans-tiktok-advertising-apps-230000628.html
@@ -4639,6 +4649,7 @@ https://finance.yahoo.com/news/investors-pull-money-equity-funds-101047547.html
 https://finance.yahoo.com/news/joe-rogan-renews-multimillion-dollar-163725604.html
 https://finance.yahoo.com/news/know-netflix-landmark-acquisition-warner-203127005.html
 https://finance.yahoo.com/news/know-payday-loans-185219608.html
+https://finance.yahoo.com/news/lockheed-lifts-annual-forecast-missile-102342764.html
 https://finance.yahoo.com/news/lyft-pay-272-5-million-155537711.html
 https://finance.yahoo.com/news/meritage-hospitality-files-chapter-11-174333665.html
 https://finance.yahoo.com/news/meta-ordered-pay-25-billion-172737485.html
@@ -4671,6 +4682,7 @@ https://finance.yahoo.com/news/trump-issue-order-expanding-access-162034651.html
 https://finance.yahoo.com/news/trump-warns-eu-tariffs-over-055735103.html
 https://finance.yahoo.com/news/trumps-canada-auto-tariffs-could-end-up-denting-us-gdp-oxford-economics-110000983.html
 https://finance.yahoo.com/news/us-35-stake-venezuelan-mogul-020106280.html
+https://finance.yahoo.com/news/us-award-389-million-r-130214138.html
 https://finance.yahoo.com/news/us-ftc-subpoenas-openai-anthropic-091824753.html
 https://finance.yahoo.com/news/us-job-growth-expected-rebound-040129805.html
 https://finance.yahoo.com/news/us-justice-department-widens-probe-231012363.html
@@ -5285,6 +5297,7 @@ https://finance.yahoo.com/real-estate/articles/state-farm-sued-los-angeles-20410
 https://finance.yahoo.com/real-estate/articles/summit-hotel-inn-swings-profit-052023669.html
 https://finance.yahoo.com/real-estate/articles/taxing-him-minnesota-man-goes-110000218.html
 https://finance.yahoo.com/real-estate/articles/tokyo-used-condo-prices-drop-020000672.html
+https://finance.yahoo.com/real-estate/articles/treasury-unveils-rules-big-investor-155554712.html
 https://finance.yahoo.com/real-estate/articles/trumps-queens-childhood-home-sells-145000370.html
 https://finance.yahoo.com/real-estate/articles/turn-65-texas-school-property-100513323.html
 https://finance.yahoo.com/real-estate/articles/tyler-perry-pays-18k-lien-160000384.html
@@ -5536,6 +5549,7 @@ https://finance.yahoo.com/technology/ai/article/heres-how-the-fed-is-working-to-
 https://finance.yahoo.com/technology/ai/article/polls-show-trump-is-out-of-step-with-americans-on-ai-it-might-not-matter-in-this-falls-elections-170545435.html
 https://finance.yahoo.com/technology/ai/article/sailpoint-ceo-ai-agents-need-a-kill-switch-to-stop-the-worst-from-happening-164054656.html
 https://finance.yahoo.com/technology/ai/article/tesla-meta-and-ibm-3-earnings-call-shout-outs-that-left-us-thinking-091924234.html
+https://finance.yahoo.com/technology/ai/article/tesla-meta-ibm-3-earnings-call-shout-outs-that-left-us-thinking-121454573.html
 https://finance.yahoo.com/technology/ai/article/why-the-midterms-and-china-fears-will-complicate-action-in-washington-to-regulate-ai-162259365.html
 https://finance.yahoo.com/technology/ai/articles/1-microsoft-deal-iren-delivering-142734921.html
 https://finance.yahoo.com/technology/ai/articles/10-high-paying-growing-jobs-093002681.html
@@ -5560,6 +5574,7 @@ https://finance.yahoo.com/technology/ai/articles/adobe-forecast-misses-estimates
 https://finance.yahoo.com/technology/ai/articles/adobe-inc-adbe-acquires-rilo-150728839.html
 https://finance.yahoo.com/technology/ai/articles/advanced-micro-devices-amd-still-004250845.html
 https://finance.yahoo.com/technology/ai/articles/ahead-massive-ipos-ai-companies-161617282.html
+https://finance.yahoo.com/technology/ai/articles/ai-agents-accessing-u-bank-151012043.html
 https://finance.yahoo.com/technology/ai/articles/ai-agents-create-own-monitoring-225626156.html
 https://finance.yahoo.com/technology/ai/articles/ai-agents-start-spending-money-010300686.html
 https://finance.yahoo.com/technology/ai/articles/ai-boom-doesn-t-answer-122126376.html
@@ -6109,6 +6124,7 @@ https://finance.yahoo.com/technology/ai/articles/tech-titans-join-trump-fete-001
 https://finance.yahoo.com/technology/ai/articles/techcrunch-mobility-av-companies-pick-160200063.html
 https://finance.yahoo.com/technology/ai/articles/tencent-releases-ai-image-model-031310630.html
 https://finance.yahoo.com/technology/ai/articles/tesla-keeps-hyping-robotaxis-future-110029048.html
+https://finance.yahoo.com/technology/ai/articles/tesla-stars-optimus-robot-production-203309413.html
 https://finance.yahoo.com/technology/ai/articles/tesla-touts-european-supervised-self-151749028.html
 https://finance.yahoo.com/technology/ai/articles/tesla-vs-spacex-elon-musk-114959693.html
 https://finance.yahoo.com/technology/ai/articles/tesla-wants-seen-ai-company-112918322.html
@@ -6209,17 +6225,20 @@ https://finance.yahoo.com/technology/article/apple-named-its-new-foldable-iphone
 https://finance.yahoo.com/technology/article/apple-retakes-5-trillion-market-cap-only-second-company-to-eclipse-milestone-number-161627252.html
 https://finance.yahoo.com/technology/article/apple-sets-preorder-date-for-its-ambitious-and-expensive-iphone-duo-180434151.html
 https://finance.yahoo.com/technology/article/apple-stock-falls-on-report-that-company-is-cutting-component-orders-on-soft-iphone-18-pro-demand-132655752.html
+https://finance.yahoo.com/technology/article/apples-1999-iphone-duo-hits-stores-friday-amid-limited-supplies-134117431.html
 https://finance.yahoo.com/technology/article/apples-ai-strategy-took-center-stage-at-its-iphone-duo-event-150456038.html
 https://finance.yahoo.com/technology/article/apples-ai-vision-is-tailored-for-the-moment-of-ai-panic-100000576.html
 https://finance.yahoo.com/technology/article/apples-iphone-18-pro-line-hits-stores-with-a-100-price-bump-amid-memory-crunch-ai-pressure-155709106.html
 https://finance.yahoo.com/technology/article/apples-new-ceo-john-ternus-expected-to-debut-foldable-iphone-at-event-wednesday-132214684.html
 https://finance.yahoo.com/technology/article/apples-smart-hub-shows-its-new-view-of-the-tech-consumer--and-its-ambition-100000906.html
 https://finance.yahoo.com/technology/article/as-ai-stocks-plunge-apple-is-riding-high-150412052.html
+https://finance.yahoo.com/technology/article/big-companies-are-rethinking-out-of-control-ai-spending--and-turning-to-cheaper-models-162837207.html
 https://finance.yahoo.com/technology/article/both-cannot-be-right-ai-faces-a-high-stakes-paradox-163141172.html
 https://finance.yahoo.com/technology/article/broadcom-to-lend-anthropic-up-to-42-billion-in-deal-to-lease-chips-121617505.html
 https://finance.yahoo.com/technology/article/broadcom-to-lend-anthropic-up-to-42-billion-to-lease-chips-in-latest-circular-investing-deal-121617505.html
 https://finance.yahoo.com/technology/article/disgruntled-ai-researcher-this-technology-could-kill-us-all-by-the-end-of-the-decade-165859921.html
 https://finance.yahoo.com/technology/article/dont-trust-ai-agents-warns-the-ceo-of-cybersecurity-powerhouse-093701679.html
+https://finance.yahoo.com/technology/article/elon-musk-says-teslas-optimus-robot-needs-to-learn-like-a-toddler-135809500.html
 https://finance.yahoo.com/technology/article/for-all-their-talk-about-ai-few-companies-are-quantifying-gains-122132208.html
 https://finance.yahoo.com/technology/article/ftc-reportedly-looking-into-whether-openai-anthropic-violated-consumer-protection-laws-185820887.html
 https://finance.yahoo.com/technology/article/gary-cohn-on-metas-muse-im-not-comfortable-giving-up-my-personal-data-155957321.html
@@ -6244,6 +6263,7 @@ https://finance.yahoo.com/technology/article/meta-is-back-on-offense-bofa-says--
 https://finance.yahoo.com/technology/article/meta-is-banking-its-future-on-its-muse-ai-agent--and-winning-user-trust-182927585.html
 https://finance.yahoo.com/technology/article/meta-is-betting-the-house-on-ai--cfo-warns-the-stakes-are-really-bad-if-it-flops-133413709.html
 https://finance.yahoo.com/technology/article/meta-q3-earnings-to-test-wall-streets-stomach-for-ai-spending-184105375.html
+https://finance.yahoo.com/technology/article/meta-stock-drops-more-than-6-despite-strong-q3-results-stock-split-151218152.html
 https://finance.yahoo.com/technology/article/meta-stock-rockets-10-on-price-target-increase-muse-ai-downloads-180423756.html
 https://finance.yahoo.com/technology/article/meta-stock-soars-11-on-price-target-increase-muse-ai-downloads-180423756.html
 https://finance.yahoo.com/technology/article/meta-unveils-1299-vr-glasses-camera-less-smart-glasses-at-meta-connect-235611909.html
@@ -7161,6 +7181,7 @@ https://sports.yahoo.com/articles/aljamain-sterling-says-hell-no-234037557.html
 https://sports.yahoo.com/articles/allan-elias-10-things-might-133500130.html
 https://sports.yahoo.com/articles/allegany-falls-south-hagerstown-four-221600998.html
 https://sports.yahoo.com/articles/allegri-bruyne-well-deeper-role-182000301.html
+https://sports.yahoo.com/articles/allen-bailey-cause-death-former-170452750.html
 https://sports.yahoo.com/articles/allen-considers-retirement-ni-open-155826770.html
 https://sports.yahoo.com/articles/allen-iverson-shares-concerning-drinking-110734271.html
 https://sports.yahoo.com/articles/allen-sills-dismisses-concern-team-002816398.html
@@ -7202,6 +7223,7 @@ https://sports.yahoo.com/articles/analysis-fearless-seagulls-rewarded-attacking-
 https://sports.yahoo.com/articles/analysis-palace-light-step-210616546.html
 https://sports.yahoo.com/articles/analyst-lists-dk-metcalf-trade-152420246.html
 https://sports.yahoo.com/articles/analyst-suggest-49ers-trade-former-041819490.html
+https://sports.yahoo.com/articles/analyzing-j-j-mccarthys-initial-170000436.html
 https://sports.yahoo.com/articles/analyzing-raiders-rg-caleb-rogers-130233498.html
 https://sports.yahoo.com/articles/anatomy-4th-quarter-comeback-texas-041233114.html
 https://sports.yahoo.com/articles/anderson-vs-mccallum-live-updates-000109123.html
@@ -7402,6 +7424,7 @@ https://sports.yahoo.com/articles/arteta-backs-gyokeres-arsenal-boss-065500901.h
 https://sports.yahoo.com/articles/arteta-blasts-unacceptable-sunderland-penalty-220202896.html
 https://sports.yahoo.com/articles/arteta-delighted-decisive-madueke-win-182700835.html
 https://sports.yahoo.com/articles/arteta-pulls-no-punches-arsenal-170500447.html
+https://sports.yahoo.com/articles/arteta-says-wenger-made-possible-170000821.html
 https://sports.yahoo.com/articles/arthur-b-hancock-iii-musician-204205498.html
 https://sports.yahoo.com/articles/arun-jaitley-stadium-pitch-report-043001475.html
 https://sports.yahoo.com/articles/aryna-sabalenka-continues-hint-tensions-174536820.html
@@ -7652,6 +7675,7 @@ https://sports.yahoo.com/articles/bayern-munich-boss-scoffs-michael-160000499.ht
 https://sports.yahoo.com/articles/bayern-munich-boss-vincent-kompany-160000081.html
 https://sports.yahoo.com/articles/bayern-munich-ceo-jan-christian-070000358.html
 https://sports.yahoo.com/articles/bayern-munich-coach-vincent-kompany-233000982.html
+https://sports.yahoo.com/articles/bayern-munich-confirm-luis-diaz-170500828.html
 https://sports.yahoo.com/articles/bayern-munich-cult-hero-luca-070000337.html
 https://sports.yahoo.com/articles/bayern-munich-defender-offered-ajax-133500818.html
 https://sports.yahoo.com/articles/bayern-munich-execs-met-pep-203000093.html
@@ -8168,6 +8192,7 @@ https://sports.yahoo.com/articles/brewers-pat-murphy-shares-eye-083008362.html
 https://sports.yahoo.com/articles/brewers-pat-murphy-talks-clinching-072645320.html
 https://sports.yahoo.com/articles/brewers-prospect-named-southern-leagues-191431021.html
 https://sports.yahoo.com/articles/brewers-prospect-named-southern-leagues-191431123.html
+https://sports.yahoo.com/articles/brewers-rays-world-series-mlb-170017976.html
 https://sports.yahoo.com/articles/brewers-recall-left-hander-colton-000243599.html
 https://sports.yahoo.com/articles/brewers-recall-left-hander-colton-000243752.html
 https://sports.yahoo.com/articles/brewers-rookie-made-mlb-history-164652400.html
@@ -8206,6 +8231,7 @@ https://sports.yahoo.com/articles/brighton-vs-crystal-palace-match-040000612.htm
 https://sports.yahoo.com/articles/brighton-vs-crystal-palace-predicted-040000383.html
 https://sports.yahoo.com/articles/brighton-vs-leeds-united-match-041000851.html
 https://sports.yahoo.com/articles/brighton-vs-leeds-united-predicted-041000253.html
+https://sports.yahoo.com/articles/brilliant-brook-hits-englands-first-121026290.html
 https://sports.yahoo.com/articles/bristol-boils-over-ryan-blaney-043319500.html
 https://sports.yahoo.com/articles/bristol-rovers-rotherham-charged-melee-124248270.html
 https://sports.yahoo.com/articles/british-champion-ursu-targets-world-052800299.html
@@ -8496,6 +8522,7 @@ https://sports.yahoo.com/articles/campbell-repeats-mvl-cross-country-040953280.h
 https://sports.yahoo.com/articles/campbell-sends-nine-word-message-051733207.html
 https://sports.yahoo.com/articles/campeones-cup-know-inter-miami-200600908.html
 https://sports.yahoo.com/articles/canadiens-could-prime-position-land-042115604.html
+https://sports.yahoo.com/articles/canadiens-lose-nick-suzuki-month-170343856.html
 https://sports.yahoo.com/articles/canadiens-play-predators-bolducs-2-081105993.html
 https://sports.yahoo.com/articles/canadiens-split-game-previews-projected-160508049.html
 https://sports.yahoo.com/articles/canaries-punch-playoff-ticket-win-041042993.html
@@ -8613,6 +8640,7 @@ https://sports.yahoo.com/articles/celtic-captain-slams-scared-team-063323232.htm
 https://sports.yahoo.com/articles/celtic-connection-spain-last-competitive-150500818.html
 https://sports.yahoo.com/articles/celtic-count-cost-champions-league-104428639.html
 https://sports.yahoo.com/articles/celtic-deficiencies-laid-bare-another-065301211.html
+https://sports.yahoo.com/articles/celtic-fans-issued-travel-warning-170000411.html
 https://sports.yahoo.com/articles/celtic-football-club-statement-danny-113000053.html
 https://sports.yahoo.com/articles/celtic-keeper-shaken-again-per-180500144.html
 https://sports.yahoo.com/articles/celtic-little-bit-broken-change-000351737.html
@@ -8855,6 +8883,7 @@ https://sports.yahoo.com/articles/chicago-sky-owner-calls-enes-040802812.html
 https://sports.yahoo.com/articles/chicago-sky-owner-explains-threat-043604349.html
 https://sports.yahoo.com/articles/chicago-sky-owner-ruthless-response-102055956.html
 https://sports.yahoo.com/articles/chicago-white-sox-aim-guys-232300068.html
+https://sports.yahoo.com/articles/chicago-white-sox-bullpen-shapes-165316099.html
 https://sports.yahoo.com/articles/chicago-white-sox-denied-chance-041400765.html
 https://sports.yahoo.com/articles/chicago-white-sox-disarmed-cleveland-002648275.html
 https://sports.yahoo.com/articles/chicago-wolves-donate-3m-charities-165349830.html
@@ -8931,6 +8960,7 @@ https://sports.yahoo.com/articles/christian-horner-admits-red-bull-165108185.htm
 https://sports.yahoo.com/articles/christian-horner-f1-absence-why-072931926.html
 https://sports.yahoo.com/articles/christian-horner-kimi-antonelli-earned-111658195.html
 https://sports.yahoo.com/articles/christian-horner-reveals-details-controversial-070503620.html
+https://sports.yahoo.com/articles/christian-horner-reveals-led-abrupt-170754081.html
 https://sports.yahoo.com/articles/christian-kirk-austen-pleasants-begin-224205039.html
 https://sports.yahoo.com/articles/christian-kirk-demario-douglas-three-183152189.html
 https://sports.yahoo.com/articles/christian-mccaffrey-back-practice-friday-000533112.html
@@ -8945,6 +8975,7 @@ https://sports.yahoo.com/articles/christopher-vizzina-start-clemson-next-1512241
 https://sports.yahoo.com/articles/chuba-hubbard-finds-end-zone-222230424.html
 https://sports.yahoo.com/articles/ci-prep-sports-recap-sept-042924620.html
 https://sports.yahoo.com/articles/ciac-hartford-athletic-agree-bring-225921088.html
+https://sports.yahoo.com/articles/cif-ss-volleyball-playoffs-three-170005672.html
 https://sports.yahoo.com/articles/cincinnati-bearcats-defensive-lineman-josh-181302154.html
 https://sports.yahoo.com/articles/cincinnati-bearcats-defensive-lineman-josh-181302250.html
 https://sports.yahoo.com/articles/cincinnati-bengals-53-man-roster-223814128.html
@@ -9583,6 +9614,7 @@ https://sports.yahoo.com/articles/defensively-sound-exeter-more-goals-111544316.
 https://sports.yahoo.com/articles/definitely-helped-four-star-gaige-041325305.html
 https://sports.yahoo.com/articles/definitely-something-build-bryan-reynolds-113000715.html
 https://sports.yahoo.com/articles/definitely-want-show-well-conference-224707518.html
+https://sports.yahoo.com/articles/deforest-buckner-trade-rumors-im-165711476.html
 https://sports.yahoo.com/articles/deion-sanders-alleged-reaction-julian-013000184.html
 https://sports.yahoo.com/articles/deion-sanders-colorado-thumped-northwestern-042412098.html
 https://sports.yahoo.com/articles/deion-sanders-effect-helps-georgia-173815134.html
@@ -9599,6 +9631,7 @@ https://sports.yahoo.com/articles/delaware-state-ad-tony-tucker-110519067.html
 https://sports.yahoo.com/articles/dellenger-espn-cfp-close-24-210054323.html
 https://sports.yahoo.com/articles/delorean-signs-flying-car-racing-133027948.html
 https://sports.yahoo.com/articles/demeco-ryans-puts-texans-notice-035933498.html
+https://sports.yahoo.com/articles/demeco-ryans-reacts-texans-qb-170047471.html
 https://sports.yahoo.com/articles/demichelis-bayern-shaped-player-coach-164900878.html
 https://sports.yahoo.com/articles/demirovi-goal-brought-sleepless-nights-102900276.html
 https://sports.yahoo.com/articles/demond-williams-legs-play-hero-183019256.html
@@ -10509,7 +10542,9 @@ https://sports.yahoo.com/articles/field-atrocious-risking-players-health-1535465
 https://sports.yahoo.com/articles/fifa-accuses-uefa-misinformation-campaign-082125538.html
 https://sports.yahoo.com/articles/fifa-accuses-uefa-smear-campaign-234840729.html
 https://sports.yahoo.com/articles/fifa-boss-infantino-blasted-emperor-162544655.html
+https://sports.yahoo.com/articles/fifa-picks-us-host-first-165746257.html
 https://sports.yahoo.com/articles/fifa-rules-complicate-richarlisons-tottenham-204015207.html
+https://sports.yahoo.com/articles/fifa-u-15-world-cup-170129520.html
 https://sports.yahoo.com/articles/fifteen-navy-enlistees-face-obstacle-171616292.html
 https://sports.yahoo.com/articles/figueroa-loses-title-weigh-kameda-205801664.html
 https://sports.yahoo.com/articles/figure-skating-icon-nancy-kerrigan-232605424.html
@@ -10623,6 +10658,7 @@ https://sports.yahoo.com/articles/fluminense-copa-libertadores-semifinals-despit
 https://sports.yahoo.com/articles/flyers-3-game-losing-streak-081100652.html
 https://sports.yahoo.com/articles/flyers-add-11-players-roster-131058654.html
 https://sports.yahoo.com/articles/flyers-rick-tocchet-reveals-biggest-071042115.html
+https://sports.yahoo.com/articles/flyers-rookie-cole-knuble-achieves-170735089.html
 https://sports.yahoo.com/articles/fnf-week-1-archbishop-shaw-040630929.html
 https://sports.yahoo.com/articles/fnf-week-1-destrehan-dominates-042006789.html
 https://sports.yahoo.com/articles/fnf-week-1-edna-karr-041606090.html
@@ -11138,6 +11174,7 @@ https://sports.yahoo.com/articles/gordon-ryan-issues-statement-fun-152115627.htm
 https://sports.yahoo.com/articles/gossip-barcelona-keeping-eye-estevao-230000636.html
 https://sports.yahoo.com/articles/gossip-johnstone-keep-celtic-place-065933229.html
 https://sports.yahoo.com/articles/got-aggressive-broncos-bo-nix-181710107.html
+https://sports.yahoo.com/articles/got-teach-boy-lamelo-ball-100000171.html
 https://sports.yahoo.com/articles/got-us-aidan-hutchinson-reveals-203920312.html
 https://sports.yahoo.com/articles/gotta-hard-way-phillies-vs-183446106.html
 https://sports.yahoo.com/articles/gotta-more-disciplined-rob-gronkowski-113000461.html
@@ -11999,6 +12036,8 @@ https://sports.yahoo.com/articles/jj-jansen-makes-nfl-history-180925155.html
 https://sports.yahoo.com/articles/jj-mccarthy-makes-nfl-history-113000221.html
 https://sports.yahoo.com/articles/jj-redick-drops-verdict-walker-064525991.html
 https://sports.yahoo.com/articles/jj-redick-matisse-thybulle-unique-160103137.html
+https://sports.yahoo.com/articles/jj-watt-gets-multiyear-deal-165455011.html
+https://sports.yahoo.com/articles/jj-watt-gets-multiyear-deal-165455764.html
 https://sports.yahoo.com/articles/joan-laporta-looking-plant-own-074500062.html
 https://sports.yahoo.com/articles/joan-laporta-says-barcelona-want-110020475.html
 https://sports.yahoo.com/articles/joan-mir-defends-himself-over-110003334.html
@@ -12297,6 +12336,7 @@ https://sports.yahoo.com/articles/keith-credits-training-partners-saving-0652333
 https://sports.yahoo.com/articles/keito-nakamura-agrees-join-lyon-113000982.html
 https://sports.yahoo.com/articles/keldon-johnsons-kj-kares-bringing-171545841.html
 https://sports.yahoo.com/articles/kelsey-mitchell-says-she-ll-210104276.html
+https://sports.yahoo.com/articles/ken-carman-rips-cavs-over-170010395.html
 https://sports.yahoo.com/articles/ken-roczen-wins-carson-450-000430335.html
 https://sports.yahoo.com/articles/kendre-miller-productive-week-6-221321579.html
 https://sports.yahoo.com/articles/kendre-miller-scores-touchdown-week-235435306.html
@@ -12342,6 +12382,7 @@ https://sports.yahoo.com/articles/kevin-danso-sunderland-why-pragmatism-05000052
 https://sports.yahoo.com/articles/kevin-durant-mat-ishbia-trade-182951987.html
 https://sports.yahoo.com/articles/kevin-durant-not-thinking-past-003019931.html
 https://sports.yahoo.com/articles/kevin-durant-reveals-really-feels-002227681.html
+https://sports.yahoo.com/articles/kevin-durant-says-everything-know-170016863.html
 https://sports.yahoo.com/articles/kevin-durants-trainer-points-area-235002890.html
 https://sports.yahoo.com/articles/kevin-garnetts-nsfw-reaction-timberwolves-210002153.html
 https://sports.yahoo.com/articles/kevin-harvick-questions-rfk-brad-132038201.html
@@ -12548,6 +12589,7 @@ https://sports.yahoo.com/articles/lamar-jackson-dazzles-season-debut-235929488.h
 https://sports.yahoo.com/articles/lamar-jackson-injury-could-doom-165804703.html
 https://sports.yahoo.com/articles/lamar-jackson-injury-happened-ravens-192950908.html
 https://sports.yahoo.com/articles/lamar-jackson-latest-injury-doesn-165147959.html
+https://sports.yahoo.com/articles/lamar-jackson-returns-ravens-practice-165737944.html
 https://sports.yahoo.com/articles/lamar-jackson-ruled-ravens-browns-174753849.html
 https://sports.yahoo.com/articles/lamar-jackson-ruled-ravens-browns-174753985.html
 https://sports.yahoo.com/articles/lamb-chase-coker-lead-week-230041943.html
@@ -12651,6 +12693,7 @@ https://sports.yahoo.com/articles/lebron-james-already-mural-philadelphia-193925
 https://sports.yahoo.com/articles/lebron-james-announces-partnership-polymarket-150809202.html
 https://sports.yahoo.com/articles/lebron-james-battling-multiple-injuries-010043662.html
 https://sports.yahoo.com/articles/lebron-james-faces-polymarket-backlash-210848733.html
+https://sports.yahoo.com/articles/lebron-james-gets-unique-jersey-170000735.html
 https://sports.yahoo.com/articles/lebron-james-had-visions-joining-013300854.html
 https://sports.yahoo.com/articles/lebron-james-llc-borrowed-300-064923329.html
 https://sports.yahoo.com/articles/lebron-james-reacts-rams-star-204925449.html
@@ -12744,6 +12787,7 @@ https://sports.yahoo.com/articles/lion-tales-usc-171500300.html
 https://sports.yahoo.com/articles/lionel-messi-gets-inter-miami-000159504.html
 https://sports.yahoo.com/articles/lionel-messi-leaving-international-football-061836408.html
 https://sports.yahoo.com/articles/lionel-messi-outperformed-erling-haaland-132000190.html
+https://sports.yahoo.com/articles/lionel-messi-reflects-barcelona-career-170647922.html
 https://sports.yahoo.com/articles/lionel-messis-family-tree-argentina-055002746.html
 https://sports.yahoo.com/articles/lionel-messis-final-argentina-stats-150001640.html
 https://sports.yahoo.com/articles/lions-another-major-hit-key-000604932.html
@@ -12769,6 +12813,7 @@ https://sports.yahoo.com/articles/lions-rule-starting-offensive-linemen-21064583
 https://sports.yahoo.com/articles/lions-sam-laporta-drops-nsfw-230842573.html
 https://sports.yahoo.com/articles/lions-sophomore-shines-continues-family-041517909.html
 https://sports.yahoo.com/articles/lions-te-sam-laporta-reportedly-150505550.html
+https://sports.yahoo.com/articles/lions-turning-veteran-replace-tom-170240403.html
 https://sports.yahoo.com/articles/lions-vs-bills-happened-ed-000347922.html
 https://sports.yahoo.com/articles/lions-vs-bills-live-score-000000271.html
 https://sports.yahoo.com/articles/lions-vs-cardinals-live-score-201000819.html
@@ -13204,6 +13249,7 @@ https://sports.yahoo.com/articles/mariota-stars-commanders-end-seahawks-22483286
 https://sports.yahoo.com/articles/mark-andrews-struggles-sunday-night-052100739.html
 https://sports.yahoo.com/articles/mark-cuban-breaks-silence-pablo-123000151.html
 https://sports.yahoo.com/articles/mark-messier-horrified-hiring-former-113000982.html
+https://sports.yahoo.com/articles/mark-sanchezs-change-plea-hearing-165830267.html
 https://sports.yahoo.com/articles/mark-van-bommel-names-newcastle-124428618.html
 https://sports.yahoo.com/articles/marlins-diamondbacks-live-updates-nelson-000749103.html
 https://sports.yahoo.com/articles/marlins-prevent-cubs-clinching-playoff-040942921.html
@@ -13658,6 +13704,7 @@ https://sports.yahoo.com/articles/mlb-wild-card-round-day-233154647.html
 https://sports.yahoo.com/articles/mlb-wild-card-series-game-233100235.html
 https://sports.yahoo.com/articles/mlb-wild-card-series-set-183000665.html
 https://sports.yahoo.com/articles/mlb-world-reacts-york-mets-001028100.html
+https://sports.yahoo.com/articles/mlbs-abs-challenge-system-could-122929779.html
 https://sports.yahoo.com/articles/mma-legend-bet-house-movsar-070204778.html
 https://sports.yahoo.com/articles/mn-twins-enter-2027-multiple-203727425.html
 https://sports.yahoo.com/articles/mn-vikings-next-opponent-takes-193712628.html
@@ -14119,6 +14166,7 @@ https://sports.yahoo.com/articles/nick-sirianni-makes-nfl-history-042342198.html
 https://sports.yahoo.com/articles/nick-sirianni-takes-blame-eagles-183306670.html
 https://sports.yahoo.com/articles/nick-sirianni-winning-percentage-places-072128030.html
 https://sports.yahoo.com/articles/nick-smith-jr-q-learned-230816612.html
+https://sports.yahoo.com/articles/nick-suzuki-injury-ends-iron-165403229.html
 https://sports.yahoo.com/articles/nick-van-exel-kobe-bryant-043102211.html
 https://sports.yahoo.com/articles/nickname-angel-reese-embraces-cj-064249234.html
 https://sports.yahoo.com/articles/nico-collins-may-miss-texans-000846869.html
@@ -14133,6 +14181,7 @@ https://sports.yahoo.com/articles/nightmare-week-nfc-east-impacts-232457640.html
 https://sports.yahoo.com/articles/nike-could-return-formula-1-084658025.html
 https://sports.yahoo.com/articles/nike-fixed-kentucky-football-heating-001623779.html
 https://sports.yahoo.com/articles/niko-kovac-calls-them-finishers-123800459.html
+https://sports.yahoo.com/articles/nikola-jokic-chasing-nba-history-165819773.html
 https://sports.yahoo.com/articles/nine-former-colorado-football-players-043742175.html
 https://sports.yahoo.com/articles/nine-schools-multiple-5-star-202207836.html
 https://sports.yahoo.com/articles/nit-wbit-format-changes-along-192450013.html
@@ -14617,6 +14666,7 @@ https://sports.yahoo.com/articles/packers-fans-love-marshawn-lloyd-070248821.htm
 https://sports.yahoo.com/articles/packers-film-room-week-1-180000653.html
 https://sports.yahoo.com/articles/packers-first-roster-cut-officially-205035919.html
 https://sports.yahoo.com/articles/packers-former-6th-round-pick-040704148.html
+https://sports.yahoo.com/articles/packers-hc-matt-lafleur-facing-165725809.html
 https://sports.yahoo.com/articles/packers-initial-roster-compares-previous-133701702.html
 https://sports.yahoo.com/articles/packers-injury-report-7-given-223447615.html
 https://sports.yahoo.com/articles/packers-jordan-love-faces-alarming-000053130.html
@@ -14851,6 +14901,7 @@ https://sports.yahoo.com/articles/patriots-vs-steelers-injury-report-155523774.h
 https://sports.yahoo.com/articles/patriots-vs-steelers-live-updates-163015595.html
 https://sports.yahoo.com/articles/patriots-vs-steelers-week-2-155631988.html
 https://sports.yahoo.com/articles/patriots-week-4-injury-report-151214181.html
+https://sports.yahoo.com/articles/patriots-wire-staff-predictions-patriots-170100579.html
 https://sports.yahoo.com/articles/patriots-x-factors-against-seahawks-205243383.html
 https://sports.yahoo.com/articles/paul-cotter-scores-ot-canucks-052512808.html
 https://sports.yahoo.com/articles/paul-finebaum-blasts-steve-sarkisian-221611502.html
@@ -15270,6 +15321,7 @@ https://sports.yahoo.com/articles/raf-13-results-covington-vs-040000690.html
 https://sports.yahoo.com/articles/raf-moscow-live-stream-results-115000608.html
 https://sports.yahoo.com/articles/rafa-marquez-mexico-head-coach-001705449.html
 https://sports.yahoo.com/articles/rafael-devers-bounces-homer-mccovey-042514302.html
+https://sports.yahoo.com/articles/rafael-jodar-criticised-inexcusable-behaviour-170000197.html
 https://sports.yahoo.com/articles/rafael-le-o-wears-cristiano-151500908.html
 https://sports.yahoo.com/articles/rafael-nadal-shares-whether-plans-080000055.html
 https://sports.yahoo.com/articles/raheem-sterling-charged-dangerous-driving-083344393.html
@@ -15578,6 +15630,7 @@ https://sports.yahoo.com/articles/red-wings-hope-increase-scoring-203958214.html
 https://sports.yahoo.com/articles/red-wings-interim-gm-shawn-183433490.html
 https://sports.yahoo.com/articles/red-wings-news-detroit-strips-161911333.html
 https://sports.yahoo.com/articles/red-wings-reportedly-closing-massive-010405297.html
+https://sports.yahoo.com/articles/red-wings-reportedly-reject-key-165323378.html
 https://sports.yahoo.com/articles/red-wings-simon-edvinsson-contract-133500291.html
 https://sports.yahoo.com/articles/red-wings-simon-edvinsson-heads-191219847.html
 https://sports.yahoo.com/articles/redmond-kristina-liutova-16-wins-111722742.html
@@ -15765,8 +15818,11 @@ https://sports.yahoo.com/articles/roman-anthony-exits-red-sox-050618614.html
 https://sports.yahoo.com/articles/romano-conversations-sure-place-man-052500313.html
 https://sports.yahoo.com/articles/romano-one-top-man-utd-065500130.html
 https://sports.yahoo.com/articles/romano-reveals-much-man-city-075500230.html
+https://sports.yahoo.com/articles/rome-odunze-corey-kiner-more-165633744.html
 https://sports.yahoo.com/articles/rome-odunze-shares-bears-hc-124026800.html
 https://sports.yahoo.com/articles/romeo-doubs-admits-wasnt-locked-172749605.html
+https://sports.yahoo.com/articles/ron-duguay-part-1980s-detroit-165641044.html
+https://sports.yahoo.com/articles/ron-duguay-part-1980s-detroit-165641652.html
 https://sports.yahoo.com/articles/ronald-acu-jr-becomes-fastest-234923908.html
 https://sports.yahoo.com/articles/ronald-acu-jr-exits-game-001330703.html
 https://sports.yahoo.com/articles/ronald-araujo-speaks-impressing-backheel-071402443.html
@@ -15949,6 +16005,7 @@ https://sports.yahoo.com/articles/santos-fc-umbro-unveil-third-065500682.html
 https://sports.yahoo.com/articles/santos-historic-debut-1912-071000716.html
 https://sports.yahoo.com/articles/santos-side-silenced-la-bombonera-065500036.html
 https://sports.yahoo.com/articles/santos-turned-monicas-gang-magali-205300889.html
+https://sports.yahoo.com/articles/saquon-barkley-back-injury-vs-170657496.html
 https://sports.yahoo.com/articles/saquon-barkley-exits-eagles-week-192327414.html
 https://sports.yahoo.com/articles/saquon-barkley-logs-limited-practice-001135076.html
 https://sports.yahoo.com/articles/saquon-barkley-misses-another-practice-001329311.html
@@ -16131,6 +16188,7 @@ https://sports.yahoo.com/articles/section-vs-girls-athlete-week-123416771.html
 https://sports.yahoo.com/articles/security-forced-intervene-percassi-confronts-104000359.html
 https://sports.yahoo.com/articles/see-16-teams-lpga-pga-165337956.html
 https://sports.yahoo.com/articles/see-fsu-running-back-got-180315548.html
+https://sports.yahoo.com/articles/see-full-weekend-schedule-nascar-170027538.html
 https://sports.yahoo.com/articles/see-images-bucs-season-opener-160011959.html
 https://sports.yahoo.com/articles/see-iowa-mens-basketballs-full-211401705.html
 https://sports.yahoo.com/articles/see-j-j-mccarthy-york-190900900.html
@@ -16360,6 +16418,7 @@ https://sports.yahoo.com/articles/spain-vs-czechia-match-preview-051000682.html
 https://sports.yahoo.com/articles/spain-vs-czechia-predicted-lineup-051000236.html
 https://sports.yahoo.com/articles/spain-xi-vs-england-predicted-044500539.html
 https://sports.yahoo.com/articles/spalletti-changes-tack-xis-juventus-180100421.html
+https://sports.yahoo.com/articles/spalletti-juventus-players-forced-ask-165500180.html
 https://sports.yahoo.com/articles/spalletti-kolo-muani-needs-put-184500610.html
 https://sports.yahoo.com/articles/spalletti-m-not-irritable-enough-151500608.html
 https://sports.yahoo.com/articles/spalletti-thinking-formation-183500384.html
@@ -16537,6 +16596,7 @@ https://sports.yahoo.com/articles/stephen-curry-shuts-down-warriors-044556173.ht
 https://sports.yahoo.com/articles/stephen-ross-sells-2-1-175639714.html
 https://sports.yahoo.com/articles/stephen-smith-apologizes-lane-johnson-150044988.html
 https://sports.yahoo.com/articles/stephen-smith-believes-special-ole-072329104.html
+https://sports.yahoo.com/articles/stephen-smith-believes-titans-john-165509913.html
 https://sports.yahoo.com/articles/stephen-smith-calls-classless-enes-233000212.html
 https://sports.yahoo.com/articles/stephen-smith-once-again-set-210438883.html
 https://sports.yahoo.com/articles/stephen-smith-opens-first-full-144558795.html
@@ -16751,6 +16811,7 @@ https://sports.yahoo.com/articles/tennessee-football-honor-wes-rucker-150511008.
 https://sports.yahoo.com/articles/tennessee-football-honor-wes-rucker-150511170.html
 https://sports.yahoo.com/articles/tennessee-football-josh-heupel-had-205616298.html
 https://sports.yahoo.com/articles/tennessee-football-josh-heupel-had-205616438.html
+https://sports.yahoo.com/articles/tennessee-football-looking-end-losing-170040461.html
 https://sports.yahoo.com/articles/tennessee-football-qb-george-macintyre-205533152.html
 https://sports.yahoo.com/articles/tennessee-football-qb-george-macintyre-205533912.html
 https://sports.yahoo.com/articles/tennessee-football-vs-kennesaw-state-000037205.html
@@ -17048,6 +17109,7 @@ https://sports.yahoo.com/articles/toluca-wins-leagues-cup-vega-041853575.html
 https://sports.yahoo.com/articles/tom-aspinall-ufc-heavyweight-title-041916765.html
 https://sports.yahoo.com/articles/tom-brady-had-just-2-222618333.html
 https://sports.yahoo.com/articles/tom-brady-lost-nearly-20-165652268.html
+https://sports.yahoo.com/articles/tom-brady-makes-strong-statement-165312291.html
 https://sports.yahoo.com/articles/tom-brady-moment-draws-love-230419816.html
 https://sports.yahoo.com/articles/tom-brady-never-looked-old-050144745.html
 https://sports.yahoo.com/articles/tom-izzo-placing-limitations-coach-233053054.html
@@ -17743,6 +17805,7 @@ https://sports.yahoo.com/articles/warriors-predicted-trade-jimmy-butler-13232514
 https://sports.yahoo.com/articles/warriors-reach-14-5-billion-165545382.html
 https://sports.yahoo.com/articles/warriors-reportedly-sign-37m-11-123621410.html
 https://sports.yahoo.com/articles/warriors-reportedly-waiving-ex-76ers-061342823.html
+https://sports.yahoo.com/articles/warriors-rookie-follows-trash-talk-165717802.html
 https://sports.yahoo.com/articles/warriors-rookie-yaxel-lendeborg-involved-065551716.html
 https://sports.yahoo.com/articles/warriors-sign-ex-celtics-forward-154120048.html
 https://sports.yahoo.com/articles/warriors-signing-georges-niang-brandon-231059057.html
@@ -18033,6 +18096,7 @@ https://sports.yahoo.com/articles/whats-stake-chicago-cubs-face-232951982.html
 https://sports.yahoo.com/articles/whats-wrong-dak-prescott-lifeless-041454069.html
 https://sports.yahoo.com/articles/whats-wrong-marvin-harrison-jr-142550905.html
 https://sports.yahoo.com/articles/where-49ers-vs-rams-being-070001599.html
+https://sports.yahoo.com/articles/where-alabama-basketball-ranked-2026-170051045.html
 https://sports.yahoo.com/articles/where-alabama-sits-espn-fpi-130149355.html
 https://sports.yahoo.com/articles/where-atlanta-braves-following-another-194429772.html
 https://sports.yahoo.com/articles/where-auburn-sits-latest-espn-110245571.html
@@ -18040,6 +18104,7 @@ https://sports.yahoo.com/articles/where-broncos-vs-49ers-game-191642260.html
 https://sports.yahoo.com/articles/where-caleb-wilson-ranks-top-164356655.html
 https://sports.yahoo.com/articles/where-cbs-sports-sees-florida-164444321.html
 https://sports.yahoo.com/articles/where-chargers-stand-espn-power-071328412.html
+https://sports.yahoo.com/articles/where-college-gameday-week-location-165825370.html
 https://sports.yahoo.com/articles/where-does-fsu-football-land-191534388.html
 https://sports.yahoo.com/articles/where-does-pff-rank-jets-124544887.html
 https://sports.yahoo.com/articles/where-espns-college-gameday-week-100711008.html
@@ -18237,6 +18302,7 @@ https://sports.yahoo.com/articles/why-utah-nabbed-undersized-dt-234857531.html
 https://sports.yahoo.com/articles/why-vanderbilt-football-used-blaze-002732249.html
 https://sports.yahoo.com/articles/why-vanderbilt-football-used-blaze-002732684.html
 https://sports.yahoo.com/articles/why-warriors-fans-freaking-over-124856407.html
+https://sports.yahoo.com/articles/why-warriors-rookie-yaxel-lendeborg-170357509.html
 https://sports.yahoo.com/articles/why-water-down-sam-smith-094100223.html
 https://sports.yahoo.com/articles/why-white-sox-venable-guardians-051830928.html
 https://sports.yahoo.com/articles/why-wisconsins-week-1-blowout-110142725.html
@@ -18359,6 +18425,7 @@ https://sports.yahoo.com/articles/world-cup-winner-coming-replace-063500652.html
 https://sports.yahoo.com/articles/world-cup-winner-turned-down-182000937.html
 https://sports.yahoo.com/articles/world-gymnastics-regrets-confusion-3-110651367.html
 https://sports.yahoo.com/articles/world-olympic-champion-jonny-brownlee-110104769.html
+https://sports.yahoo.com/articles/world-series-comes-milwaukee-benefits-170049974.html
 https://sports.yahoo.com/articles/world-series-full-circle-brewers-001154735.html
 https://sports.yahoo.com/articles/world-series-schedule-2026-dates-232921836.html
 https://sports.yahoo.com/articles/worrall-wrexham-point-burnley-exit-042029427.html
@@ -18502,6 +18569,7 @@ https://sports.yahoo.com/articles/york-giants-injury-report-brian-224731463.html
 https://sports.yahoo.com/articles/york-giants-jets-start-season-230016632.html
 https://sports.yahoo.com/articles/york-giants-rout-york-jets-024859014.html
 https://sports.yahoo.com/articles/york-giants-trade-joshua-ezeudu-085626577.html
+https://sports.yahoo.com/articles/york-giants-vs-houston-texans-165502159.html
 https://sports.yahoo.com/articles/york-giants-vs-washington-commanders-165519336.html
 https://sports.yahoo.com/articles/york-jets-jamaal-pritchett-gets-073000974.html
 https://sports.yahoo.com/articles/york-jets-news-jets-fall-110000760.html
@@ -18646,6 +18714,7 @@ https://sports.yahoo.com/college-football/article/college-football-has-never-bee
 https://sports.yahoo.com/college-football/article/college-football-is-going-overseas-but-that-means-leaving-the-best-parts-behind-151245472.html
 https://sports.yahoo.com/college-football/article/college-football-playoff-cant-overturn-michigan-western-michigan-result-but-indicates-selection-committee-will-account-for-ending-213955050.html
 https://sports.yahoo.com/college-football/article/college-football-predictions-for-the-2026-season-conference-picks-surprises-disappointments-and-national-championship-winners-130527178.html
+https://sports.yahoo.com/college-football/article/college-football-realignment-protect-college-sports-act-bill-drama-miami-president-acc-sec-big-ten-122659182.html
 https://sports.yahoo.com/college-football/article/college-football-week-1-players-to-watch-how-will-tcu-transfer-josh-hoover-do-in-his-first-start-at-indiana-123910202.html
 https://sports.yahoo.com/college-football/article/college-football-week-1-winners-and-losers-the-year-of-the-quarterback-has-gotten-off-to-a-stellar-start-010035468.html
 https://sports.yahoo.com/college-football/article/college-football-week-2-players-to-watch-how-will-texas-run-game-fare-against-ohio-state-141544513.html
@@ -18754,6 +18823,7 @@ https://sports.yahoo.com/college-football/article/texas-stunning-comeback-win-ov
 https://sports.yahoo.com/college-football/article/texas-tech-lb-austin-romaine-gets-back-to-back-pick-6s-in-blowout-win-vs-sam-houston-173732088.html
 https://sports.yahoo.com/college-football/article/the-biggest-questions-facing-the-7-college-football-playoff-title-contenders-ahead-of-the-2026-season-150246535.html
 https://sports.yahoo.com/college-football/article/the-making-of-keelon-russell-from-his-nickname-to-his-old-school-approach-alabamas-star-qb-is-built-a-bit-different-for-a-19-year-old-165626666.html
+https://sports.yahoo.com/college-football/article/the-sec-is-a-beautiful-mess-texas-and-ole-miss-are-about-to-find-out-who-can-survive-it-164424952.html
 https://sports.yahoo.com/college-football/article/the-ultimate-lane-kiffin-what-if-did-he-leave-ole-miss-just-before-it-reaches-the-pinnacle-hes-been-chasing-152700156.html
 https://sports.yahoo.com/college-football/article/the-wild-story-behind-trinidad-chambliss-ole-miss-return-starts-with-lane-kiffin-134412096.html
 https://sports.yahoo.com/college-football/article/theres-little-upside-if-lsu-and-lane-kiffin-are-playing-games-with-sam-leavitts-inclusion-on-its-pre-ole-miss-injury-report-153149318.html
@@ -18899,6 +18969,7 @@ https://sports.yahoo.com/college-football/breaking-news/article/ucla-fires-ad-ma
 https://sports.yahoo.com/college-football/breaking-news/article/ucla-qb-nico-iamaleava-reportedly-sidelined-indefinitely-could-miss-remainder-of-season-182958904.html
 https://sports.yahoo.com/college-football/breaking-news/article/unc-knocks-off-previously-undefeated-no-25-pitt-while-notching-first-ranked-win-of-bill-belichick-era-192524025.html
 https://sports.yahoo.com/college-football/breaking-news/article/usc-suspends-lb-desman-stephens-ii-after-hit-that-injured-oregon-qb-dante-moore-and-his-subsequent-celebrations-182459001.html
+https://sports.yahoo.com/college-football/breaking-news/article/utah-defensive-lineman-suspended-after-rape-accusation-arrest-on-multiple-counts-of-distributing-an-intimate-image-160215188.html
 https://sports.yahoo.com/college-football/breaking-news/article/vanderbilt-wins-in-stunning-fashion-after-nc-state-qb-cj-bailey-fumbles-in-end-zone-with-1-second-left-203636904.html
 https://sports.yahoo.com/college-football/breaking-news/article/was-oregons-offensive-line-giving-away-the-type-of-play-based-on-how-it-lined-up-in-oklahoma-states-upset-win-203750906.html
 https://sports.yahoo.com/college-football/breaking-news/article/we-preach-emotional-maturity-kalen-deboer-says-he-would-have-never-expected-dijon-lees-late-personal-foul-in-loss-to-georgia-123924729.html
@@ -19514,6 +19585,7 @@ https://sports.yahoo.com/nba/article/celtics-coach-joe-mazzulla-joins-tim-tebow-
 https://sports.yahoo.com/nba/article/celtics-reportedly-sign-g-payton-pritchard-to-2-year-442-million-extension-with-a-mutual-option-195753973.html
 https://sports.yahoo.com/nba/article/charles-barkley-says-he-and-ernie-johnson-plan-to-retire-from-inside-the-nba-after-this-season-223007961.html
 https://sports.yahoo.com/nba/article/cliff-hagan-hall-of-famer-and-nba-champion-dies-at-94-010031697.html
+https://sports.yahoo.com/nba/article/clippers-dedicate-opening-night-win-to-suspended-owner-steve-ballmer-were-still-fighting-for-him-142959625.html
 https://sports.yahoo.com/nba/article/clippers-kawhi-leonard-investigation-details-what-to-know-about-the-nbas-historic-punishment-and-what-comes-next-181841982.html
 https://sports.yahoo.com/nba/article/clippers-slam-nba-probe-as-witch-hunt-vow-to-explore-every-legal-remedy-to-address-this-gross-injustice-003444350.html
 https://sports.yahoo.com/nba/article/contract-talks-between-karl-anthony-towns-knicks-are-reportedly-at-a-standstill-after-nba-title-195827654.html
@@ -19572,6 +19644,7 @@ https://sports.yahoo.com/nba/article/nba-preview-2026-27-reintroduction-to-the-t
 https://sports.yahoo.com/nba/article/nba-punishes-clippers-steve-ballmer-5-key-findings-from-the-leagues-kawhi-leonard-investigation-043126375.html
 https://sports.yahoo.com/nba/article/nba-reportedly-lacked-sufficient-evidence-to-suspend-kawhi-leonard-for-role-in-clippers-investigation-162534072.html
 https://sports.yahoo.com/nba/article/nba-reportedly-wont-discipline-wizards-bub-carrington-after-guard-admitted-team-held-back-to-get-aj-dybantsa-172801586.html
+https://sports.yahoo.com/nba/article/nba-season-opening-takeaways-giannis-lakers-ant-melo-damian-lillard-tyrese-haliburton-and-first-impressions-141712918.html
 https://sports.yahoo.com/nba/article/nba-storylines-to-watch-in-2026-27-can-the-76ers-sacrifice-is-victor-wembanyama-unstoppable-135314950.html
 https://sports.yahoo.com/nba/article/new-look-76ers-flash-glimpses-of-what-could-be-against-defending-champion-knicks-055603874.html
 https://sports.yahoo.com/nba/article/new-rockets-veteran-marcus-smart-walked-away-from-lakers-after-disrespectful-offer-215653289.html
@@ -19604,6 +19677,7 @@ https://sports.yahoo.com/nba/article/who-is-uncle-dennis-what-to-know-about-kawh
 https://sports.yahoo.com/nba/article/why-jonathan-kuminga-choosing-the-timberwolves-feels-like-a-win-for-both-sides-153641794.html
 https://sports.yahoo.com/nba/article/why-the-spurs-are-ready-to-make-a-bold-tweak-around-victor-wembanyama-201901548.html
 https://sports.yahoo.com/nba/article/will-kawhi-leonard-have-his-jersey-retired-toronto-embraces-the-most-unique-legacy-in-the-nba-161218161.html
+https://sports.yahoo.com/nba/article/yaxel-lendeborg-says-he-lost-all-respect-for-luka-doncic-in-first-nba-game-i-was-telling-him-he-sucks-124448786.html
 https://sports.yahoo.com/nba/betting/article/nba-vegas-preseason-power-rankings-thunder-ranked-no-1-ahead-of-victor-wembanyamas-spurs-210916195.html
 https://sports.yahoo.com/nba/breaking-news/article/aj-dybantsa-ruled-out-by-wizards-for-season-opener-vs-bucks-due-to-ankle-injury-164612339.html
 https://sports.yahoo.com/nba/breaking-news/article/all-star-brandon-ingram-has-partially-torn-achilles-will-miss-start-of-clippers-season-175425286.html
@@ -19872,6 +19946,7 @@ https://sports.yahoo.com/nfl/article/nfl-monday-night-football-preview-saints-an
 https://sports.yahoo.com/nfl/article/nfl-panic-meter-cam-ward-had-a-disastrous-performance-to-start-his-second-season-131025744.html
 https://sports.yahoo.com/nfl/article/nfl-panic-meter-eagles-offense-lions-defense-are-big-problems-for-2-marquee-nfc-teams-054112829.html
 https://sports.yahoo.com/nfl/article/nfl-panic-meter-history-isnt-on-side-of-0-2-colts-and-shane-steichen-playing-it-safe-in-ot-vs-patrick-mahomes-could-cost-him-130827976.html
+https://sports.yahoo.com/nfl/article/nfl-panic-meter-is-brian-schottenheimer-already-in-trouble-for-the-cowboys-135344019.html
 https://sports.yahoo.com/nfl/article/nfl-panic-meter-seahawks-already-showing-more-cracks-than-they-did-last-season-152117892.html
 https://sports.yahoo.com/nfl/article/nfl-panic-meter-with-baker-mayfield-out-bucs-backup-plan-at-qb-might-wreck-their-season-120746564.html
 https://sports.yahoo.com/nfl/article/nfl-playoff-picture-week-7-all-4-nfc-north-teams-are-in-the-field-for-now-224354556.html
@@ -19896,6 +19971,7 @@ https://sports.yahoo.com/nfl/article/nfl-roster-cuts-2026-look-at-how-53-man-ros
 https://sports.yahoo.com/nfl/article/nfl-roster-cuts-tracker-2026-53-man-due-sunday-as-rosters-take-shape-at-the-cutdown-deadline-160435884.html
 https://sports.yahoo.com/nfl/article/nfl-says-maracana-stadium-field-passed-required-tests-before-cowboys-ravens-kickoff-151440333.html
 https://sports.yahoo.com/nfl/article/nfl-teams-keeping-4-quarterbacks-isnt-a-big-deal-and-heres-why-142755361.html
+https://sports.yahoo.com/nfl/article/nfl-thursday-night-football-preview-bears-vs-patriots-features-two-hot-teams-with-exciting-young-qbs-123405047.html
 https://sports.yahoo.com/nfl/article/nfl-thursday-night-football-preview-bills-open-their-new-stadium-with-a-great-matchup-vs-lions-134050276.html
 https://sports.yahoo.com/nfl/article/nfl-thursday-night-football-preview-broncos-and-seahawks-trying-to-rediscover-last-seasons-success-151126408.html
 https://sports.yahoo.com/nfl/article/nfl-thursday-night-football-preview-cowboys-get-a-break-by-facing-shorthanded-buccaneers-125029769.html
@@ -19978,6 +20054,7 @@ https://sports.yahoo.com/nfl/article/sean-payton-says-broncos-have-no-plans-to-m
 https://sports.yahoo.com/nfl/article/shedeur-sanders-time-is-running-out-162816679.html
 https://sports.yahoo.com/nfl/article/shocking-suspensions-f-bombs-and-a-flurry-of-flags-whats-going-on-with-nfl-officiating-and-whats-next-204802331.html
 https://sports.yahoo.com/nfl/article/social-media-tributes-pour-in-for-former-bears-head-coach-mike-ditka-who-dies-at-86-161906037.html
+https://sports.yahoo.com/nfl/article/someones-gotta-win-it-who-will-emerge-from-the-nfc-east-slop-162812812.html
 https://sports.yahoo.com/nfl/article/steelers-reportedly-trading-second-year-rb-kaleb-johnson-to-packers-175054925.html
 https://sports.yahoo.com/nfl/article/steelers-want-joey-porter-jr-to-return-in-week-3-but-cornerback-reportedly-still-struggling-with-back-injury-163959496.html
 https://sports.yahoo.com/nfl/article/stefon-diggs-fined-14926-for-jumping-on-goal-post-after-first-commanders-touchdown-jahmyr-gibbs-fined-23027-for-head-first-td-run-205658620.html
@@ -20115,6 +20192,7 @@ https://sports.yahoo.com/nfl/breaking-news/article/eagles-wr-darius-cooper-turns
 https://sports.yahoo.com/nfl/breaking-news/article/falcons-choose-tua-tagovailoa-over-michael-penix-jr-as-week-1-starter-vs-steelers-121355701.html
 https://sports.yahoo.com/nfl/breaking-news/article/falcons-rookie-kendal-daniels-stretchered-off-the-field-and-ruled-out-after-helmet-to-knee-tackle-191310672.html
 https://sports.yahoo.com/nfl/breaking-news/article/former-eagles-staffer-finds-another-way-the-bill-belichick-patriots-tried-to-gain-an-advantage-over-opponents-160831456.html
+https://sports.yahoo.com/nfl/breaking-news/article/giants-plan-to-start-qb-jj-mccarthy-against-texans-in-week-7-after-jameis-winstons-struggles-191737160.html
 https://sports.yahoo.com/nfl/breaking-news/article/giants-qb-jaxson-dart-will-reportedly-have-knee-surgery-ending-his-2026-season-160117944.html
 https://sports.yahoo.com/nfl/breaking-news/article/giants-qb-jaxson-darts-knee-injury-reportedly-worse-than-anticipated-possibly-season-ending-184213828.html
 https://sports.yahoo.com/nfl/breaking-news/article/giants-reportedly-acquire-jj-mccarthy-from-vikings-161505695.html
@@ -20129,6 +20207,7 @@ https://sports.yahoo.com/nfl/breaking-news/article/jamarr-chases-first-td-of-the
 https://sports.yahoo.com/nfl/breaking-news/article/jayden-daniels-to-visit-with-specialists-after-sustaining-dislocated-elbow-in-loss-to-cowboys-194816698.html
 https://sports.yahoo.com/nfl/breaking-news/article/jerry-jones-on-late-game-cowboys-meltdown-in-loss-to-ravens-there-is-no-explanation-that-youre-satisfied-with-195111527.html
 https://sports.yahoo.com/nfl/breaking-news/article/jj-mccarthy-a-first-round-pick-in-2024-named-vikings-no-3-quarterback-behind-backup-carson-wentz-185201048.html
+https://sports.yahoo.com/nfl/breaking-news/article/jj-watt-officially-announced-as-cbs-sports-lead-nfl-game-analyst-replacing-tony-romo-125211338.html
 https://sports.yahoo.com/nfl/breaking-news/article/joe-burrow-says-hes-dealing-with-back-tightness-normal-game-day-soreness-but-will-play-in-week-2-193725927.html
 https://sports.yahoo.com/nfl/breaking-news/article/josh-allen-throws-interceptions-on-consecutive-passes-after-195-straight-attempts-without-one-175637414.html
 https://sports.yahoo.com/nfl/breaking-news/article/josiah-trotter-jeremiah-trotters-son-has-sack-pick-6-in-historic-nfl-debut-193117375.html
@@ -20604,6 +20683,7 @@ https://travel.yahoo.com/advice/lifestyle/articles/travel-husbands-not-required-
 https://travel.yahoo.com/advice/safety/articles/tsa-rolling-scanner-could-mean-182249569.html
 https://travel.yahoo.com/advice/travel-tips/article/how-to-find-a-cheap-hotel-deal-173134105.html
 https://travel.yahoo.com/flights/article/gateside-by-tsa-precheck-brought-back-a-pre-911-perk-now-its-scaling-back-210522864.html
+https://travel.yahoo.com/flights/article/travelers-screaming-at-obsession-inflight-horror-movie-etiquette-203140614.html
 https://travel.yahoo.com/flights/article/united-route-expansion-international-170100926.html
 https://travel.yahoo.com/flights/articles/delta-offered-one-passenger-500-133436964.html
 https://travel.yahoo.com/flights/articles/top-5-things-flight-attendants-121500565.html
@@ -20792,6 +20872,7 @@ https://yahoo.com/entertainment/celebrity/articles/lauren-nchezs-photos-viral-fa
 https://yahoo.com/entertainment/celebrity/articles/lebron-james-wife-under-fire-174000766.html
 https://yahoo.com/entertainment/celebrity/articles/lena-dunham-welcomes-first-baby-140750556.html
 https://yahoo.com/entertainment/celebrity/articles/looksmaxxing-influencer-clavicular-charged-rape-032031186.html
+https://yahoo.com/entertainment/celebrity/articles/looksmaxxing-streamer-known-clavicular-set-232639155.html
 https://yahoo.com/entertainment/celebrity/articles/lori-loughlin-divorce-takes-turn-234500772.html
 https://yahoo.com/entertainment/celebrity/articles/lori-loughlin-husband-mossimo-giannulli-172717837.html
 https://yahoo.com/entertainment/celebrity/articles/luke-bryan-reveals-son-bo-165528375.html
@@ -20853,6 +20934,7 @@ https://yahoo.com/entertainment/celebrity/articles/selma-blair-lawyer-says-alleg
 https://yahoo.com/entertainment/celebrity/articles/shane-gilliss-ex-girlfriend-grace-200726500.html
 https://yahoo.com/entertainment/celebrity/articles/sharon-stone-says-euphoria-costar-153612685.html
 https://yahoo.com/entertainment/celebrity/articles/shia-labeouf-wife-mia-goth-170122732.html
+https://yahoo.com/entertainment/celebrity/articles/sophia-bush-confirms-one-tree-015227173.html
 https://yahoo.com/entertainment/celebrity/articles/sophia-bush-reveals-she-ashlyn-163506569.html
 https://yahoo.com/entertainment/celebrity/articles/spurs-legend-gregg-popovich-marries-202315607.html
 https://yahoo.com/entertainment/celebrity/articles/steve-irwin-cameraman-details-final-154702485.html
@@ -21285,6 +21367,7 @@ https://yahoo.com/finance/technology/ai/articles/data-centers-worth-68-billion-0
 https://yahoo.com/finance/technology/ai/articles/exclusive-anthropic-warns-ai-may-001709847.html
 https://yahoo.com/finance/technology/ai/articles/microsoft-cracks-down-employee-ai-174500002.html
 https://yahoo.com/finance/technology/ai/articles/scoff-own-risk-viral-investment-094501731.html
+https://yahoo.com/finance/technology/ai/articles/tesla-stars-optimus-robot-production-203309413.html
 https://yahoo.com/finance/technology/article/apple-debuts-homeview-hub-as-it-reinvents-smart-home-strategy-131744984.html
 https://yahoo.com/finance/technology/article/apples-new-ceo-john-ternus-expected-to-debut-foldable-iphone-at-event-wednesday-132214684.html
 https://yahoo.com/finance/technology/article/nvidia-announces-jaw-dropping-150-billion-stock-buyback-largest-single-authorization-in-history-121342628.html
@@ -21601,6 +21684,7 @@ https://yahoo.com/news/articles/palestine-isd-employee-arrested-incident-2144597
 https://yahoo.com/news/articles/pentagon-breach-exposed-sensitive-data-224957938.html
 https://yahoo.com/news/articles/peter-thiel-breaks-trump-over-233340267.html
 https://yahoo.com/news/articles/police-declare-major-incident-uks-075210133.html
+https://yahoo.com/news/articles/pure-arrogance-anger-finland-google-112223961.html
 https://yahoo.com/news/articles/putins-envoy-dmitriev-meet-witkoff-100051885.html
 https://yahoo.com/news/articles/report-attack-strait-hormuz-shipping-022241655.html
 https://yahoo.com/news/articles/republicans-may-gerrymandered-way-texas-100229144.html
@@ -21627,6 +21711,7 @@ https://yahoo.com/news/articles/two-national-trust-visitor-centres-132648429.htm
 https://yahoo.com/news/articles/us-house-speaker-johnson-weighs-173331779.html
 https://yahoo.com/news/articles/us-spy-chief-visits-russia-143446302.html
 https://yahoo.com/news/articles/wanted-notorious-lake-tahoe-tree-012305660.html
+https://yahoo.com/news/articles/websites-dark-worldwide-ai-exposes-171251949.html
 https://yahoo.com/news/articles/where-us-midterm-elections-won-050249260.html
 https://yahoo.com/news/articles/witnesses-haunted-saw-pickup-plowed-041955275.html
 https://yahoo.com/news/articles/years-warned-ai-could-kill-090000647.html
@@ -21647,6 +21732,7 @@ https://yahoo.com/news/politics/article/katie-zacharia-out-as-white-house-press-
 https://yahoo.com/news/politics/article/lindsey-grahams-sister-darline-graham-nordone-appointed-to-his-senate-seat-heres-what-to-know-about-her-200804172.html
 https://yahoo.com/news/politics/article/the-2026-midterms-are-2-weeks-away-which-party-has-a-better-chance-of-winning-heres-what-the-latest-polls-say-170537782.html
 https://yahoo.com/news/politics/article/the-2026-midterms-are-6-weeks-away-which-party-has-a-better-chance-of-winning-heres-what-the-latest-polls-say-154536831.html
+https://yahoo.com/news/politics/article/the-2026-midterms-are-less-than-2-weeks-away-which-party-has-a-better-chance-of-winning-heres-what-the-latest-polls-say-131448048.html
 https://yahoo.com/news/politics/article/the-2026-midterms-are-six-weeks-away-which-party-has-a-better-chance-of-winning-heres-what-the-latest-polls-say-154536831.html
 https://yahoo.com/news/politics/article/trump-tv-launches-after-white-house-bans-cnn-ms-now-and-politico-and-major-networks-halt-video-coverage-in-protest-155420637.html
 https://yahoo.com/news/politics/article/who-is-byron-donalds-the-trump-ally-is-favored-to-become-floridas-next-governor-222405392.html
@@ -21662,6 +21748,7 @@ https://yahoo.com/news/politics/articles/20-states-sue-block-trump-053343426.htm
 https://yahoo.com/news/politics/articles/2028-presidential-poll-shows-2-202604016.html
 https://yahoo.com/news/politics/articles/3-secret-officials-placed-leave-233408416.html
 https://yahoo.com/news/politics/articles/3rd-circuit-upholds-gun-rights-135019470.html
+https://yahoo.com/news/politics/articles/5-takeaways-final-michigan-us-025134109.html
 https://yahoo.com/news/politics/articles/7-highlights-jd-vances-cbs-010109516.html
 https://yahoo.com/news/politics/articles/7-takeaways-hegseth-address-officers-222737145.html
 https://yahoo.com/news/politics/articles/abbott-declares-disaster-texas-over-184756546.html
@@ -22079,6 +22166,7 @@ https://yahoo.com/news/politics/articles/rising-prices-plunging-ratings-lingerin
 https://yahoo.com/news/politics/articles/rnc-send-bizarre-fundraising-text-230348643.html
 https://yahoo.com/news/politics/articles/ro-khanna-sparks-backlash-over-172321517.html
 https://yahoo.com/news/politics/articles/ro-khanna-urges-ai-ceos-220106165.html
+https://yahoo.com/news/politics/articles/rubio-hegseth-point-fingers-musk-100000500.html
 https://yahoo.com/news/politics/articles/rubio-refuses-guilfoyle-allegations-062527921.html
 https://yahoo.com/news/politics/articles/russia-stages-early-voting-occupied-193821670.html
 https://yahoo.com/news/politics/articles/saar-herzog-meet-officials-drc-025259816.html
@@ -22326,6 +22414,7 @@ https://yahoo.com/news/politics/articles/usha-vance-appears-stumble-while-193753
 https://yahoo.com/news/politics/articles/using-presidency-line-pockets-could-100051927.html
 https://yahoo.com/news/politics/articles/vance-declines-netanyahu-endorsement-trump-003643438.html
 https://yahoo.com/news/politics/articles/vance-talks-2028-ted-cruz-010347938.html
+https://yahoo.com/news/politics/articles/vivek-ramaswamy-gets-political-education-090044134.html
 https://yahoo.com/news/politics/articles/voting-groups-sound-alarm-funding-115116157.html
 https://yahoo.com/news/politics/articles/warning-sign-polling-why-one-140000463.html
 https://yahoo.com/news/politics/articles/washington-gun-permit-system-moves-200000114.html
@@ -22572,6 +22661,7 @@ https://yahoo.com/news/us/articles/anthropics-claude-ai-submits-false-154338573.
 https://yahoo.com/news/us/articles/ap-exclusive-ice-hides-locations-163638068.html
 https://yahoo.com/news/us/articles/archbishop-u-military-says-catholic-180434963.html
 https://yahoo.com/news/us/articles/arizona-congressional-candidate-says-she-235742349.html
+https://yahoo.com/news/us/articles/arizona-mom-whose-son-found-220210711.html
 https://yahoo.com/news/us/articles/army-sets-date-fort-hood-030202697.html
 https://yahoo.com/news/us/articles/attempted-trump-assassin-thomas-crooks-140238354.html
 https://yahoo.com/news/us/articles/banks-usps-stock-markets-open-130827314.html
@@ -22870,6 +22960,7 @@ https://yahoo.com/news/us/articles/vast-majority-irans-attempted-attacks-1546379
 https://yahoo.com/news/us/articles/veteran-shot-7-times-fort-110004748.html
 https://yahoo.com/news/us/articles/video-shows-injured-man-ground-170720060.html
 https://yahoo.com/news/us/articles/virginia-mom-let-her-5-113046037.html
+https://yahoo.com/news/us/articles/virginia-state-sen-l-louise-135756507.html
 https://yahoo.com/news/us/articles/virginia-university-fought-against-first-222908227.html
 https://yahoo.com/news/us/articles/voice-lindsay-clancy-says-told-221620504.html
 https://yahoo.com/news/us/articles/watch-handcuffed-inmate-breaks-free-030953592.html
@@ -23489,6 +23580,7 @@ https://yahoo.com/sports/articles/fans-outraged-over-lainey-wilsons-131334085.ht
 https://yahoo.com/sports/articles/feel-pawn-whole-thing-john-083607935.html
 https://yahoo.com/sports/articles/full-hate-envy-wnba-legends-172213099.html
 https://yahoo.com/sports/articles/gonna-fire-him-shannon-sharpe-143600229.html
+https://yahoo.com/sports/articles/got-teach-boy-lamelo-ball-100000171.html
 https://yahoo.com/sports/articles/gotta-more-disciplined-rob-gronkowski-113000461.html
 https://yahoo.com/sports/articles/grabbing-wives-charles-barkley-recalls-022300880.html
 https://yahoo.com/sports/articles/hope-rot-pat-mcafee-calls-021642124.html
@@ -23506,6 +23598,7 @@ https://yahoo.com/sports/articles/matthew-mcconaughey-delivered-8-heartfelt-1231
 https://yahoo.com/sports/articles/mics-caught-caitlin-clarks-teammates-142348928.html
 https://yahoo.com/sports/articles/milwaukee-world-series-tickets-expensive-175406172.html
 https://yahoo.com/sports/articles/mississippi-governor-tate-reeves-hits-182712990.html
+https://yahoo.com/sports/articles/mlbs-abs-challenge-system-could-122929779.html
 https://yahoo.com/sports/articles/multiple-firings-likely-michigan-vs-152148861.html
 https://yahoo.com/sports/articles/nascar-hall-famer-dale-earnhardt-155818042.html
 https://yahoo.com/sports/articles/patriots-back-drake-maye-england-194415678.html
@@ -23581,6 +23674,7 @@ https://yahoo.com/sports/college-football/breaking-news/article/steve-belichick-
 https://yahoo.com/sports/college-football/breaking-news/article/texas-qb-arch-manning-deeply-sorry-for-thinking-ai-video-of-steve-sarkisian-slapping-a-female-reporter-was-funny-181449943.html
 https://yahoo.com/sports/college-football/breaking-news/article/ucla-coach-bob-chesney-denounces-bear-alexanders-egregious-punch-to-back-of-qb-nico-iamaleavas-head-vs-oregon-that-refs-missed-213103834.html
 https://yahoo.com/sports/college-football/breaking-news/article/usc-suspends-lb-desman-stephens-ii-after-hit-that-injured-oregon-qb-dante-moore-and-his-subsequent-celebrations-182459001.html
+https://yahoo.com/sports/college-football/breaking-news/article/utah-defensive-lineman-suspended-after-rape-accusation-arrest-on-multiple-counts-of-distributing-an-intimate-image-160215188.html
 https://yahoo.com/sports/college-football/breaking-news/article/vanderbilt-wins-in-stunning-fashion-after-nc-state-qb-cj-bailey-fumbles-in-end-zone-with-1-second-left-203636904.html
 https://yahoo.com/sports/college-football/live/byu-qb-bear-bachmeier-scores-tds-in-three-different-ways-in-no-8-cougars-upset-win-over-no-2-notre-dame-031915004.html
 https://yahoo.com/sports/college-football/live/college-football-live-updates-scores-ole-miss-vs-florida-oklahoma-vs-georgia-iowa-vs-michigan-texas-vs-tennessee-142105328.html
@@ -23822,6 +23916,7 @@ https://yahoo.com/travel/advice/lifestyle/articles/travel-husbands-not-required-
 https://yahoo.com/travel/advice/safety/articles/tsa-rolling-scanner-could-mean-182249569.html
 https://yahoo.com/travel/advice/travel-tips/article/how-to-find-a-cheap-hotel-deal-173134105.html
 https://yahoo.com/travel/flights/article/gateside-by-tsa-precheck-brought-back-a-pre-911-perk-now-its-scaling-back-210522864.html
+https://yahoo.com/travel/flights/article/travelers-screaming-at-obsession-inflight-horror-movie-etiquette-203140614.html
 https://yahoo.com/travel/flights/article/united-route-expansion-international-170100926.html
 https://yahoo.com/travel/flights/articles/delta-offered-one-passenger-500-133436964.html
 https://yahoo.com/travel/flights/articles/top-5-things-flight-attendants-121500565.html
