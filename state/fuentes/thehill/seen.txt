@@ -1105,6 +1105,9 @@ https://thehill.com/homenews/administration/6166381-trump-mourns-nyc-carriage-ba
 https://thehill.com/homenews/administration/6166456-state-department-career-diplomats-voting-history
 https://thehill.com/homenews/administration/6166612-tillis-calls-trump-fire-officials
 https://thehill.com/homenews/administration/6166784-trump-musk-starlink-ukraine
+https://thehill.com/homenews/administration/6166832-trump-signs-mortgage-order
+https://thehill.com/homenews/administration/6166995-trump-calls-for-honest-staff
+https://thehill.com/homenews/administration/6167033-todd-blanche-doj-election-certification-block
 https://thehill.com/homenews/analysis/6040221-democrats-leftist-win-senate-race
 https://thehill.com/homenews/analysis/6042626-treasury-secretary-bessent-buyback
 https://thehill.com/homenews/analysis/6057609-gop-campaign-centered-trump
@@ -1703,6 +1706,10 @@ https://thehill.com/homenews/campaign/6166328-carville-trump-easter-2026-midterm
 https://thehill.com/homenews/campaign/6166346-trump-ramaswamy-acton-ad-defense
 https://thehill.com/homenews/campaign/6166387-ohio-acton-democrats-donations-ramaswamy-ad
 https://thehill.com/homenews/campaign/6166517-collins-denounces-jackson-ad
+https://thehill.com/homenews/campaign/6166806-thomas-henry-endorses-talarico
+https://thehill.com/homenews/campaign/6166837-ramaswamy-acton-mother-ad-controversy
+https://thehill.com/homenews/campaign/6166869-georgia-governor-race-turnout
+https://thehill.com/homenews/campaign/6166987-supreme-court-new-hampshire-student-ids
 https://thehill.com/homenews/campaign/data-nerds/6040929-democratic-socialist-angie-nixon-florida-upset-what-to-know-discussion
 https://thehill.com/homenews/campaign/data-nerds/6054870-democratic-party-senate-control-division-2026-midterms-discussion
 https://thehill.com/homenews/campaign/data-nerds/6068929-abdul-el-sayed-democratic-tensions-michigan-senate-race-discussion
@@ -2664,6 +2671,7 @@ https://thehill.com/newsletters/business-economy/6155276-oil-reaches-110-per-bar
 https://thehill.com/newsletters/business-economy/6159047-musk-give-spacex-share-us-child
 https://thehill.com/newsletters/business-economy/6161353-how-bond-yields-are-slowing-ai-fueled-stock-rally
 https://thehill.com/newsletters/business-economy/6164139-former-officials-urge-congress-to-reform-permitting
+https://thehill.com/newsletters/business-economy/6166732-mortgage-rates-decline-for-first-time-in-2-months
 https://thehill.com/newsletters/defense-national-security/6042716-us-approves-possible-4-5-billion-sale-of-refueling-aircraft-to-qatar
 https://thehill.com/newsletters/defense-national-security/6048001-trump-forgoes-military-strikes-attempts-economic-chokehold-iran
 https://thehill.com/newsletters/defense-national-security/6050716-hegseth-loeffler-small-defense-contractors-newsletter
@@ -2697,6 +2705,7 @@ https://thehill.com/newsletters/defense-national-security/6149566-hegseth-army-c
 https://thehill.com/newsletters/defense-national-security/6152767-pentagon-school-director-paul-craft-resigns
 https://thehill.com/newsletters/defense-national-security/6155474-centcom-commander-says-naval-blockade-cost-iran-25b-in-oil-revenue
 https://thehill.com/newsletters/defense-national-security/6164305-major-hostilities-brewing-us-orders-departure-of-some-embassy-staff-families-from-gulf-region
+https://thehill.com/newsletters/defense-national-security/6166946-senators-urge-hegseth-rubio-to-release-funding-for-baltic-security-initiative
 https://thehill.com/newsletters/energy-environment/6042606-wetlands-policy-causes-gop-friction
 https://thehill.com/newsletters/energy-environment/6044586-doi-outlines-short-term-plan-for-water-cuts-in-ca-az-nv
 https://thehill.com/newsletters/energy-environment/6047881-politicians-aim-to-distance-themselves-from-data-centers
@@ -2735,6 +2744,7 @@ https://thehill.com/newsletters/energy-environment/6149640-taiwan-buys-alaska-ga
 https://thehill.com/newsletters/energy-environment/6152484-what-does-trumps-russia-deal-actually-mean
 https://thehill.com/newsletters/energy-environment/6155469-ferc-proposes-lng-approval-speedup
 https://thehill.com/newsletters/energy-environment/6159155-interior-will-hold-first-offshore-mining-lease-sale
+https://thehill.com/newsletters/energy-environment/6166941-trump-advances-two-wind-projects
 https://thehill.com/newsletters/healthcare/6042627-schwartz-recognizes-cdc-strife-in-first-talks-with-staff
 https://thehill.com/newsletters/healthcare/6044727-trump-eyes-vaccine-categories
 https://thehill.com/newsletters/healthcare/6048133-back-to-school-season-fuels-growing-measles-concerns
@@ -2777,6 +2787,7 @@ https://thehill.com/newsletters/healthcare/6155303-senate-democrats-unveil-new-p
 https://thehill.com/newsletters/healthcare/6159244-trump-establishes-new-womens-health-divisions
 https://thehill.com/newsletters/healthcare/6161527-trump-administration-national-kidney-care-plan
 https://thehill.com/newsletters/healthcare/6164325-congenital-measles-cases-rise-pennsylvania
+https://thehill.com/newsletters/healthcare/6166975-maha-leader-resigns-from-administration
 https://thehill.com/newsletters/keeping-score/6046222-kyle-kirkwood-trump-freedom-250-grand-prix-indycar
 https://thehill.com/newsletters/keeping-score/6046806-san-francisco-49ers-owner-arrested-in-ohio
 https://thehill.com/newsletters/keeping-score/6057895-mark-walter-lakers-sale-controversy
@@ -2881,6 +2892,7 @@ https://thehill.com/newsletters/technology/6155378-gop-senators-press-pentagon-s
 https://thehill.com/newsletters/technology/6159048-anthropic-makes-pledge-for-public-benefit-initiative
 https://thehill.com/newsletters/technology/6161499-white-house-relies-on-existing-laws-to-regulate-ai
 https://thehill.com/newsletters/technology/6164174-internet-races-to-fend-off-newly-discovered-security-flaws
+https://thehill.com/newsletters/technology/6166712-trump-admin-points-finger-at-musk-in-starlink-confusion
 https://thehill.com/newsletters/the-gavel/6050577-supreme-court-mail-in-voting-trump-policy
 https://thehill.com/newsletters/the-gavel/6064292-white-house-ballroom-trump-supreme-court-standing
 https://thehill.com/newsletters/the-gavel/6077380-supreme-court-trump-midterms
@@ -4128,6 +4140,8 @@ https://thehill.com/policy/healthcare/6162533-pennsylvania-congenital-measles-ou
 https://thehill.com/policy/healthcare/6163029-poll-vaccine-safety-confidence
 https://thehill.com/policy/healthcare/6165587-unitedhealthcare-humana-medicare-advantage-cancellations-to-affect-1-million
 https://thehill.com/policy/healthcare/6166007-employer-health-insurance-costs-premiums-rise
+https://thehill.com/policy/healthcare/6166661-cdc-ebola-travel-requirement
+https://thehill.com/policy/healthcare/6166854-cdc-hepatitis-b-vaccine-trial-rfk-hhs
 https://thehill.com/policy/international/6040680-iran-minister-slams-trump-economic-dday
 https://thehill.com/policy/international/6042225-rubio-cuba-sanctions
 https://thehill.com/policy/international/6043090-iran-reaction-us-sanctions-trump-administration-war
@@ -4321,6 +4335,7 @@ https://thehill.com/policy/international/6164397-houthi-attacked-king-fahd-airpo
 https://thehill.com/policy/international/6165190-american-stephen-hubbard-freed
 https://thehill.com/policy/international/6165881-witkoff-calls-putin-humanitarian-backlash
 https://thehill.com/policy/international/6166455-pavel-diesel-deal-derailed-peace
+https://thehill.com/policy/international/6166951-canada-diplomats-barred-american-midterm-candidates
 https://thehill.com/policy/national-security/6049802-cia-director-ratcliffe-moscow-visit
 https://thehill.com/policy/national-security/6056134-senators-oppose-ice-shocking-gloves
 https://thehill.com/policy/national-security/6059574-homan-ice-bus-stop-arrests
@@ -4567,6 +4582,7 @@ https://thehill.com/policy/technology/6163378-judge-orders-meta-25b-penalty
 https://thehill.com/policy/technology/6163568-nsa-warns-php-security-flaws
 https://thehill.com/policy/technology/6165520-doge-starlink-ukraine-controversy
 https://thehill.com/policy/technology/6165973-talarico-accuses-musk-buying-senator
+https://thehill.com/policy/technology/6166816-gerber-slams-musk-starlink-ukraine
 https://thehill.com/policy/transportation/6050209-tsa-phases-out-gold-program
 https://thehill.com/policy/transportation/6050669-uber-new-family-features-teen-accounts-stream-safety
 https://thehill.com/policy/transportation/6059553-google-maps-renames-lake-america
