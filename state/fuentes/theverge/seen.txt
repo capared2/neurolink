@@ -343,6 +343,9 @@ https://theverge.com/ai-artificial-intelligence/1017386/openai-safety-researcher
 https://theverge.com/ai-artificial-intelligence/1017419/one-man-basically-saved-the-internet-from-the-phpocalypse
 https://theverge.com/ai-artificial-intelligence/1017498/how-claude-fable-5-1-can-encode-and-decode-messages-in-images
 https://theverge.com/ai-artificial-intelligence/1017715/an-insightful-breakdown-of-the-coreweave-situation
+https://theverge.com/ai-artificial-intelligence/1017900/texas-becomes-the-latest-state-to-sue-openai
+https://theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech
+https://theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet
 https://theverge.com/ai-artificial-intelligence/648595/anthropic-claude-research-google-workplace
 https://theverge.com/ai-artificial-intelligence/679852/trump-ai-safety-institute-name-mission-change
 https://theverge.com/ai-artificial-intelligence/767973/vibe-coding-ai-future-end-evolution
@@ -951,6 +954,7 @@ https://theverge.com/gadgets/1017196/fi-ultra-gps-dog-tracker-kirby-air-riders-d
 https://theverge.com/gadgets/1017332/oura-is-suing-ultrahuman-all-over-again
 https://theverge.com/gadgets/1017337/strava-makes-it-easier-to-start-a-hike-or-run-offline
 https://theverge.com/gadgets/1017383/brick-night-app-blocker-gadget-bluetooth-launch
+https://theverge.com/gadgets/1017667/anker-soundcore-space-2-noise-canceling-headphones-deal-sale
 https://theverge.com/gadgets/712844/today-im-toying-with
 https://theverge.com/gadgets/842702/tetris-my-play-watch-smartwatch-hands-on
 https://theverge.com/gadgets/847777/oh-snap-i-have-a-new-favorite-phone-grip
@@ -1165,6 +1169,7 @@ https://theverge.com/games/1016862/nintendo-switch-2-jailbreak-ai
 https://theverge.com/games/1016932/mass-effect-5-universe-trailer-leak-bioware-ea
 https://theverge.com/games/1017631/you-can-now-try-fsr-4-1-on-your-xbox-ally-x-or-x20
 https://theverge.com/games/1017702/im-beginning-to-think-the-next-xbox-will-be-sold-like-a-cell-phone
+https://theverge.com/games/1017994/steams-personal-calendar-feature-is-exiting-beta
 https://theverge.com/games/633885/gdc-2025-best-indie-games
 https://theverge.com/games/682063/the-new-york-times-nyt-games-crossplay-scrabble-pips
 https://theverge.com/games/684957/splitgate-2-hat-apology
@@ -1403,6 +1408,7 @@ https://theverge.com/news/1015824/eiliko-energize-lab-statement-on-robot-hack-br
 https://theverge.com/news/1015965/microsoft-headcount-down-2026
 https://theverge.com/news/1017012/discord-markdown-previews-organize-servers-channels
 https://theverge.com/news/1017551/one-persons-iphone-duo-screen-cracked-already
+https://theverge.com/news/1018037/xbox-chief-operating-officer-helen-chiang-departure
 https://theverge.com/news/599220/it-m
 https://theverge.com/news/609772/google-maps-gulf-of-america-rename-mexico
 https://theverge.com/news/610580/apple-maps-gulf-of-america
@@ -2444,6 +2450,10 @@ https://theverge.com/tech/1017623/iphone-duo-broken-cracked-screen
 https://theverge.com/tech/1017639/proton-map-flock-cams
 https://theverge.com/tech/1017659/eth-zurich-research-robot-quadruped-solve-rubiks-cube-puzzle
 https://theverge.com/tech/1017741/amazon-is-planning-more-day-and-date-releases-for-luna
+https://theverge.com/tech/1017818/windows-accelerated-scrolling-update
+https://theverge.com/tech/1017855/windows-internet-speed-test-quick-settings
+https://theverge.com/tech/1017914/popcorn-time-piracy-botnet-avoided
+https://theverge.com/tech/1018103/meta-is-acquiring-an-ai-analytics-company
 https://theverge.com/tech/24008239/sphere-las-vegas-experience-u2-screen
 https://theverge.com/tech/625223/book-log-read-goodreads
 https://theverge.com/tech/784323/upgrading-240hz-oled-gaming-monitor
@@ -2470,6 +2480,7 @@ https://theverge.com/tech/873131/elon-musks-boring-company-is-going-to-dubai
 https://theverge.com/tech/873655/anker-nano-charger-smart-display-45w-folding-prongs
 https://theverge.com/tech/876196/top-app-store-apps-developers
 https://theverge.com/tech/876480/meta-facebook-animate-profile-picture-restyle-ai
+https://theverge.com/tech/880756/windows-11-speed-test-build-in-update-preview
 https://theverge.com/tech/880812/ramageddon-ram-shortage-memory-crisis-price-2026-phones-laptops
 https://theverge.com/tech/883225/samsung-galaxy-unpacked-s26-2026
 https://theverge.com/tech/883593/amd-forges-100-billion-deal-with-meta-for-ai-chips
