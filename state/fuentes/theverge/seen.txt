@@ -6,6 +6,7 @@ https://theverge.com/2013/5/3/4296002/another-rare-working-apple-1-signed-by-ste
 https://theverge.com/2013/8/29/4640308/dark-patterns-inside-the-interfaces-designed-to-trick-you
 https://theverge.com/2014/10/17/6994871/comic-sans-typewriter-exists
 https://theverge.com/2014/4/12/5607614/heartbleed-openssl-bug-storystream
+https://theverge.com/2015/10/28/9626890/license-plate-readers-eff-report
 https://theverge.com/2015/3/18/8237799/sony-playstation-vue-tv-streaming-launch
 https://theverge.com/2015/6/9/8751947/june-oven-identify-your-food
 https://theverge.com/2015/7/7/8905037/google-ad-discrimination-adfisher
@@ -1528,6 +1529,7 @@ https://theverge.com/news/845280/google-cc-morning-briefing-gemini-ai-agent
 https://theverge.com/news/845882/x-corp-operation-bluebird-twitter-lawsuit-trademark-infringement
 https://theverge.com/news/847149/apple-third-party-app-stores-payment-processing-ios-japan
 https://theverge.com/news/849061/instacart-ends-ai-pricing-tests-eversight
+https://theverge.com/news/849624/flock-ai-camera-feeds-exposed-benn-jordan
 https://theverge.com/news/850061/apple-brazil-third-party-app-stores-external-payment-systems
 https://theverge.com/news/850328/comedian-trump-kennedy-center-domains
 https://theverge.com/news/850515/billionaires-are-making-empty-threats-to-leave-california-if-theyre-asked-to-hoard-slighlty-less-money
@@ -2455,6 +2457,7 @@ https://theverge.com/tech/1017410/sigma-fp2-mirrorless-full-frame-modular-camera
 https://theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping
 https://theverge.com/tech/1017491/amazon-adds-handwritten-ebook-notes-to-the-kindle-android-app
 https://theverge.com/tech/1017499/quest-diagnostics-says-patient-data-was-compromised-during-breach
+https://theverge.com/tech/1017508/crkd-nitro-deck-2-nintendo-switch-2-controller-case-hands-on
 https://theverge.com/tech/1017555/hallmark-xbox-halo-special-edition-green-console-sounds-light
 https://theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update
 https://theverge.com/tech/1017623/iphone-duo-broken-cracked-screen
@@ -2470,6 +2473,10 @@ https://theverge.com/tech/1018156/jerryrigeverything-wrecks-an-iphone-duo-with-a
 https://theverge.com/tech/1018169/what-to-expect-apple-pro-and-tell-event-touchscreen-macbook-pro
 https://theverge.com/tech/1018200/ken-kutaragi-calls-physical-media-just-a-metaphor-for-owning-games
 https://theverge.com/tech/1018253/now-you-can-watch-instagram-reels-on-your-apple-tv
+https://theverge.com/tech/1018261/benn-jordans-long-running-investigation-of-flock-culminates-in-a-review-of-the-surveillance-state
+https://theverge.com/tech/1018275/zen-browser-arc-replacement
+https://theverge.com/tech/1018282/adam-mosseri-admits-instagram-on-the-iphone-duo-needs-some-work
+https://theverge.com/tech/1018290/dissected-iphone-duo-crackgate-hinge-screen
 https://theverge.com/tech/24008239/sphere-las-vegas-experience-u2-screen
 https://theverge.com/tech/625223/book-log-read-goodreads
 https://theverge.com/tech/784323/upgrading-240hz-oled-gaming-monitor
