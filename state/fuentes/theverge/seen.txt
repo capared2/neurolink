@@ -65,6 +65,7 @@ https://theverge.com/2022/2/17/22937489/nhtsa-allows-adb-adaptive-driving-beam-t
 https://theverge.com/2022/2/2/22914236/tesla-phantom-braking-complaints-nhtsa-fsd
 https://theverge.com/2022/2/7/22921615/samsung-galaxy-watch-4-wear-os-google-assistant-wearables-smartwatch
 https://theverge.com/2022/3/31/23004352/microsoft-phone-link-rebranding-windows-11-design-update
+https://theverge.com/2022/4/19/23030160/logitech-lift-ergonomic-vertical-wireless-mouse-price-features
 https://theverge.com/2022/5/23/23138438/rodecaster-ii-pro-audio-mixer-announced-price-release-date
 https://theverge.com/2022/5/25/23141533/amazon-package-delivery-injuries-dsp-contractors-rates-2021
 https://theverge.com/2022/5/5/23058295/elon-musk-twitter-funding-qatar-larry-ellison
@@ -350,6 +351,9 @@ https://theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-m
 https://theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act
 https://theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai
 https://theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban
+https://theverge.com/ai-artificial-intelligence/1018414/marissa-mayer-made-an-ai-assistant-that-learns-from-your-camera-roll
+https://theverge.com/ai-artificial-intelligence/1018434/cobol-migration-legacy-code-openai-anthropic
+https://theverge.com/ai-artificial-intelligence/1018476/anthropic-ipo-details-s1-filed-sec
 https://theverge.com/ai-artificial-intelligence/648595/anthropic-claude-research-google-workplace
 https://theverge.com/ai-artificial-intelligence/679852/trump-ai-safety-institute-name-mission-change
 https://theverge.com/ai-artificial-intelligence/767973/vibe-coding-ai-future-end-evolution
@@ -859,6 +863,7 @@ https://theverge.com/entertainment/999280/the-other-ray-gunn
 https://theverge.com/entertainment/999291/i-need-to-see-everything-now
 https://theverge.com/entertainment/999809/gremlins-3-movie-teaser-trailer
 https://theverge.com/entertainment/999986/npr-gen-z-comments
+https://theverge.com/features/1017836/flock-huntington-west-virginia-surveillance-ballot-measure
 https://theverge.com/features/825207/semiconductor-chip-manufacturing-new-silicon-valley
 https://theverge.com/film/767588/star-wars-starfighter-cast
 https://theverge.com/fitness-tracker-review/696156/whoop-mg-review-wearables-fitness-tracker-health
@@ -966,6 +971,7 @@ https://theverge.com/gadgets/1017337/strava-makes-it-easier-to-start-a-hike-or-r
 https://theverge.com/gadgets/1017383/brick-night-app-blocker-gadget-bluetooth-launch
 https://theverge.com/gadgets/1017667/anker-soundcore-space-2-noise-canceling-headphones-deal-sale
 https://theverge.com/gadgets/1017768/lg-c6-oled-tv-early-black-friday-2026-deal-sale
+https://theverge.com/gadgets/1018528/remarkable-paper-pro-move-nintendo-switch-2-fujifilm-deal-sale
 https://theverge.com/gadgets/712844/today-im-toying-with
 https://theverge.com/gadgets/842702/tetris-my-play-watch-smartwatch-hands-on
 https://theverge.com/gadgets/847777/oh-snap-i-have-a-new-favorite-phone-grip
@@ -1650,6 +1656,7 @@ https://theverge.com/podcast/1015408/bill-gates-ai-interview-microsoft-openai-an
 https://theverge.com/podcast/1015492/iphone-duo-vergecast-livestream
 https://theverge.com/podcast/1017094/tesla-roadster-flying-vergecast
 https://theverge.com/podcast/1017447/iphone-duo-ipad-review-score-vergecast
+https://theverge.com/podcast/1018264/kevin-roose-the-agi-chronicles-machine-gods-podcast-youtube-openai-anthropic
 https://theverge.com/podcast/889177/prediction-markets-news-gambling-polymarket-kalshi-iran-war-regulation
 https://theverge.com/podcast/905198/meta-lawsuits-facebook-instagram-youtube-social-media-addiction-section-230
 https://theverge.com/podcast/969231/samsung-unpacked-2026-vergecast-livestream
@@ -1991,6 +1998,7 @@ https://theverge.com/streaming/1015099/youtube-dislike-button-hide-menu
 https://theverge.com/streaming/1015228/youtube-has-a-new-way-to-protect-hacked-channels
 https://theverge.com/streaming/1016206/youtube-dislike-button-videos
 https://theverge.com/streaming/1017304/netflix-layoffs-bela-bajaria-peter-rice-dan-lin-doug-belgrad
+https://theverge.com/streaming/1018425/inside-netflixs-creative-clearout
 https://theverge.com/streaming/862738/fallout-shelter-reality-show-amazon-prime-video
 https://theverge.com/streaming/894128/peacock-nbcuniversal-ai-andy-cohen-bravo
 https://theverge.com/streaming/909230/its-an-amazing-art-form-that-is-way-too-limited-in-peoples-minds
@@ -2466,6 +2474,7 @@ https://theverge.com/tech/1017623/iphone-duo-broken-cracked-screen
 https://theverge.com/tech/1017639/proton-map-flock-cams
 https://theverge.com/tech/1017659/eth-zurich-research-robot-quadruped-solve-rubiks-cube-puzzle
 https://theverge.com/tech/1017741/amazon-is-planning-more-day-and-date-releases-for-luna
+https://theverge.com/tech/1017801/ipad-mini-oled-display-apple-announce
 https://theverge.com/tech/1017818/windows-accelerated-scrolling-update
 https://theverge.com/tech/1017855/windows-internet-speed-test-quick-settings
 https://theverge.com/tech/1017914/popcorn-time-piracy-botnet-avoided
@@ -2480,6 +2489,9 @@ https://theverge.com/tech/1018261/benn-jordans-long-running-investigation-of-flo
 https://theverge.com/tech/1018275/zen-browser-arc-replacement
 https://theverge.com/tech/1018282/adam-mosseri-admits-instagram-on-the-iphone-duo-needs-some-work
 https://theverge.com/tech/1018290/dissected-iphone-duo-crackgate-hinge-screen
+https://theverge.com/tech/1018407/bring-some-life-back-to-your-neglected-browser-tabs
+https://theverge.com/tech/1018570/logitech-pebble-pop-up-mouse-ergonomics-wireless
+https://theverge.com/tech/1018608/video-tour-year-2000-compusa-computer-retail-store-new-york-city
 https://theverge.com/tech/24008239/sphere-las-vegas-experience-u2-screen
 https://theverge.com/tech/625223/book-log-read-goodreads
 https://theverge.com/tech/784323/upgrading-240hz-oled-gaming-monitor
@@ -2608,6 +2620,7 @@ https://theverge.com/tech/943699/slug-boox-tappy-wireless-bluetooth-remote-page-
 https://theverge.com/tech/943852/trump-phone-made-in-the-usa-ftc-assembled-china
 https://theverge.com/tech/943866/google-alphabet-eu-dma-fine-search-services-play-store-steering
 https://theverge.com/tech/943905/meta-remembers-the-portal-exists-and-turns-it-into-an-ai-dev-kit
+https://theverge.com/tech/945549/logitech-mobi-fold-wireless-bluetooth-travel-mouse-hands-on
 https://theverge.com/tech/945889/airpods-custom-eq-feature-ios-27
 https://theverge.com/tech/946458/instagram-is-finally-letting-everyone-reorganize-their-grid
 https://theverge.com/tech/946567/apple-macos-27-golden-gate-dev-beta-hands-on
