@@ -57,6 +57,8 @@ https://aljazeera.com/economy/2026/10/26/anthropics-ipo-filing-shows-explosive-g
 https://aljazeera.com/economy/2026/10/26/brazils-real-sinks-after-lulas-re-election-victory
 https://aljazeera.com/economy/2026/10/26/californias-billionaire-tax-faces-a-precarious-road-from-rich-opposition
 https://aljazeera.com/economy/2026/10/26/us-military-says-it-helped-gulf-states-export-1-5-billion-barrels-of-oil
+https://aljazeera.com/economy/2026/10/27/ai-makes-discoveries-in-mathematics-computer-science-physics-openai-says
+https://aljazeera.com/economy/2026/10/27/south-koreas-gdp-growth-beats-forecasts-amid-ai-boom
 https://aljazeera.com/economy/2026/10/5/singapore-turns-matchmaker-amid-rock-bottom-birthrate
 https://aljazeera.com/economy/2026/10/5/trump-blames-democrats-and-ukraine-for-soaring-us-fuel-prices-not-iran-war
 https://aljazeera.com/economy/2026/10/6/cnn-cbs-news-now-under-one-roof-as-paramount-warner-bros-merger-closes
@@ -256,6 +258,7 @@ https://aljazeera.com/features/2026/10/25/election-posters-mass-tourism-and-prop
 https://aljazeera.com/features/2026/10/25/gazas-visually-and-hearing-impaired-children-miss-school-due-to-israel-war
 https://aljazeera.com/features/2026/10/25/the-search-for-gold-is-a-dangerous-and-laborious-gamble-for-sudans-miners
 https://aljazeera.com/features/2026/10/26/everything-destroyed-hebron-businesses-count-cost-of-israeli-assault
+https://aljazeera.com/features/2026/10/27/palestinian-citizens-of-israel-fear-theyre-next-target-if-far-right-wins
 https://aljazeera.com/features/2026/10/3/a-yemeni-family-spend-a-week-on-the-road-fleeing-another-houthi-offensive
 https://aljazeera.com/features/2026/10/4/inside-the-kill-box-the-yemenis-who-stayed-behind-in-houthi-held-mocha
 https://aljazeera.com/features/2026/10/4/the-story-of-a-book-in-gaza-a-treasured-possession-given-new-lease-of-life
@@ -1260,8 +1263,18 @@ https://aljazeera.com/news/2026/10/26/us-court-rules-daughter-of-trump-critic-ja
 https://aljazeera.com/news/2026/10/26/us-midterm-elections-2026-in-maps-and-charts
 https://aljazeera.com/news/2026/10/26/what-vucics-defeat-means-for-serbias-foreign-policy
 https://aljazeera.com/news/2026/10/26/world-reacts-to-lulas-victory-in-brazilian-presidential-race
+https://aljazeera.com/news/2026/10/27/bolsonaros-party-accepts-result-after-trump-suggests-vote-was
+https://aljazeera.com/news/2026/10/27/could-us-midterms-reshape-pakistans-relationship-with-washington
+https://aljazeera.com/news/2026/10/27/israel-heads-to-the-polls-as-shift-to-the-right-dominates-critical-election
+https://aljazeera.com/news/2026/10/27/palestine-weekly-west-bank-under-siege-as-israelis-go-to-the-polls
 https://aljazeera.com/news/2026/10/27/romania-says-russia-run-sabotage-network-set-fire-near-weapons-factory
+https://aljazeera.com/news/2026/10/27/russia-halts-strikes-on-ukraines-kherson-as-oleshky-ceasefire-takes-effect
+https://aljazeera.com/news/2026/10/27/saudi-led-coalition-destroys-four-houthi-drones
+https://aljazeera.com/news/2026/10/27/sixty-christians-killed-in-ethiopias-oromia-region
+https://aljazeera.com/news/2026/10/27/tracking-the-money-the-biggest-donors-in-the-2026-us-midterm-elections
 https://aljazeera.com/news/2026/10/27/us-court-rules-against-trump-administration-in-california-voting-case
+https://aljazeera.com/news/2026/10/27/us-eu-and-30-countries-warn-of-famine-risk-in-sudan-call-for-aid
+https://aljazeera.com/news/2026/10/27/why-has-france-struggled-to-address-students-demands
 https://aljazeera.com/news/2026/10/3/10-injured-after-car-crashes-into-rugby-supporters-in-australia
 https://aljazeera.com/news/2026/10/3/air-ambulance-missing-on-flight-from-bermuda-to-boston
 https://aljazeera.com/news/2026/10/3/algeria-sent-fighter-jets-to-niger-to-thwart-coup-attempt-president-says
@@ -3127,6 +3140,7 @@ https://aljazeera.com/news/liveblog/2026/10/21/iran-war-live-us-warns-peace-deal
 https://aljazeera.com/news/liveblog/2026/10/25/brazil-election-2026-live-lula-and-bolsonaro-in-tight-race
 https://aljazeera.com/news/liveblog/2026/10/25/iran-war-live-trump-hints-at-possible-sunday-iran-attack-or-deal-reached
 https://aljazeera.com/news/liveblog/2026/10/27/iran-war-live-iran-says-us-not-serious-on-talks-ship-on-fire-off-iraq
+https://aljazeera.com/news/liveblog/2026/10/27/israel-election-2026-live-netanyahu-faces-tough-test-in-high-stakes-polls
 https://aljazeera.com/news/liveblog/2026/10/3/iran-war-live-fighting-intensifies-in-yemen-hundreds-killed-or-injured
 https://aljazeera.com/news/liveblog/2026/10/7/iran-war-live-yemen-forces-claim-control-over-strategic-taiz-mountain-peak
 https://aljazeera.com/news/liveblog/2026/10/9/iran-war-live-iranian-media-reports-massive-explosions-in-hormuz-strait
@@ -3186,6 +3200,7 @@ https://aljazeera.com/opinions/2026/10/25/elections-cannot-produce-change-in-isr
 https://aljazeera.com/opinions/2026/10/25/who-israel-elects-matters-and-not-just-for-israelis
 https://aljazeera.com/opinions/2026/10/26/saddam-haftar-is-eyeing-the-throne-in-libya
 https://aljazeera.com/opinions/2026/10/26/the-french-government-is-hiding-behind-a-riots-narrative
+https://aljazeera.com/opinions/2026/10/27/palestinian-citizens-of-israel-can-vote-but-cannot-expect-change
 https://aljazeera.com/opinions/2026/10/3/the-double-standards-of-a-failed-execution
 https://aljazeera.com/opinions/2026/10/3/to-reclaim-its-sovereignty-senegal-must-approach-debt-differently
 https://aljazeera.com/opinions/2026/10/4/did-he-know-why-israel-is-rejecting-an-october-7-reckoning
@@ -4191,6 +4206,7 @@ https://aljazeera.com/video/people-power/2026/9/24/forever-chemicals-ground-zero
 https://aljazeera.com/video/talk-to-al-jazeera/2026/10/12/confronting-the-largest-energy-security
 https://aljazeera.com/video/talk-to-al-jazeera/2026/10/18/russias-war-in-ukraine-puts-europe-on-edge
 https://aljazeera.com/video/talk-to-al-jazeera/2026/10/22/us-ambassador-to-turkiye-rethinking-us-role-in-the-middle-east
+https://aljazeera.com/video/talk-to-al-jazeera/2026/10/27/wales-first-minister-were-within-a-union-that-is-not-a-union-of
 https://aljazeera.com/video/talk-to-al-jazeera/2026/10/5/if-i-didnt-write-what-moved-me-itd-be-like-putting-myself-in-prison
 https://aljazeera.com/video/talk-to-al-jazeera/2026/8/30/rohingya-crisis-aid-falls-and-hope-fades
 https://aljazeera.com/video/talk-to-al-jazeera/2026/9/13/guyanas-oil-boom-and-challenges
