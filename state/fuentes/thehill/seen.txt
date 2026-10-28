@@ -140,6 +140,7 @@ https://thehill.com/blogs/in-the-know/6172471-white-house-halloween-party-trump-
 https://thehill.com/blogs/in-the-know/6172595-billy-crystal-trumps-kennedy-center
 https://thehill.com/blogs/in-the-know/6174400-neil-young-lawsuit-trump-rally-ohio
 https://thehill.com/blogs/in-the-know/6175170-sophia-bush-memoir-midterms-trump
+https://thehill.com/blogs/in-the-know/6177777-brooke-hogan-hulk-hogan-death-home-sale-response
 https://thehill.com/blogs/in-the-know/in-the-know/6052354-tim-curry-star-of-rocky-horror-and-it-dead-at-80-reports
 https://thehill.com/blogs/in-the-know/in-the-know/6079592-jalen-brunson-hosts-snl
 https://thehill.com/blogs/in-the-know/in-the-know/6159816-christina-applegate-says-she-was-misdiagnosed-with-ms-i-havent-gotten-better
@@ -287,9 +288,11 @@ https://thehill.com/business/6168995-treasury-bans-institutional-home-buys
 https://thehill.com/business/6169485-trump-farm-relief-diesel-prices
 https://thehill.com/business/6172844-fhfa-director-challenges-fico-monopoly
 https://thehill.com/business/6173475-warsh-fed-rate-hike-inflation
+https://thehill.com/business/6174753-fed-interest-rates-decision-inflation
 https://thehill.com/business/6175067-october-consumer-confidence-rises
 https://thehill.com/business/6175539-fed-to-decide-interest-rates-midterms
 https://thehill.com/business/6175688-americans-personal-finances-declining
+https://thehill.com/business/6177123-glp-1-weightloss-drugs-beer-industry-hit-report
 https://thehill.com/business/6177868-bond-yields-fed-interest-rates-decision
 https://thehill.com/business/agriculture/6052290-ranchers-protest-foreign-imported-beef
 https://thehill.com/business/agriculture/6160126-farmers-to-get-one-time-payments-from-8-billion-program-trump-says-what-to-know
@@ -438,6 +441,7 @@ https://thehill.com/homenews/6171075-ozempic-users-may-face-protein-vitamin-d-de
 https://thehill.com/homenews/6172612-glenn-greenwald-defends-journalist-whose-cia-boyfriend-allegedly-leaked-classified-info-yt
 https://thehill.com/homenews/6173445-trump-dismisses-brazil-election-results
 https://thehill.com/homenews/6176244-rubio-speaks-trump-texas-rally
+https://thehill.com/homenews/6178401-labor-leader-dolores-huerta-dead-96
 https://thehill.com/homenews/administration/5743349-who-is-katie-zacharia-new-dhs-spokesperson
 https://thehill.com/homenews/administration/6040220-live-updates-donald-trump-iran-war-economy-midterms
 https://thehill.com/homenews/administration/6040588-donald-trump-white-house-helipad-ballroom-construction
@@ -1190,6 +1194,7 @@ https://thehill.com/homenews/administration/6177050-us-cuba-tensions-un-general-
 https://thehill.com/homenews/administration/6177091-donald-trump-jon-husted-ohio-gop-midterms-anatomy
 https://thehill.com/homenews/administration/6177160-trump-approves-flavio-bolsonaro-us
 https://thehill.com/homenews/administration/6178028-harris-urges-democrats-against-impeachment
+https://thehill.com/homenews/administration/6178743-congress-reelection-poll-record-low
 https://thehill.com/homenews/analysis/6040221-democrats-leftist-win-senate-race
 https://thehill.com/homenews/analysis/6042626-treasury-secretary-bessent-buyback
 https://thehill.com/homenews/analysis/6057609-gop-campaign-centered-trump
@@ -1838,6 +1843,7 @@ https://thehill.com/homenews/campaign/6174743-cheesecake-factory-2026-midterms-o
 https://thehill.com/homenews/campaign/6174921-mike-johnson-slams-polls-midterms
 https://thehill.com/homenews/campaign/6175384-bernio-moreno-mike-rogers-ad-clash
 https://thehill.com/homenews/campaign/6175467-scott-jennings-concerns-senate-races
+https://thehill.com/homenews/campaign/6175607-what-to-know-voter-registration-midterms
 https://thehill.com/homenews/campaign/6175621-midterm-elections-polls-close-results
 https://thehill.com/homenews/campaign/6175916-2028-presidential-race-midterm-elections
 https://thehill.com/homenews/campaign/6176403-sabatos-crystal-ball-shifts-democrats
@@ -1848,7 +1854,16 @@ https://thehill.com/homenews/campaign/6177199-darline-graham-annie-andrews-south
 https://thehill.com/homenews/campaign/6177275-andrew-yang-matthew-mcconaughey-2028-speculation
 https://thehill.com/homenews/campaign/6177318-peggy-flanagan-leads-minnesota-senate-poll
 https://thehill.com/homenews/campaign/6177625-alaska-gop-moves-dismiss-doj-lawsuit
+https://thehill.com/homenews/campaign/6177670-split-ticket-senate-governor-battleground-states
 https://thehill.com/homenews/campaign/6177899-ronna-mcdaniel-rnc-gop-democrats-house-control-midterms
+https://thehill.com/homenews/campaign/6178091-james-fishback-announces-presidential-run
+https://thehill.com/homenews/campaign/6178694-voters-support-democratic-socialist
+https://thehill.com/homenews/campaign/6179090-iowa-gubernatorial-candidates-reynolds
+https://thehill.com/homenews/campaign/6179188-crowley-widens-wisconsin-lead
+https://thehill.com/homenews/campaign/6179351-gop-blasts-peltola-alaska-election-report
+https://thehill.com/homenews/campaign/6179361-trump-peltola-election-fraud-claims
+https://thehill.com/homenews/campaign/6179613-sununu-family-politics-granite-state
+https://thehill.com/homenews/campaign/6179757-peltola-alleged-spoiler-candidate
 https://thehill.com/homenews/campaign/data-nerds/6040929-democratic-socialist-angie-nixon-florida-upset-what-to-know-discussion
 https://thehill.com/homenews/campaign/data-nerds/6054870-democratic-party-senate-control-division-2026-midterms-discussion
 https://thehill.com/homenews/campaign/data-nerds/6068929-abdul-el-sayed-democratic-tensions-michigan-senate-race-discussion
@@ -2763,6 +2778,8 @@ https://thehill.com/homenews/state-watch/6175447-miyokos-creamery-butter-recalle
 https://thehill.com/homenews/state-watch/6175918-vance-alaska-senate-lawsuit
 https://thehill.com/homenews/state-watch/6176665-live-updates-trump-obama-midterm-elections-fed-interest-rate
 https://thehill.com/homenews/state-watch/6177658-judge-rules-essayli-unlawful-designation
+https://thehill.com/homenews/state-watch/6178806-texas-high-school-title-ix-little-shop-of-horrors
+https://thehill.com/homenews/state-watch/6179602-pretti-parents-accuse-doj-holding-evidence
 https://thehill.com/homenews/sunday-talk-shows/6045326-sunday-shows-trump-canada-trade-republican-primaries
 https://thehill.com/homenews/sunday-talk-shows/6059207-sunday-shows-trump-gop-economic-tensions-foreign-relations
 https://thehill.com/homenews/sunday-talk-shows/6073362-sunday-shows-trump-rnc-convention-iran-war
@@ -2964,6 +2981,7 @@ https://thehill.com/newsletters/energy-environment/6166941-trump-advances-two-wi
 https://thehill.com/newsletters/energy-environment/6169571-trump-uses-dpa-to-give-150m-for-gas-and-diesel
 https://thehill.com/newsletters/energy-environment/6173521-dems-could-probe-russian-diesel-importers
 https://thehill.com/newsletters/energy-environment/6176415-trump-easing-methane-rules-for-oil-and-gas
+https://thehill.com/newsletters/energy-environment/6179693-trump-facing-new-hearing-on-east-potomac-park
 https://thehill.com/newsletters/healthcare/6042627-schwartz-recognizes-cdc-strife-in-first-talks-with-staff
 https://thehill.com/newsletters/healthcare/6044727-trump-eyes-vaccine-categories
 https://thehill.com/newsletters/healthcare/6048133-back-to-school-season-fuels-growing-measles-concerns
@@ -3010,6 +3028,7 @@ https://thehill.com/newsletters/healthcare/6166975-maha-leader-resigns-from-admi
 https://thehill.com/newsletters/healthcare/6169627-us-officially-doubles-last-years-measles-numbers
 https://thehill.com/newsletters/healthcare/6173520-poll-shows-broad-support-for-reinstating-enhanced-aca-subsidies
 https://thehill.com/newsletters/healthcare/6176516-kennedys-final-maha-swing-state-stumps
+https://thehill.com/newsletters/healthcare/6179689-hhs-gives-compounding-pharmacies-free-rein-to-make-certain-peptides
 https://thehill.com/newsletters/keeping-score/6046222-kyle-kirkwood-trump-freedom-250-grand-prix-indycar
 https://thehill.com/newsletters/keeping-score/6046806-san-francisco-49ers-owner-arrested-in-ohio
 https://thehill.com/newsletters/keeping-score/6057895-mark-walter-lakers-sale-controversy
@@ -3123,6 +3142,7 @@ https://thehill.com/newsletters/technology/6166712-trump-admin-points-finger-at-
 https://thehill.com/newsletters/technology/6169502-musk-ups-midterm-spending-in-final-stretch
 https://thehill.com/newsletters/technology/6173519-ai-safety-advocates-urge-trump-to-support-chip-security-act
 https://thehill.com/newsletters/technology/6176413-what-would-democratic-congress-mean-for-silicon-valley
+https://thehill.com/newsletters/technology/6179638-meta-snap-la-court-trial-addiction
 https://thehill.com/newsletters/the-gavel/6050577-supreme-court-mail-in-voting-trump-policy
 https://thehill.com/newsletters/the-gavel/6064292-white-house-ballroom-trump-supreme-court-standing
 https://thehill.com/newsletters/the-gavel/6077380-supreme-court-trump-midterms
@@ -3748,6 +3768,7 @@ https://thehill.com/opinion/lindseys-lens/6166179-muslim-brotherhood-allegations
 https://thehill.com/opinion/lindseys-lens/6168643-dhs-voter-intimidation-investigation
 https://thehill.com/opinion/lindseys-lens/6172912-rogers-dodges-maga-question
 https://thehill.com/opinion/lindseys-lens/6175421-ramaswamy-backlash-ohio-ad
+https://thehill.com/opinion/lindseys-lens/6178650-pretti-family-demands-justice
 https://thehill.com/opinion/national-security/6033321-us-iran-diplomatic-stalemate
 https://thehill.com/opinion/national-security/6038488-fedorov-ukraine-wartime-elections
 https://thehill.com/opinion/national-security/6040093-reversing-chinese-belt-road
@@ -3813,6 +3834,7 @@ https://thehill.com/opinion/national-security/6165869-war-universities-mitigate-
 https://thehill.com/opinion/national-security/6165913-protecting-critical-ai-infrastructure
 https://thehill.com/opinion/national-security/6167921-the-house-is-sitting-on-the-evidence-about-pulsed-microwave-attacks
 https://thehill.com/opinion/national-security/6169598-unmanned-systems-prevent-russia-aggression
+https://thehill.com/opinion/national-security/6176747-house-select-china-committee-fate
 https://thehill.com/opinion/robbys-radar/6041771-cnn-erin-burnett-natalie-harp
 https://thehill.com/opinion/robbys-radar/6047297-data-centers-public-opposition
 https://thehill.com/opinion/robbys-radar/6049731-el-sayed-hasan-piker-distancing
@@ -3846,6 +3868,7 @@ https://thehill.com/opinion/robbys-radar/6163116-acton-mother-attack-ad-controve
 https://thehill.com/opinion/robbys-radar/6166140-elon-musk-potential-jail-threat
 https://thehill.com/opinion/robbys-radar/6172875-obama-trump-cheesecake-factory
 https://thehill.com/opinion/robbys-radar/6175385-israel-foreign-aid-ad
+https://thehill.com/opinion/robbys-radar/6178494-robert-white-rent-mediation-proposal
 https://thehill.com/opinion/technology/6041606-governing-moon-mars-colonization
 https://thehill.com/opinion/technology/6047429-flexible-work-employee-autonomy
 https://thehill.com/opinion/technology/6049979-faa-recruits-video-gamers
@@ -4164,6 +4187,7 @@ https://thehill.com/policy/defense/6172405-zelensky-hegseth-ukraine-patriot-miss
 https://thehill.com/policy/defense/6172772-pentagon-pushes-department-war-name
 https://thehill.com/policy/defense/6175481-uk-national-security-act-charges-raf-fairford
 https://thehill.com/policy/defense/6176624-us-iran-war-costs-rise
+https://thehill.com/policy/defense/6179598-hegseth-asean-defense-framework
 https://thehill.com/policy/defense/overnights/6112699-gop-senators-dismay-trump-xi-welcome
 https://thehill.com/policy/energy-environment/5918384-tropical-tracker-timeline-of-the-2026-atlantic-hurricane-season
 https://thehill.com/policy/energy-environment/6040914-almanacs-release-predictions-for-fall-winter-but-can-you-trust-them
@@ -4478,6 +4502,7 @@ https://thehill.com/policy/healthcare/6175616-shuford-to-exit-cdc-november
 https://thehill.com/policy/healthcare/6176250-declining-testosterone-levels-analysis
 https://thehill.com/policy/healthcare/6177665-rfk-jr-arab-comments-backlash
 https://thehill.com/policy/healthcare/6177966-cms-leaders-advise-medicare-enrollment-changes
+https://thehill.com/policy/healthcare/6178382-hhs-peptides-compounding-pharmacies-maha-agenda
 https://thehill.com/policy/international/6040680-iran-minister-slams-trump-economic-dday
 https://thehill.com/policy/international/6042225-rubio-cuba-sanctions
 https://thehill.com/policy/international/6043090-iran-reaction-us-sanctions-trump-administration-war
@@ -4695,6 +4720,10 @@ https://thehill.com/policy/international/6176061-flavio-bolsonaro-flees-brazil-e
 https://thehill.com/policy/international/6176171-israel-election-record-turnout
 https://thehill.com/policy/international/6176245-us-builds-ecuador-naval-center
 https://thehill.com/policy/international/6178060-flavio-bolsonaro-brazil-election-miami-trump-administration
+https://thehill.com/policy/international/6178456-construction-firm-sues-state-department
+https://thehill.com/policy/international/6179120-netanyahu-likud-eisenkot-israel-election
+https://thehill.com/policy/international/6179138-eisenkot-netanyahu-election-race
+https://thehill.com/policy/international/6179270-likud-accuses-arab-parties-fraud
 https://thehill.com/policy/national-security/6049802-cia-director-ratcliffe-moscow-visit
 https://thehill.com/policy/national-security/6056134-senators-oppose-ice-shocking-gloves
 https://thehill.com/policy/national-security/6059574-homan-ice-bus-stop-arrests
@@ -4966,9 +4995,17 @@ https://thehill.com/policy/technology/6175899-meghan-mccain-predicts-elizabeth-h
 https://thehill.com/policy/technology/6176078-democrats-midterm-election-interference-justice-department
 https://thehill.com/policy/technology/6176186-silicon-valley-democrats-scrutiny
 https://thehill.com/policy/technology/6176397-guardrails-alliance-husted-ad-tech-ties
+https://thehill.com/policy/technology/6176652-instagram-longer-form-video-90-minutes-testing
 https://thehill.com/policy/technology/6177465-kiss-gene-simmons-ai-in-music
 https://thehill.com/policy/technology/6177573-kalshi-defends-vip-program
 https://thehill.com/policy/technology/6178280-treasury-department-sanctions-north-korean-it-scheme
+https://thehill.com/policy/technology/6178433-himes-warns-musk-influence-ai
+https://thehill.com/policy/technology/6178666-schmidt-china-ai-gap
+https://thehill.com/policy/technology/6178703-meta-snap-social-media-addiction-trial
+https://thehill.com/policy/technology/6178839-james-okeefe-voter-fraud-charges
+https://thehill.com/policy/technology/6179059-himes-paper-ballots-prevent-hacking
+https://thehill.com/policy/technology/6179588-fec-filing-system-restored
+https://thehill.com/policy/technology/6179649-hackers-publish-dhs-employee-data
 https://thehill.com/policy/transportation/6050209-tsa-phases-out-gold-program
 https://thehill.com/policy/transportation/6050669-uber-new-family-features-teen-accounts-stream-safety
 https://thehill.com/policy/transportation/6059553-google-maps-renames-lake-america
@@ -5228,6 +5265,7 @@ https://thehill.com/regulation/court-battles/6173667-comey-slams-doj-charges
 https://thehill.com/regulation/court-battles/6173951-judge-blocks-east-potomac-tree-cutting
 https://thehill.com/regulation/court-battles/6176490-judge-criticizes-doj-hunter-biden-fbi-case
 https://thehill.com/regulation/court-battles/6176566-piker-defamation-lawsuit-jennings
+https://thehill.com/regulation/court-battles/6178639-judge-alvin-hellerstein-dies
 https://thehill.com/the-hill-notable-staffers-2026/6063654-raphael-schreiber-legislative-director-thomas-massie
 https://thehill.com/the-hill-notable-staffers-2026/6064525-rubi-flores-policy-director-congressional-hispanic-caucus
 https://thehill.com/the-hill-notable-staffers-2026/6067510-omar-hossino-chief-counsel-national-security-adviser-house-republican-policy-committee
@@ -5406,4 +5444,11 @@ https://thehill.com/video-clips/6175606-watch-live-donald-trump-gop-rally-texas-
 https://thehill.com/video-clips/6177514-midterm-legal-battle-brewing-will-trump-try-to-undermine-election-results-yt
 https://thehill.com/video-clips/6177714-what-can-early-voting-tell-us-ahead-of-the-midterm-elections-yt
 https://thehill.com/video-clips/6177822-the-final-push-how-are-both-parties-feeling-ahead-of-election-day-yt
+https://thehill.com/video-clips/6178673-watch-live-jd-vance-north-carolina-midterms-2026
+https://thehill.com/video-clips/6178674-watch-live-kevin-warsh-federal-reserve-rate-decision-midterms
+https://thehill.com/video-clips/6178675-watch-live-donald-trump-ohio-campaign-rally-midterms
+https://thehill.com/video-clips/6179098-hasan-piker-accuses-scott-jennings-of-falsely-claiming-piker-advocated-for-lynchings-in-lawsuit-yt
+https://thehill.com/video-clips/6179107-flavio-bolsonaro-and-family-arrive-in-florida-after-election-defeat-yt
+https://thehill.com/video-clips/6179161-whats-next-for-israel-as-elections-leave-no-clear-winner-yt
+https://thehill.com/video-clips/6179244-nyt-report-shows-democrats-behind-secret-dan-sullivan-spoiler-could-it-impact-midterms-yt
 https://thehill.com/video-clips/political-news-clips/6076019-at-least-5-dead-several-hospitalized-after-amazon-cargo-plane-crashes-at-miami-airport-newsnation-yt
