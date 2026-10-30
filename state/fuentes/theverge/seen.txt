@@ -54,6 +54,7 @@ https://theverge.com/2021/10/15/22728144/nintendo-64-sega-genesis-controllers-sw
 https://theverge.com/2021/4/28/22407676/google-expands-android-earthquake-detection-system
 https://theverge.com/2021/4/9/22375366/facebook-ad-gender-bias-delivery-algorithm-discrimination
 https://theverge.com/2021/5/1/22413196/valve-steam-lawsuit-wolfire-games-humble-bundle-app-store-cut-epic-apple
+https://theverge.com/2021/5/10/22428750/harley-davidson-livewire-electric-motorcycle-brand
 https://theverge.com/2021/6/13/22532185/xbox-series-x-mini-fridge-available-holiday-2021
 https://theverge.com/2021/7/23/22590249/pokemon-unite-nintendo-switch-hands-on-esports
 https://theverge.com/2021/7/7/22566634/moderna-mrna-flu-vaccine-trial
@@ -65,6 +66,7 @@ https://theverge.com/2022/1/26/22902930/valve-steam-deck-release-date-gaming-han
 https://theverge.com/2022/10/28/23427137/elon-musk-twitter-matt-levine-money-stuff
 https://theverge.com/2022/11/11/23453575/omnicom-media-group-twitter-advertising-pause
 https://theverge.com/2022/11/22/23474381/elon-musk-twitter-moderation-council-activist-promise
+https://theverge.com/2022/11/8/23447496/binance-ftx-acquisition-letter-intent
 https://theverge.com/2022/2/10/22927374/apple-airtag-safety-update-stalking
 https://theverge.com/2022/2/17/22937489/nhtsa-allows-adb-adaptive-driving-beam-technology
 https://theverge.com/2022/2/2/22914236/tesla-phantom-braking-complaints-nhtsa-fsd
@@ -389,6 +391,12 @@ https://theverge.com/ai-artificial-intelligence/1022184/mistral-ai-has-officiall
 https://theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool
 https://theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs
 https://theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview
+https://theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles
+https://theverge.com/ai-artificial-intelligence/1023096/cursor-says-around-5000-people-may-have-installed-a-malicious-claude-code-extension
+https://theverge.com/ai-artificial-intelligence/1023108/gemini-live-might-get-an-offline-mode-on-android
+https://theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai
+https://theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru
+https://theverge.com/ai-artificial-intelligence/1023576/max-ultra-claude
 https://theverge.com/ai-artificial-intelligence/648595/anthropic-claude-research-google-workplace
 https://theverge.com/ai-artificial-intelligence/679852/trump-ai-safety-institute-name-mission-change
 https://theverge.com/ai-artificial-intelligence/767973/vibe-coding-ai-future-end-evolution
@@ -1041,6 +1049,8 @@ https://theverge.com/gadgets/1022043/jerryrig-the-trump-phone
 https://theverge.com/gadgets/1022103/ocarina-of-time-remake-apple-mac-mini-ssd-hdmi-dock-deal-sale
 https://theverge.com/gadgets/1022440/ikea-varmblixt-smart-lamp-deal-sale
 https://theverge.com/gadgets/1022535/titw-giveaway-18
+https://theverge.com/gadgets/1022794/vizio-mini-led-quantum-tv-65-inch-walmart-deal-sale
+https://theverge.com/gadgets/1022819/google-nest-learning-thermostat-4th-gen-casio-ws-b1000-watch-deal-sale
 https://theverge.com/gadgets/712844/today-im-toying-with
 https://theverge.com/gadgets/842702/tetris-my-play-watch-smartwatch-hands-on
 https://theverge.com/gadgets/847777/oh-snap-i-have-a-new-favorite-phone-grip
@@ -1750,6 +1760,7 @@ https://theverge.com/podcast/1019777/todays-vergecast-inside-the-early-days-of-t
 https://theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview
 https://theverge.com/podcast/1021357/todays-vergecast-amazon-built-the-trojan-horse-for-your-smart-home
 https://theverge.com/podcast/1022712/touchscreen-macbook-pro-vergecast
+https://theverge.com/podcast/1023194/the-delightfully-messy-state-of-apple-gadgets
 https://theverge.com/podcast/889177/prediction-markets-news-gambling-polymarket-kalshi-iran-war-regulation
 https://theverge.com/podcast/905198/meta-lawsuits-facebook-instagram-youtube-social-media-addiction-section-230
 https://theverge.com/podcast/969231/samsung-unpacked-2026-vergecast-livestream
@@ -1874,10 +1885,12 @@ https://theverge.com/policy/1021554/anduril-bluechip-65-percent-domestic-buy-ame
 https://theverge.com/policy/1022400/utah-kalshi-criminal-charges
 https://theverge.com/policy/1022439/sure-enough-the-fcc-just-banned-chinese-labs-from-testing-us-bound-gadgets
 https://theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright
+https://theverge.com/policy/1023332/snap-is-the-only-platform-left-in-the-next-kids-online-safety-trial
 https://theverge.com/policy/677373/lawyers-chatgpt-hallucinations-ai
 https://theverge.com/policy/694155/big-balls-is-still-here
 https://theverge.com/policy/799473/facebook-meta-ice-jawboning
 https://theverge.com/policy/816882/cisa-cybersecurity-elections-infrastructure-shutdown
+https://theverge.com/policy/867830/social-media-trials-product-liability-school-districts
 https://theverge.com/policy/879964/shein-eu-dsa-investigation-illegal-products-addictive-design
 https://theverge.com/policy/880850/social-media-lawsuits-meta-facebook-instagram-tiktok
 https://theverge.com/policy/882227/scotus-trump-tariffs-ruling-imports-small-businesses-refunds
@@ -2696,6 +2709,10 @@ https://theverge.com/tech/1022911/intel-wildcat-lake-sold-out-ram-shortage
 https://theverge.com/tech/1022995/a-security-incident-is-behind-ao3s-outage
 https://theverge.com/tech/1023003/motorolas-signature-new-look-arrives-on-november-5th
 https://theverge.com/tech/1023021/binance-hack-billions-biggest-crypto-heist
+https://theverge.com/tech/1023057/arrowmax-arrowspace-s1-electric-screwdriver-ai-camera-kickstarter
+https://theverge.com/tech/1023062/sony-3d-glasses-free-spatial-reality-display-elf-mn1-japan
+https://theverge.com/tech/1023069/apple-has-acquired-ai-data-engineering-startup-ascend-io
+https://theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission
 https://theverge.com/tech/24008239/sphere-las-vegas-experience-u2-screen
 https://theverge.com/tech/625223/book-log-read-goodreads
 https://theverge.com/tech/784323/upgrading-240hz-oled-gaming-monitor
@@ -3533,6 +3550,9 @@ https://theverge.com/transportation/1019361/this-game-will-probably-be-the-close
 https://theverge.com/transportation/1019927/waymo-is-stretching-out
 https://theverge.com/transportation/1022420/rivian-q3-earnings-r2-sales-volkswagen-software
 https://theverge.com/transportation/1022555/gm-data-privacy-attorneys-general-lawsuit
+https://theverge.com/transportation/1023112/waymos-next-robotaxi-is-a-purpose-built-toyota-bz4x
+https://theverge.com/transportation/1023143/rivian-autonomy-point-to-point-robotaxi-q3-2026
+https://theverge.com/transportation/1023187/harley-davidson-spin-off-livewire-says-theres-substantial-doubt-it-can-continue
 https://theverge.com/transportation/760217/a-wild-miraidon-appeared
 https://theverge.com/transportation/781908/electric-cargo-bike-car-replace-bike-bus
 https://theverge.com/transportation/784461/lucid-nuro-uber-robotaxi-first-vehicle-delivery
