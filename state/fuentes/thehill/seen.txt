@@ -1211,6 +1211,9 @@ https://thehill.com/homenews/administration/6181651-trump-blasts-democrats-hegse
 https://thehill.com/homenews/administration/6181657-vance-peltola-alaska-senate-prosecution
 https://thehill.com/homenews/administration/6184682-trump-daylight-saving-clocks-fallback
 https://thehill.com/homenews/administration/6185348-bessent-accuses-democrats-fraud-loose
+https://thehill.com/homenews/administration/6185643-trump-tele-rally-midterm-elections-g20
+https://thehill.com/homenews/administration/6186030-trump-afghan-refugees-afghanistan
+https://thehill.com/homenews/administration/6186090-trump-triumphal-arch-lawsuit
 https://thehill.com/homenews/analysis/6040221-democrats-leftist-win-senate-race
 https://thehill.com/homenews/analysis/6042626-treasury-secretary-bessent-buyback
 https://thehill.com/homenews/analysis/6057609-gop-campaign-centered-trump
@@ -1922,9 +1925,14 @@ https://thehill.com/homenews/campaign/6184254-stevens-el-sayed-detroit-appearanc
 https://thehill.com/homenews/campaign/6184277-gop-rep-calls-south-carolina-race-embarrassing
 https://thehill.com/homenews/campaign/6185014-abdul-el-sayed-donald-trump-lie-detector-test-midterms-michigan
 https://thehill.com/homenews/campaign/6185025-minnesota-louisiana-senate-race-democrats-chances
+https://thehill.com/homenews/campaign/6185470-senate-control-midterm-six-tossups
 https://thehill.com/homenews/campaign/6185640-alaska-senate-spoiler-probe
 https://thehill.com/homenews/campaign/6185743-rnc-chair-predicts-midterm-wins
 https://thehill.com/homenews/campaign/6185985-el-sayed-stevens-michigan-senate
+https://thehill.com/homenews/campaign/6186007-peltola-sullivan-vote-confusion-lawsuit
+https://thehill.com/homenews/campaign/6186054-ricketts-osborn-nebraska-senate
+https://thehill.com/homenews/campaign/6186144-olivia-rodrigo-amy-acton-ohio
+https://thehill.com/homenews/campaign/6186206-el-sayed-disinvites-stevens
 https://thehill.com/homenews/campaign/data-nerds/6040929-democratic-socialist-angie-nixon-florida-upset-what-to-know-discussion
 https://thehill.com/homenews/campaign/data-nerds/6054870-democratic-party-senate-control-division-2026-midterms-discussion
 https://thehill.com/homenews/campaign/data-nerds/6068929-abdul-el-sayed-democratic-tensions-michigan-senate-race-discussion
@@ -2867,6 +2875,7 @@ https://thehill.com/homenews/state-watch/6183073-live-updates-trump-midterm-elec
 https://thehill.com/homenews/state-watch/6183858-doj-subpoenas-california-officials-voter-rolls
 https://thehill.com/homenews/state-watch/6184483-end-daylight-saving-time-congress
 https://thehill.com/homenews/state-watch/6184578-ice-agent-texas-houston
+https://thehill.com/homenews/state-watch/6186231-michigan-man-threatened-patel
 https://thehill.com/homenews/sunday-talk-shows/6045326-sunday-shows-trump-canada-trade-republican-primaries
 https://thehill.com/homenews/sunday-talk-shows/6059207-sunday-shows-trump-gop-economic-tensions-foreign-relations
 https://thehill.com/homenews/sunday-talk-shows/6073362-sunday-shows-trump-rnc-convention-iran-war
@@ -3435,6 +3444,8 @@ https://thehill.com/opinion/campaign/6181942-mark-kelly-anti-trump-2028
 https://thehill.com/opinion/campaign/6182118-social-security-solvency-election
 https://thehill.com/opinion/campaign/6182150-nixon-cuba-dictatorship-controversy
 https://thehill.com/opinion/campaign/6182524-ro-khanna-progressive-capitalism
+https://thehill.com/opinion/campaign/6184158-democratic-lawyer-voter-confusion
+https://thehill.com/opinion/campaign/6184763-democrats-house-senate-polls
 https://thehill.com/opinion/campaign/6185000-anna-eskmanni-orlando-mayor-campaign
 https://thehill.com/opinion/civil-rights/6042440-meaning-behind-woke-language
 https://thehill.com/opinion/civil-rights/6043787-business-refuses-service-religious-political-views
@@ -3583,6 +3594,7 @@ https://thehill.com/opinion/education/6159246-congress-must-fix-rule
 https://thehill.com/opinion/education/6161705-beyond-consent-sex-education
 https://thehill.com/opinion/education/6168525-american-arabic-language-education
 https://thehill.com/opinion/education/6177430-raising-better-men-initiative
+https://thehill.com/opinion/education/6183718-university-degree-signaling-crisis
 https://thehill.com/opinion/energy-environment/6047556-states-lead-clean-energy-transition
 https://thehill.com/opinion/energy-environment/6050929-iran-war-shifts-oil-traffic
 https://thehill.com/opinion/energy-environment/6055220-katrina-anniversary-fema-crisis
@@ -3725,6 +3737,7 @@ https://thehill.com/opinion/healthcare/6176651-know-your-risk-act-breast-cancer
 https://thehill.com/opinion/healthcare/6179637-mammogram-bac-reporting-standards
 https://thehill.com/opinion/healthcare/6180216-lower-biologic-drug-prices
 https://thehill.com/opinion/healthcare/6181930-progressives-must-prioritize-home-care
+https://thehill.com/opinion/healthcare/6184685-youth-health-crisis-usa
 https://thehill.com/opinion/immigration/6039522-reducing-immigration-litigation-hostility
 https://thehill.com/opinion/immigration/6053193-mega-master-calendar-hearings-impact
 https://thehill.com/opinion/immigration/6058430-florida-mandatory-death-penalty
@@ -4072,6 +4085,7 @@ https://thehill.com/opinion/technology/6173171-ai-remote-labor-automation-thresh
 https://thehill.com/opinion/technology/6176182-nvidia-shaping-risky-ai-bubble
 https://thehill.com/opinion/technology/6178430-proposed-bans-vs-self-regulation-ai
 https://thehill.com/opinion/technology/6182255-elizabeth-holmes-theranos-documentary
+https://thehill.com/opinion/technology/6184468-west-virginia-data-center-bill
 https://thehill.com/opinion/white-house/6036778-what-is-trump-afraid-we-will-see-about-how-the-tariffs-were-formulated
 https://thehill.com/opinion/white-house/6042186-trump-navy-war
 https://thehill.com/opinion/white-house/6042342-fda-food-safety-reform
@@ -4875,6 +4889,8 @@ https://thehill.com/policy/international/6179138-eisenkot-netanyahu-election-rac
 https://thehill.com/policy/international/6179270-likud-accuses-arab-parties-fraud
 https://thehill.com/policy/international/6185283-g20-foreign-ministers-skip-russia-photo
 https://thehill.com/policy/international/6185517-bessent-iran-operation-economic-outcast-impact
+https://thehill.com/policy/international/6186134-khamenei-warns-iran-strikes
+https://thehill.com/policy/international/6186192-oleshky-residents-return-ukraine
 https://thehill.com/policy/national-security/6049802-cia-director-ratcliffe-moscow-visit
 https://thehill.com/policy/national-security/6056134-senators-oppose-ice-shocking-gloves
 https://thehill.com/policy/national-security/6059574-homan-ice-bus-stop-arrests
@@ -5440,6 +5456,7 @@ https://thehill.com/regulation/court-battles/6184378-ana-reyes-investigation-jus
 https://thehill.com/regulation/court-battles/6184780-comey-criminal-case-dismissal-hearing
 https://thehill.com/regulation/court-battles/6185093-trump-administration-california-ballots-ninth-circuit-appeals-court
 https://thehill.com/regulation/court-battles/6185891-judge-stops-trump-election-threats
+https://thehill.com/regulation/court-battles/6186080-federal-appeals-court-lifts-idaho-abortion-ruling
 https://thehill.com/the-hill-notable-staffers-2026/6063654-raphael-schreiber-legislative-director-thomas-massie
 https://thehill.com/the-hill-notable-staffers-2026/6064525-rubi-flores-policy-director-congressional-hispanic-caucus
 https://thehill.com/the-hill-notable-staffers-2026/6067510-omar-hossino-chief-counsel-national-security-adviser-house-republican-policy-committee
