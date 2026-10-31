@@ -1246,6 +1246,7 @@ https://thehill.com/homenews/analysis/6173390-midterm-elections-divided-governme
 https://thehill.com/homenews/analysis/6173711-el-sayed-trump-islamophobic-attacks-michigan
 https://thehill.com/homenews/analysis/6176336-justice-department-midterm-elections
 https://thehill.com/homenews/analysis/6179825-midterm-elections-trump-senate-house
+https://thehill.com/homenews/analysis/6185594-midterm-elections-defining-races
 https://thehill.com/homenews/campaign/6022972-graham-wins-south-carolina-senate-primary
 https://thehill.com/homenews/campaign/6030474-live-results-oklahoma-gop-governor-primary-runoff
 https://thehill.com/homenews/campaign/6030475-live-results-south-carolina-live-results
@@ -1909,6 +1910,7 @@ https://thehill.com/homenews/campaign/6183027-trump-scheduled-virtual-rally-blit
 https://thehill.com/homenews/campaign/6183124-senate-democrats-buy-sc-ads
 https://thehill.com/homenews/campaign/6183129-bresnahan-cognetti-debate-pennsylvania
 https://thehill.com/homenews/campaign/6183364-mary-peltola-denial-ballot-stacking-dan-j-sullivan-alaska-senate-race
+https://thehill.com/homenews/campaign/6183400-senate-rising-home-heating-costs
 https://thehill.com/homenews/campaign/6183415-cook-political-report-house-race-shifts-democrats-midterms
 https://thehill.com/homenews/campaign/6183444-doj-subpoenas-peltola-alleged-ballot-stacking
 https://thehill.com/homenews/campaign/6183637-marshall-defends-trump-rally-cancellation
@@ -1922,6 +1924,7 @@ https://thehill.com/homenews/campaign/6185014-abdul-el-sayed-donald-trump-lie-de
 https://thehill.com/homenews/campaign/6185025-minnesota-louisiana-senate-race-democrats-chances
 https://thehill.com/homenews/campaign/6185640-alaska-senate-spoiler-probe
 https://thehill.com/homenews/campaign/6185743-rnc-chair-predicts-midterm-wins
+https://thehill.com/homenews/campaign/6185985-el-sayed-stevens-michigan-senate
 https://thehill.com/homenews/campaign/data-nerds/6040929-democratic-socialist-angie-nixon-florida-upset-what-to-know-discussion
 https://thehill.com/homenews/campaign/data-nerds/6054870-democratic-party-senate-control-division-2026-midterms-discussion
 https://thehill.com/homenews/campaign/data-nerds/6068929-abdul-el-sayed-democratic-tensions-michigan-senate-race-discussion
@@ -3432,6 +3435,7 @@ https://thehill.com/opinion/campaign/6181942-mark-kelly-anti-trump-2028
 https://thehill.com/opinion/campaign/6182118-social-security-solvency-election
 https://thehill.com/opinion/campaign/6182150-nixon-cuba-dictatorship-controversy
 https://thehill.com/opinion/campaign/6182524-ro-khanna-progressive-capitalism
+https://thehill.com/opinion/campaign/6185000-anna-eskmanni-orlando-mayor-campaign
 https://thehill.com/opinion/civil-rights/6042440-meaning-behind-woke-language
 https://thehill.com/opinion/civil-rights/6043787-business-refuses-service-religious-political-views
 https://thehill.com/opinion/civil-rights/6044413-debate-jewish-religion-race
@@ -4324,6 +4328,7 @@ https://thehill.com/policy/defense/6180055-hegseth-ousted-military-strategist-sy
 https://thehill.com/policy/defense/6181202-ndaa-passage-threatened-partisan-infighting
 https://thehill.com/policy/defense/6182420-hegseth-mullin-trump-arch-military
 https://thehill.com/policy/defense/6184762-navy-airman-uss-abraham-lincoln-suicide-attempt-middle-east-conflict
+https://thehill.com/policy/defense/6185793-pete-hegseth-blackburn-tennessee-senate-seat
 https://thehill.com/policy/defense/overnights/6112699-gop-senators-dismay-trump-xi-welcome
 https://thehill.com/policy/energy-environment/5918384-tropical-tracker-timeline-of-the-2026-atlantic-hurricane-season
 https://thehill.com/policy/energy-environment/6040914-almanacs-release-predictions-for-fall-winter-but-can-you-trust-them
@@ -4644,6 +4649,7 @@ https://thehill.com/policy/healthcare/6178382-hhs-peptides-compounding-pharmacie
 https://thehill.com/policy/healthcare/6181454-airlines-challenge-cdc-ebola-rules
 https://thehill.com/policy/healthcare/6182258-judge-strikes-trump-medicaid-definition
 https://thehill.com/policy/healthcare/6182563-arizona-reports-new-world-screwworm
+https://thehill.com/policy/healthcare/6184086-maternal-health-autism-study
 https://thehill.com/policy/healthcare/6184172-trump-dol-pbm-transparency-rule
 https://thehill.com/policy/healthcare/6185863-obamacare-premiums-set-double-2027-analysis
 https://thehill.com/policy/international/6040680-iran-minister-slams-trump-economic-dday
