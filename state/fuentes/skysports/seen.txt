@@ -1641,6 +1641,7 @@ https://skysports.com/football/everton-vs-ipswich-town/report/559487
 https://skysports.com/football/everton-vs-manchester-united/report/559467
 https://skysports.com/football/everton-vs-newcastle-united/report/578609
 https://skysports.com/football/everton-vs-wolverhampton-wanderers/report/577575
+https://skysports.com/football/falkirk-vs-celtic/report/558400
 https://skysports.com/football/falkirk-vs-dundee/report/558377
 https://skysports.com/football/falkirk-vs-kilmarnock/report/558388
 https://skysports.com/football/falkirk-vs-rangers/report/558359
@@ -1659,6 +1660,7 @@ https://skysports.com/football/germany-vs-ivory-coast/report/549798
 https://skysports.com/football/germany-vs-paraguay/report/549840
 https://skysports.com/football/greece-women-vs-england-women/report/559077
 https://skysports.com/football/hearts-vs-dundee/report/558365
+https://skysports.com/football/hearts-vs-hibernian/report/578394
 https://skysports.com/football/hearts-vs-rangers/report/558396
 https://skysports.com/football/hearts-vs-st-mirren/report/558378
 https://skysports.com/football/hibernian-vs-celtic/report/558389
@@ -1690,6 +1692,7 @@ https://skysports.com/football/lincoln-city-vs-swansea-city/report/560586
 https://skysports.com/football/lincoln-city-vs-west-ham-united/report/560614
 https://skysports.com/football/linz-ask-vs-celtic/report/577269
 https://skysports.com/football/linz-ask-vs-liverpool/report/577627
+https://skysports.com/football/liverpool-vs-arsenal/report/559530
 https://skysports.com/football/liverpool-vs-atletico-madrid/report/577604
 https://skysports.com/football/liverpool-vs-brighton-and-hove-albion/report/559521
 https://skysports.com/football/liverpool-vs-chelsea/report/578612
@@ -2473,6 +2476,7 @@ https://skysports.com/football/news/11095/13605448/michael-carrick-what-man-utd-
 https://skysports.com/football/news/11095/13605451/alexander-isak-why-keeping-sweden-striker-fit-and-firing-is-key-to-andoni-iraolas-liverpool-revival
 https://skysports.com/football/news/11095/13605512/jack-grealish-dropped-by-everton-after-breaching-club-discipline-ahead-of-newcastle-carabao-cup-tie
 https://skysports.com/football/news/11095/13605595/chelsea-arsenal-and-man-utd-eye-como-defender-paper-talk
+https://skysports.com/football/news/11095/13605750/wsl-round-up-alessia-russo-scores-late-equaliser-to-salvage-draw-for-arsenal-as-man-city-hold-on-to-beat-london-city
 https://skysports.com/football/news/11095/13605752/alvaro-arbeloa-exclusive-fulham-head-coach-on-early-mistakes-seeing-out-games-and-getting-the-best-from-gonzalo-garcia
 https://skysports.com/football/news/11095/13605766/max-dowman-red-card-mikel-artetas-tough-love-after-dismissal-this-isnt-disneyland
 https://skysports.com/football/news/11095/13605812/london-city-lionesses-eder-maestre-explains-how-his-team-are-succeeding-in-the-wsl-ahead-of-big-man-city-test
@@ -2481,6 +2485,10 @@ https://skysports.com/football/news/11095/13605928/lisandro-martinez-wants-to-le
 https://skysports.com/football/news/11095/13606140/man-utd-boss-michael-carrick-expects-to-remain-in-charge-vs-roma-despite-winless-run-stretching-to-nine-matches
 https://skysports.com/football/news/11095/13606410/oliver-glasner-nottingham-forest-head-coach-reveals-anger-desire-to-change-growing-pattern-at-club-amid-poor-start-to-season
 https://skysports.com/football/news/11095/13606527/manchester-united-michael-carrick-to-be-given-at-least-two-more-matches-in-charge-despite-overseeing-worst-run-in-nearly-40-years-paper-talk
+https://skysports.com/football/news/11095/13606693/michael-carricks-man-utd-support-explained-as-fans-believe-reason-for-worst-start-in-40-years-goes-beyond-dugout
+https://skysports.com/football/news/11095/13606700/celtic-team-in-regression-under-martin-oneill-and-manager-to-blame-says-chris-sutton
+https://skysports.com/football/news/11095/13606708/manchester-united-gary-neville-says-club-are-in-a-rut-and-is-unimpressed-with-lisandro-martinez-amid-tough-run-of-games-for-michael-carricks-side
+https://skysports.com/football/news/11095/13606734/wsl-talking-points-chelsea-flex-title-winning-credentials-with-dominant-win-at-charlton-but-man-city-are-keeping-up
 https://skysports.com/football/news/11096/13576531/aston-villa-unai-emerys-problems-mounting-ahead-of-arsenal-test-after-threadbare-squad-falls-apart-against-brighton
 https://skysports.com/football/news/11096/13580813/free-agents-jadon-sancho-paul-pogba-and-dele-alli-among-players-available-on-free-transfer-after-summer-window-shuts
 https://skysports.com/football/news/11661/13193390/sky-sports-fantasy-podcast-fpl-tips-strategy-captaincy-and-transfers
@@ -2876,6 +2884,8 @@ https://skysports.com/football/news/11661/13605928/lisandro-martinez-wants-to-le
 https://skysports.com/football/news/11661/13606140/man-utd-boss-michael-carrick-expects-to-remain-in-charge-vs-roma-despite-winless-run-stretching-to-nine-matches
 https://skysports.com/football/news/11661/13606410/oliver-glasner-nottingham-forest-head-coach-reveals-anger-desire-to-change-growing-pattern-at-club-amid-poor-start-to-season
 https://skysports.com/football/news/11661/13606527/manchester-united-michael-carrick-to-be-given-at-least-two-more-matches-in-charge-despite-overseeing-worst-run-in-nearly-40-years-paper-talk
+https://skysports.com/football/news/11661/13606693/michael-carricks-man-utd-support-explained-as-fans-believe-reason-for-worst-start-in-40-years-goes-beyond-dugout
+https://skysports.com/football/news/11661/13606708/manchester-united-gary-neville-says-club-are-in-a-rut-and-is-unimpressed-with-lisandro-martinez-amid-tough-run-of-games-for-michael-carricks-side
 https://skysports.com/football/news/11662/13584237/man-utd-vs-man-city-ayyoub-bouaddi-elliot-anderson-and-enzo-fernandez-are-the-perfect-answer-to-rodris-summer-exit
 https://skysports.com/football/news/11667/13575283/carlos-baleba-transfer-manchester-united-complete-signing-of-cameroon-midfielder-from-brighton
 https://skysports.com/football/news/11667/13576671/man-utd-why-there-shouldnt-be-panic-after-michael-carricks-side-suffered-premier-league-loss-at-hull-on-opening-day
@@ -3699,6 +3709,10 @@ https://skysports.com/football/news/12040/13605812/london-city-lionesses-eder-ma
 https://skysports.com/football/news/12040/13605928/lisandro-martinez-wants-to-leave-man-utd-in-the-summer-with-atletico-madrid-interested-paper-talk
 https://skysports.com/football/news/12040/13606410/oliver-glasner-nottingham-forest-head-coach-reveals-anger-desire-to-change-growing-pattern-at-club-amid-poor-start-to-season
 https://skysports.com/football/news/12040/13606527/manchester-united-michael-carrick-to-be-given-at-least-two-more-matches-in-charge-despite-overseeing-worst-run-in-nearly-40-years-paper-talk
+https://skysports.com/football/news/12040/13606693/michael-carricks-man-utd-support-explained-as-fans-believe-reason-for-worst-start-in-40-years-goes-beyond-dugout
+https://skysports.com/football/news/12040/13606700/celtic-team-in-regression-under-martin-oneill-and-manager-to-blame-says-chris-sutton
+https://skysports.com/football/news/12040/13606708/manchester-united-gary-neville-says-club-are-in-a-rut-and-is-unimpressed-with-lisandro-martinez-amid-tough-run-of-games-for-michael-carricks-side
+https://skysports.com/football/news/12040/13606734/wsl-talking-points-chelsea-flex-title-winning-credentials-with-dominant-win-at-charlton-but-man-city-are-keeping-up
 https://skysports.com/football/news/12097/13554647/fanalysis-tournament-mode-now-live
 https://skysports.com/football/news/12098/13481245/world-cup-2026-fixture-schedule-and-uk-kick-off-times-day-by-day-breakdown-of-all-104-matches-including-england-scotland
 https://skysports.com/football/news/12098/13514357/middle-east-crisis-will-iran-play-at-world-cup-co-hosted-by-usa-how-conflict-affects-sport
@@ -4326,6 +4340,7 @@ https://skysports.com/football/news/13605501/man-city-1-1-psg-khadija-shaw-opene
 https://skysports.com/football/news/13605512/jack-grealish-dropped-by-everton-after-breaching-club-discipline-ahead-of-newcastle-carabao-cup-tie
 https://skysports.com/football/news/13605595/chelsea-arsenal-and-man-utd-eye-como-defender-paper-talk
 https://skysports.com/football/news/13605688/bayern-munich-2-2-borussia-dortmund-harry-kane-misses-penalty-and-fabio-silva-punishes-him-in-der-klassiker
+https://skysports.com/football/news/13605750/wsl-round-up-alessia-russo-scores-late-equaliser-to-salvage-draw-for-arsenal-as-man-city-hold-on-to-beat-london-city
 https://skysports.com/football/news/13605752/alvaro-arbeloa-exclusive-fulham-head-coach-on-early-mistakes-seeing-out-games-and-getting-the-best-from-gonzalo-garcia
 https://skysports.com/football/news/13605766/max-dowman-red-card-mikel-artetas-tough-love-after-dismissal-this-isnt-disneyland
 https://skysports.com/football/news/13605782/celtic-martin-oneill-vows-to-sort-out-striking-options-ahead-of-premiership-trip-to-falkirk-live-on-sky
@@ -4345,6 +4360,13 @@ https://skysports.com/football/news/13606315/motherwell-1-0-st-mirren-lukas-fadi
 https://skysports.com/football/news/13606363/aston-villa-1-1-fulham-zion-suzuki-concedes-own-goal-as-nicholas-jackson-scores-after-john-mcginns-penalty-miss-in-draw-with-fulham
 https://skysports.com/football/news/13606402/kilmarnock-2-2-st-johnstone-st-johnstone-fight-back-from-toby-stewards-early-dismissal-to-take-point-at-kilmarnock
 https://skysports.com/football/news/13606410/oliver-glasner-nottingham-forest-head-coach-reveals-anger-desire-to-change-growing-pattern-at-club-amid-poor-start-to-season
+https://skysports.com/football/news/13606610/falkirk-2-0-celtic-martin-oneills-hoops-denied-chance-to-go-seven-points-clear-in-scottish-premiership-by-brilliant-bairns
+https://skysports.com/football/news/13606612/hearts-1-2-hibernian-jamie-mcgrath-scores-winner-as-hibs-beat-rivals-at-hampden-for-first-time-to-set-up-scottish-league-cup-final-vs-rangers
+https://skysports.com/football/news/13606658/liverpool-0-1-arsenal-kai-havertz-seals-gunners-first-victory-at-anfield-for-14-years-to-move-top-of-premier-league
+https://skysports.com/football/news/13606693/michael-carricks-man-utd-support-explained-as-fans-believe-reason-for-worst-start-in-40-years-goes-beyond-dugout
+https://skysports.com/football/news/13606700/celtic-team-in-regression-under-martin-oneill-and-manager-to-blame-says-chris-sutton
+https://skysports.com/football/news/13606708/manchester-united-gary-neville-says-club-are-in-a-rut-and-is-unimpressed-with-lisandro-martinez-amid-tough-run-of-games-for-michael-carricks-side
+https://skysports.com/football/news/13606734/wsl-talking-points-chelsea-flex-title-winning-credentials-with-dominant-win-at-charlton-but-man-city-are-keeping-up
 https://skysports.com/football/news/13866/13196034/carabao-cup-on-sky-sports-plus-fixtures-channel-and-subscription-how-to-watch-or-stream-your-football-team-this-season
 https://skysports.com/football/news/13866/13196034/sky-sports-plus-for-carabao-cup-fixtures-channel-and-subscription-how-to-watch-or-stream-your-football-team-this-season
 https://skysports.com/football/news/15205/13582716/tottenham-roberto-de-zerbis-criticism-of-spurs-forwards-and-medical-staff-worrying-says-paul-merson
@@ -4718,6 +4740,7 @@ https://skysports.com/golf/news/12040/13606024/mexico-open-andrew-novak-pulls-th
 https://skysports.com/golf/news/12040/13606048/maybank-championship-miyu-yamashita-in-command-as-charley-hull-and-lottie-woad-fall-away-in-kuala-lumpur
 https://skysports.com/golf/news/12040/13606307/mexico-open-andrew-novak-builds-six-shot-lead-after-three-rounds-at-pga-tour-event-following-stellar-saturday-display
 https://skysports.com/golf/news/12040/13606584/lpga-maybank-championship-miyu-yamashita-holds-off-yan-liu-to-defend-her-title-at-the-kuala-lumpur-golf-and-country-club
+https://skysports.com/golf/news/12040/13606705/hotelplanner-tour-grand-final-julien-sale-secures-title-hamish-brown-crowned-road-to-mallorca-no-1-and-dp-world-tour-cards-confirmed
 https://skysports.com/golf/news/12176/11933264/sky-sports-golf-podcast
 https://skysports.com/golf/news/12176/12950625/golf-leaderboards-pga-tour-lpga-tour-liv-golf-dp-world-tour-ladies-european-tour-major-championships-and-more
 https://skysports.com/golf/news/12176/13313909/solheim-cup-2026-teams-captains-venue-format-and-how-players-will-qualify-for-europe-vs-usa-in-the-netherlands
@@ -4932,6 +4955,7 @@ https://skysports.com/golf/news/13606024/mexico-open-andrew-novak-pulls-three-sh
 https://skysports.com/golf/news/13606048/maybank-championship-miyu-yamashita-in-command-as-charley-hull-and-lottie-woad-fall-away-in-kuala-lumpur
 https://skysports.com/golf/news/13606307/mexico-open-andrew-novak-builds-six-shot-lead-after-three-rounds-at-pga-tour-event-following-stellar-saturday-display
 https://skysports.com/golf/news/13606584/lpga-maybank-championship-miyu-yamashita-holds-off-yan-liu-to-defend-her-title-at-the-kuala-lumpur-golf-and-country-club
+https://skysports.com/golf/news/13606705/hotelplanner-tour-grand-final-julien-sale-secures-title-hamish-brown-crowned-road-to-mallorca-no-1-and-dp-world-tour-cards-confirmed
 https://skysports.com/golf/news/14866/13565082/the-open-rory-mcilroy-right-to-criticise-bryson-dechambeau-circus-should-players-have-to-speak-with-the-media
 https://skysports.com/golf/news/24512/13529496/the-masters-2026-leaderboard-latest-golf-scores-from-augusta-national-and-tee-times-for-opening-major-of-the-year
 https://skysports.com/golf/news/26733/13577351/ryder-cup-2027-luke-donald-expects-new-faces-for-team-europe-in-very-challenging-threepeat-bid-against-team-usa
@@ -6132,6 +6156,7 @@ https://skysports.com/rugby-union/news/12040/13604735/nations-championship-joe-m
 https://skysports.com/rugby-union/news/12040/13604775/nations-championship-fixtures-schedule-dates-key-info-as-rugbys-revolutionary-new-look-tournament-gears-up-for-finals
 https://skysports.com/rugby-union/news/12040/13604946/prem-rugby-and-rfu-committed-to-expanding-top-flight-with-english-clubs-despite-welsh-interest
 https://skysports.com/rugby-union/news/12040/13606302/prem-rugby-englands-alex-mitchell-injured-as-northampton-saints-bath-saracens-harlequins-pick-up-victories
+https://skysports.com/rugby-union/news/12040/13606709/steve-borthwick-england-must-quickly-adjust-from-prem-to-test-rugby-for-nations-championship
 https://skysports.com/rugby-union/news/12321/13472169/nations-championship-fixtures-schedule-dates-key-info-about-rugbys-revolutionary-new-look-tournament
 https://skysports.com/rugby-union/news/12321/13562475/nations-championship-rugby-will-jordan-breaks-new-zealand-try-scoring-record-in-47-17-victory-over-italy
 https://skysports.com/rugby-union/news/12321/13562523/nations-championship-fiji-8-73-england-henry-pollock-scores-hat-trick-as-steve-borthwicks-side-end-five-match-losing-run-after-fiji-red-card
@@ -6286,6 +6311,7 @@ https://skysports.com/rugby-union/news/13604985/wxv-global-series-england-make-s
 https://skysports.com/rugby-union/news/13605835/usa-12-55-england-red-roses-return-to-winning-ways-as-claudia-moloney-macdonald-scores-four-tries-in-wxv-global-series
 https://skysports.com/rugby-union/news/13605999/bristol-16-22-leicester-tigers-top-gallagher-prem-table-after-beating-bears-at-ashton-gate
 https://skysports.com/rugby-union/news/13606302/prem-rugby-englands-alex-mitchell-injured-as-northampton-saints-bath-saracens-harlequins-pick-up-victories
+https://skysports.com/rugby-union/news/13606709/steve-borthwick-england-must-quickly-adjust-from-prem-to-test-rugby-for-nations-championship
 https://skysports.com/rugby-union/news/22063/13562520/nations-championship-much-changed-ireland-overcome-japan-36-20-as-debutants-impress
 https://skysports.com/rugby-union/news/32461/13577745/south-africa-vs-new-zealand-all-blacks-make-three-changes-ahead-of-second-test-in-cape-town
 https://skysports.com/rugby-union/news/33461/13582166/argentina-28-28-australia-wallabies-claim-series-win-after-draw-in-ill-disciplined-final-test-in-mendoza
@@ -6413,6 +6439,7 @@ https://skysports.com/tennis/news/12040/13605893/vienna-open-alexander-zverev-re
 https://skysports.com/tennis/news/12040/13605893/vienna-open-alexander-zverez-repeats-wimbledon-victory-over-arthur-fery-as-he-progresses-to-semi-finals
 https://skysports.com/tennis/news/12040/13606291/vienna-open-carlos-alcaraz-beats-daniil-medvedev-to-reach-first-final-as-alex-de-minaur-stuns-alexander-zverev
 https://skysports.com/tennis/news/12040/13606592/harriet-dart-beats-austrias-lilli-tagger-to-win-first-wta-tour-title-at-guangzhou-open
+https://skysports.com/tennis/news/12040/13606593/carlos-alcaraz-spaniard-seals-erste-bank-open-victory-in-vienna-as-he-defeats-alex-de-minaur
 https://skysports.com/tennis/news/12110/13491111/tennis-2026-schedule-grand-slam-dates-and-tournament-calendar-for-atp-and-wta-tours
 https://skysports.com/tennis/news/12110/13558852/emma-raducanu-briton-deserves-celebration-not-cynicism-after-wimbledon-withdrawal-says-jonathan-overend
 https://skysports.com/tennis/news/12110/13571651/all-you-need-to-know-about-the-us-open-tennis-live-on-sky-sports-including-dates-schedule-winners-and-tv-times
@@ -6531,6 +6558,7 @@ https://skysports.com/tennis/news/13605893/vienna-open-alexander-zverez-repeats-
 https://skysports.com/tennis/news/13606067/guangzhou-open-harriet-dart-reaches-first-wta-tour-final-after-dramatic-comeback-against-chinese-teenager-sun-xinran
 https://skysports.com/tennis/news/13606291/vienna-open-carlos-alcaraz-beats-daniil-medvedev-to-reach-first-final-as-alex-de-minaur-stuns-alexander-zverev
 https://skysports.com/tennis/news/13606592/harriet-dart-beats-austrias-lilli-tagger-to-win-first-wta-tour-title-at-guangzhou-open
+https://skysports.com/tennis/news/13606593/carlos-alcaraz-spaniard-seals-erste-bank-open-victory-in-vienna-as-he-defeats-alex-de-minaur
 https://skysports.com/tennis/news/32461/13574886/cincinnati-open-top-seeds-aryna-sabalenka-and-alexander-zverev-stunned-in-last-16-as-coco-gauff-progresses-to-quarter-finals
 https://skysports.com/tennis/news/32461/13579318/arthur-fery-lorenzo-musetti-awaits-in-first-round-of-us-open-for-british-no-1
 https://skysports.com/tennis/news/32832/13577913/us-open-2026-order-of-play-and-match-schedule-for-arthur-ashe-stadium-louis-armstrong-stadium-and-more
