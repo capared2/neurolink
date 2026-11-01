@@ -1219,6 +1219,9 @@ https://thehill.com/homenews/administration/6186030-trump-afghan-refugees-afghan
 https://thehill.com/homenews/administration/6186090-trump-triumphal-arch-lawsuit
 https://thehill.com/homenews/administration/6186601-live-updates-trump-kansas-iowa-democrats-unity-rally
 https://thehill.com/homenews/administration/6186814-trump-calls-habba-pay-outrageous
+https://thehill.com/homenews/administration/6186898-trump-plans-veto-strategy
+https://thehill.com/homenews/administration/6187284-ssa-irs-hatch-act-trump
+https://thehill.com/homenews/administration/6187354-trump-haley-stevens-join-republican-party
 https://thehill.com/homenews/analysis/6040221-democrats-leftist-win-senate-race
 https://thehill.com/homenews/analysis/6042626-treasury-secretary-bessent-buyback
 https://thehill.com/homenews/analysis/6057609-gop-campaign-centered-trump
@@ -1950,6 +1953,13 @@ https://thehill.com/homenews/campaign/6186830-tim-scott-dodges-alaska-results
 https://thehill.com/homenews/campaign/6186882-stevens-rogers-church-michigan
 https://thehill.com/homenews/campaign/6186945-mi-democrats-reject-stevens-endorsement
 https://thehill.com/homenews/campaign/6187032-stevens-staffers-resign-rogers-endorsement
+https://thehill.com/homenews/campaign/6187043-stevens-defends-rogers-endorsement
+https://thehill.com/homenews/campaign/6187095-rnc-rogers-receives-stevens-support
+https://thehill.com/homenews/campaign/6187116-el-sayed-dismisses-stevens-rogers-endorsement
+https://thehill.com/homenews/campaign/6187117-schumer-rips-stevens-rogers-endorsement
+https://thehill.com/homenews/campaign/6187152-dnc-defends-michigan-alaska-candidates
+https://thehill.com/homenews/campaign/6187168-rnc-acknowledges-voter-turnout-issues
+https://thehill.com/homenews/campaign/6187175-trump-praises-stevens-gop-endorsement
 https://thehill.com/homenews/campaign/data-nerds/6040929-democratic-socialist-angie-nixon-florida-upset-what-to-know-discussion
 https://thehill.com/homenews/campaign/data-nerds/6054870-democratic-party-senate-control-division-2026-midterms-discussion
 https://thehill.com/homenews/campaign/data-nerds/6068929-abdul-el-sayed-democratic-tensions-michigan-senate-race-discussion
@@ -2271,6 +2281,8 @@ https://thehill.com/homenews/house/6185022-key-house-battleground-districts
 https://thehill.com/homenews/house/6185340-gop-lame-duck-congress-2026-midterms-trump-agenda
 https://thehill.com/homenews/house/6185584-democrats-react-israel-elections
 https://thehill.com/homenews/house/6186857-comer-peltola-alaska-senate-investigation
+https://thehill.com/homenews/house/6187358-don-bacon-gop-maga-debate
+https://thehill.com/homenews/house/6187467-khanna-opposes-iran-war-funding
 https://thehill.com/homenews/lgbtq/6044688-log-cabin-republicans-transgender-support-ends
 https://thehill.com/homenews/media/6040779-alina-habba-press-secretary-karoline-leavitt
 https://thehill.com/homenews/media/6045875-scott-jennings-press-secretary-reports
@@ -2599,6 +2611,7 @@ https://thehill.com/homenews/senate/6182064-elizabeth-warren-doj-bank-of-america
 https://thehill.com/homenews/senate/6185545-ted-cruz-warns-gop-losses
 https://thehill.com/homenews/senate/6186776-sullivan-accepts-alaska-election-results
 https://thehill.com/homenews/senate/6186954-senator-chris-murphy-stroke
+https://thehill.com/homenews/senate/6187375-sanders-alaska-ballot-stacking
 https://thehill.com/homenews/space/6054908-where-northern-lights-may-shine-amid-geomagnetic-storm-watches
 https://thehill.com/homenews/space/6057441-americans-skeptical-ufo-origins-gallup-poll
 https://thehill.com/homenews/space/6067876-nasa-jared-isaacman-outlines-moon-base
@@ -3319,6 +3332,7 @@ https://thehill.com/newsletters/this-week-on-the-hill/6126863-upcoming-senate-ca
 https://thehill.com/newsletters/this-week-on-the-hill/6139807-midterm-elections-debates-trump-alaska
 https://thehill.com/newsletters/this-week-on-the-hill/6155364-trump-obama-midterm-election-rallies-debates
 https://thehill.com/newsletters/this-week-on-the-hill/6169610-trump-obama-midterm-election-campaign
+https://thehill.com/newsletters/this-week-on-the-hill/6185603-midterm-election-house-senate-control
 https://thehill.com/newsletters/whole-hog-politics/6042216-peltola-leads-alaska-nonpartisan-primary
 https://thehill.com/newsletters/whole-hog-politics/6056105-trump-gop-midterm-strategy
 https://thehill.com/newsletters/whole-hog-politics/6070182-texas-triangle-midterm-outlook
@@ -5488,6 +5502,7 @@ https://thehill.com/regulation/court-battles/6180400-donald-trump-dc-golf-course
 https://thehill.com/regulation/court-battles/6184378-ana-reyes-investigation-justice-department-golf-course
 https://thehill.com/regulation/court-battles/6184780-comey-criminal-case-dismissal-hearing
 https://thehill.com/regulation/court-battles/6185093-trump-administration-california-ballots-ninth-circuit-appeals-court
+https://thehill.com/regulation/court-battles/6185430-supreme-court-colorado-religious-liberty-lgbtq-rights
 https://thehill.com/regulation/court-battles/6185891-judge-stops-trump-election-threats
 https://thehill.com/regulation/court-battles/6186080-federal-appeals-court-lifts-idaho-abortion-ruling
 https://thehill.com/regulation/court-battles/6186579-trump-journal-lawsuit-dismissed
