@@ -417,6 +417,7 @@ https://theverge.com/ai-artificial-intelligence/1025146/openai-appoints-former-u
 https://theverge.com/ai-artificial-intelligence/1025242/openai-quietly-renames-data-centers-as-compute-campuses
 https://theverge.com/ai-artificial-intelligence/1025245/apple-earnings-q4-ai
 https://theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search
+https://theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds
 https://theverge.com/ai-artificial-intelligence/648595/anthropic-claude-research-google-workplace
 https://theverge.com/ai-artificial-intelligence/679852/trump-ai-safety-institute-name-mission-change
 https://theverge.com/ai-artificial-intelligence/767973/vibe-coding-ai-future-end-evolution
@@ -1331,6 +1332,8 @@ https://theverge.com/games/1025430/xbox-nano-controller-direct-cloud-wifi-connec
 https://theverge.com/games/1025596/valve-steam-indie-games-missing-launch-dates
 https://theverge.com/games/1025722/valve-steam-game-increase-submissions
 https://theverge.com/games/1025773/world-of-warcraft-forever-is-getting-flooded-with-ai-add-ons-before-it-even-launches
+https://theverge.com/games/1026085/nexus-mods-ai-disclosures
+https://theverge.com/games/1026112/the-legend-of-zelda-ocarina-of-time-remake-nintendo-switch-2-news
 https://theverge.com/games/633885/gdc-2025-best-indie-games
 https://theverge.com/games/682063/the-new-york-times-nyt-games-crossplay-scrabble-pips
 https://theverge.com/games/684957/splitgate-2-hat-apology
@@ -1972,6 +1975,8 @@ https://theverge.com/policy/1025627/michigan-officials-contacted-doj-about-repor
 https://theverge.com/policy/1025778/things-still-seem-to-be-going-fairly-smoothly
 https://theverge.com/policy/1025976/fulton-county-may-need-to-rescan-1000-ballots-tonight-because-of-scanner-malfunctions
 https://theverge.com/policy/1026017/democrats-leaned-into-big-tech-and-ai-opposition-this-cycle
+https://theverge.com/policy/1026215/democrat-projected-to-win-ohio-seat-that-republicans-warned-could-spell-trouble-for-data-centers
+https://theverge.com/policy/1026220/maine-republican-susan-collins-concedes-senate-seat-in-a-tech-fueled-race
 https://theverge.com/policy/677373/lawyers-chatgpt-hallucinations-ai
 https://theverge.com/policy/694155/big-balls-is-still-here
 https://theverge.com/policy/799473/facebook-meta-ice-jawboning
@@ -2865,6 +2870,7 @@ https://theverge.com/tech/1025801/samsungs-galaxy-ring-now-supports-sleep-apnea-
 https://theverge.com/tech/1025835/audio-intelligence-live-rewind-siri-recap-apple-watch
 https://theverge.com/tech/1025903/sonos-presets-27voice-ai-early-access
 https://theverge.com/tech/1025971/canva-changes-layoffs
+https://theverge.com/tech/1026148/amd-earnings-q3-2026-data-center-pc
 https://theverge.com/tech/24008239/sphere-las-vegas-experience-u2-screen
 https://theverge.com/tech/625223/book-log-read-goodreads
 https://theverge.com/tech/784323/upgrading-240hz-oled-gaming-monitor
@@ -3049,6 +3055,7 @@ https://theverge.com/tech/966560/xteink-e-ink-e-reader-x4-pro-touchscreen-light-
 https://theverge.com/tech/966884/microsoft-comic-sans-chat-open-source
 https://theverge.com/tech/966899/gemini-3-5-pro-was-supposed-to-launch-in-june-but-its-still-not-out
 https://theverge.com/tech/966937/microsoft-surface-laptop-13-inch-8gb-ram-2026-review
+https://theverge.com/tech/967183/best-facial-recognition-smart-locks-review
 https://theverge.com/tech/967566/aws-mistakenly-charged-users-billions-more-than-usual
 https://theverge.com/tech/967738/watch-this-susan-kare-doc
 https://theverge.com/tech/967741/heres-another-look-at-samsungs-upcoming-galaxy-watches
