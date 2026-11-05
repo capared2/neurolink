@@ -427,6 +427,7 @@ https://theverge.com/ai-artificial-intelligence/1026672/anthropic-tweaks-how-cla
 https://theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers
 https://theverge.com/ai-artificial-intelligence/1026878/not-even-good-at-being-rich
 https://theverge.com/ai-artificial-intelligence/1026915/meta-conductor-acquisition
+https://theverge.com/ai-artificial-intelligence/1027173/anthropic-reportedly-made-a-licensing-deal-with-the-associated-press
 https://theverge.com/ai-artificial-intelligence/648595/anthropic-claude-research-google-workplace
 https://theverge.com/ai-artificial-intelligence/679852/trump-ai-safety-institute-name-mission-change
 https://theverge.com/ai-artificial-intelligence/767973/vibe-coding-ai-future-end-evolution
@@ -1102,6 +1103,7 @@ https://theverge.com/gadgets/1025466/google-pixel-buds-pro-2-borderlands-goty-ni
 https://theverge.com/gadgets/1025498/google-home-smart-speaker-holiday-2026-deal-sale
 https://theverge.com/gadgets/1026311/qi2-25w-power-bank-usbc-avowed-dreame-robot-vacuum-deal-sale
 https://theverge.com/gadgets/1026807/bose-quietcomfort-headphones-wireless-deal-sale
+https://theverge.com/gadgets/1027093/titw-giveaway-19
 https://theverge.com/gadgets/712844/today-im-toying-with
 https://theverge.com/gadgets/842702/tetris-my-play-watch-smartwatch-hands-on
 https://theverge.com/gadgets/847777/oh-snap-i-have-a-new-favorite-phone-grip
@@ -1349,12 +1351,14 @@ https://theverge.com/games/1025722/valve-steam-game-increase-submissions
 https://theverge.com/games/1025773/world-of-warcraft-forever-is-getting-flooded-with-ai-add-ons-before-it-even-launches
 https://theverge.com/games/1026085/nexus-mods-ai-disclosures
 https://theverge.com/games/1026112/the-legend-of-zelda-ocarina-of-time-remake-nintendo-switch-2-news
+https://theverge.com/games/1026380/zelda-ocarina-of-time-interview-eiji-aonuma-hidemaro-fujibayashi
 https://theverge.com/games/1026426/nintendo-switch-cartridges-rom-supplier-data-center
 https://theverge.com/games/1026448/sony-playstation-god-of-war-laufey-delay
 https://theverge.com/games/1026652/epic-is-giving-more-v-bucks-with-fortnites-crew-subscription
 https://theverge.com/games/1026781/unionized-arkane-workers-say-that-microsoft-chose-to-close-arkane
 https://theverge.com/games/1026815/hey-listen
 https://theverge.com/games/1026951/nintendo-and-other-gaming-companies-are-implementing-accessibility-labels-on-their-storefronts
+https://theverge.com/games/1027195/xbox-developers-can-now-put-fsr-4-upscaling-in-their-games
 https://theverge.com/games/633885/gdc-2025-best-indie-games
 https://theverge.com/games/682063/the-new-york-times-nyt-games-crossplay-scrabble-pips
 https://theverge.com/games/684957/splitgate-2-hat-apology
@@ -2916,6 +2920,7 @@ https://theverge.com/tech/1026604/apple-icloud-links-harmful-content-27-3
 https://theverge.com/tech/1026743/bright-colorful-phone-grip-case
 https://theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system
 https://theverge.com/tech/1026991/snaps-ar-glasses-are-apparently-on-track-to-ship-this-fall
+https://theverge.com/tech/1027113/x-says-its-updated-web-app-is-way-faster
 https://theverge.com/tech/24008239/sphere-las-vegas-experience-u2-screen
 https://theverge.com/tech/625223/book-log-read-goodreads
 https://theverge.com/tech/784323/upgrading-240hz-oled-gaming-monitor
@@ -3029,6 +3034,7 @@ https://theverge.com/tech/934078/apple-tv-onlyfans-margo-maximum-pleasure-guaran
 https://theverge.com/tech/935163/meta-layoffs-ai-investment-offset-memo
 https://theverge.com/tech/935868/meta-facebook-app-forum-groups
 https://theverge.com/tech/936290/meta-forum-facebook-groups-app-hands-on
+https://theverge.com/tech/937628/coolfly-aura-smart-bird-feeder-review
 https://theverge.com/tech/938179/google-health-fitbit-roadmap
 https://theverge.com/tech/938500/facebook-whatsapp-instagram-meta-ai-subscriptions
 https://theverge.com/tech/938692/intel-arc-g3-extreme-handheld-gaming
