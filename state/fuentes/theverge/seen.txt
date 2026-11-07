@@ -441,8 +441,10 @@ https://theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-
 https://theverge.com/ai-artificial-intelligence/1028315/and-i-say-hey-ey-ey-hey-ey-ey-i-said-hey-whats-going-on
 https://theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda
 https://theverge.com/ai-artificial-intelligence/1028609/ai-dating-feelings-doomers-singularity
+https://theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development
 https://theverge.com/ai-artificial-intelligence/1029199/microsoft-is-reportedly-winding-down-a-cloud-ai-deal-with-oracle
 https://theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation
+https://theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government
 https://theverge.com/ai-artificial-intelligence/648595/anthropic-claude-research-google-workplace
 https://theverge.com/ai-artificial-intelligence/679852/trump-ai-safety-institute-name-mission-change
 https://theverge.com/ai-artificial-intelligence/767973/vibe-coding-ai-future-end-evolution
@@ -841,6 +843,7 @@ https://theverge.com/entertainment/1026912/amc-has-recovered-says-ceo-adam-aron
 https://theverge.com/entertainment/1028343/the-odyssey-is-sailing-back-to-imax-again-starting-december-11th
 https://theverge.com/entertainment/1028576/what-are-you-treating-yourself-to-for-bandcamp-friday
 https://theverge.com/entertainment/1028608/other-worlds-a-stranger-things-adventure-netflix-announce-trailer
+https://theverge.com/entertainment/1029468/triplets-of-belleville-director-pushes-back-against-ai-accusations
 https://theverge.com/entertainment/803022/hbo-it-welcome-to-derry-review
 https://theverge.com/entertainment/815745/pluribus-review-apple-tv
 https://theverge.com/entertainment/845459/disclosure-day-spielberg-trailer-release-date
@@ -1134,6 +1137,7 @@ https://theverge.com/gadgets/1028372/meta-quest-3s-headset-philips-hue-gradient-
 https://theverge.com/gadgets/1028640/kpop-demon-hunters-4k-criterion-bluray-deal-sale
 https://theverge.com/gadgets/1028801/gentle-monster-teases-preorders-for-its-android-xr-glasses-with-a-trippy-short-film
 https://theverge.com/gadgets/1028846/shure-mv7-plus-podcasting-streaming-mic-deal-sale
+https://theverge.com/gadgets/1028917/legend-of-zelda-ocarina-of-time-remake-switch-2-costco-deal-sale
 https://theverge.com/gadgets/712844/today-im-toying-with
 https://theverge.com/gadgets/842702/tetris-my-play-watch-smartwatch-hands-on
 https://theverge.com/gadgets/847777/oh-snap-i-have-a-new-favorite-phone-grip
@@ -1917,6 +1921,7 @@ https://theverge.com/podcast/1024757/cloud-gaming-streaming-vergecast
 https://theverge.com/podcast/1025878/data-centers-election-2026-vergecast
 https://theverge.com/podcast/1028244/booktok-reading-morgann-book-vergecast
 https://theverge.com/podcast/1028731/2026-midterms-tech-ai-vergecast
+https://theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos
 https://theverge.com/podcast/889177/prediction-markets-news-gambling-polymarket-kalshi-iran-war-regulation
 https://theverge.com/podcast/905198/meta-lawsuits-facebook-instagram-youtube-social-media-addiction-section-230
 https://theverge.com/podcast/969231/samsung-unpacked-2026-vergecast-livestream
@@ -3015,7 +3020,10 @@ https://theverge.com/tech/1028813/apple-iphone-duo-optimized-apps
 https://theverge.com/tech/1028835/white-house-residential-proxy
 https://theverge.com/tech/1028854/amazon-melania-the-series-mgm-studios-prime-video
 https://theverge.com/tech/1028871/meta-muse-ai-spaces
+https://theverge.com/tech/1028930/zelda-ocarina-godzilla-minus-zero-affinity-installer
 https://theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy
+https://theverge.com/tech/1029474/discogs-kevin-lewandowski-aeropress-interview
+https://theverge.com/tech/1029489/nyt-cooking-ai-assistant-review
 https://theverge.com/tech/24008239/sphere-las-vegas-experience-u2-screen
 https://theverge.com/tech/625223/book-log-read-goodreads
 https://theverge.com/tech/784323/upgrading-240hz-oled-gaming-monitor
@@ -3879,6 +3887,7 @@ https://theverge.com/transportation/1026306/uber-ai-agents-q3-earnings-disinterm
 https://theverge.com/transportation/1026472/united-seatback-spotify-app-starlink-wifi
 https://theverge.com/transportation/1027511/faa-floppy-disks-sean-duffy-air-traffic-control-eids
 https://theverge.com/transportation/1028542/tesla-cybertruck-winding-down-production-2027
+https://theverge.com/transportation/1029460/elon-musk-cybertruck-death-election-backlash
 https://theverge.com/transportation/760217/a-wild-miraidon-appeared
 https://theverge.com/transportation/781908/electric-cargo-bike-car-replace-bike-bus
 https://theverge.com/transportation/784461/lucid-nuro-uber-robotaxi-first-vehicle-delivery
