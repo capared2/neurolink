@@ -3,6 +3,7 @@ https://theverge.com/1022347/apple-macbook-supports-new-cmf
 https://theverge.com/1024283/canva-affinity-for-ipad-design-app-availability
 https://theverge.com/1024807/google-botnet-android-tv-shut-down
 https://theverge.com/2011/11/24/2584557/susan-kare-apple-interface-designer-sketchbook
+https://theverge.com/2011/12/7/2616348/3d-dram-ibm-micron-128-gbps
 https://theverge.com/2013/1/20/3897238/batmobile-fetches-4-2-million-at-auction
 https://theverge.com/2013/5/22/4354796/xbox-one-always-online-requirement-used-games-confusion
 https://theverge.com/2013/5/3/4296002/another-rare-working-apple-1-signed-by-steve-wozniak-headed-to-auction
@@ -441,6 +442,7 @@ https://theverge.com/ai-artificial-intelligence/1028315/and-i-say-hey-ey-ey-hey-
 https://theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda
 https://theverge.com/ai-artificial-intelligence/1028609/ai-dating-feelings-doomers-singularity
 https://theverge.com/ai-artificial-intelligence/1029199/microsoft-is-reportedly-winding-down-a-cloud-ai-deal-with-oracle
+https://theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation
 https://theverge.com/ai-artificial-intelligence/648595/anthropic-claude-research-google-workplace
 https://theverge.com/ai-artificial-intelligence/679852/trump-ai-safety-institute-name-mission-change
 https://theverge.com/ai-artificial-intelligence/767973/vibe-coding-ai-future-end-evolution
@@ -1660,6 +1662,7 @@ https://theverge.com/news/1027400/nvidia-geforce-8800-gtx-unboxing-steam-demo
 https://theverge.com/news/1028281/salon-dot-com-shuts-down
 https://theverge.com/news/1028375/the-new-york-times-letterboxd-acquisition-report
 https://theverge.com/news/1028549/protesters-microsoft-data-center-site-amsterdam
+https://theverge.com/news/1029248/tsmc-is-apparently-considering-getting-into-the-ram-business-at-the-request-of-nvidia
 https://theverge.com/news/599220/it-m
 https://theverge.com/news/609772/google-maps-gulf-of-america-rename-mexico
 https://theverge.com/news/610580/apple-maps-gulf-of-america
@@ -2245,6 +2248,7 @@ https://theverge.com/science/1025227/nasa-swift-observatory-falling-to-earth
 https://theverge.com/science/1026287/spacex-qualcomm-starlink-mobile-5g-netwowrk
 https://theverge.com/science/1026506/this-week-in-the-big-ai-data-center-buildout
 https://theverge.com/science/1028178/blue-origins-next-launch-now-wont-happen-until-2027
+https://theverge.com/science/1029162/spacex-starlink-mobile-elon-musk-news
 https://theverge.com/science/786067/clippers-kawhi-leonard-salary-cap-investigation-carbon-credit-climate-change
 https://theverge.com/science/839303/rfk-jr-s-vaccine-committee-says-hepatitis-b-shot-can-wait
 https://theverge.com/science/914729/blue-origin-successfully-reused-its-new-glenn-rocket
@@ -3011,6 +3015,7 @@ https://theverge.com/tech/1028813/apple-iphone-duo-optimized-apps
 https://theverge.com/tech/1028835/white-house-residential-proxy
 https://theverge.com/tech/1028854/amazon-melania-the-series-mgm-studios-prime-video
 https://theverge.com/tech/1028871/meta-muse-ai-spaces
+https://theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy
 https://theverge.com/tech/24008239/sphere-las-vegas-experience-u2-screen
 https://theverge.com/tech/625223/book-log-read-goodreads
 https://theverge.com/tech/784323/upgrading-240hz-oled-gaming-monitor
