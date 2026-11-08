@@ -163,6 +163,7 @@ https://nbcnews.com/data-graphics/strait-of-hormuz-ports-traffic-trump-us-iran-w
 https://nbcnews.com/data-graphics/track-measles-outbreak-cases-us-map-rcna198932
 https://nbcnews.com/data-graphics/trump-approval-rating-poll-president-second-term-rcna202372
 https://nbcnews.com/dateline/cold-case-spotlight/ann-furst-helen-larkin-maryland-cold-case-rcna603935
+https://nbcnews.com/dateline/cold-case-spotlight/danny-moser-mills-wyoming-cold-case-rcna607883
 https://nbcnews.com/dateline/cold-case-spotlight/debra-melo-missing-massachusetts-rcna602481
 https://nbcnews.com/dateline/cold-case-spotlight/erica-baker-missing-february-7-1999-kettering-ohio-dateline-rcna595776
 https://nbcnews.com/dateline/cold-case-spotlight/eveline-ashbaugh-ohio-unsolved-rcna597267
@@ -545,6 +546,7 @@ https://nbcnews.com/news/asian-america/aapi-adults-say-us-no-longer-great-countr
 https://nbcnews.com/news/asian-america/end-de-minimis-exemption-tariffs-korean-beauty-products-rcna228929
 https://nbcnews.com/news/asian-america/former-hawaii-gov-george-ariyoshi-first-governor-asian-american-dies-rcna341124
 https://nbcnews.com/news/asian-america/record-heat-temperature-summer-trend-mini-portable-fans-fast-fashion-rcna220612
+https://nbcnews.com/news/asian-america/victims-monterey-park-shooting-included-longtime-regulars-dance-studio-rcna66951
 https://nbcnews.com/news/candidates-maine-alaska-michigan-square-debates-rcna603659
 https://nbcnews.com/news/crime-courts/brothers-arrested-long-running-scheme-raise-money-hamas-rcna600996
 https://nbcnews.com/news/ed-markey-seth-moulton-chase-senate-democratic-primary-win-massachuset-rcna595488
@@ -698,6 +700,7 @@ https://nbcnews.com/news/us-news/bend-oregon-shooter-previously-said-was-bullied
 https://nbcnews.com/news/us-news/bernie-sanders-steve-bannon-teamed-ai-fight-rcna598005
 https://nbcnews.com/news/us-news/big-bear-california-maiorca-arrested-wife-remains-found-crawlspace-rcna599811
 https://nbcnews.com/news/us-news/bill-gates-global-artificial-intelligence-regulations-nuclear-rcna599646
+https://nbcnews.com/news/us-news/billboards-urge-boycott-boycott-jewish-owned-businesses-rcna608119
 https://nbcnews.com/news/us-news/black-swan-ballerina-ashley-benefield-murder-trial-testimony-rcna180033
 https://nbcnews.com/news/us-news/board-votes-rename-nashville-international-airport-dolly-parton-rcna597327
 https://nbcnews.com/news/us-news/bodies-teacher-10-year-old-student-recovered-water-incident-iowa-field-rcna599666
@@ -1731,6 +1734,7 @@ https://nbcnews.com/politics/congress/house-democrats-block-constitutional-amend
 https://nbcnews.com/politics/congress/house-democrats-call-doj-name-special-counsel-epstein-case-rcna605269
 https://nbcnews.com/politics/congress/house-leave-early-punting-hegseth-impeachment-vote-november-elections-rcna598147
 https://nbcnews.com/politics/congress/house-leon-black-contempt-of-congress-jeffrey-epstein-probe-rcna598186
+https://nbcnews.com/politics/congress/house-minority-leader-hakeem-jeffries-hard-yes-impeaching-hegseth-rcna608137
 https://nbcnews.com/politics/congress/house-panel-votes-hold-epstein-associate-leon-black-contempt-subpoenas-rcna598006
 https://nbcnews.com/politics/congress/house-passes-bill-shield-consumers-data-center-price-hikes-energy-rcna597683
 https://nbcnews.com/politics/congress/house-passes-russia-sanctions-bill-named-lindsey-graham-sending-trump-rcna598124
@@ -2804,6 +2808,7 @@ https://nbcnews.com/sports/nfl/los-angeles-rams-2026-nfl-season-preview-guide-ma
 https://nbcnews.com/sports/nfl/los-angeles-rams-philadelphia-eagles-nfl-results-rcna601471
 https://nbcnews.com/sports/nfl/miami-dolphins-2026-nfl-season-preview-guide-devon-achane-rcna593089
 https://nbcnews.com/sports/nfl/mike-ditka-legendary-chicago-bears-coach-dies-86-rcna602517
+https://nbcnews.com/sports/nfl/mike-tirico-miss-sunday-night-game-health-issue-rcna608161
 https://nbcnews.com/sports/nfl/mike-tomlin-nfl-coach-minecraft-passion-rcna600771
 https://nbcnews.com/sports/nfl/minnesota-vikings-2026-nfl-season-preview-guide-justin-jefferson-rcna593377
 https://nbcnews.com/sports/nfl/minnesota-vikings-nfl-kyler-murray-rcna601720
@@ -2964,6 +2969,7 @@ https://nbcnews.com/tech/tech-news/meta-muse-ai-agent-response-animated-avatar-c
 https://nbcnews.com/tech/tech-news/meta-ordered-pay-25-billion-new-mexico-consumers-data-privacy-rcna604864
 https://nbcnews.com/tech/tech-news/meta-settles-plaintiff-social-media-addiction-lawsuit-los-angeles-rcna606609
 https://nbcnews.com/tech/tech-news/nvidia-buy-hugging-face-nearly-13-billion-big-bet-open-ai-models-rcna595868
+https://nbcnews.com/tech/tech-news/nvidia-ceo-jensen-huang-investigation-rcna608148
 https://nbcnews.com/tech/tech-news/open-ai-breach-australian-health-department-website-rcna599570
 https://nbcnews.com/tech/tech-news/openai-agents-hijacked-german-website-previously-undisclosed-ai-breako-rcna596083
 https://nbcnews.com/tech/tech-news/openai-debuts-gpt-6-astra-security-measures-rcna595940
