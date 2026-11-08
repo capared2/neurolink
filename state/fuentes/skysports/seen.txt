@@ -1721,6 +1721,7 @@ https://skysports.com/football/brentford-vs-liverpool/report/559505
 https://skysports.com/football/brentford-vs-nottingham-forest/report/559526
 https://skysports.com/football/brentford-vs-sunderland/report/559465
 https://skysports.com/football/brighton-and-hove-albion-vs-arsenal/report/559486
+https://skysports.com/football/brighton-and-hove-albion-vs-brentford/report/559535
 https://skysports.com/football/brighton-and-hove-albion-vs-crystal-palace/report/559506
 https://skysports.com/football/brighton-and-hove-albion-vs-kauno-zalgiris/report/577887
 https://skysports.com/football/brighton-and-hove-albion-vs-leeds-united/report/559466
@@ -1777,6 +1778,7 @@ https://skysports.com/football/coventry-city-vs-sunderland/report/559528
 https://skysports.com/football/croatia-vs-england/report/554052
 https://skysports.com/football/crystal-palace-vs-ipswich-town/report/559478
 https://skysports.com/football/crystal-palace-vs-lech-poznan/report/577752
+https://skysports.com/football/crystal-palace-vs-liverpool/report/559536
 https://skysports.com/football/crystal-palace-vs-manchester-city/report/559458
 https://skysports.com/football/crystal-palace-vs-middlesbrough/report/577574
 https://skysports.com/football/crystal-palace-vs-newcastle-united/report/559518
@@ -1842,6 +1844,7 @@ https://skysports.com/football/hull-city-vs-brentford/report/559519
 https://skysports.com/football/hull-city-vs-everton/report/559499
 https://skysports.com/football/hull-city-vs-ipswich-town/report/559529
 https://skysports.com/football/ipswich-town-vs-arsenal/report/577577
+https://skysports.com/football/ipswich-town-vs-bournemouth/report/559539
 https://skysports.com/football/ipswich-town-vs-fulham/report/559500
 https://skysports.com/football/ipswich-town-vs-leicester-city/report/577431
 https://skysports.com/football/ipswich-town-vs-liverpool/report/559470
@@ -2712,6 +2715,7 @@ https://skysports.com/football/news/11095/13608882/liverpool-andoni-iraola-deman
 https://skysports.com/football/news/11095/13608887/michael-carrick-manchester-united-boss-says-its-possible-the-club-can-emulate-sir-alex-fergusons-success-at-old-trafford
 https://skysports.com/football/news/11095/13608890/england-jobe-bellingham-has-the-chance-to-showcase-his-own-talent-alongside-brother-jude-in-thomas-tuchels-squad
 https://skysports.com/football/news/11095/13608977/man-city-5-0-west-ham-chelsea-1-1-everton-reigning-wsl-champions-make-title-statement-as-bunny-shaw-scores-hat-trick
+https://skysports.com/football/news/11095/13608979/wsl-liverpool-1-2-arsenal-aston-villa-0-1-man-utd-8211-alessia-russo-double-inspires-gunners-as-julia-zigiotti-olme-earns-late-united-win
 https://skysports.com/football/news/11095/13609030/man-utd-handed-boost-in-pursuit-of-barcelona-left-back-paper-talk
 https://skysports.com/football/news/11095/13609067/everton-3-1-coventry-frank-lampard-says-var-didnt-do-its-job-after-three-incidents-went-against-sky-blues-in-premier-league-defeat
 https://skysports.com/football/news/11095/13609127/could-arsenals-ezri-konsa-hold-off-william-saliba-from-reuniting-partnership-with-gabriel-premier-league-hits-and-misses
@@ -3978,9 +3982,11 @@ https://skysports.com/football/news/12040/13607031/man-utd-will-be-in-premier-le
 https://skysports.com/football/news/12040/13607133/oliver-glasner-nottingham-forest-hierarchy-welcome-strong-reaction-from-head-coach-after-brentford-defeat
 https://skysports.com/football/news/12040/13607180/donyell-malen-at-roma-man-utd-face-the-top-scorer-in-europes-major-leagues-in-2026-with-the-dutchman-transformed
 https://skysports.com/football/news/12040/13607186/fifpro-world-xi-pick-your-best-team-from-shortlist-of-planets-best-players-after-2025-26-finalists-revealed
+https://skysports.com/football/news/12040/13607192/pierre-sage-under-pressure-how-crystal-palace-and-last-seasons-ligue-1-manager-of-the-year-are-both-suffering
 https://skysports.com/football/news/12040/13607310/bournemouth-forward-junior-kroupi-and-juventus-winger-kenan-yildiz-both-in-arsenal-boss-mikel-artetas-sights-ahead-of-january-window-paper-talk
 https://skysports.com/football/news/12040/13607320/newcastle-are-flat-and-boring-8211-jamie-carragher-warns-magpies-face-tough-premier-league-season-after-everton-defeat
 https://skysports.com/football/news/12040/13607401/tenerife-striker-jesus-de-miguel-dies-after-cardiac-arrest-following-collision-during-a-match
+https://skysports.com/football/news/12040/13607467/liverpools-unwanted-record-against-arsenal-shows-creativity-problem-under-andoni-iraola-between-the-lines
 https://skysports.com/football/news/12040/13607503/scott-parker-to-west-ham-can-former-hammers-player-roll-back-years-and-win-premier-league-promotion-yet-again
 https://skysports.com/football/news/12040/13607697/manchester-united-keen-on-signing-manchester-city-defender-rayan-ait-nouri-who-is-open-to-crossing-divide-in-january-paper-talk
 https://skysports.com/football/news/12040/13607700/manchester-united-3-2-roma-bruno-fernandes-claims-players-dont-need-to-save-michael-carricks-job-after-first-win-in-10-games
@@ -4001,6 +4007,7 @@ https://skysports.com/football/news/12040/13608819/england-squad-thomas-tuchel-m
 https://skysports.com/football/news/12040/13608882/liverpool-andoni-iraola-demands-creativity-over-control-to-solve-premier-league-scoring-problems
 https://skysports.com/football/news/12040/13608887/michael-carrick-manchester-united-boss-says-its-possible-the-club-can-emulate-sir-alex-fergusons-success-at-old-trafford
 https://skysports.com/football/news/12040/13608890/england-jobe-bellingham-has-the-chance-to-showcase-his-own-talent-alongside-brother-jude-in-thomas-tuchels-squad
+https://skysports.com/football/news/12040/13608979/wsl-liverpool-1-2-arsenal-aston-villa-0-1-man-utd-8211-alessia-russo-double-inspires-gunners-as-julia-zigiotti-olme-earns-late-united-win
 https://skysports.com/football/news/12040/13609030/man-utd-handed-boost-in-pursuit-of-barcelona-left-back-paper-talk
 https://skysports.com/football/news/12040/13609067/everton-3-1-coventry-frank-lampard-says-var-didnt-do-its-job-after-three-incidents-went-against-sky-blues-in-premier-league-defeat
 https://skysports.com/football/news/12040/13609127/could-arsenals-ezri-konsa-hold-off-william-saliba-from-reuniting-partnership-with-gabriel-premier-league-hits-and-misses
@@ -4264,6 +4271,10 @@ https://skysports.com/football/news/13593186/leeds-1-0-tottenham-noah-okafors-wi
 https://skysports.com/football/news/13593193/arsenal-1-0-hull-city-martin-odegaard-breaks-tigers-resistance-to-clinch-victory-for-premier-league-champions
 https://skysports.com/football/news/13593196/fulham-1-1-newcastle-rodrigo-muniz-rescues-point-for-hosts-after-jacob-murphys-stunner-at-craven-cottage
 https://skysports.com/football/news/13593200/nottingham-forest-3-1-man-city-liam-delap-ends-city-ground-goal-drought-as-city-lose-three-on-the-bounce
+https://skysports.com/football/news/13593207/brighton-x-x-brentford
+https://skysports.com/football/news/13593210/crystal-palace-1-3-liverpool-pierre-sage-in-big-trouble-as-eagles-hit-rock-bottom-in-premier-league
+https://skysports.com/football/news/13593217/ipswich-1-2-bournemouth-evanilson-scores-again-as-cherries-make-it-eight-wins-in-a-row
+https://skysports.com/football/news/13593219/sunderland-1-0-chelsea-enzo-le-fees-penalty-lifts-black-cats-off-bottom-of-table-as-xabi-alonsos-side-show-more-inconsistency
 https://skysports.com/football/news/13593231/kick-it-out-receives-record-1-744-discrimination-reports-in-first-year-of-football-united-strategy
 https://skysports.com/football/news/13593296/scotland-0-3-switzerland-jack-hendry-sees-red-as-sebastien-pocognolis-side-suffer-nations-league-defeat-in-head-coachs-first-game-at-hampden
 https://skysports.com/football/news/13593377/man-city-premier-league-charges-appeal-process-punishment-hearing-and-what-happens-now-after-guilty-verdict
@@ -4749,12 +4760,14 @@ https://skysports.com/football/news/13608890/england-jobe-bellingham-has-the-cha
 https://skysports.com/football/news/13608941/crystal-palace-vs-liverpool-how-to-watch-tv-channel-live-stream-now-tv-team-news-and-score-prediction
 https://skysports.com/football/news/13608976/man-utd-vs-aston-villa-how-to-watch-tv-channel-live-stream-now-tv-team-news-and-score-prediction
 https://skysports.com/football/news/13608977/man-city-5-0-west-ham-chelsea-1-1-everton-reigning-wsl-champions-make-title-statement-as-bunny-shaw-scores-hat-trick
+https://skysports.com/football/news/13608979/wsl-liverpool-1-2-arsenal-aston-villa-0-1-man-utd-alessia-russo-double-inspires-gunners-as-julia-zigiotti-olme-earns-late-united-win
 https://skysports.com/football/news/13608998/sunderland-vs-chelsea-how-to-watch-tv-channel-live-stream-now-tv-team-news-and-score-prediction
 https://skysports.com/football/news/13609030/man-utd-handed-boost-in-pursuit-of-barcelona-left-back-paper-talk
 https://skysports.com/football/news/13609067/everton-3-1-coventry-frank-lampard-says-var-didnt-do-its-job-after-three-incidents-went-against-sky-blues-in-premier-league-defeat
 https://skysports.com/football/news/13609127/could-arsenals-ezri-konsa-hold-off-william-saliba-from-reuniting-partnership-with-gabriel-premier-league-hits-and-misses
 https://skysports.com/football/news/13609496/tottenham-to-submit-complaint-to-pro-ref-over-jayden-bogles-tackle-on-mathys-tel-in-leeds-win-at-elland-road
 https://skysports.com/football/news/13609559/noni-madueke-has-become-a-different-player-says-mikel-arteta-as-winger-finds-new-level-of-creativity-and-efficiency
+https://skysports.com/football/news/13609640/michael-carricks-man-utd-future-uncertain-as-club-ponder-international-break-change-paper-talk
 https://skysports.com/football/news/13866/13196034/carabao-cup-on-sky-sports-plus-fixtures-channel-and-subscription-how-to-watch-or-stream-your-football-team-this-season
 https://skysports.com/football/news/13866/13196034/sky-sports-plus-for-carabao-cup-fixtures-channel-and-subscription-how-to-watch-or-stream-your-football-team-this-season
 https://skysports.com/football/news/15205/13582716/tottenham-roberto-de-zerbis-criticism-of-spurs-forwards-and-medical-staff-worrying-says-paul-merson
@@ -4891,6 +4904,7 @@ https://skysports.com/football/sunderland-vs-arsenal/report/559482
 https://skysports.com/football/sunderland-vs-az-alkmaar/report/577749
 https://skysports.com/football/sunderland-vs-brentford/report/578613
 https://skysports.com/football/sunderland-vs-brighton-and-hove-albion/report/559503
+https://skysports.com/football/sunderland-vs-chelsea/report/559543
 https://skysports.com/football/sunderland-vs-dinamo-zagreb/report/577811
 https://skysports.com/football/sunderland-vs-fulham/report/559462
 https://skysports.com/football/sunderland-vs-hull-city/report/577585
@@ -5389,6 +5403,9 @@ https://skysports.com/golf/news/13608485/liv-golf-bankruptcy-hearing-league-scra
 https://skysports.com/golf/news/13608787/abu-dhabi-championship-rory-mcilroy-surges-into-contention-after-posting-11-birdies
 https://skysports.com/golf/news/13608825/liv-golf-whats-next-for-bryson-dechambeau-and-co-and-whats-next-for-the-failed-breakaway-league
 https://skysports.com/golf/news/13609184/jon-rahm-leads-abu-dhabi-championship-with-rory-mcilroy-among-challengers-going-into-final-round
+https://skysports.com/golf/news/13609617/aramco-china-championship-mimi-rhodes-and-fellow-english-players-miss-out-on-title-as-spains-ana-pelaez-storms-to-victory
+https://skysports.com/golf/news/13609666/race-to-dubai-rory-mcilroy-takes-positive-signs-into-dp-world-tour-championship-after-missing-out-on-abu-dhabi-win
+https://skysports.com/golf/news/13609669/abu-dhabi-championship-jon-rahm-beats-tyrrell-hatton-rory-mcilroy-to-rolex-series-win-and-boosts-race-to-dubai-hopes
 https://skysports.com/golf/news/14866/13565082/the-open-rory-mcilroy-right-to-criticise-bryson-dechambeau-circus-should-players-have-to-speak-with-the-media
 https://skysports.com/golf/news/24512/13529496/the-masters-2026-leaderboard-latest-golf-scores-from-augusta-national-and-tee-times-for-opening-major-of-the-year
 https://skysports.com/golf/news/26733/13577351/ryder-cup-2027-luke-donald-expects-new-faces-for-team-europe-in-very-challenging-threepeat-bid-against-team-usa
@@ -6309,6 +6326,8 @@ https://skysports.com/rugby-league/australia-vs-england/64300
 https://skysports.com/rugby-league/australia-vs-england/report/64300
 https://skysports.com/rugby-league/australia-vs-fiji-women/64248
 https://skysports.com/rugby-league/australia-vs-fiji-women/report/64248
+https://skysports.com/rugby-league/australia-vs-samoa/63154
+https://skysports.com/rugby-league/australia-vs-samoa/report/63154
 https://skysports.com/rugby-league/england-vs-france/64274
 https://skysports.com/rugby-league/england-vs-france/report/64274
 https://skysports.com/rugby-league/england-vs-png/64277
@@ -6548,6 +6567,7 @@ https://skysports.com/rugby-league/news/13606981/rugby-league-world-cup-brian-ca
 https://skysports.com/rugby-league/news/13606994/rugby-league-world-cup-can-tonga-and-samoa-create-history-with-semi-final-wins
 https://skysports.com/rugby-league/news/13608475/super-league-owen-trouts-one-month-absence-for-leigh-leopards-last-season-was-due-to-cannabis-ban
 https://skysports.com/rugby-league/news/13609645/womens-rugby-league-world-cup-australia-set-up-fifth-straight-final-vs-new-zealand-after-scare-vs-debutants-fiji
+https://skysports.com/rugby-league/news/13609664/mens-rugby-league-world-cup-2026-australia-to-face-new-zealand-in-final-as-samoa-fume-at-decisions
 https://skysports.com/rugby-league/news/15314/13586102/george-williams-england-coach-brian-mcdermott-confirms-warrington-wolves-star-as-captain-for-rugby-league-world-cup
 https://skysports.com/rugby-league/news/20358/13456543/rugby-league-ashes-2025-fortune-favours-the-brave-as-england-must-seize-their-golden-opportunity-at-wembley-says-brian-carney
 https://skysports.com/rugby-league/news/20358/13459228/england-left-reeling-from-opening-ashes-defeat-promised-the-earth-delivered-an-atlas-says-brian-carney
@@ -6967,6 +6987,7 @@ https://skysports.com/tennis/news/12040/13608938/paris-masters-taylor-fritz-squa
 https://skysports.com/tennis/news/12040/13609128/wta-chair-apologises-to-jessica-pegula-after-airing-of-diva-comment-about-mirra-andreeva-confirms-audio-deactivated-on-practice-courts-at-indian-wells
 https://skysports.com/tennis/news/12040/13609492/carlos-alcaraz-storms-to-atp-paris-masters-final-to-set-up-us-open-rematch-with-ben-shelton
 https://skysports.com/tennis/news/12040/13609520/elena-rybakina-pulls-out-of-2026-wta-finals-at-indian-wells-due-to-medical-issue-and-is-replaced-by-marta-kostyuk
+https://skysports.com/tennis/news/12040/13609753/atp-paris-masters-carlos-alcaraz-beats-ben-shelton-to-claim-fifth-title-of-2026-after-avenging-us-open-defeat
 https://skysports.com/tennis/news/12110/13491111/tennis-2026-schedule-grand-slam-dates-and-tournament-calendar-for-atp-and-wta-tours
 https://skysports.com/tennis/news/12110/13558852/emma-raducanu-briton-deserves-celebration-not-cynicism-after-wimbledon-withdrawal-says-jonathan-overend
 https://skysports.com/tennis/news/12110/13571651/all-you-need-to-know-about-the-us-open-tennis-live-on-sky-sports-including-dates-schedule-winners-and-tv-times
@@ -7104,6 +7125,7 @@ https://skysports.com/tennis/news/13608938/paris-masters-taylor-fritz-squanders-
 https://skysports.com/tennis/news/13609128/wta-chair-apologises-to-jessica-pegula-after-airing-of-diva-comment-about-mirra-andreeva-confirms-audio-deactivated-on-practice-courts-at-indian-wells
 https://skysports.com/tennis/news/13609492/carlos-alcaraz-storms-to-atp-paris-masters-final-to-set-up-us-open-rematch-with-ben-shelton
 https://skysports.com/tennis/news/13609520/elena-rybakina-pulls-out-of-2026-wta-finals-at-indian-wells-due-to-medical-issue-and-is-replaced-by-marta-kostyuk
+https://skysports.com/tennis/news/13609753/atp-paris-masters-carlos-alcaraz-beats-ben-shelton-to-claim-fifth-title-of-2026-after-avenging-us-open-defeat
 https://skysports.com/tennis/news/32461/13574886/cincinnati-open-top-seeds-aryna-sabalenka-and-alexander-zverev-stunned-in-last-16-as-coco-gauff-progresses-to-quarter-finals
 https://skysports.com/tennis/news/32461/13579318/arthur-fery-lorenzo-musetti-awaits-in-first-round-of-us-open-for-british-no-1
 https://skysports.com/tennis/news/32832/13577913/us-open-2026-order-of-play-and-match-schedule-for-arthur-ashe-stadium-louis-armstrong-stadium-and-more
