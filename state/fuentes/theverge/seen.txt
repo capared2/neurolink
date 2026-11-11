@@ -23,6 +23,7 @@ https://theverge.com/2016/5/25/11766344/microsoft-nokia-impairment-layoffs-may-2
 https://theverge.com/2017/10/10/16452162/windows-phone-history-glorious-failure
 https://theverge.com/2017/11/17/16669024/tesla-roadster-2017-fastest-car-world
 https://theverge.com/2017/12/18/16792070/marvel-editor-in-chief-akira-yoshida-cebulski-cultural-appropriation
+https://theverge.com/2017/3/2/14787082/the-legend-of-zelda-breath-of-the-wild-review
 https://theverge.com/2017/4/21/15382628/mario-kart-8-deluxe-nintendo-switch-best-features
 https://theverge.com/2017/7/26/16033902/solar-eclipse-amazon-solar-filter-glasses-safety-iso-certified
 https://theverge.com/2017/8/10/16106912/total-solar-eclipse-photography-dslr-camera-solar-filter-zoom-lens
@@ -461,6 +462,9 @@ https://theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai
 https://theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout
 https://theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy
 https://theverge.com/ai-artificial-intelligence/1031190/nvidia-huang-investigation
+https://theverge.com/ai-artificial-intelligence/1031489/google-is-bringing-gmails-help-me-write-ai-tool-to-work-accounts
+https://theverge.com/ai-artificial-intelligence/1031498/an-ai-agent-swarm-may-have-unearthed-an-unmapped-maya-site
+https://theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model
 https://theverge.com/ai-artificial-intelligence/648595/anthropic-claude-research-google-workplace
 https://theverge.com/ai-artificial-intelligence/679852/trump-ai-safety-institute-name-mission-change
 https://theverge.com/ai-artificial-intelligence/767973/vibe-coding-ai-future-end-evolution
@@ -1168,6 +1172,7 @@ https://theverge.com/gadgets/1028640/kpop-demon-hunters-4k-criterion-bluray-deal
 https://theverge.com/gadgets/1028801/gentle-monster-teases-preorders-for-its-android-xr-glasses-with-a-trippy-short-film
 https://theverge.com/gadgets/1028846/shure-mv7-plus-podcasting-streaming-mic-deal-sale
 https://theverge.com/gadgets/1028917/legend-of-zelda-ocarina-of-time-remake-switch-2-costco-deal-sale
+https://theverge.com/gadgets/1028991/black-friday-best-early-deals-2026
 https://theverge.com/gadgets/1029019/apple-macbook-air-13-15-inch-m5-deal-sale
 https://theverge.com/gadgets/1029603/pomeras-dm25us-distraction-free-writing-review
 https://theverge.com/gadgets/1029998/game-pass-ultimate-three-months-lego-pokemon-pikachu-deal-sale
@@ -1177,6 +1182,7 @@ https://theverge.com/gadgets/1030361/fitbit-versa-and-sense-smartwatches-lose-ac
 https://theverge.com/gadgets/1030735/ember-mug-3-criterion-collection-blu-ray-pixel-watch-deal-sale
 https://theverge.com/gadgets/1030970/bambu-p2s-combo-3d-printer-deal-sale
 https://theverge.com/gadgets/1031284/oura-counsel-health-acquisition
+https://theverge.com/gadgets/1031301/sharge-140w-gan-charger-lenovo-yoga-mini-desktop-pc-deal-sale
 https://theverge.com/gadgets/1031360/ifixit-macbook-proled-teardown
 https://theverge.com/gadgets/712844/today-im-toying-with
 https://theverge.com/gadgets/842702/tetris-my-play-watch-smartwatch-hands-on
@@ -1452,7 +1458,10 @@ https://theverge.com/games/1030807/some-much-needed-clarity-for-steam-deck-game-
 https://theverge.com/games/1030994/big-walk-independent-games-festival-igf-ai
 https://theverge.com/games/1031144/sony-playstation-plus-windows-pc-app-shutting-down
 https://theverge.com/games/1031242/sony-playstation-fairgames-canceled
+https://theverge.com/games/1031291/sony-playstation-pulse-wireless-gaming-headset-hands-on
+https://theverge.com/games/1031321/the-legend-of-zelda-ocarina-of-time-notes-app-gold-skulltula
 https://theverge.com/games/1031384/nintendo-is-ending-support-for-signing-into-your-account-using-a-google-or-apple-account
+https://theverge.com/games/1031490/nintendos-latest-zelda-remake-is-a-smash-hit
 https://theverge.com/games/633885/gdc-2025-best-indie-games
 https://theverge.com/games/682063/the-new-york-times-nyt-games-crossplay-scrabble-pips
 https://theverge.com/games/684957/splitgate-2-hat-apology
@@ -2396,9 +2405,12 @@ https://theverge.com/streaming/1025696/youtube-is-rolling-out-its-replace-song-f
 https://theverge.com/streaming/1026671/youtube-is-testing-something-called-tamba
 https://theverge.com/streaming/1026937/netflix-playground-doozies-doghouse-games-app-kids-video
 https://theverge.com/streaming/1028629/fox-roku-acquisition-close
+https://theverge.com/streaming/1030864/streaming-skydance-paramount-disney-hulu-earnings-tiktok-short-form-video
+https://theverge.com/streaming/1031539/peacock-is-testing-a-conversational-ai-search-feature
 https://theverge.com/streaming/862738/fallout-shelter-reality-show-amazon-prime-video
 https://theverge.com/streaming/873416/piracy-streaming-boxes
 https://theverge.com/streaming/894128/peacock-nbcuniversal-ai-andy-cohen-bravo
+https://theverge.com/streaming/894152/peacock-live-sports-nba-streams-vertical-mobile
 https://theverge.com/streaming/909230/its-an-amazing-art-form-that-is-way-too-limited-in-peoples-minds
 https://theverge.com/streaming/919441/google-ask-youtube-ai-chatbot-search
 https://theverge.com/streaming/938759/youtube-custom-ai-feed-prompt-availability
@@ -2739,6 +2751,7 @@ https://theverge.com/tech/1012319/my-play-watch-capcom-street-fighter-ii-gaming-
 https://theverge.com/tech/1012341/two-workers-have-died-after-an-incident-at-intels-most-advanced-chip-factory
 https://theverge.com/tech/1012350/withings-plus-subscription-new-users-october-13-2026
 https://theverge.com/tech/1012364/florida-can-enforce-social-media-ban-for-kids-appeals-court-rules
+https://theverge.com/tech/1012372/tv-privacy-acr-questions
 https://theverge.com/tech/1012374/bluesky-ai-attie-small-social-games-apps
 https://theverge.com/tech/1012614/apples-own-website-could-be-teasing-a-new-ipad-mini
 https://theverge.com/tech/1012628/microsoft-surface-laptop-ultra-review
@@ -3115,6 +3128,7 @@ https://theverge.com/tech/1030186/peak-design-roller-lite-carry-on-review
 https://theverge.com/tech/1030211/reddit-reviews-product-recommendations-electronics-beauty-shopping
 https://theverge.com/tech/1030256/wyze-lever-smart-lock-fingerprint-reader-handle
 https://theverge.com/tech/1030282/amazon-ring-robotics-rover-cam-4k-security-business
+https://theverge.com/tech/1030398/iphone-duo-returns-screen-apps
 https://theverge.com/tech/1030446/trump-jensen-huang-press-conference
 https://theverge.com/tech/1030593/adobe-max-ai-agents-mcp-firefly-assistant-updates
 https://theverge.com/tech/1030601/ring-drone-cam-hands-on-price-release-date-ai-pilot
@@ -3132,6 +3146,9 @@ https://theverge.com/tech/1031089/google-pixel-drop-november-2026-hilight
 https://theverge.com/tech/1031182/disney-imagineering-labs-mobile-app-augmented-reality-star-wars-ai-assistant
 https://theverge.com/tech/1031256/meta-quest-disney-plus-vr-3d-movies
 https://theverge.com/tech/1031446/microsoft-automatic-super-resolution-auto-sr-upscaling
+https://theverge.com/tech/1031505/adobe-max-2026-sneaks-experiments-ai
+https://theverge.com/tech/1031507/apple-community-support-forum-shutting-down
+https://theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability
 https://theverge.com/tech/24008239/sphere-las-vegas-experience-u2-screen
 https://theverge.com/tech/625223/book-log-read-goodreads
 https://theverge.com/tech/784323/upgrading-240hz-oled-gaming-monitor
@@ -4001,6 +4018,8 @@ https://theverge.com/transportation/1029632/tesla-cant-fulfill-all-of-its-final-
 https://theverge.com/transportation/1029712/waymos-robotaxis-still-wont-stop-for-school-buses
 https://theverge.com/transportation/1029776/uber-parking-launch-spothero-robotaxis
 https://theverge.com/transportation/1029837/real-motors-project-ares-electric-motorcycle-first-ride
+https://theverge.com/transportation/1030902/serve-robotics-open-developer-api-sidewalk-delivery
+https://theverge.com/transportation/1031554/oyota-scion-kei-01-truck-revival
 https://theverge.com/transportation/760217/a-wild-miraidon-appeared
 https://theverge.com/transportation/781908/electric-cargo-bike-car-replace-bike-bus
 https://theverge.com/transportation/784461/lucid-nuro-uber-robotaxi-first-vehicle-delivery
