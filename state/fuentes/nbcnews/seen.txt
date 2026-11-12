@@ -1558,6 +1558,7 @@ https://nbcnews.com/politics/2026-election/abdul-el-sayed-mike-rogers-final-deba
 https://nbcnews.com/politics/2026-election/adam-hamilton-kansas-senate-democrat-winner-upset-roger-marshall-rcna603310
 https://nbcnews.com/politics/2026-election/aipac-super-pac-starts-spending-michigan-senate-race-rcna602597
 https://nbcnews.com/politics/2026-election/alaska-finalizes-senate-race-3-republicans-2-dan-sullivan-1-democrat-rcna595617
+https://nbcnews.com/politics/2026-election/alaska-judge-rules-request-peltola-campaign-ballot-data-senate-race-no-rcna608923
 https://nbcnews.com/politics/2026-election/alaska-officials-ask-judge-deny-trump-administrations-impossible-deman-rcna606765
 https://nbcnews.com/politics/2026-election/alaska-senate-candidates-clash-iran-war-high-prices-trump-rcna603839
 https://nbcnews.com/politics/2026-election/amy-acton-democrat-ohio-gubernatorial-race-vivek-ramaswamy-gop-rcna603352
@@ -2221,6 +2222,7 @@ https://nbcnews.com/politics/trump-administration/trump-white-house-tv-press-poo
 https://nbcnews.com/politics/trump-administration/trumps-border-chief-defends-wall-plans-texas-big-bend-court-setback-rcna605211
 https://nbcnews.com/politics/trump-administration/trumps-handpicked-kennedy-center-board-votes-close-venue-renovations-rcna597921
 https://nbcnews.com/politics/trump-administration/ukrainians-sudanese-granted-temporary-deportation-reprieve-rcna604474
+https://nbcnews.com/politics/trump-administration/us-attorney-demands-sen-richard-blumenthal-preserve-documents-inquiry-rcna608899
 https://nbcnews.com/politics/trump-administration/us-judge-says-trumps-10-billion-bbc-defamation-case-can-proceed-rcna608707
 https://nbcnews.com/politics/trump-administration/us-military-says-killed-four-strike-alleged-drug-smuggling-boat-caribb-rcna598749
 https://nbcnews.com/politics/trump-administration/us-military-says-latest-strike-alleged-drug-smuggling-boat-caribbean-k-rcna601550
@@ -3248,6 +3250,7 @@ https://nbcnews.com/world/asia/china-plenum-xi-jinping-seeks-stronger-communist-
 https://nbcnews.com/world/asia/china-september-exports-soar-putting-1-trillion-trade-surplus-sight-rcna603410
 https://nbcnews.com/world/asia/china-vessel-rams-philippine-boat-refueling-mission-coast-guard-says-rcna598496
 https://nbcnews.com/world/asia/china-warns-us-space-weapons-fuel-arms-race-rcna598070
+https://nbcnews.com/world/asia/china-xi-says-taiwan-reunification-must-happen-history-cannot-stopped-rcna608935
 https://nbcnews.com/world/asia/chinas-great-wall-restored-one-brick-time-rcna344682
 https://nbcnews.com/world/asia/chinas-lipstick-king-touts-ai-tokens-first-singles-day-festival-rcna607192
 https://nbcnews.com/world/asia/chinas-trade-surplus-surpasses-1-trillion-2nd-straight-year-exports-rcna608493
@@ -3469,6 +3472,7 @@ https://nbcnews.com/world/europe/ratko-mladic-ex-bosnian-serb-warlord-oversaw-at
 https://nbcnews.com/world/europe/record-heat-killed-50000-people-european-cities-summer-study-finds-rcna605162
 https://nbcnews.com/world/europe/riots-damage-who-pays-france-europe-rcna606504
 https://nbcnews.com/world/europe/riots-erupt-albanias-capital-students-join-anti-government-movement-rcna603644
+https://nbcnews.com/world/europe/romanov-sapphire-bracelet-russia-empress-mughal-empire-auction-rcna608936
 https://nbcnews.com/world/europe/russell-brand-called-ruthless-sexual-predator-trial-start-prosecutor-rcna603421
 https://nbcnews.com/world/europe/russia-accused-sabotage-estonia-arson-ukraine-supplier-rcna600451
 https://nbcnews.com/world/europe/russia-plague-suspected-lab-worker-dies-200-medical-observation-rcna601559
@@ -3628,6 +3632,7 @@ https://nbcnews.com/world/middle-east/iranian-plots-kill-us-officials-middle-eas
 https://nbcnews.com/world/middle-east/israel-orders-west-bank-lockdown-hebron-shooting-attack-rcna605176
 https://nbcnews.com/world/middle-east/israel-police-arrest-10-settler-attacks-us-journalist-european-diploma-rcna604291
 https://nbcnews.com/world/middle-east/israeli-settlers-burn-olive-trees-injure-journalist-west-bank-attack-rcna603864
+https://nbcnews.com/world/middle-east/israeli-strike-gaza-nasser-hospital-abu-shaira-doctor-hamas-rcna608932
 https://nbcnews.com/world/middle-east/jewish-settlers-clash-israeli-security-forces-prevent-palestinian-fami-rcna600437
 https://nbcnews.com/world/middle-east/jordan-attacks-militants-syria-tied-last-weeks-church-attack-state-med-rcna605808
 https://nbcnews.com/world/middle-east/know-cockpit-stabbing-israel-bound-flight-rcna600881
@@ -3680,6 +3685,7 @@ https://nbcnews.com/world/pope-leo-xiv/pope-leo-villanova-notre-dame-basketball-
 https://nbcnews.com/world/pope-leo-xiv/pope-leo-xiv-cancels-assisi-trip-doctors-advice-recovers-surgery-rcna605178
 https://nbcnews.com/world/pope-leo-xiv/pope-says-no-thing-holy-war-message-religious-leaders-rcna606026
 https://nbcnews.com/world/pope-leo-xiv/pope-treatment-lung-cancer-rcna604869
+https://nbcnews.com/world/pope-leo-xiv/record-crowd-greets-pope-leo-calls-peru-homeland-emotional-visit-rcna608930
 https://nbcnews.com/world/pope-leo-xiv/thousands-pour-park-uruguay-pope-leos-first-mass-south-america-rcna607977
 https://nbcnews.com/world/russia/drones-hit-yandex-data-center-first-major-attack-russian-data-hub-rcna602241
 https://nbcnews.com/world/russia/leaders-norway-finland-hold-rare-call-putin-break-previous-european-st-rcna605886
@@ -3787,10 +3793,12 @@ https://nbcnews.com/world/ukraine/ukraine-russia-drone-war-eric-schmidt-google-r
 https://nbcnews.com/world/ukraine/ukraine-russia-emergency-app-cyberattacks-alerts-radiation-kyiv-war-rcna606964
 https://nbcnews.com/world/ukraine/ukraine-says-starlink-back-normal-week-limits-rcna605368
 https://nbcnews.com/world/ukraine/ukraine-starlink-restrictions-military-intel-trump-zelenskyy-russia-rcna603412
+https://nbcnews.com/world/ukraine/ukraine-starshield-limits-russia-war-trump-musk-rcna608938
 https://nbcnews.com/world/ukraine/ukraine-us-support-rubio-scandalous-zelenskyy-meeting-trump-oslo-rcna604530
 https://nbcnews.com/world/ukraine/ukraine-war-oleshky-civilians-evacuate-belarus-historic-ceasefire-rcna606675
 https://nbcnews.com/world/ukraine/ukrainians-divide-russias-propaganda-videos-rcna599892
 https://nbcnews.com/world/ukraine/us-approves-21-billion-sale-patriot-interceptors-ukraine-rcna606641
+https://nbcnews.com/world/ukraine/us-envoys-moscow-meeting-putin-talks-abu-dhabi-rcna608931
 https://nbcnews.com/world/ukraine/us-envoys-witkoff-kushner-set-arrive-kyiv-peace-talks-moscow-rcna596324
 https://nbcnews.com/world/ukraine/us-mediated-talks-ending-war-russia-ukraine-begin-abu-dhabi-rcna608499
 https://nbcnews.com/world/ukraine/wartime-ukraine-babies-are-delivered-bomb-shelters-rcna595979
