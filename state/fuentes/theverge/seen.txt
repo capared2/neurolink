@@ -465,6 +465,8 @@ https://theverge.com/ai-artificial-intelligence/1031190/nvidia-huang-investigati
 https://theverge.com/ai-artificial-intelligence/1031489/google-is-bringing-gmails-help-me-write-ai-tool-to-work-accounts
 https://theverge.com/ai-artificial-intelligence/1031498/an-ai-agent-swarm-may-have-unearthed-an-unmapped-maya-site
 https://theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model
+https://theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents
+https://theverge.com/ai-artificial-intelligence/1031645/when-i-asked-who-else-jensen-huang-was-fucking-i-did-not-expect-to-get-answers-so-quickly
 https://theverge.com/ai-artificial-intelligence/648595/anthropic-claude-research-google-workplace
 https://theverge.com/ai-artificial-intelligence/679852/trump-ai-safety-institute-name-mission-change
 https://theverge.com/ai-artificial-intelligence/767973/vibe-coding-ai-future-end-evolution
@@ -2144,6 +2146,9 @@ https://theverge.com/policy/1028253/midterm-elections-x-right-wing-memes
 https://theverge.com/policy/1029652/kanter-doj-biden-legal-tech
 https://theverge.com/policy/1030258/republicans-reshare-request-for-a-closed-door-briefing-with-jensen-huang-next-week
 https://theverge.com/policy/1030738/trump-drops-weathertech-founder-as-ftc-nominee-in-favor-of-an-agency-veteran
+https://theverge.com/policy/1031575/digital-fairness-act-eu-dfa-consumer-protection
+https://theverge.com/policy/1031580/jensen-huangs-affair-reportedly-has-taiwan-and-us-cabinet-officials-rattled
+https://theverge.com/policy/1031587/the-us-should-lose-its-measles-elimination-status-scientists-say
 https://theverge.com/policy/677373/lawyers-chatgpt-hallucinations-ai
 https://theverge.com/policy/694155/big-balls-is-still-here
 https://theverge.com/policy/799473/facebook-meta-ice-jawboning
@@ -3149,6 +3154,9 @@ https://theverge.com/tech/1031446/microsoft-automatic-super-resolution-auto-sr-u
 https://theverge.com/tech/1031505/adobe-max-2026-sneaks-experiments-ai
 https://theverge.com/tech/1031507/apple-community-support-forum-shutting-down
 https://theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability
+https://theverge.com/tech/1031600/spacexsis-grok-build-reportedly-leaked-private-info-from-thousands-of-users-including-its-own-business
+https://theverge.com/tech/1031601/home-assistant-connect-aux-2-hands-on
+https://theverge.com/tech/1031652/jensen-huang-rumor
 https://theverge.com/tech/24008239/sphere-las-vegas-experience-u2-screen
 https://theverge.com/tech/625223/book-log-read-goodreads
 https://theverge.com/tech/784323/upgrading-240hz-oled-gaming-monitor
@@ -3171,6 +3179,7 @@ https://theverge.com/tech/869659/aluminium-why-googles-android-for-pc-launch-may
 https://theverge.com/tech/870583/xteink-x4-e-ink-reader-books-hands-on
 https://theverge.com/tech/872393/raspberry-pi-price-increase-ram-shortage-costs
 https://theverge.com/tech/872963/fitbit-james-park-eric-friedman-luffu-caregivers-family-health-app
+https://theverge.com/tech/872981/dyson-pencilvac-fluffycones-vacuum-hands-on-review
 https://theverge.com/tech/873131/elon-musks-boring-company-is-going-to-dubai
 https://theverge.com/tech/873655/anker-nano-charger-smart-display-45w-folding-prongs
 https://theverge.com/tech/875919/halide-mark-iii-process-zero-hands-on
@@ -4020,6 +4029,7 @@ https://theverge.com/transportation/1029776/uber-parking-launch-spothero-robotax
 https://theverge.com/transportation/1029837/real-motors-project-ares-electric-motorcycle-first-ride
 https://theverge.com/transportation/1030902/serve-robotics-open-developer-api-sidewalk-delivery
 https://theverge.com/transportation/1031554/oyota-scion-kei-01-truck-revival
+https://theverge.com/transportation/1031594/a-temporary-stay-of-execution-for-the-cybertruck
 https://theverge.com/transportation/760217/a-wild-miraidon-appeared
 https://theverge.com/transportation/781908/electric-cargo-bike-car-replace-bike-bus
 https://theverge.com/transportation/784461/lucid-nuro-uber-robotaxi-first-vehicle-delivery
