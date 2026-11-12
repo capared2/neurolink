@@ -117,6 +117,7 @@ https://theverge.com/2023/7/9/23789012/evernote-layoff-us-staff-bending-spoons-n
 https://theverge.com/2023/8/11/23828431/rockstar-cfx-re-mod-tools-roleplay-server
 https://theverge.com/2023/8/18/23837372/command-line-google-co-founder-sergey-brin-ai
 https://theverge.com/2023/8/23/23837598/tesla-elon-musk-self-driving-false-promises-land-of-the-giants
+https://theverge.com/2023/8/29/23849107/synthid-google-deepmind-ai-image-detector
 https://theverge.com/2023/8/9/23825771/google-american-airlines-ai-flights-contrails-climate-change
 https://theverge.com/2023/9/12/23869741/tiktok-shop-available-us-marketplace-e-commerce-amazon
 https://theverge.com/2023/9/17/23877777/grand-theft-auto-v-now-10-years-old
@@ -140,6 +141,7 @@ https://theverge.com/2024/12/11/24318434/youtube-living-room-tv-growth-2024
 https://theverge.com/2024/12/11/24318628/jules-google-ai-coding-agent-gemini-2-0-announcement
 https://theverge.com/2024/12/12/24319050/character-ai-chatbots-teen-model-training-parental-controls
 https://theverge.com/2024/12/12/24319528/google-android-xr-samsung-project-moohan-smart-glasses
+https://theverge.com/2024/12/16/24322713/blackmagic-cine-immersive-camera-preorder-vision-pro-immersive-video
 https://theverge.com/2024/12/16/24322769/waymo-japan-robotaxi-test-nihon-kotsu-go
 https://theverge.com/2024/12/20/24325822/netflix-fifa-womens-world-cup-us-streaming-rights
 https://theverge.com/2024/12/25/24329303/the-nba-subs-in-mickey-mouse-and-daffy-duck-to-help-take-on-the-nfl
@@ -166,6 +168,7 @@ https://theverge.com/2024/5/7/24151109/apple-final-cut-camera-app-support-multic
 https://theverge.com/2024/6/23/24184310/yes-it-is-crazy-to-build-a-new-v16-engine
 https://theverge.com/2024/6/25/24185612/motorola-moto-tag-android-find-my-device
 https://theverge.com/2024/6/26/24186332/rivian-tease-mystery-vehicle-r1-r2-r3-shareholder-letter
+https://theverge.com/2024/6/4/24166297/nvidia-jensen-huang-computex-signing
 https://theverge.com/2024/6/6/24173356/f1-2026-tech-changes-explained
 https://theverge.com/2024/7/1/24190060/amazon-adept-ai-acquisition-playbook-microsoft-inflection
 https://theverge.com/2024/7/16/24195063/apple-smart-display-rumors-homepod-ipad
@@ -467,8 +470,16 @@ https://theverge.com/ai-artificial-intelligence/1031498/an-ai-agent-swarm-may-ha
 https://theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model
 https://theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents
 https://theverge.com/ai-artificial-intelligence/1031645/when-i-asked-who-else-jensen-huang-was-fucking-i-did-not-expect-to-get-answers-so-quickly
+https://theverge.com/ai-artificial-intelligence/1031689/jensen-huang-fired-nvidia
+https://theverge.com/ai-artificial-intelligence/1031689/jensen-huang-nvidia-ceo-resigns
 https://theverge.com/ai-artificial-intelligence/1031766/jensen-huang-nvidia-ceo-replacement-rumors
 https://theverge.com/ai-artificial-intelligence/1031775/jensen-huang-nvidia-ceo-replacement-rumors
+https://theverge.com/ai-artificial-intelligence/1031840/even-jensen-huangs-jackets-arent-safe-from-adulteration
+https://theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations
+https://theverge.com/ai-artificial-intelligence/1032028/read-nvidias-internal-emails-jensen-huang
+https://theverge.com/ai-artificial-intelligence/1032066/yahoo-is-the-first-to-sign-up-for-new-pay-to-scrape-collective-ai-licensing
+https://theverge.com/ai-artificial-intelligence/1032069/jensen-huang-resignation-affair-chips-smuggling
+https://theverge.com/ai-artificial-intelligence/1032126/alex-baby-you-were-recorded-on-video
 https://theverge.com/ai-artificial-intelligence/648595/anthropic-claude-research-google-workplace
 https://theverge.com/ai-artificial-intelligence/679852/trump-ai-safety-institute-name-mission-change
 https://theverge.com/ai-artificial-intelligence/767973/vibe-coding-ai-future-end-evolution
@@ -693,6 +704,7 @@ https://theverge.com/ai-artificial-intelligence/999540/you-can-now-summon-chatgp
 https://theverge.com/ai-artificial-intelligence/999874/openai-agents-hacked-an-australian-government-website-in-search-for-data
 https://theverge.com/ai-artificial-intelligence/999881/why-cant-we-airgap-rogue-ai-agents
 https://theverge.com/antitrust/982578/google-just-showed-off-its-new-prototype-of-how-third-party-app-stores-will-look
+https://theverge.com/apple/1032049/joanna-stern-bullied-apple-into-a-homeview-update-already
 https://theverge.com/apple/901388/apple-american-manufacturing-program-expansion
 https://theverge.com/apple/985133/apple-is-automatically-upgrading-some-recent-mac-mini-m4-orders-to-m6-or-m5-pro-versions-for-free
 https://theverge.com/apps/673208/discord-ai-forums-anniversary-gamechat
@@ -1188,6 +1200,7 @@ https://theverge.com/gadgets/1030970/bambu-p2s-combo-3d-printer-deal-sale
 https://theverge.com/gadgets/1031284/oura-counsel-health-acquisition
 https://theverge.com/gadgets/1031301/sharge-140w-gan-charger-lenovo-yoga-mini-desktop-pc-deal-sale
 https://theverge.com/gadgets/1031360/ifixit-macbook-proled-teardown
+https://theverge.com/gadgets/1031951/fast-laptop-power-bank-battery-obsession-gaming-deal-sale
 https://theverge.com/gadgets/712844/today-im-toying-with
 https://theverge.com/gadgets/842702/tetris-my-play-watch-smartwatch-hands-on
 https://theverge.com/gadgets/847777/oh-snap-i-have-a-new-favorite-phone-grip
@@ -1466,6 +1479,8 @@ https://theverge.com/games/1031291/sony-playstation-pulse-wireless-gaming-headse
 https://theverge.com/games/1031321/the-legend-of-zelda-ocarina-of-time-notes-app-gold-skulltula
 https://theverge.com/games/1031384/nintendo-is-ending-support-for-signing-into-your-account-using-a-google-or-apple-account
 https://theverge.com/games/1031490/nintendos-latest-zelda-remake-is-a-smash-hit
+https://theverge.com/games/1031999/microsofts-ad-supported-xbox-cloud-gaming-sessions-are-now-live
+https://theverge.com/games/1032085/gdc-festival-of-gaming-annual-survey-ai-layoffs
 https://theverge.com/games/633885/gdc-2025-best-indie-games
 https://theverge.com/games/682063/the-new-york-times-nyt-games-crossplay-scrabble-pips
 https://theverge.com/games/684957/splitgate-2-hat-apology
@@ -1793,6 +1808,7 @@ https://theverge.com/news/768621/belkin-soundform-earbuds-anc-price-launch
 https://theverge.com/news/769585/amazon-lens-live-ai-real-time-shopping
 https://theverge.com/news/771236/adobe-premiere-iphone-ios-video-editor-android
 https://theverge.com/news/771665/timekettle-w4-ai-interpreter-wireless-earbuds-bone-conduction
+https://theverge.com/news/775072/rsl-standard-licensing-ai-publishing-reddit-yahoo-medium
 https://theverge.com/news/775309/apple-iphone-14-15-satellite-connectivity-free
 https://theverge.com/news/779147/waymo-robotaxi-nashville-lyft-2026
 https://theverge.com/news/779934/nvidia-ban-china-no-longer-welcome
@@ -1837,6 +1853,7 @@ https://theverge.com/news/821581/disney-youtube-tv-deal-agreement-espn
 https://theverge.com/news/823018/honeycomb-aeronautical-echo-aviation-controller-gamepad-pc-flight-simulator
 https://theverge.com/news/823562/cloudflare-outage-wake-up-call-websites
 https://theverge.com/news/823958/here-come-the-third-party-steam-machine-accessories
+https://theverge.com/news/825008/googles-gemini-is-now-on-android-auto
 https://theverge.com/news/825510/nvidia-china-smuggling-ai-chips-h200
 https://theverge.com/news/827412/facebooks-groups-are-getting-usernames
 https://theverge.com/news/831241/dji-ban-us-trump-fcc-customs-import-ndaa
@@ -1853,6 +1870,7 @@ https://theverge.com/news/840308/spotify-music-videos-beta-us-canada
 https://theverge.com/news/840557/nvidia-h200-ai-chips-china-exports-us
 https://theverge.com/news/841036/facebook-redesign-instagram-photos-feed-algorithm
 https://theverge.com/news/841219/google-gemini-us-military-ai-platform-genai-mil
+https://theverge.com/news/841222/rsl-licensing-ai-spec-launch
 https://theverge.com/news/841369/chatgpt-apps-adobe-photoshop-acrobat-express
 https://theverge.com/news/845280/google-cc-morning-briefing-gemini-ai-agent
 https://theverge.com/news/845882/x-corp-operation-bluebird-twitter-lawsuit-trademark-infringement
@@ -2000,6 +2018,8 @@ https://theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-a
 https://theverge.com/podcast/1029684/riaa-mitch-glazier-napster-ai-labels-music
 https://theverge.com/podcast/1030201/private-torrent-trackers-vergecast
 https://theverge.com/podcast/1031176/nvidia-jensen-huang-spy-vergecast
+https://theverge.com/podcast/1031260/nvidia-jensen-huang-resign-china-spy-scandal-ai-chips-trump
+https://theverge.com/podcast/1032130/todays-vergecast-jensen-huang-resigns-and-our-homeview-review
 https://theverge.com/podcast/889177/prediction-markets-news-gambling-polymarket-kalshi-iran-war-regulation
 https://theverge.com/podcast/905198/meta-lawsuits-facebook-instagram-youtube-social-media-addiction-section-230
 https://theverge.com/podcast/969231/samsung-unpacked-2026-vergecast-livestream
@@ -3160,7 +3180,21 @@ https://theverge.com/tech/1031507/apple-community-support-forum-shutting-down
 https://theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability
 https://theverge.com/tech/1031600/spacexsis-grok-build-reportedly-leaked-private-info-from-thousands-of-users-including-its-own-business
 https://theverge.com/tech/1031601/home-assistant-connect-aux-2-hands-on
+https://theverge.com/tech/1031633/apple-tv-4k-4th-gen-review
+https://theverge.com/tech/1031647/google-android-xr-warby-parker-gentle-monster-hands-on
 https://theverge.com/tech/1031652/jensen-huang-rumor
+https://theverge.com/tech/1031726/apple-homeview-review-smart-display-homekit
+https://theverge.com/tech/1031792/xbox-25-year-milestone-notepad
+https://theverge.com/tech/1031817/ring-drone-cam-manual-flight-controls
+https://theverge.com/tech/1031827/blackmagic-made-a-usb-c-mic-for-spatial-audio
+https://theverge.com/tech/1031865/fairphone-is-getting-a-us-boost
+https://theverge.com/tech/1031868/i-reviewed-the-apple-homeview-ask-me-anything
+https://theverge.com/tech/1031874/apple-will-open-preorders-for-some-of-its-new-smart-home-collection-tomorrow
+https://theverge.com/tech/1031889/lego-bricklink-marketplace-offline-unusual-activity
+https://theverge.com/tech/1031905/now-anyone-can-make-custom-plugins-for-the-mpc-vibe-coded-or-otherwise
+https://theverge.com/tech/1031981/googles-gemini-app-is-now-available-in-apple-carplay
+https://theverge.com/tech/1032048/nothing-carl-pei-teaser-ai-screen-free-device
+https://theverge.com/tech/1032084/google-wallet-digital-home-key-smart-lock-rollout
 https://theverge.com/tech/24008239/sphere-las-vegas-experience-u2-screen
 https://theverge.com/tech/625223/book-log-read-goodreads
 https://theverge.com/tech/784323/upgrading-240hz-oled-gaming-monitor
@@ -3256,6 +3290,7 @@ https://theverge.com/tech/918852/googles-new-gradient-icon-design-is-coming-to-m
 https://theverge.com/tech/920236/motorola-razr-plus-2026-price
 https://theverge.com/tech/920313/meta-facebook-instagram-eu-dsa-age-verification
 https://theverge.com/tech/920420/google-photos-ai-try-on-wardrobe
+https://theverge.com/tech/921117/google-gemini-ai-assistant-cars-upgrade
 https://theverge.com/tech/921136/dyson-spot-scrub-ai-wet-dry-robot-vacuum-cleaner-review
 https://theverge.com/tech/921159/smart-glasses-review-wearable-even-realities-g2-meta-ray-ban-rokid-lucyd-oakley-meta-vanguard
 https://theverge.com/tech/921178/blaze-entertainment-retro-games-commodore-64-zx-spectrum-handhelds
@@ -4034,6 +4069,8 @@ https://theverge.com/transportation/1029837/real-motors-project-ares-electric-mo
 https://theverge.com/transportation/1030902/serve-robotics-open-developer-api-sidewalk-delivery
 https://theverge.com/transportation/1031554/oyota-scion-kei-01-truck-revival
 https://theverge.com/transportation/1031594/a-temporary-stay-of-execution-for-the-cybertruck
+https://theverge.com/transportation/1031845/spirits-former-flight-attendants-protect-their-data-from-google
+https://theverge.com/transportation/1031991/elon-musk-cancels-cybertruck-tesla-fans-backlash
 https://theverge.com/transportation/760217/a-wild-miraidon-appeared
 https://theverge.com/transportation/781908/electric-cargo-bike-car-replace-bike-bus
 https://theverge.com/transportation/784461/lucid-nuro-uber-robotaxi-first-vehicle-delivery
