@@ -479,7 +479,9 @@ https://theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexit
 https://theverge.com/ai-artificial-intelligence/1032028/read-nvidias-internal-emails-jensen-huang
 https://theverge.com/ai-artificial-intelligence/1032066/yahoo-is-the-first-to-sign-up-for-new-pay-to-scrape-collective-ai-licensing
 https://theverge.com/ai-artificial-intelligence/1032069/jensen-huang-resignation-affair-chips-smuggling
+https://theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery
 https://theverge.com/ai-artificial-intelligence/1032126/alex-baby-you-were-recorded-on-video
+https://theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen
 https://theverge.com/ai-artificial-intelligence/648595/anthropic-claude-research-google-workplace
 https://theverge.com/ai-artificial-intelligence/679852/trump-ai-safety-institute-name-mission-change
 https://theverge.com/ai-artificial-intelligence/767973/vibe-coding-ai-future-end-evolution
@@ -735,6 +737,7 @@ https://theverge.com/column/1020859/optimizer-theranos-haemanthus-you-can-see-ev
 https://theverge.com/column/1022402/new-zelda-and-gta-represent-a-games-industry-that-no-longer-exists
 https://theverge.com/column/1026252/video-media-news-tiktok-pivot
 https://theverge.com/column/1026464/optimizer-amazon-bee-frontier-ambient-listening-wearables
+https://theverge.com/column/1032243/peptides-american-manufacturing-maha
 https://theverge.com/column/806767/you-need-to-listen-to-the-body-ive-seen-all-i-need-to-see
 https://theverge.com/column/821345/micro-dramas-how-hollywood
 https://theverge.com/column/837829/spotify-video-service
@@ -1201,10 +1204,13 @@ https://theverge.com/gadgets/1031284/oura-counsel-health-acquisition
 https://theverge.com/gadgets/1031301/sharge-140w-gan-charger-lenovo-yoga-mini-desktop-pc-deal-sale
 https://theverge.com/gadgets/1031360/ifixit-macbook-proled-teardown
 https://theverge.com/gadgets/1031951/fast-laptop-power-bank-battery-obsession-gaming-deal-sale
+https://theverge.com/gadgets/1032311/oura-ring-4-smart-ring-deal-sale
+https://theverge.com/gadgets/1032630/whoop-humans-social-network
 https://theverge.com/gadgets/712844/today-im-toying-with
 https://theverge.com/gadgets/842702/tetris-my-play-watch-smartwatch-hands-on
 https://theverge.com/gadgets/847777/oh-snap-i-have-a-new-favorite-phone-grip
 https://theverge.com/gadgets/850483/eufy-robot-vacuum-omni-s2-ces-2026
+https://theverge.com/gadgets/869253/clean-floors-dont-have-to-cost-a-fortune
 https://theverge.com/gadgets/899268/ultrahuman-is-back-in-the-us-starting-with-the-ring-pro
 https://theverge.com/gadgets/905189/raspberry-pi-price-increases-pi-4-3gb
 https://theverge.com/gadgets/906883/whoop-bevel-lawsuit-fitness-tech
@@ -1481,6 +1487,9 @@ https://theverge.com/games/1031384/nintendo-is-ending-support-for-signing-into-y
 https://theverge.com/games/1031490/nintendos-latest-zelda-remake-is-a-smash-hit
 https://theverge.com/games/1031999/microsofts-ad-supported-xbox-cloud-gaming-sessions-are-now-live
 https://theverge.com/games/1032085/gdc-festival-of-gaming-annual-survey-ai-layoffs
+https://theverge.com/games/1032306/doom-developer-id-software-is-working-on-a-new-title
+https://theverge.com/games/1032321/microsoft-xbox-original-games-pc-backwards-compatibility
+https://theverge.com/games/1032659/humble-bundle-redesign-two-factor-verification-security-settings
 https://theverge.com/games/633885/gdc-2025-best-indie-games
 https://theverge.com/games/682063/the-new-york-times-nyt-games-crossplay-scrabble-pips
 https://theverge.com/games/684957/splitgate-2-hat-apology
@@ -1749,6 +1758,8 @@ https://theverge.com/news/1028549/protesters-microsoft-data-center-site-amsterda
 https://theverge.com/news/1029248/tsmc-is-apparently-considering-getting-into-the-ram-business-at-the-request-of-nvidia
 https://theverge.com/news/1029822/sony-playstation-portal-japan-model-additional-storage
 https://theverge.com/news/1030714/gta-vi-xbox-cloud-gaming-support
+https://theverge.com/news/1032396/xbox-dashboard-guide-menu-right-side-background-shuffle-feature
+https://theverge.com/news/1032431/xbox-bethesda-wolfenstein-3
 https://theverge.com/news/599220/it-m
 https://theverge.com/news/609772/google-maps-gulf-of-america-rename-mexico
 https://theverge.com/news/610580/apple-maps-gulf-of-america
@@ -2361,6 +2372,7 @@ https://theverge.com/science/1029162/spacex-starlink-mobile-elon-musk-news
 https://theverge.com/science/1029538/nasa-is-taking-applications-for-its-next-class-of-astronauts
 https://theverge.com/science/1029643/an-esa-satellite-obeyed-voice-commands-to-play-doom
 https://theverge.com/science/1030252/ai-data-center-climate-pledge-united-nations-cop31
+https://theverge.com/science/1032350/spacex-tesla-mega-merger-could-come-as-soon-as-december
 https://theverge.com/science/786067/clippers-kawhi-leonard-salary-cap-investigation-carbon-credit-climate-change
 https://theverge.com/science/839303/rfk-jr-s-vaccine-committee-says-hepatitis-b-shot-can-wait
 https://theverge.com/science/914729/blue-origin-successfully-reused-its-new-glenn-rocket
@@ -3195,8 +3207,14 @@ https://theverge.com/tech/1031905/now-anyone-can-make-custom-plugins-for-the-mpc
 https://theverge.com/tech/1031981/googles-gemini-app-is-now-available-in-apple-carplay
 https://theverge.com/tech/1032048/nothing-carl-pei-teaser-ai-screen-free-device
 https://theverge.com/tech/1032084/google-wallet-digital-home-key-smart-lock-rollout
+https://theverge.com/tech/1032226/microsoft-outlook-is-down
+https://theverge.com/tech/1032390/bmx-solidsafe-semi-solid-state-20k-laptop-power-bank
+https://theverge.com/tech/1032419/reuters-jensen-huang-had-an-intimate-relationship-with-another-nvidia-employee-too
+https://theverge.com/tech/1032434/nvidia-jensen-huang-resignation-reactions
+https://theverge.com/tech/1032774/president-donald-trump-tim-cook-nvidia-jensen-huang
 https://theverge.com/tech/24008239/sphere-las-vegas-experience-u2-screen
 https://theverge.com/tech/625223/book-log-read-goodreads
+https://theverge.com/tech/625409/best-robot-vacuum-mops
 https://theverge.com/tech/784323/upgrading-240hz-oled-gaming-monitor
 https://theverge.com/tech/795383/google-pixel-watch-4-review-android-smartwatch-gemini-wearable
 https://theverge.com/tech/798921/facebook-local-jobs-us
@@ -3204,9 +3222,12 @@ https://theverge.com/tech/805554/i-bought-hallmarks-light-and-sound-xbox-360-chr
 https://theverge.com/tech/829002/youre-buying-a-frame-tv-its-okay-to-cheap-out-a-little
 https://theverge.com/tech/849742/how-to-tune-algorithms-recommendations-online-platforms
 https://theverge.com/tech/851298/clicks-communicator-phone-blackberry-keyboard
+https://theverge.com/tech/852121/roborock-saros-rover-stair-climbing-robot-vacuum-ces-2026
+https://theverge.com/tech/852598/mui-board-smart-home-controller-matter
 https://theverge.com/tech/853006/govee-sky-ceiling-light-ultra-specs
 https://theverge.com/tech/854183/oled-gaming-monitors-rgb-stripe-lg-samsung-display-ces-2026
 https://theverge.com/tech/854519/intel-core-ultra-3-panther-lake-18-a-release-date-decoder-ring
+https://theverge.com/tech/854757/aqara-u400-apple-home-key-hands-free-uwb
 https://theverge.com/tech/855463/amd-strix-halo-ai-max-plus-388-392-handheld-gaming
 https://theverge.com/tech/856883/ces-2026-wi-fi-8-asus-broadcom-mediatek
 https://theverge.com/tech/861248/dreame-leaptic-cube-action-camera-8k-stabilization-ai
