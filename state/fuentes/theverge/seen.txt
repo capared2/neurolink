@@ -481,7 +481,9 @@ https://theverge.com/ai-artificial-intelligence/1032066/yahoo-is-the-first-to-si
 https://theverge.com/ai-artificial-intelligence/1032069/jensen-huang-resignation-affair-chips-smuggling
 https://theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery
 https://theverge.com/ai-artificial-intelligence/1032126/alex-baby-you-were-recorded-on-video
+https://theverge.com/ai-artificial-intelligence/1032339/lets-talk-about-the-nvidia-shitshow
 https://theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen
+https://theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on
 https://theverge.com/ai-artificial-intelligence/648595/anthropic-claude-research-google-workplace
 https://theverge.com/ai-artificial-intelligence/679852/trump-ai-safety-institute-name-mission-change
 https://theverge.com/ai-artificial-intelligence/767973/vibe-coding-ai-future-end-evolution
@@ -893,6 +895,8 @@ https://theverge.com/entertainment/1030272/billboard-charts-will-include-youtube
 https://theverge.com/entertainment/1030345/paramount-skydance-says-it-will-offer-hbo-max-and-paramount-plus-as-a-bundle-starting-in-early-2027
 https://theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai
 https://theverge.com/entertainment/1030682/spotify-dj-gets-new-voices-and-the-ability-to-stop-yammering
+https://theverge.com/entertainment/1032895/some-friday-the-13th-news-on-friday-the-13th
+https://theverge.com/entertainment/1032927/tubi-kickstarter-fandom-fund
 https://theverge.com/entertainment/803022/hbo-it-welcome-to-derry-review
 https://theverge.com/entertainment/815745/pluribus-review-apple-tv
 https://theverge.com/entertainment/845459/disclosure-day-spielberg-trailer-release-date
@@ -1174,6 +1178,7 @@ https://theverge.com/gadgets/1024273/samsungs-smart-glasses-might-stick-to-the-u
 https://theverge.com/gadgets/1024416/apple-watch-ultra-4-ugreen-finetrack-2-bluetooth-tracker-deal-sale
 https://theverge.com/gadgets/1024433/black-friday-2026-giveaway-sweepstakes
 https://theverge.com/gadgets/1024504/redmagic-12-pro-liquid-cooling-rgb-lighting-185hz-camera
+https://theverge.com/gadgets/1024777/best-gifts-for-dad-2026
 https://theverge.com/gadgets/1025370/google-pixel-11-pro-phone-deal-sale
 https://theverge.com/gadgets/1025466/google-pixel-buds-pro-2-borderlands-goty-nintendo-switch-deal-sale
 https://theverge.com/gadgets/1025498/google-home-smart-speaker-holiday-2026-deal-sale
@@ -1755,6 +1760,7 @@ https://theverge.com/news/1027400/nvidia-geforce-8800-gtx-unboxing-steam-demo
 https://theverge.com/news/1028281/salon-dot-com-shuts-down
 https://theverge.com/news/1028375/the-new-york-times-letterboxd-acquisition-report
 https://theverge.com/news/1028549/protesters-microsoft-data-center-site-amsterdam
+https://theverge.com/news/1028667/its-now-easier-to-try-a-secretlab-chair-depending-on-where-you-live
 https://theverge.com/news/1029248/tsmc-is-apparently-considering-getting-into-the-ram-business-at-the-request-of-nvidia
 https://theverge.com/news/1029822/sony-playstation-portal-japan-model-additional-storage
 https://theverge.com/news/1030714/gta-vi-xbox-cloud-gaming-support
@@ -1798,6 +1804,7 @@ https://theverge.com/news/672092/senate-republican-vote-car-truck-pollution-ev-w
 https://theverge.com/news/676726/netflix-the-altruists-casting-ftx-sam-bankman-fried-caroline-ellison
 https://theverge.com/news/678454/wyze-bulb-cam-smart-light-security-camera-price-specs-release-date
 https://theverge.com/news/683846/macos-tahoe-intel-x86-arm-m-cpu
+https://theverge.com/news/684374/tubi-kickstarter-initiative
 https://theverge.com/news/686625/google-first-major-snapseed-update-years
 https://theverge.com/news/687749/spigen-apple-watch-classic-c1-charger-stand
 https://theverge.com/news/693535/microsoft-layoffs-july-2025-xbox
@@ -2031,6 +2038,7 @@ https://theverge.com/podcast/1030201/private-torrent-trackers-vergecast
 https://theverge.com/podcast/1031176/nvidia-jensen-huang-spy-vergecast
 https://theverge.com/podcast/1031260/nvidia-jensen-huang-resign-china-spy-scandal-ai-chips-trump
 https://theverge.com/podcast/1032130/todays-vergecast-jensen-huang-resigns-and-our-homeview-review
+https://theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast
 https://theverge.com/podcast/889177/prediction-markets-news-gambling-polymarket-kalshi-iran-war-regulation
 https://theverge.com/podcast/905198/meta-lawsuits-facebook-instagram-youtube-social-media-addiction-section-230
 https://theverge.com/podcast/969231/samsung-unpacked-2026-vergecast-livestream
@@ -2184,6 +2192,7 @@ https://theverge.com/policy/1030738/trump-drops-weathertech-founder-as-ftc-nomin
 https://theverge.com/policy/1031575/digital-fairness-act-eu-dfa-consumer-protection
 https://theverge.com/policy/1031580/jensen-huangs-affair-reportedly-has-taiwan-and-us-cabinet-officials-rattled
 https://theverge.com/policy/1031587/the-us-should-lose-its-measles-elimination-status-scientists-say
+https://theverge.com/policy/1032645/jonathan-haidt-critics-response-meta
 https://theverge.com/policy/677373/lawyers-chatgpt-hallucinations-ai
 https://theverge.com/policy/694155/big-balls-is-still-here
 https://theverge.com/policy/799473/facebook-meta-ice-jawboning
@@ -3207,13 +3216,22 @@ https://theverge.com/tech/1031905/now-anyone-can-make-custom-plugins-for-the-mpc
 https://theverge.com/tech/1031981/googles-gemini-app-is-now-available-in-apple-carplay
 https://theverge.com/tech/1032048/nothing-carl-pei-teaser-ai-screen-free-device
 https://theverge.com/tech/1032084/google-wallet-digital-home-key-smart-lock-rollout
+https://theverge.com/tech/1032141/paprika-4-recipe-grocery-pantry-app-update-subscription-hands-on
 https://theverge.com/tech/1032226/microsoft-outlook-is-down
 https://theverge.com/tech/1032390/bmx-solidsafe-semi-solid-state-20k-laptop-power-bank
 https://theverge.com/tech/1032419/reuters-jensen-huang-had-an-intimate-relationship-with-another-nvidia-employee-too
 https://theverge.com/tech/1032434/nvidia-jensen-huang-resignation-reactions
+https://theverge.com/tech/1032550/apple-macbook-pro-proled-xdr-lid-logo-led-rgb-colors
 https://theverge.com/tech/1032774/president-donald-trump-tim-cook-nvidia-jensen-huang
 https://theverge.com/tech/1032816/muse-can-make-outbound-phone-calls-for-you
 https://theverge.com/tech/1032825/jensen-huang-im-a-piece-of-shit
+https://theverge.com/tech/1032838/jensen-did-so-many-good-things-and-he-needs-a-second-chance
+https://theverge.com/tech/1032862/microsoft-outlook-down-outage
+https://theverge.com/tech/1032905/lego-bricklink-marketplace-online-unusual-activity-user-info-compromised
+https://theverge.com/tech/1032920/apple-smart-home-collection-release-ship-dates-available-pricing
+https://theverge.com/tech/1033026/camp-snap-retro-digital-video-campcorder-cs-8-micro-keychain
+https://theverge.com/tech/1033051/nvidia-jensen-huang-chips-gpu-supply-chain-climate-pollution
+https://theverge.com/tech/1033076/apple-tv-4k-youtube-error
 https://theverge.com/tech/24008239/sphere-las-vegas-experience-u2-screen
 https://theverge.com/tech/625223/book-log-read-goodreads
 https://theverge.com/tech/625409/best-robot-vacuum-mops
@@ -4094,6 +4112,7 @@ https://theverge.com/transportation/1031554/oyota-scion-kei-01-truck-revival
 https://theverge.com/transportation/1031594/a-temporary-stay-of-execution-for-the-cybertruck
 https://theverge.com/transportation/1031845/spirits-former-flight-attendants-protect-their-data-from-google
 https://theverge.com/transportation/1031991/elon-musk-cancels-cybertruck-tesla-fans-backlash
+https://theverge.com/transportation/1032894/bmw-hit-with-a-massive-recall-over-fire-risk
 https://theverge.com/transportation/760217/a-wild-miraidon-appeared
 https://theverge.com/transportation/781908/electric-cargo-bike-car-replace-bike-bus
 https://theverge.com/transportation/784461/lucid-nuro-uber-robotaxi-first-vehicle-delivery

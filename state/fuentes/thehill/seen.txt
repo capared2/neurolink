@@ -352,6 +352,7 @@ https://thehill.com/business/6214139-warren-targets-corporate-america-senate-ban
 https://thehill.com/business/6214833-nvidia-ceo-jesen-huang-affair
 https://thehill.com/business/6215618-fed-chair-warsh-pet-care-trades
 https://thehill.com/business/6215959-jensen-huang-resigns-nvidia-stock-drops
+https://thehill.com/business/6217149-ai-industry-stability-threatened-nvidia-huang
 https://thehill.com/business/agriculture/6052290-ranchers-protest-foreign-imported-beef
 https://thehill.com/business/agriculture/6160126-farmers-to-get-one-time-payments-from-8-billion-program-trump-says-what-to-know
 https://thehill.com/business/budget/6118661-gao-trump-rescission-unlawful
@@ -1404,7 +1405,14 @@ https://thehill.com/homenews/administration/6215926-white-house-counsel-vows-fig
 https://thehill.com/homenews/administration/6216059-trump-criticizes-gop-midterm-losses
 https://thehill.com/homenews/administration/6217132-shapiro-trump-corruption-smoke
 https://thehill.com/homenews/administration/6217391-trump-wants-cuba-change
+https://thehill.com/homenews/administration/6217922-live-updates-trump-senate-midterm-elections
 https://thehill.com/homenews/administration/6217994-trump-nvidia-ceo-huang-resignation
+https://thehill.com/homenews/administration/6218454-bessent-lutnick-megaspeed-dispute
+https://thehill.com/homenews/administration/6218493-white-house-cftc-sec-nominations-senate
+https://thehill.com/homenews/administration/6218757-trump-approval-iran-midterms-2028
+https://thehill.com/homenews/administration/6218825-doj-designates-english-official
+https://thehill.com/homenews/administration/6218905-whcd-trump-assassination-terrorism-charge
+https://thehill.com/homenews/administration/6218907-trump-staffers-require-approval-meetings
 https://thehill.com/homenews/analysis/6040221-democrats-leftist-win-senate-race
 https://thehill.com/homenews/analysis/6042626-treasury-secretary-bessent-buyback
 https://thehill.com/homenews/analysis/6057609-gop-campaign-centered-trump
@@ -2297,6 +2305,7 @@ https://thehill.com/homenews/campaign/6185616-potential-senate-upsets-midterm-el
 https://thehill.com/homenews/campaign/6185640-alaska-senate-spoiler-probe
 https://thehill.com/homenews/campaign/6185721-colin-allred-wins-texas-house-seat-2026-midterms
 https://thehill.com/homenews/campaign/6185743-rnc-chair-predicts-midterm-wins
+https://thehill.com/homenews/campaign/6185752-alaska-ranked-choice-voting
 https://thehill.com/homenews/campaign/6185985-el-sayed-stevens-michigan-senate
 https://thehill.com/homenews/campaign/6186007-peltola-sullivan-vote-confusion-lawsuit
 https://thehill.com/homenews/campaign/6186054-ricketts-osborn-nebraska-senate
@@ -2501,6 +2510,9 @@ https://thehill.com/homenews/campaign/6216694-nate-silver-trump-era-end
 https://thehill.com/homenews/campaign/6217361-mike-pence-revisits-2028-run
 https://thehill.com/homenews/campaign/6217818-trump-praises-colom-mississippi-victory
 https://thehill.com/homenews/campaign/6217945-jones-wins-california-house-race
+https://thehill.com/homenews/campaign/6218241-donald-trump-barack-obama-potential-matchup-midterms-postelection
+https://thehill.com/homenews/campaign/6218300-john-kennedy-vance-midterm-elections
+https://thehill.com/homenews/campaign/6218515-colom-denies-schumer-recruitment
 https://thehill.com/homenews/campaign/data-nerds/6040929-democratic-socialist-angie-nixon-florida-upset-what-to-know-discussion
 https://thehill.com/homenews/campaign/data-nerds/6054870-democratic-party-senate-control-division-2026-midterms-discussion
 https://thehill.com/homenews/campaign/data-nerds/6068929-abdul-el-sayed-democratic-tensions-michigan-senate-race-discussion
@@ -2952,10 +2964,14 @@ https://thehill.com/homenews/house/6215558-house-passes-major-richard-star-act-r
 https://thehill.com/homenews/house/6215755-stansbury-missed-hegseth-vote
 https://thehill.com/homenews/house/6216614-jensen-huang-congress-testimony
 https://thehill.com/homenews/house/6216928-congressional-support-veteran-dental-care
+https://thehill.com/homenews/house/6217371-congress-democrats-trump-administration-investigations
 https://thehill.com/homenews/house/6217461-petition-pressley-speaker-house
+https://thehill.com/homenews/house/6217527-hegseth-impeachment-vote-debacle
 https://thehill.com/homenews/house/6217576-gop-lawmaker-says-party-is-focusing-on-political-power-rather-than-people
 https://thehill.com/homenews/house/6217770-democrats-backlash-white-house-ballroom-size
 https://thehill.com/homenews/house/6217833-boebert-blames-policy-market-losses
+https://thehill.com/homenews/house/6218558-robert-garcia-todd-blanche-doj-democrats-midterms
+https://thehill.com/homenews/house/6219110-pulido-wins-latin-grammy
 https://thehill.com/homenews/lgbtq/6044688-log-cabin-republicans-transgender-support-ends
 https://thehill.com/homenews/media/6040779-alina-habba-press-secretary-karoline-leavitt
 https://thehill.com/homenews/media/6045875-scott-jennings-press-secretary-reports
@@ -3390,7 +3406,9 @@ https://thehill.com/homenews/senate/6217212-jim-banks-howard-lutnick-testimony-n
 https://thehill.com/homenews/senate/6217381-senate-democrats-control-majority
 https://thehill.com/homenews/senate/6217524-shaheen-tillis-ukraine-starshield-probe
 https://thehill.com/homenews/senate/6217635-senate-democrats-threaten-shutdown-iran
+https://thehill.com/homenews/senate/6217691-republican-reconciliation-threatens-government-funding
 https://thehill.com/homenews/senate/6217923-van-hollen-challenges-schumer
+https://thehill.com/homenews/senate/6219158-peggy-flanagan-backs-van-hollen
 https://thehill.com/homenews/space/6054908-where-northern-lights-may-shine-amid-geomagnetic-storm-watches
 https://thehill.com/homenews/space/6057441-americans-skeptical-ufo-origins-gallup-poll
 https://thehill.com/homenews/space/6067876-nasa-jared-isaacman-outlines-moon-base
@@ -3791,6 +3809,7 @@ https://thehill.com/media/6189376-van-jones-haley-stevens-endorsement
 https://thehill.com/media/6207297-erika-kirk-dave-chappelle-joke-charlie-kirk-beyond-disgusting
 https://thehill.com/media/6208248-karen-attiah-washington-post-arbitration-job
 https://thehill.com/media/6209028-doug-burgum-security-detail-tmz
+https://thehill.com/media/6218982-swisher-trump-nvidia-huang-scandal
 https://thehill.com/national-security/6096900-fisa-section-702-congress-fisc-national-intelligence
 https://thehill.com/national-security/6215401-jim-himes-fisa-702-extension-spy-powers-congress
 https://thehill.com/newsletters/1230-report/6041657-us-citizen-china-detained-darline-graham-ossoff-trump-harp
@@ -3853,6 +3872,7 @@ https://thehill.com/newsletters/1230-report/6208459-pete-hegseth-impeachment-jd-
 https://thehill.com/newsletters/1230-report/6211135-hegseth-says-impeachment-not-about-me
 https://thehill.com/newsletters/1230-report/6213717-ballot-drops-in-alaska-mississippi-expand-democratic-leads-a-bit
 https://thehill.com/newsletters/1230-report/6216397-jensen-huang-nvidia-pete-hegseth-starshield-blumenthal-ballroom
+https://thehill.com/newsletters/1230-report/6219121-scott-bessent-nvidia-ai-chips-scandal-senate-democrats-midterms-maha-battle
 https://thehill.com/newsletters/business-economy/6042370-bond-markets-rattle-economy-sparking-controversial-buyback
 https://thehill.com/newsletters/business-economy/6044524-gop-raises-concerns-over-trump-lifting-certain-ground-beef-tariffs
 https://thehill.com/newsletters/business-economy/6050352-canada-to-place-retaliatory-tariffs-on-us-goods
@@ -4143,6 +4163,7 @@ https://thehill.com/newsletters/morning-report/6207425-stephen-miller-era-white-
 https://thehill.com/newsletters/morning-report/6209875-congress-lame-duck-session-what-to-know-hegseth-impeachment-nvidia-midterms
 https://thehill.com/newsletters/morning-report/6212705-house-hegseth-impeachment-vote-blocked-gop-leadership-elections-economy
 https://thehill.com/newsletters/morning-report/6215335-chris-van-hollen-chuck-schumer-senate-democratic-leadership-midterms-2026
+https://thehill.com/newsletters/morning-report/6218178-alaska-senate-race-uncalled-3-scenarios-midterms
 https://thehill.com/newsletters/on-the-ballot/6038891-on-the-ballot-bipartisan-couples-tough-odds-research
 https://thehill.com/newsletters/on-the-ballot/6051469-on-the-ballot-markey-moulton-massachusetts-senate-primary
 https://thehill.com/newsletters/on-the-ballot/6066962-on-the-ballot-hasan-piker-democrats-michigan
@@ -4269,6 +4290,7 @@ https://thehill.com/newsletters/whole-hog-politics/6152324-gop-cuts-texas-midter
 https://thehill.com/newsletters/whole-hog-politics/6167055-key-congressional-races-2026
 https://thehill.com/newsletters/whole-hog-politics/6182627-midterm-election-night-guide
 https://thehill.com/newsletters/whole-hog-politics/6202759-gop-midterm-defeat-trumpism
+https://thehill.com/newsletters/whole-hog-politics/6217447-national-popular-vote-compact-plans
 https://thehill.com/newsletters/whole-hog-politics/whole-hog-politics-live-briefing/6043072-bipartisan-data-center-backlash-political-influence-discussion
 https://thehill.com/newsletters/whole-hog-politics/whole-hog-politics-live-briefing/6056700-hasan-piker-democrats-senate-control-texas-new-hampshire-gop-midterms-discussion
 https://thehill.com/newsletters/whole-hog-politics/whole-hog-politics-live-briefing/6070985-vance-el-sayed-controversial-friends-discussion
@@ -4281,6 +4303,7 @@ https://thehill.com/newsletters/whole-hog-politics/whole-hog-politics-live-brief
 https://thehill.com/newsletters/whole-hog-politics/whole-hog-politics-live-briefing/6167461-hillary-clinton-supreme-court-expansion-live-discussion
 https://thehill.com/newsletters/whole-hog-politics/whole-hog-politics-live-briefing/6183370-peltola-controversy-senate-control-fight-midterms-live-discussion
 https://thehill.com/newsletters/whole-hog-politics/whole-hog-politics-live-briefing/6203333-gop-future-post-donald-trump-2026-midterm-results-live-discussion
+https://thehill.com/newsletters/whole-hog-politics/whole-hog-politics-live-briefing/6218220-democrats-pete-hegseth-impeachment-legislative-moves-live-discussion
 https://thehill.com/opinion/6041890-ohio-top-state-business
 https://thehill.com/opinion/6043861-supreme-court-reform
 https://thehill.com/opinion/6054052-trump-ground-beef-tariff-claim
@@ -4453,6 +4476,11 @@ https://thehill.com/opinion/campaign/6211785-democrats-big-tech-accountability-m
 https://thehill.com/opinion/campaign/6213530-democrats-must-defend-abortion-rights
 https://thehill.com/opinion/campaign/6214196-democratic-party-state-power
 https://thehill.com/opinion/campaign/6214280-poll-accuracy-analysis-report
+https://thehill.com/opinion/campaign/6215499-new-post-trump-political-alignment
+https://thehill.com/opinion/campaign/6216492-bipartisan-support-voter-id-laws
+https://thehill.com/opinion/campaign/6216545-progressives-take-congress-leadership
+https://thehill.com/opinion/campaign/6216659-presidential-open-seat-history
+https://thehill.com/opinion/campaign/6217508-democrats-reclaim-senate-control
 https://thehill.com/opinion/civil-rights/6042440-meaning-behind-woke-language
 https://thehill.com/opinion/civil-rights/6043787-business-refuses-service-religious-political-views
 https://thehill.com/opinion/civil-rights/6044413-debate-jewish-religion-race
@@ -4583,6 +4611,7 @@ https://thehill.com/opinion/criminal-justice/6190513-us-trafficking-report-slash
 https://thehill.com/opinion/criminal-justice/6204681-why-us-violence-escalates
 https://thehill.com/opinion/criminal-justice/6205251-alabama-judicial-override-not-retroactive
 https://thehill.com/opinion/criminal-justice/6211563-newsom-commutes-death-row-sentences
+https://thehill.com/opinion/criminal-justice/6218590-bipartisan-public-safety-bills
 https://thehill.com/opinion/cybersecurity/6047624-iranian-hackers-water-infrastructure
 https://thehill.com/opinion/cybersecurity/6077287-cybersecurity-needs-aviation-security-layers
 https://thehill.com/opinion/cybersecurity/6086743-ncc-to-oversee-vetted-hacking-firms
@@ -4806,6 +4835,7 @@ https://thehill.com/opinion/immigration/6168556-doj-undocumented-tuition-lawsuit
 https://thehill.com/opinion/immigration/6192860-congress-should-rethink-tps-haiti
 https://thehill.com/opinion/immigration/6201644-new-congress-immigration-agenda
 https://thehill.com/opinion/immigration/6213068-dhs-social-media-detainee-photos
+https://thehill.com/opinion/immigration/6214421-democrats-immigration-enforcement-accountability
 https://thehill.com/opinion/international/6036841-turkey-saudi-pakistan-military-pact
 https://thehill.com/opinion/international/6040259-trump-tripp-eurasian-peace-route
 https://thehill.com/opinion/international/6044866-vance-urges-ukraine-energy-strikes
@@ -4918,6 +4948,7 @@ https://thehill.com/opinion/international/6211452-us-recommit-wto-rules
 https://thehill.com/opinion/international/6211857-miller-white-house-chief-staff
 https://thehill.com/opinion/international/6212148-draconian-censorship-law-adopted
 https://thehill.com/opinion/international/6212486-trump-iran-policy-pressure
+https://thehill.com/opinion/international/6216669-scrutinizing-wartime-information-environment
 https://thehill.com/opinion/judiciary/6033495-california-black-infant-health-lawsuit
 https://thehill.com/opinion/judiciary/6048289-trump-fomb-puerto-rico-electricity
 https://thehill.com/opinion/judiciary/6050362-nfl-cte-one-fourth
@@ -5069,7 +5100,9 @@ https://thehill.com/opinion/national-security/6208594-europe-bomb-threats-hybrid
 https://thehill.com/opinion/national-security/6212104-veterans-day-military-service-rights
 https://thehill.com/opinion/national-security/6212551-iran-nuclear-conflict-costs
 https://thehill.com/opinion/national-security/6213751-witkoff-kushner-outplayed-russia
+https://thehill.com/opinion/national-security/6213835-iran-cyberattack-us-readiness
 https://thehill.com/opinion/national-security/6213893-nvidia-ceo-jensen-huang-affair
+https://thehill.com/opinion/national-security/6215155-russian-economy-worsens-inflation-rises
 https://thehill.com/opinion/robbys-radar/6041771-cnn-erin-burnett-natalie-harp
 https://thehill.com/opinion/robbys-radar/6047297-data-centers-public-opposition
 https://thehill.com/opinion/robbys-radar/6049731-el-sayed-hasan-piker-distancing
@@ -5273,6 +5306,7 @@ https://thehill.com/opinion/white-house/6208468-trump-iran-regime-change-plan
 https://thehill.com/opinion/white-house/6209700-gop-must-abandon-trump-loyalty
 https://thehill.com/opinion/white-house/6209749-trump-names-miller-chief-staff
 https://thehill.com/opinion/white-house/6211481-treasury-mint-living-presidents
+https://thehill.com/opinion/white-house/6217237-donald-trump-election-loss
 https://thehill.com/policy/6075420-vance-defends-tucker-carlson-friendship
 https://thehill.com/policy/6088373-snap-benefits-are-changing-in-october-what-to-know
 https://thehill.com/policy/6143341-new-rule-could-impact-your-next-delayed-or-canceled-flight
@@ -5851,6 +5885,7 @@ https://thehill.com/policy/healthcare/6212045-democrats-demand-mfn-drug-details
 https://thehill.com/policy/healthcare/6213788-cdc-responds-measles-elimination-status
 https://thehill.com/policy/healthcare/6213972-senate-health-overton-vote
 https://thehill.com/policy/healthcare/6216792-acs-updates-prostate-screening
+https://thehill.com/policy/healthcare/6217333-calley-means-susie-wiles-feud-maha
 https://thehill.com/policy/healthcare/6217459-cdc-cuts-texas-hiv-funding
 https://thehill.com/policy/international/6040680-iran-minister-slams-trump-economic-dday
 https://thehill.com/policy/international/6042225-rubio-cuba-sanctions
@@ -6107,6 +6142,7 @@ https://thehill.com/policy/international/6213787-alexander-darchiev-russian-amba
 https://thehill.com/policy/international/6215721-zelensky-starshield-speed-restrictions
 https://thehill.com/policy/international/6217022-witkoff-kushner-zelensky-meeting-starshield-update
 https://thehill.com/policy/international/6217318-macron-europe-ukraine-support
+https://thehill.com/policy/international/6218870-russia-ukraine-negotiations-europe
 https://thehill.com/policy/national-security/6049802-cia-director-ratcliffe-moscow-visit
 https://thehill.com/policy/national-security/6056134-senators-oppose-ice-shocking-gloves
 https://thehill.com/policy/national-security/6059574-homan-ice-bus-stop-arrests
@@ -6454,6 +6490,8 @@ https://thehill.com/policy/technology/6217470-democrats-investigate-trump-nvidia
 https://thehill.com/policy/technology/6217564-trump-jr-kalshi-advisory-end
 https://thehill.com/policy/technology/6217605-north-korean-hackers-stole-crypto
 https://thehill.com/policy/technology/6217630-spacex-plans-data-centers-texas-arizona
+https://thehill.com/policy/technology/6218199-microsoft-outage-recovery-process
+https://thehill.com/policy/technology/6218235-howard-lutnick-testimony-congress-nvidia-scandal-chip-exports
 https://thehill.com/policy/transportation/6050209-tsa-phases-out-gold-program
 https://thehill.com/policy/transportation/6050669-uber-new-family-features-teen-accounts-stream-safety
 https://thehill.com/policy/transportation/6059553-google-maps-renames-lake-america
@@ -6771,6 +6809,9 @@ https://thehill.com/the-120/6214202-rand-paul-seeks-gop-help-leadership
 https://thehill.com/the-120/6214240-sanders-supports-van-hollen
 https://thehill.com/the-120/6214383-senate-immigration-reform-bipartisan-push
 https://thehill.com/the-120/6214824-dembo-hegseth-impeachment-vote
+https://thehill.com/the-120/6217340-gen-z-congress-representation-triples
+https://thehill.com/the-120/6218440-talarico-democrats-trump-bipartisanship
+https://thehill.com/the-120/6218667-mary-peltola-alaska-senate-lead
 https://thehill.com/the-hill-notable-staffers-2026/6063654-raphael-schreiber-legislative-director-thomas-massie
 https://thehill.com/the-hill-notable-staffers-2026/6064525-rubi-flores-policy-director-congressional-hispanic-caucus
 https://thehill.com/the-hill-notable-staffers-2026/6067510-omar-hossino-chief-counsel-national-security-adviser-house-republican-policy-committee
@@ -7012,4 +7053,5 @@ https://thehill.com/video-clips/6213394-watch-the-hill-talks-strengthening-denta
 https://thehill.com/video-clips/6213933-watch-live-house-veterans-day-tribute-johnson-jeffries-midterms
 https://thehill.com/video-clips/6215854-watch-live-rfk-jr-doug-collins-veterans-mental-health-ptsd
 https://thehill.com/video-clips/6215905-watch-live-hakeem-jeffries-leadership-press-conference-postelection-wins-lame-duck-goals
+https://thehill.com/video-clips/6218733-watch-live-van-hollen-remarks-whats-next-conference-denver-schumer-challenge-midterms
 https://thehill.com/video-clips/political-news-clips/6076019-at-least-5-dead-several-hospitalized-after-amazon-cargo-plane-crashes-at-miami-airport-newsnation-yt
