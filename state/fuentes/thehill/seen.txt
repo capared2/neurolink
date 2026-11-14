@@ -1418,6 +1418,8 @@ https://thehill.com/homenews/administration/6218905-whcd-trump-assassination-ter
 https://thehill.com/homenews/administration/6218907-trump-staffers-require-approval-meetings
 https://thehill.com/homenews/administration/6219494-desantis-denies-hegseth-replacement
 https://thehill.com/homenews/administration/6219713-kevin-hassett-denies-departure
+https://thehill.com/homenews/administration/6220243-rubio-federalist-society-remarks-2028-preview
+https://thehill.com/homenews/administration/6220278-trump-putin-xi-trilateral-meeting
 https://thehill.com/homenews/analysis/6040221-democrats-leftist-win-senate-race
 https://thehill.com/homenews/analysis/6042626-treasury-secretary-bessent-buyback
 https://thehill.com/homenews/analysis/6057609-gop-campaign-centered-trump
@@ -2243,6 +2245,7 @@ https://thehill.com/homenews/campaign/6181955-wyoming-chuck-gray-wins-congress
 https://thehill.com/homenews/campaign/6181972-sherrod-brown-wins-ohio-senate-race
 https://thehill.com/homenews/campaign/6182002-forstag-wins-montana-house-race
 https://thehill.com/homenews/campaign/6182006-matt-little-wins-minnesota-congressional
+https://thehill.com/homenews/campaign/6182120-democrat-kreiss-tomkins-wins-alaska
 https://thehill.com/homenews/campaign/6182151-garrett-wins-tennessee-house-race
 https://thehill.com/homenews/campaign/6182199-alme-wins-montana-senate-race
 https://thehill.com/homenews/campaign/6182241-ricketts-wins-nebraska-senate-race
@@ -3995,6 +3998,7 @@ https://thehill.com/newsletters/defense-national-security/6205686-dc-officials-a
 https://thehill.com/newsletters/defense-national-security/6209567-massie-kicks-hegseth-impeachment
 https://thehill.com/newsletters/defense-national-security/6214779-a-missed-opportunity-dems-stew-over-vote-on-hegseth-impeachment
 https://thehill.com/newsletters/defense-national-security/6217655-pentagon-greenlights-poland-base
+https://thehill.com/newsletters/defense-national-security/6220214-hegseth-directs-pentagon-cfo-to-transform-military-pay-systems
 https://thehill.com/newsletters/energy-environment/6042606-wetlands-policy-causes-gop-friction
 https://thehill.com/newsletters/energy-environment/6044586-doi-outlines-short-term-plan-for-water-cuts-in-ca-az-nv
 https://thehill.com/newsletters/energy-environment/6047881-politicians-aim-to-distance-themselves-from-data-centers
@@ -4106,6 +4110,7 @@ https://thehill.com/newsletters/healthcare/6209318-feud-exposes-maha-fault-lines
 https://thehill.com/newsletters/healthcare/6212112-cms-blocks-112m-in-medicaid-funding-to-minnesota
 https://thehill.com/newsletters/healthcare/6214745-gop-presses-ahead-with-overton-nomination
 https://thehill.com/newsletters/healthcare/6217769-top-dems-cms-must-give-states-more-time-on-medicaid-work-rules
+https://thehill.com/newsletters/healthcare/6220185-u-s-poised-to-lose-measles-elimination-status
 https://thehill.com/newsletters/keeping-score/6046222-kyle-kirkwood-trump-freedom-250-grand-prix-indycar
 https://thehill.com/newsletters/keeping-score/6046806-san-francisco-49ers-owner-arrested-in-ohio
 https://thehill.com/newsletters/keeping-score/6057895-mark-walter-lakers-sale-controversy
@@ -6229,6 +6234,7 @@ https://thehill.com/policy/sports-gaming/6202125-liv-golf-bankruptcy-hearing
 https://thehill.com/policy/sports-gaming/6208535-desantis-opposes-expanded-college-football-playoffs
 https://thehill.com/policy/sports-gaming/6211189-trump-east-potomac-golf-renovation
 https://thehill.com/policy/sports-gaming/6211275-khanna-calls-sports-betting-ban
+https://thehill.com/policy/sports-gaming/6220145-faa-ground-stop-impacts-college-football
 https://thehill.com/policy/technology/6042267-cftc-crypto-clarity-act
 https://thehill.com/policy/technology/6042349-darth-vader-flock-surveillance
 https://thehill.com/policy/technology/6042582-ai-infrastructure-political-toxicity-midterms
@@ -6554,6 +6560,9 @@ https://thehill.com/policy/transportation/6219491-tanker-collides-with-riverboat
 https://thehill.com/policy/transportation/6219722-faa-issues-us-flight-ground-stop
 https://thehill.com/policy/transportation/6219936-mullin-faa-telecommunication-outage-ground-stop
 https://thehill.com/policy/transportation/6220064-garcia-calls-faa-ground-stop-disturbing
+https://thehill.com/policy/transportation/6220313-faa-lifts-nationwide-ground-stop
+https://thehill.com/policy/transportation/6220399-duffy-billions-air-traffic-ground-stop
+https://thehill.com/policy/transportation/6220416-faa-smart-ai-ground-stop-denial
 https://thehill.com/policy/transportation/aviation/6074113-amazon-cargo-plane-sends-up-billowing-cloud-of-smoke-after-overrunning-runway-at-miami-airport
 https://thehill.com/premium/6146473-trump-administration-supreme-court-emergency-docket
 https://thehill.com/regulation/court-battles/6042548-woman-arrested-ny-state-capitol-bomb-plot
@@ -7082,4 +7091,5 @@ https://thehill.com/video-clips/6213933-watch-live-house-veterans-day-tribute-jo
 https://thehill.com/video-clips/6215854-watch-live-rfk-jr-doug-collins-veterans-mental-health-ptsd
 https://thehill.com/video-clips/6215905-watch-live-hakeem-jeffries-leadership-press-conference-postelection-wins-lame-duck-goals
 https://thehill.com/video-clips/6218733-watch-live-van-hollen-remarks-whats-next-conference-denver-schumer-challenge-midterms
+https://thehill.com/video-clips/6220247-watch-duffy-mullin-hold-press-briefing-on-faa-nationwide-ground-stop
 https://thehill.com/video-clips/political-news-clips/6076019-at-least-5-dead-several-hospitalized-after-amazon-cargo-plane-crashes-at-miami-airport-newsnation-yt
