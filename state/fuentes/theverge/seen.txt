@@ -43,6 +43,7 @@ https://theverge.com/2019/8/28/20836524/google-pixel-3a-production-china-nokia-f
 https://theverge.com/2020/1/6/21054353/samsung-ballie-robot-ai-assistant-ces-2020
 https://theverge.com/2020/10/15/21516729/facebook-twitter-new-york-post-hunter-biden-emails-laptop-story-social-media-moderation-problems
 https://theverge.com/2020/10/22/21528404/quibi-shut-down-cost-subscribers-content-tv-movies-katzenberg-whitman-tiktok-netflix
+https://theverge.com/2020/11/3/21548201/natural-cycles-oura-digital-wearable-birth-control-fda
 https://theverge.com/2020/12/18/22189637/space-force-military-branch-official-name-guardians
 https://theverge.com/2020/2/13/21136623/huawei-wanzhou-meng-doj-trade-secrets-justice-department-zte-china
 https://theverge.com/2020/2/18/21142093/activision-blizzard-overwatch-diablo-tv-show-netflix
@@ -496,6 +497,7 @@ https://theverge.com/ai-artificial-intelligence/1034787/sam-altman-ram-shortage-
 https://theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit
 https://theverge.com/ai-artificial-intelligence/1035020/openai-is-following-through-on-its-vow-to-provide-access-to-third-party-auditors-kind-of
 https://theverge.com/ai-artificial-intelligence/1035096/gemini-notebook-can-now-generate-interactive-sites-using-your-notebook-sources
+https://theverge.com/ai-artificial-intelligence/1035202/gemini-gems-are-retiring-today
 https://theverge.com/ai-artificial-intelligence/648595/anthropic-claude-research-google-workplace
 https://theverge.com/ai-artificial-intelligence/679852/trump-ai-safety-institute-name-mission-change
 https://theverge.com/ai-artificial-intelligence/767973/vibe-coding-ai-future-end-evolution
@@ -1243,6 +1245,7 @@ https://theverge.com/gadgets/1033620/fantikk-s1-pro-electric-screwdriver-black-f
 https://theverge.com/gadgets/1034178/sony-playstation-5-ps5-accessories-monitor-dualsense-headset-deal-sale
 https://theverge.com/gadgets/1034339/sony-black-friday-game-sale-2026-deals
 https://theverge.com/gadgets/1034512/apple-watch-series-12-black-friday-deal-sale
+https://theverge.com/gadgets/1034881/the-verge-best-of-2026
 https://theverge.com/gadgets/712844/today-im-toying-with
 https://theverge.com/gadgets/842702/tetris-my-play-watch-smartwatch-hands-on
 https://theverge.com/gadgets/847777/oh-snap-i-have-a-new-favorite-phone-grip
@@ -1949,6 +1952,7 @@ https://theverge.com/news/858102/characterai-google-teen-suicide-settlement
 https://theverge.com/news/860435/the-kids-are-offline
 https://theverge.com/news/861420/meta-reality-labs-layoffs-vr-studios-twisted-pixel-sanzaru-armature
 https://theverge.com/news/861560/weathertech-founder-david-macneil-federal-trade-commission
+https://theverge.com/news/863046/natural-cycles-wristband-digital-birth-control
 https://theverge.com/news/863282/the-bbc-wants-that-youtube-ad-money
 https://theverge.com/news/865995/who-is-really-in-charge-of-design-at-apple
 https://theverge.com/news/866238/vimeo-layoffs-bending-spoons-acquisition
@@ -3312,11 +3316,14 @@ https://theverge.com/tech/1034316/groundwork-collaborative-investigation-report-
 https://theverge.com/tech/1034355/trump-jensen-huang-nvidia-return
 https://theverge.com/tech/1034397/ronan-farrow-amazon-black-friday-cyber-monday-deals-report-groundwork-collaborative
 https://theverge.com/tech/1034463/apple-pay-and-wallet-have-a-new-leader
+https://theverge.com/tech/1034490/natural-cycles-nc-band-2-lighter-thinner-battery-life-birth-control
 https://theverge.com/tech/1034501/nvidia-board-jensen-huang-not-bringing-back
 https://theverge.com/tech/1034538/microsoft-365-outlook-outage-hotel-chlorine-poisoning
 https://theverge.com/tech/1034581/apple-intelligence-siri-ai-daily-usage-limits-icloud-subscription
 https://theverge.com/tech/1034590/apple-iphone-duo-face-unlock-ios-27-3-beta
 https://theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories
+https://theverge.com/tech/1035195/oh-so-now-nvidia-cares-about-national-security-and-export-controls
+https://theverge.com/tech/1035205/androids-foldable-gamepad-controls-are-rolling-out-to-pixel-folds
 https://theverge.com/tech/24008239/sphere-las-vegas-experience-u2-screen
 https://theverge.com/tech/625223/book-log-read-goodreads
 https://theverge.com/tech/625409/best-robot-vacuum-mops
@@ -3480,6 +3487,7 @@ https://theverge.com/tech/950264/meta-ai-mode-search-facebook
 https://theverge.com/tech/950480/meta-threads-500-million-monthly-active-users-communities-your-algo
 https://theverge.com/tech/950492/snap-specs-ar-glasses-launch-date-preorder
 https://theverge.com/tech/950651/android-17-release-pixel-drop-google-bubble-screen-reaction
+https://theverge.com/tech/950652/android-foldables-are-getting-new-gamepad-controls
 https://theverge.com/tech/952099/adobe-ai-assistants-photoshop-premiere-illustrator-beta-launch
 https://theverge.com/tech/952855/switchbot-standing-circulator-fan-review
 https://theverge.com/tech/956668/meta-facebook-creator-studio-ai-app-relaunch
@@ -4205,6 +4213,7 @@ https://theverge.com/transportation/1033891/thoughts-and-prayers-to-anyone-flyin
 https://theverge.com/transportation/1033898/faa-ground-stop-sean-duffy-faa-copper-wire
 https://theverge.com/transportation/1034039/faa-aviation-glitch-meltdown-ground-stop
 https://theverge.com/transportation/1034321/mercedes-benz-mb-drive-assist-pro-hands-free-highway-assist-2027
+https://theverge.com/transportation/1034794/uber-eats-zipline-drone-delivery-launch-texas-houston-dallas
 https://theverge.com/transportation/1035025/united-airlines-outage-down-departures
 https://theverge.com/transportation/760217/a-wild-miraidon-appeared
 https://theverge.com/transportation/781908/electric-cargo-bike-car-replace-bike-bus
