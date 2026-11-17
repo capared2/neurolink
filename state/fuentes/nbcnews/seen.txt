@@ -37,6 +37,7 @@ https://nbcnews.com/business/consumer/different-prices-ticket-found-stubhub-rcna
 https://nbcnews.com/business/consumer/etsy-restricts-ai-generated-seller-slop-rcna605216
 https://nbcnews.com/business/consumer/halloween-candy-prices-jump-81-americans-stock-rcna601827
 https://nbcnews.com/business/consumer/halloween-candy-sales-are-slow-start-affordability-rcna605395
+https://nbcnews.com/business/consumer/outages-chase-banking-online-branches-rcna609673
 https://nbcnews.com/business/consumer/polymarket-trading-halt-hack-wallets-rcna606405
 https://nbcnews.com/business/consumer/rising-vet-bills-pet-insurance-rcna607621
 https://nbcnews.com/business/consumer/starbucks-not-buying-chipotle-rcna602968
@@ -338,6 +339,7 @@ https://nbcnews.com/health/aspyn-ovard-daughter-terminal-cancer-diagnosis-rcna60
 https://nbcnews.com/health/behavior/exercises-longevity-balance-bone-health-doctor-rcna604784
 https://nbcnews.com/health/behavior/form-deep-social-connections-psychologist-adam-grant-rcna608602
 https://nbcnews.com/health/behavior/phrases-set-boundaries-therapist-expert-tip-rcna607273
+https://nbcnews.com/health/best-cutting-board-material-health-experts-avoid-microplastics-rcna607239
 https://nbcnews.com/health/breast-cancer/amanda-peet-first-breast-cancer-symptom-exclusive-today-rcna600903
 https://nbcnews.com/health/breast-cancer/brca-gene-testing-ivf-embryos-rcna604326
 https://nbcnews.com/health/breast-cancer/breast-cancer-doctor-diagnosed-dcis-rcna601602
@@ -439,6 +441,7 @@ https://nbcnews.com/health/health-care/many-aca-coverage-face-new-crisis-2027-in
 https://nbcnews.com/health/health-care/texas-ag-paxton-investigates-military-healthcare-contractor-denied-cla-rcna592347
 https://nbcnews.com/health/health-care/thought-insurance-coverage-tumor-was-flagged-pre-existing-condition-rcna594220
 https://nbcnews.com/health/health-care/trump-announces-new-drug-pricing-deals-9-pharma-companies-rcna595414
+https://nbcnews.com/health/health-news/100-pregnant-women-confirmed-measles-new-report-finds-rcna609710
 https://nbcnews.com/health/health-news/abbott-settle-allegations-contamination-baby-formula-rcna597750
 https://nbcnews.com/health/health-news/aca-medicare-work-health-insurance-cost-rise-2027-rcna597069
 https://nbcnews.com/health/health-news/alpha-gal-patients-allergy-drug-cut-severity-reactions-red-meat-rcna608856
@@ -464,6 +467,7 @@ https://nbcnews.com/health/health-news/know-kenyas-first-ebola-case-officials-ar
 https://nbcnews.com/health/health-news/low-iron-deficiency-guidelines-blood-testing-diagnosis-ferritin-rcna600575
 https://nbcnews.com/health/health-news/maps-measles-herd-immunity-vaccination-rates-school-counties-rcna608387
 https://nbcnews.com/health/health-news/measles-cases-cdc-pennsylvania-deaths-rfk-jr-rcna596091
+https://nbcnews.com/health/health-news/measles-no-longer-eliminated-us-rcna607920
 https://nbcnews.com/health/health-news/measles-pennsylvania-deaths-two-outbreak-rfk-jr-rcna594296
 https://nbcnews.com/health/health-news/measles-pregnant-vaccines-midwife-pennsylvania-outbreak-rcna607118
 https://nbcnews.com/health/health-news/measles-surged-us-rcna608751
@@ -1507,6 +1511,8 @@ https://nbcnews.com/news/us-news/two-skydivers-die-colliding-southern-california
 https://nbcnews.com/news/us-news/two-street-vendors-identified-victims-la-metro-station-crash-rcna609119
 https://nbcnews.com/news/us-news/tyler-robinson-trial-date-accused-charlie-kirk-assassin-stand-trial-su-rcna608314
 https://nbcnews.com/news/us-news/tyrone-noling-gov-mike-dewine-decide-fate-ohio-death-row-inmate-claimi-rcna594162
+https://nbcnews.com/news/us-news/uber-driver-left-life-threatening-injuries-police-investigate-possible-rcna609664
+https://nbcnews.com/news/us-news/united-airlines-system-outage-rcna609712
 https://nbcnews.com/news/us-news/university-arizona-suspends-fraternity-activities-reports-misconduct-rcna602189
 https://nbcnews.com/news/us-news/university-georgia-student-dancing-couch-window-falls-8-stories-surviv-rcna600465
 https://nbcnews.com/news/us-news/university-maryland-club-tennis-team-apologizes-sharing-abhorrent-raci-rcna603707
@@ -1539,6 +1545,7 @@ https://nbcnews.com/news/us-news/venezuelan-man-shot-ice-texas-says-s-pain-still
 https://nbcnews.com/news/us-news/venezuelan-man-shot-wounded-ice-agent-texas-charged-assaulting-officer-rcna600533
 https://nbcnews.com/news/us-news/verdict-sex-trafficking-alexnder-brothers-rcna261720
 https://nbcnews.com/news/us-news/verdict-trial-tupac-shakurs-killing-former-gang-leader-found-guilty-rcna594859
+https://nbcnews.com/news/us-news/victim-washington-dc-gym-shooting-gun-control-activist-rcna609705
 https://nbcnews.com/news/us-news/victims-amazon-branded-plane-crash-van-suv-rcna596502
 https://nbcnews.com/news/us-news/victims-families-lash-gavin-newsom-mass-commutation-monsters-death-row-rcna609059
 https://nbcnews.com/news/us-news/victims-oregon-quintuple-homicide-include-suspects-girlfriend-relative-rcna594620
@@ -1586,6 +1593,7 @@ https://nbcnews.com/news/us-news/woman-pleads-guilty-murdering-best-friends-6-we
 https://nbcnews.com/news/us-news/woman-sexually-assaulted-fraternity-university-chicago-lawsuit-alleges-rcna604607
 https://nbcnews.com/news/us-news/woman-sexually-assaulted-knifepoint-central-park-rcna605583
 https://nbcnews.com/news/us-news/women-contacted-police-previous-incidents-packers-josh-jacobs-rcna606738
+https://nbcnews.com/news/us-news/women-stranded-faa-ground-stop-buy-ford-bronco-27-hour-road-trip-rcna609629
 https://nbcnews.com/news/us-news/women-sue-epsteins-estate-saying-photos-found-vast-child-porn-collecti-rcna598154
 https://nbcnews.com/news/us-news/yankee-stadium-ny-hospital-cooling-towers-positive-legionnaires-new-cl-rcna597663
 https://nbcnews.com/news/us-news/you-can-see-everything-surges-195m-box-office-clayface-takes-no-1-rcna605656
@@ -1941,6 +1949,7 @@ https://nbcnews.com/politics/donald-trump/trump-calls-federal-tax-incentives-ben
 https://nbcnews.com/politics/donald-trump/trump-election-white-house-ballroom-iran-rcna607487
 https://nbcnews.com/politics/donald-trump/trump-energize-base-midterm-convention-dallas-rcna596592
 https://nbcnews.com/politics/donald-trump/trump-execution-fort-hood-livestream-rcna602672
+https://nbcnews.com/politics/donald-trump/trump-heads-china-jensen-huang-rcna609695
 https://nbcnews.com/politics/donald-trump/trump-hopes-flatter-putin-negotiating-ukraine-experts-say-rcna604770
 https://nbcnews.com/politics/donald-trump/trump-host-summit-top-ai-leaders-washington-rcna599853
 https://nbcnews.com/politics/donald-trump/trump-midterm-elections-voting-machines-doubt-rcna607893
@@ -1964,6 +1973,7 @@ https://nbcnews.com/politics/elections/judge-allows-trumps-mail-ballots-plan-pro
 https://nbcnews.com/politics/elections/missouri-court-opens-contempt-probe-republican-official-redistricting-rcna596803
 https://nbcnews.com/politics/elections/photos-celebration-mourning-blue-wave-sweeps-midterms-rcna607385
 https://nbcnews.com/politics/elections/recall-vote-missouri-ai-data-center-rcna595690
+https://nbcnews.com/politics/elections/republican-james-comer-announces-bid-kentucky-governor-rcna609730
 https://nbcnews.com/politics/elections/republicans-health-care-2026-midterm-elections-voter-polling-rcna595333
 https://nbcnews.com/politics/elections/send-questions-steve-kornacki-midterm-elections-rcna605264
 https://nbcnews.com/politics/elections/supreme-court-third-time-rejects-republican-redistricting-push-missour-rcna599218
@@ -1978,6 +1988,7 @@ https://nbcnews.com/politics/immigration/san-diego-padres-minor-league-coach-rel
 https://nbcnews.com/politics/immigration/white-house-withdraws-trumps-nominee-lead-ice-rcna598386
 https://nbcnews.com/politics/jd-vance/vance-2028-ted-cruz-midterm-climate-future-rcna600312
 https://nbcnews.com/politics/jd-vance/vance-positions-fighter-family-values-national-birthright-rcna596594
+https://nbcnews.com/politics/jd-vance/vance-says-no-daylight-trump-iran-war-rcna609681
 https://nbcnews.com/politics/joe-biden/joe-biden-cancer-health-book-tour-promise-me-america-rcna608260
 https://nbcnews.com/politics/joe-biden/joe-biden-pelted-objects-ireland-dublin-palestinian-protests-hunter-rcna608713
 https://nbcnews.com/politics/joe-biden/memoir-trump-jan-6-2021-riot-follow-him-to-grave-2024-election-rcna608275
@@ -2060,6 +2071,7 @@ https://nbcnews.com/politics/politics-news/democrats-see-opening-texas-deja-vu-b
 https://nbcnews.com/politics/politics-news/democrats-shift-mail-voting-message-politics-desk-rcna597297
 https://nbcnews.com/politics/politics-news/disappointed-primary-voters-weigh-choices-politics-desk-rcna605292
 https://nbcnews.com/politics/politics-news/donald-trump-jr-russian-oligarch-umar-kremlev-ties-putin-wedding-celeb-rcna597735
+https://nbcnews.com/politics/politics-news/early-look-2028-senate-map-politics-desk-rcna609707
 https://nbcnews.com/politics/politics-news/elon-musk-enters-midterm-chat-politics-desk-rcna594934
 https://nbcnews.com/politics/politics-news/everything-need-election-night-politics-desk-rcna607298
 https://nbcnews.com/politics/politics-news/final-countdown-politics-desk-rcna606630
@@ -2551,6 +2563,7 @@ https://nbcnews.com/science/space/spacex-starship-rocket-launches-orbit-first-ti
 https://nbcnews.com/science/ufos-and-anomalous-phenomena/ufo-uap-files-pentagon-release-trump-rcna344204
 https://nbcnews.com/select/shopping/-shark-stratos-upright-vacuum-deal-of-the-day-2026-rcna606952
 https://nbcnews.com/select/shopping/100-best-amazon-buys-rcna216067
+https://nbcnews.com/select/shopping/100-best-gifts-rcna608868
 https://nbcnews.com/select/shopping/100-best-sensitive-skin-care-products-rcna254025
 https://nbcnews.com/select/shopping/100-best-travel-accessories-rcna604454
 https://nbcnews.com/select/shopping/50-best-oral-care-products-rcna347423
@@ -2619,6 +2632,7 @@ https://nbcnews.com/select/shopping/best-face-oils-dry-skin-rcna135471
 https://nbcnews.com/select/shopping/best-filtered-showerheads-rcna153901
 https://nbcnews.com/select/shopping/best-first-aid-kits-rcna600294
 https://nbcnews.com/select/shopping/best-garmin-watch-rcna233494
+https://nbcnews.com/select/shopping/best-gifts-amazon-rcna609650
 https://nbcnews.com/select/shopping/best-gifts-for-coffee-lovers-rcna604785
 https://nbcnews.com/select/shopping/best-gifts-for-dads-rcna608122
 https://nbcnews.com/select/shopping/best-gifts-for-men-rcna607885
@@ -2758,6 +2772,7 @@ https://nbcnews.com/select/shopping/gifts-for-moms-2026-rcna607725
 https://nbcnews.com/select/shopping/gifts-for-music-lovers-rcna604981
 https://nbcnews.com/select/shopping/gifts-for-women-2026-rcna606321
 https://nbcnews.com/select/shopping/glycerin-vs-hyaluronic-acid-rcna608347
+https://nbcnews.com/select/shopping/hatch-baby-review-rcna609689
 https://nbcnews.com/select/shopping/hatch-restore-2-review-rcna143055
 https://nbcnews.com/select/shopping/hello-fresh-review-rcna595893
 https://nbcnews.com/select/shopping/higherdose-brand-review-rcna607423
@@ -3210,6 +3225,7 @@ https://nbcnews.com/tech/tech-news/apple-maps-changes-name-lake-ontario-lake-ame
 https://nbcnews.com/tech/tech-news/apples-new-ceo-john-ternus-takes-tim-cook-15-years-rcna595504
 https://nbcnews.com/tech/tech-news/bill-gates-sounding-alarm-growing-risks-posed-ai-rcna594631
 https://nbcnews.com/tech/tech-news/california-enacts-new-curbs-social-media-children-rcna597179
+https://nbcnews.com/tech/tech-news/california-sues-chatgpt-maker-openai-rogue-hacking-incidents-rcna609596
 https://nbcnews.com/tech/tech-news/characterai-files-bankruptcy-sell-assets-disney-20-million-rcna603174
 https://nbcnews.com/tech/tech-news/chinese-humanoid-robot-lightning-beats-human-100m-world-record-rcna593869
 https://nbcnews.com/tech/tech-news/colette-kress-nvidia-new-interim-ceo-jensen-huang-replace-who-is-rcna609039
@@ -3261,6 +3277,7 @@ https://nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-s
 https://nbcnews.com/tech/tech-news/trump-awards-musk-tech-titans-national-medals-science-rcna602104
 https://nbcnews.com/tech/tech-news/twitchcon-ai-streamers-mixed-response-technology-tools-rcna608806
 https://nbcnews.com/tech/tech-news/us-accuses-china-ai-developers-deepseek-alibaba-copying-american-ai-rcna596696
+https://nbcnews.com/tech/tech-news/us-closes-loophole-let-chinese-companies-use-top-ai-chips-rcna609634
 https://nbcnews.com/tech/tech-news/us-military-using-ai-help-plan-iran-air-attacks-sources-say-lawmakers-rcna262150
 https://nbcnews.com/weather/floods/flood-warning-four-corners-storms-death-tornado-rcna605774
 https://nbcnews.com/weather/floods/flood-weary-us-southwest-eyes-forecast-rain-rcna605879
@@ -3338,12 +3355,14 @@ https://nbcnews.com/world/africa/ebola-congo-outbreak-record-cases-health-worker
 https://nbcnews.com/world/africa/ebola-outbreak-congo-spreads-7th-province-rcna597318
 https://nbcnews.com/world/africa/ebola-tops-11000-cases-congos-deadliest-outbreak-rcna608872
 https://nbcnews.com/world/africa/eritrean-troops-cross-northern-ethiopia-conflict-escalates-rcna602246
+https://nbcnews.com/world/africa/ethiopia-sudan-accuse-backing-armed-fighters-fears-wider-conflict-grow-rcna609721
 https://nbcnews.com/world/africa/fatima-zahra-mansouri-first-female-prime-minister-morocco-rcna600596
 https://nbcnews.com/world/africa/fire-eastern-congo-kills-least-26-students-2-schools-rcna597151
 https://nbcnews.com/world/africa/journalist-named-king-ugandan-monarchy-just-lost-onetime-boy-king-rcna596977
 https://nbcnews.com/world/africa/kenya-countdown-ebola-free-declaration-last-patient-discharged-rcna608712
 https://nbcnews.com/world/africa/landslide-landfill-capital-guinea-kills-30-people-rcna594074
 https://nbcnews.com/world/africa/least-139-migrants-children-die-boat-capsizes-djibouti-rcna602761
+https://nbcnews.com/world/africa/least-17-people-killed-2-mass-shootings-day-south-africa-rcna609688
 https://nbcnews.com/world/africa/mass-shooting-house-south-africa-leaves-11-dead-3-wounded-police-say-rcna599348
 https://nbcnews.com/world/africa/mutinous-soldiers-attack-airport-presidency-niger-capital-rcna595006
 https://nbcnews.com/world/africa/nigeria-confirms-ebola-case-abuja-woman-arrived-uganda-tests-positive-rcna604694
@@ -3550,6 +3569,7 @@ https://nbcnews.com/world/cuba/charity-run-kitchens-havana-feed-growing-number-c
 https://nbcnews.com/world/cuba/inside-cuba-hospital-outages-hard-hit-blackouts-rcna264184
 https://nbcnews.com/world/ecuador/priest-ecuador-dies-crucifix-falls-livestreamed-mass-rcna604211
 https://nbcnews.com/world/europe/30-people-feared-dead-bus-attack-eastern-ukraine-rcna602247
+https://nbcnews.com/world/europe/5-european-countries-aim-send-rejected-asylum-seekers-center-rwanda-rcna609731
 https://nbcnews.com/world/europe/87-year-old-woman-whose-eviction-sparked-nationwide-protests-spain-die-rcna602184
 https://nbcnews.com/world/europe/albanian-anti-government-protesters-clash-police-tirana-rcna604009
 https://nbcnews.com/world/europe/americans-hall-woodford-win-2026-nobel-economics-prize-rcna602928
@@ -3793,6 +3813,7 @@ https://nbcnews.com/world/middle-east/saudi-airport-attack-trump-us-join-fight-h
 https://nbcnews.com/world/middle-east/saudi-arabia-mecca-houthis-drone-iran-war-trump-oil-gas-prices-rcna598075
 https://nbcnews.com/world/middle-east/saudi-arabia-shutdown-key-pipeline-limits-oil-flow-yemen-houthis-rcna597362
 https://nbcnews.com/world/middle-east/saudi-arabia-struggle-defend-houthis-attacks-rcna603219
+https://nbcnews.com/world/middle-east/scores-bahraini-shiite-clerics-get-life-jail-accused-plotting-iran-rcna609694
 https://nbcnews.com/world/middle-east/smit-machchhar-pilot-hero-averting-crash-israel-plane-rcna600874
 https://nbcnews.com/world/middle-east/train-collision-egypt-cairo-giza-rcna608111
 https://nbcnews.com/world/middle-east/trump-administration-denies-visas-palestinian-delegation-attend-un-gen-rcna598265
@@ -3813,6 +3834,7 @@ https://nbcnews.com/world/north-korea/north-korean-leader-kim-jong-un-visits-chi
 https://nbcnews.com/world/north-korea/relatively-mild-speech-north-korea-uses-un-platform-lament-mutual-dist-rcna600353
 https://nbcnews.com/world/north-korea/south-korea-trying-learn-kim-jong-un-son-daughters-status-heir-appears-rcna596981
 https://nbcnews.com/world/pakistan/bombing-mosque-police-offices-pakistan-kills-least-21-rcna598611
+https://nbcnews.com/world/pakistan/pakistans-imprisoned-ex-leader-imran-khan-appeals-urgent-medical-care-rcna609709
 https://nbcnews.com/world/panama/magnitude-77-earthquake-rocks-panama-rcna602557
 https://nbcnews.com/world/phillipines/death-toll-philippines-ferry-fire-rises-bodies-recovered-rcna597234
 https://nbcnews.com/world/phillipines/philippines-president-posts-bail-arrest-order-alleged-threats-rcna596218
@@ -3872,6 +3894,7 @@ https://nbcnews.com/world/south-america/colombia-extradites-warlord-us-security-
 https://nbcnews.com/world/south-america/former-ecuadorian-president-lenin-moreno-sentenced-corruption-rcna594992
 https://nbcnews.com/world/south-america/ousted-paraguayan-president-placed-house-arrest-bank-collapse-rcna607956
 https://nbcnews.com/world/south-america/paraguay-president-pen-resigns-mounting-pressure-bank-collapse-rcna607754
+https://nbcnews.com/world/south-america/paraguays-ousted-president-moved-military-prison-reports-gym-suite-cus-rcna609729
 https://nbcnews.com/world/south-america/venezuelas-opposition-leader-machado-returns-rcna605540
 https://nbcnews.com/world/south-korea/south-korean-officials-free-shark-trapped-month-busan-canal-rcna604767
 https://nbcnews.com/world/spain/anger-grows-spain-elderly-woman-evicted-home-70-years-rcna599808
@@ -4013,6 +4036,7 @@ https://nbcnews.com/world/united-kingdom/uk-andy-burnham-raf-fairford-air-base-t
 https://nbcnews.com/world/united-kingdom/uk-andy-burnham-slave-trade-apology-reparations-king-charles-rcna606670
 https://nbcnews.com/world/united-kingdom/uk-announces-trade-ban-israeli-west-bank-goods-burnham-huckabee-rcna596536
 https://nbcnews.com/world/united-kingdom/uk-approves-long-delayed-gas-field-north-sea-climate-concerns-rcna604727
+https://nbcnews.com/world/united-kingdom/uk-leader-andy-burnham-says-brexit-hasnt-worked-ahead-reset-summit-eu-rcna609717
 https://nbcnews.com/world/united-kingdom/uk-minister-condemns-anti-migrant-protests-portsmouth-rcna596437
 https://nbcnews.com/world/united-kingdom/uk-nurse-lucy-letbys-murders-stopped-earlier-inquiry-finds-rcna597883
 https://nbcnews.com/world/united-kingdom/uk-offer-saudi-arabia-aerial-refueling-counter-houthi-attacks-rcna599103
@@ -4029,6 +4053,7 @@ https://nbcnews.com/world/venezuela/venezuelas-acting-leader-un-first-address-pr
 https://nbcnews.com/world/yemen/airstrikes-market-southwestern-yemen-kill-least-30-houthis-say-rcna607908
 https://nbcnews.com/world/yemen/houthis-attack-besieged-city-yemen-un-says-grave-risk-rcna604679
 https://nbcnews.com/world/yemen/yemen-forces-withdraw-area-bab-el-mandeb-strait-houthis-rcna609389
+https://nbcnews.com/world/yemen/yemen-houthi-rebels-saudi-arabia-backed-forces-retreat-aden-rcna609670
 https://nbcnews.com/world/yemen/yemens-civil-war-returns-overwhelms-hospitals-dangerous-situation-rcna599934
 https://nbcsports.com/wnba/news/2026-wnba-playoff-preview-the-case-for-all-eight-teams-to-win-it-all
 https://podcasts.apple.com/us/podcast/canada-retaliates-in-trade-war-the-battle-over-mail/id1820996352?i=1000785833352
