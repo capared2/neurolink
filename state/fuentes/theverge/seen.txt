@@ -1277,6 +1277,7 @@ https://theverge.com/gadgets/1035932/apple-macbook-neo-black-friday-2026-deal-sa
 https://theverge.com/gadgets/1036389/titw-giveaway-18
 https://theverge.com/gadgets/1036693/sony-bravia-8-ii-oled-black-friday-2026-deal-sale
 https://theverge.com/gadgets/1037061/targets-plan-to-get-you-in-its-stores-on-black-friday-100-free-first-come-first-served-gift-cards
+https://theverge.com/gadgets/1037474/samsungs-over-ear-studio-headphones-leak-in-one-ui-beta
 https://theverge.com/gadgets/712844/today-im-toying-with
 https://theverge.com/gadgets/842702/tetris-my-play-watch-smartwatch-hands-on
 https://theverge.com/gadgets/847777/oh-snap-i-have-a-new-favorite-phone-grip
@@ -1857,6 +1858,7 @@ https://theverge.com/news/610721/thomson-reuters-ross-intelligence-ai-copyright-
 https://theverge.com/news/618168/google-search-eu-dma-charge-violation
 https://theverge.com/news/619586/framework-laptop-16-update-one-key-but-not-done
 https://theverge.com/news/621650/intel-ohio-chip-factory-delayed-2030
+https://theverge.com/news/626810/space-collision-satellite-greenhouse-gas-emissions
 https://theverge.com/news/628725/xbox-play-anywhere-1000-games
 https://theverge.com/news/630222/android-march-find-my-device-people-location-sharing-update
 https://theverge.com/news/632077/atari-2600-my-play-watch-pong-centipede-missile-command-super-breakout
@@ -1965,6 +1967,7 @@ https://theverge.com/news/831241/dji-ban-us-trump-fcc-customs-import-ndaa
 https://theverge.com/news/831451/china-humanoid-robotics-bubble
 https://theverge.com/news/832365/casio-dwn-5600-digital-g-shock-ring-watch-us-availability
 https://theverge.com/news/836221/raspberry-pi-price-increases-ram-costs
+https://theverge.com/news/837652/hubble-telescope-satellite-light-pollution
 https://theverge.com/news/838814/facebook-instagram-hijacked-accounts-hub
 https://theverge.com/news/839353/pc-ram-shortage-pricing-spike-news
 https://theverge.com/news/839434/disney-star-wars-original-theatrical-cut-theaters-release-date
@@ -2498,6 +2501,7 @@ https://theverge.com/science/1034006/vulcan-rocket-fails-destroying-40-amazon-le
 https://theverge.com/science/1034694/nuclear-energy-constellation-earnings-data-centers-democrats
 https://theverge.com/science/1036431/nasa-voyager-1-light-day-milestone
 https://theverge.com/science/1037243/this-week-in-the-big-ai-data-center-buildout
+https://theverge.com/science/1037472/there-are-now-more-satellites-over-most-towns-than-visible-stars
 https://theverge.com/science/786067/clippers-kawhi-leonard-salary-cap-investigation-carbon-credit-climate-change
 https://theverge.com/science/839303/rfk-jr-s-vaccine-committee-says-hepatitis-b-shot-can-wait
 https://theverge.com/science/914729/blue-origin-successfully-reused-its-new-glenn-rocket
@@ -2543,6 +2547,7 @@ https://theverge.com/science/996399/nasas-curiosity-rover-celebrates-5000-days-o
 https://theverge.com/science/996981/new-cat-just-dropped
 https://theverge.com/science/997083/flash-flood-warning-tacls-satellite-machine-learning
 https://theverge.com/science/997834/ai-cyberattack-energy-critical-infrastructure
+https://theverge.com/space/657113/starlink-amazon-satellites
 https://theverge.com/space/939617/blue-origins-new-glenn-rocket-just-blew-up-during-testing-in-florida
 https://theverge.com/streaming/1002597/amazon-fire-tv-stick-4k-direct-power
 https://theverge.com/streaming/1003793/youtube-is-going-after-clippers-and-aggregators
@@ -3430,6 +3435,8 @@ https://theverge.com/tech/1037150/google-released-another-gemini-4-model
 https://theverge.com/tech/1037157/microsoft-ceo-satya-nadella-doesnt-know-when-the-rush-to-patch-ai-discovered-bugs-will-end
 https://theverge.com/tech/1037353/someone-built-a-mixing-board-for-controlling-your-smart-lights
 https://theverge.com/tech/1037358/nvidia-world-hunger-200-billion-yearly-profit
+https://theverge.com/tech/1037448/elon-musk-ukraine-starlink-starshield-nyt-dealbook
+https://theverge.com/tech/1037467/googles-ai-ultra-plan-now-includes-youtube-premium-family
 https://theverge.com/tech/24008239/sphere-las-vegas-experience-u2-screen
 https://theverge.com/tech/625223/book-log-read-goodreads
 https://theverge.com/tech/625409/best-robot-vacuum-mops

@@ -555,6 +555,7 @@ https://thehill.com/homenews/6223945-nationwide-emergency-alert-test
 https://thehill.com/homenews/6226621-video-shows-ice-agent-pepper-spraying-pregnant-u-s-citizen
 https://thehill.com/homenews/6226829-judge-vacates-esa-review-underlying-offshore-mining
 https://thehill.com/homenews/6229121-gop-warns-trump-trilateral-summit
+https://thehill.com/homenews/6229319-social-security-raise-whats-left-after-the-medicare-premium-hike
 https://thehill.com/homenews/administration/5743349-who-is-katie-zacharia-new-dhs-spokesperson
 https://thehill.com/homenews/administration/6040220-live-updates-donald-trump-iran-war-economy-midterms
 https://thehill.com/homenews/administration/6040588-donald-trump-white-house-helipad-ballroom-construction
@@ -1475,6 +1476,8 @@ https://thehill.com/homenews/administration/6228456-homeland-security-secretary-
 https://thehill.com/homenews/administration/6228595-trump-putin-meeting-china
 https://thehill.com/homenews/administration/6228627-white-house-will-scharf-democrats-oversight-trump-administration-probes
 https://thehill.com/homenews/administration/6228962-trump-officials-seek-to-ease-anxiety-over-sweeping-tech-outages
+https://thehill.com/homenews/administration/6229265-trump-says-well-wipe-them-out-if-iran-dirty-bombs-us
+https://thehill.com/homenews/administration/6229375-trump-downplays-outage-concerns
 https://thehill.com/homenews/analysis/6040221-democrats-leftist-win-senate-race
 https://thehill.com/homenews/analysis/6042626-treasury-secretary-bessent-buyback
 https://thehill.com/homenews/analysis/6057609-gop-campaign-centered-trump
@@ -2344,6 +2347,7 @@ https://thehill.com/homenews/campaign/6184593-gilbert-wins-florida-house-race
 https://thehill.com/homenews/campaign/6184638-democrat-unseats-barrett-in-battleground-michigan-house-contest
 https://thehill.com/homenews/campaign/6184641-cleaver-wins-missouri-house-election
 https://thehill.com/homenews/campaign/6184650-vasquez-wins-new-mexico-house-election
+https://thehill.com/homenews/campaign/6184657-nick-begich-alaska-house-district
 https://thehill.com/homenews/campaign/6184660-jeffries-wins-new-york-seat
 https://thehill.com/homenews/campaign/6184670-poindexter-defeats-miller-ohio
 https://thehill.com/homenews/campaign/6184720-berman-wins-wisconsin-house-race
@@ -2601,6 +2605,7 @@ https://thehill.com/homenews/campaign/6227287-mary-peltola-projects-victory-alas
 https://thehill.com/homenews/campaign/6227476-gabe-evans-colorado-house-comeback-bid-2028
 https://thehill.com/homenews/campaign/6227734-senate-democrats-generational-change
 https://thehill.com/homenews/campaign/6227832-trump-voters-expectations-2028
+https://thehill.com/homenews/campaign/6229195-musk-regrets-gop-spending
 https://thehill.com/homenews/campaign/data-nerds/6040929-democratic-socialist-angie-nixon-florida-upset-what-to-know-discussion
 https://thehill.com/homenews/campaign/data-nerds/6054870-democratic-party-senate-control-division-2026-midterms-discussion
 https://thehill.com/homenews/campaign/data-nerds/6068929-abdul-el-sayed-democratic-tensions-michigan-senate-race-discussion
@@ -3562,6 +3567,8 @@ https://thehill.com/homenews/senate/6228009-democrats-flip-nine-senate-seats
 https://thehill.com/homenews/senate/6228225-ron-johnson-social-security-ponzi
 https://thehill.com/homenews/senate/6228590-britt-proposed-national-fraud-office
 https://thehill.com/homenews/senate/6229063-ron-johnson-calls-eliminate-filibuster
+https://thehill.com/homenews/senate/6229094-cornyn-blocks-non-texan-judge
+https://thehill.com/homenews/senate/6229401-slotkin-slams-reitz-investigation
 https://thehill.com/homenews/space/6054908-where-northern-lights-may-shine-amid-geomagnetic-storm-watches
 https://thehill.com/homenews/space/6057441-americans-skeptical-ufo-origins-gallup-poll
 https://thehill.com/homenews/space/6067876-nasa-jared-isaacman-outlines-moon-base
@@ -4206,6 +4213,7 @@ https://thehill.com/newsletters/energy-environment/6209573-senate-advances-bill-
 https://thehill.com/newsletters/energy-environment/6212162-heinrich-whitehouse-unbothered-by-trumps-anti-wind-comments
 https://thehill.com/newsletters/energy-environment/6214742-interior-plans-public-land-sales
 https://thehill.com/newsletters/energy-environment/6223994-senate-clears-hurdle-for-bipartisan-permitting-reform-package
+https://thehill.com/newsletters/energy-environment/6229172-baaja-passes-another-procedural-vote
 https://thehill.com/newsletters/healthcare/6042627-schwartz-recognizes-cdc-strife-in-first-talks-with-staff
 https://thehill.com/newsletters/healthcare/6044727-trump-eyes-vaccine-categories
 https://thehill.com/newsletters/healthcare/6048133-back-to-school-season-fuels-growing-measles-concerns
@@ -6446,6 +6454,7 @@ https://thehill.com/policy/international/6227350-donald-trump-imelda-marcos-phil
 https://thehill.com/policy/international/6228281-trump-carney-relationship-u-s-canada
 https://thehill.com/policy/international/6228336-carney-trump-china-trade-ties
 https://thehill.com/policy/international/6228985-republican-reactions-china-russia-meetings
+https://thehill.com/policy/international/6229395-colby-criticizes-ukraine-long-range-strikes
 https://thehill.com/policy/national-security/6049802-cia-director-ratcliffe-moscow-visit
 https://thehill.com/policy/national-security/6056134-senators-oppose-ice-shocking-gloves
 https://thehill.com/policy/national-security/6059574-homan-ice-bus-stop-arrests
@@ -6832,6 +6841,7 @@ https://thehill.com/policy/technology/6227428-marco-rubio-tech-outages-link-conc
 https://thehill.com/policy/technology/6228432-us-cybersecurity-outage-trend
 https://thehill.com/policy/technology/6228931-users-report-playstation-issues-hours-before-gta-vi-drop
 https://thehill.com/policy/technology/6228963-krebs-tech-outages-good-news
+https://thehill.com/policy/technology/6229202-russian-spied-on-palantir-employees
 https://thehill.com/policy/transportation/6050209-tsa-phases-out-gold-program
 https://thehill.com/policy/transportation/6050669-uber-new-family-features-teen-accounts-stream-safety
 https://thehill.com/policy/transportation/6059553-google-maps-renames-lake-america
