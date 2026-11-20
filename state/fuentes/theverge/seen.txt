@@ -518,6 +518,8 @@ https://theverge.com/ai-artificial-intelligence/1037492/inside-the-times-investi
 https://theverge.com/ai-artificial-intelligence/1037634/openai-chatgpt-live-dictation
 https://theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings
 https://theverge.com/ai-artificial-intelligence/1038301/data-center-redlining
+https://theverge.com/ai-artificial-intelligence/1038370/openai-is-starting-to-bring-dots-to-plus-tier-subscribers
+https://theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app
 https://theverge.com/ai-artificial-intelligence/648595/anthropic-claude-research-google-workplace
 https://theverge.com/ai-artificial-intelligence/679852/trump-ai-safety-institute-name-mission-change
 https://theverge.com/ai-artificial-intelligence/767973/vibe-coding-ai-future-end-evolution
@@ -812,6 +814,7 @@ https://theverge.com/cs/features/993343/stratos-utah-kevin-oleary-data-center-ba
 https://theverge.com/decoder-podcast-with-nilay-patel/693052/automattic-ceo-matt-mullenweg-wordpress-drama-wp-engine-open-source
 https://theverge.com/design/1021958/cinema-4d-will-soon-turn-sketches-into-3d-models
 https://theverge.com/design/1025107/the-adobe-rivalling-affinity-creative-suite-is-coming-to-linux
+https://theverge.com/design/967606/google-open-source-3d-emoji
 https://theverge.com/entertainment/1000148/a-quick-look-at-a-long-movie
 https://theverge.com/entertainment/1000386/nicolas-cages-madden-movie-just-got-its-first-full-trailer
 https://theverge.com/entertainment/1000595/silent-hill-townfall-resident-evil
@@ -2335,6 +2338,7 @@ https://theverge.com/policy/1037742/att-is-selling-your-data-to-ice
 https://theverge.com/policy/1037804/elon-musk-maga-dealbook
 https://theverge.com/policy/1037987/fcc-prison-cellphone-signal-jamming
 https://theverge.com/policy/1038110/trump-administration-approved-more-than-879000-ai-chip-sales-to-chinese-companies-per-new-disclosure
+https://theverge.com/policy/1038376/the-white-house-national-cyber-director-is-stepping-down
 https://theverge.com/policy/677373/lawyers-chatgpt-hallucinations-ai
 https://theverge.com/policy/694155/big-balls-is-still-here
 https://theverge.com/policy/799473/facebook-meta-ice-jawboning
@@ -3493,6 +3497,9 @@ https://theverge.com/tech/1038157/meta-quest-vr-3d-movies-tv-app
 https://theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing
 https://theverge.com/tech/1038244/googles-employees-are-asking-it-to-let-schools-use-search-without-ai
 https://theverge.com/tech/1038304/californias-attorney-general-subpoenaed-nvidia
+https://theverge.com/tech/1038378/samsungs-mobile-division-has-a-new-chief
+https://theverge.com/tech/1038384/androids-3d-emoji-have-surprisingly-demanding-system-specs
+https://theverge.com/tech/1038396/the-clandestine-operation-to-secure-britains-fridges
 https://theverge.com/tech/24008239/sphere-las-vegas-experience-u2-screen
 https://theverge.com/tech/625223/book-log-read-goodreads
 https://theverge.com/tech/625409/best-robot-vacuum-mops
@@ -3532,6 +3539,7 @@ https://theverge.com/tech/880812/ramageddon-ram-shortage-memory-crisis-price-202
 https://theverge.com/tech/883225/samsung-galaxy-unpacked-s26-2026
 https://theverge.com/tech/883593/amd-forges-100-billion-deal-with-meta-for-ai-chips
 https://theverge.com/tech/883855/age-verification-internet-apps-laws-privacy-safety
+https://theverge.com/tech/883932/samsung-unpacked-2026-live-updates-galaxy-s26-announcement
 https://theverge.com/tech/885113/google-swallows-ai-robotics-moonshot-intrinsic
 https://theverge.com/tech/885866/ultrahuman-ring-pro-jade-ai-launch-price-availability
 https://theverge.com/tech/886135/trump-mobile-t1-phone-htc-u24-pro
@@ -4391,6 +4399,7 @@ https://theverge.com/transportation/1035025/united-airlines-outage-down-departur
 https://theverge.com/transportation/1035318/amflow-ue-carbon-pro-commuter-ebike-dji-avinox-price-specs
 https://theverge.com/transportation/1035789/california-dmv-bans-waymo-freeways-construction-zone-safety
 https://theverge.com/transportation/1036460/also-rivian-spinoff-tm-b-ebike-delivery-delay-software-battery-issues
+https://theverge.com/transportation/1037667/waymo-serve-robotics-ditch-uber-autonomous-partnerships
 https://theverge.com/transportation/760217/a-wild-miraidon-appeared
 https://theverge.com/transportation/781908/electric-cargo-bike-car-replace-bike-bus
 https://theverge.com/transportation/784461/lucid-nuro-uber-robotaxi-first-vehicle-delivery
