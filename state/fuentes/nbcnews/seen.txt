@@ -145,6 +145,7 @@ https://nbcnews.com/business/markets/stock-futures-blue-tsunami-ai-boom-rcna6073
 https://nbcnews.com/business/markets/stock-market-ai-data-centers-doubts-rcna603710
 https://nbcnews.com/business/markets/stocks-bonds-fed-hikes-oil-prices-rcna598310
 https://nbcnews.com/business/markets/stocks-oil-bond-yields-geopolitics-rcna600284
+https://nbcnews.com/business/markets/stocks-rebound-ai-tech-selloff-nvidia-rcna610833
 https://nbcnews.com/business/markets/stocks-records-oil-nvidia-rcna601852
 https://nbcnews.com/business/markets/stocks-tumble-ai-leaders-warning-slowdown-ipos-amodei-altman-rcna597643
 https://nbcnews.com/business/markets/tech-stocks-bond-yields-oil-tumbles-rcna599082
@@ -920,8 +921,10 @@ https://nbcnews.com/news/us-news/death-row-prisoner-robert-robersons-lawyers-cla
 https://nbcnews.com/news/us-news/decorated-san-francisco-police-officer-daughter-killed-husband-suspect-rcna603180
 https://nbcnews.com/news/us-news/dee-brock-original-director-dallas-cowboys-cheerleaders-dies-age-96-rcna599622
 https://nbcnews.com/news/us-news/defense-attorneys-charlie-kirks-killing-say-need-several-years-prepare-rcna605184
+https://nbcnews.com/news/us-news/delta-automation-system-issue-fixed-delays-remain-ahead-thanksgiving-rcna610821
 https://nbcnews.com/news/us-news/delta-tech-issues-thanksgiving-travel-rcna610685
 https://nbcnews.com/news/us-news/democrats-election-lindsay-clancy-juror-morning-rundown-rcna596052
+https://nbcnews.com/news/us-news/democrats-look-build-gains-south-weather-thanksgiving-morning-rundown-rcna610650
 https://nbcnews.com/news/us-news/detained-us-scholars-wife-asks-trump-help-xi-washington-visit-nears-rcna598274
 https://nbcnews.com/news/us-news/dhs-no-plans-ice-polls-midterm-elections-rcna595594
 https://nbcnews.com/news/us-news/dhs-officials-defend-actions-shooting-nyc-immigrant-outcry-rcna602490
@@ -987,6 +990,7 @@ https://nbcnews.com/news/us-news/fashion-executive-resigns-days-restraining-peta
 https://nbcnews.com/news/us-news/fast-moving-wildfire-shifting-winds-threatens-reno-nevada-forcing-thou-rcna594079
 https://nbcnews.com/news/us-news/fat-bear-week-opens-alaska-heavyweight-crown-can-chunk-win-rcna599159
 https://nbcnews.com/news/us-news/father-charged-attempted-murder-baby-survives-buried-crate-rcna608896
+https://nbcnews.com/news/us-news/father-daughter-detained-ice-seattle-airport-traveling-family-baptism-rcna610824
 https://nbcnews.com/news/us-news/father-sailor-uss-abraham-lincoln-detained-immigration-family-says-rcna593961
 https://nbcnews.com/news/us-news/father-young-co-pilot-killed-jet-crash-says-recording-shows-fought-las-rcna607848
 https://nbcnews.com/news/us-news/fbi-investigating-possible-homicide-cruise-ship-left-texas-rcna608423
@@ -1446,6 +1450,7 @@ https://nbcnews.com/news/us-news/rex-ryan-charged-striking-pedestrians-truck-rcn
 https://nbcnews.com/news/us-news/rfk-jr-faces-widespread-rebuke-anti-arab-remarks-rcna606056
 https://nbcnews.com/news/us-news/rick-ross-charged-battery-alleged-attack-girlfriend-rcna600925
 https://nbcnews.com/news/us-news/romanian-prosecutors-indict-andrew-tate-trafficking-minors-money-laund-rcna596122
+https://nbcnews.com/news/us-news/rough-weather-expected-hit-both-coasts-may-disrupt-thanksgiving-travel-rcna610778
 https://nbcnews.com/news/us-news/russia-finance-minister-g20-bessent-meeting-ukraine-war-europe-rcna595474
 https://nbcnews.com/news/us-news/russias-forced-pow-videos-trump-un-assembly-morning-rundown-rcna599153
 https://nbcnews.com/news/us-news/s-100-newly-released-video-shows-moment-police-arrest-luigi-mangione-rcna601118
@@ -1947,6 +1952,7 @@ https://nbcnews.com/politics/2026-election/wisconsin-governor-candidates-debate-
 https://nbcnews.com/politics/2026-election/wyoming-republican-governor-concerns-aggressive-doj-election-monitors-rcna594730
 https://nbcnews.com/politics/2026-election/xavier-becerra-california-governor-election-winner-democrat-rcna603367
 https://nbcnews.com/politics/2026-election/zach-lahns-residency-history-rob-sands-party-come-fire-first-iowa-gove-rcna601347
+https://nbcnews.com/politics/2028-election/democratic-national-committee-sets-broad-rules-partys-2028-presidentia-rcna610439
 https://nbcnews.com/politics/2028-election/gavin-newsom-says-wont-run-2028-kamala-harris-rcna597825
 https://nbcnews.com/politics/2028-election/gov-josh-shapiro-executive-order-data-centers-pennsylvania-rcna593177
 https://nbcnews.com/politics/2028-election/john-kennedy-considering-running-presidential-campaign-rcna601389
@@ -2219,6 +2225,7 @@ https://nbcnews.com/politics/politics-news/live-blog/supreme-court-rulings-birth
 https://nbcnews.com/politics/politics-news/live-blog/trump-administration-rally-midterm-election-peltola-live-updates-rcna606665
 https://nbcnews.com/politics/politics-news/live-blog/trump-press-secretary-role-ufc-ceo-dana-white-stephen-miller-congress-rcna608064
 https://nbcnews.com/politics/politics-news/looming-social-security-debate-politics-desk-rcna602393
+https://nbcnews.com/politics/politics-news/lost-claus-florida-town-hit-states-voter-approved-property-tax-overhau-rcna610806
 https://nbcnews.com/politics/politics-news/man-arrested-guillotine-found-pickup-truck-capitol-rcna594442
 https://nbcnews.com/politics/politics-news/man-sprayed-minnesota-rep-omar-vinegar-sentenced-14-months-prison-rcna598454
 https://nbcnews.com/politics/politics-news/massachusetts-shawn-oliver-lt-governor-suspends-campaign-drunk-driving-rcna604183
@@ -2367,6 +2374,7 @@ https://nbcnews.com/politics/trump-administration/live-blog/trump-congress-doj-2
 https://nbcnews.com/politics/trump-administration/live-blog/trump-fed-interest-rate-2026-election-congress-iran-live-updates-rcna598011
 https://nbcnews.com/politics/trump-administration/live-blog/trump-georgia-rally-senate-2026-midterm-congress-iran-live-updates-rcna603802
 https://nbcnews.com/politics/trump-administration/live-blog/trump-graham-south-carolina-primary-2026-congress-iran-live-updates-rcna594433
+https://nbcnews.com/politics/trump-administration/live-blog/trump-justice-department-white-house-tree-congress-2026-live-updates-rcna610817
 https://nbcnews.com/politics/trump-administration/live-blog/trump-maine-alaska-senate-2026-midterms-ai-task-force-live-updates-rcna603568
 https://nbcnews.com/politics/trump-administration/live-blog/trump-media-ban-xi-china-un-iran-congress-2026-midterm-live-updates-rcna599497
 https://nbcnews.com/politics/trump-administration/live-blog/trump-midterm-rally-north-carolina-2026-election-congress-live-updates-rcna604465
@@ -2572,6 +2580,7 @@ https://nbcnews.com/pop-culture/pop-culture-news/hasan-piker-files-725-million-d
 https://nbcnews.com/pop-culture/pop-culture-news/hayden-panettiere-died-fentanyl-overdose-coroner-says-rcna593657
 https://nbcnews.com/pop-culture/pop-culture-news/heath-ledger-james-avery-honored-co-stars-dancing-stars-rcna603772
 https://nbcnews.com/pop-culture/pop-culture-news/hollywood-oscar-campaigns-the-odyssey-lean-into-human-craftsmanship-rcna608419
+https://nbcnews.com/pop-culture/pop-culture-news/hunger-games-goes-big-box-office-competition-grand-theft-auto-rcna610819
 https://nbcnews.com/pop-culture/pop-culture-news/hunger-games-sunrise-reaping-jennifer-lawrence-josh-hutcherson-cameos-rcna610461
 https://nbcnews.com/pop-culture/pop-culture-news/jalen-brunson-host-snl-season-52-premiere-hot-knicks-championship-rcna596841
 https://nbcnews.com/pop-culture/pop-culture-news/jalen-brunson-katseye-snl-season-52-rcna599990
@@ -2604,6 +2613,7 @@ https://nbcnews.com/pop-culture/pop-culture-news/matthew-lillard-ashamed-returne
 https://nbcnews.com/pop-culture/pop-culture-news/met-gala-2026-looks-red-carpet-photos-rcna343495
 https://nbcnews.com/pop-culture/pop-culture-news/mets-costume-institute-reveals-new-exhibit-axing-controversial-gallian-rcna607635
 https://nbcnews.com/pop-culture/pop-culture-news/mia-goth-files-divorce-shia-labeouf-nearly-10-year-marriage-rcna602245
+https://nbcnews.com/pop-culture/pop-culture-news/miley-cyrus-marries-drummer-maxx-morando-palm-springs-wedding-rcna610823
 https://nbcnews.com/pop-culture/pop-culture-news/missouri-man-adopted-baby-learns-biological-father-rock-star-michael-m-rcna601165
 https://nbcnews.com/pop-culture/pop-culture-news/mtv-vmas-2026-highlights-dolly-parton-tribute-taylor-swift-new-music-rcna599886
 https://nbcnews.com/pop-culture/pop-culture-news/naomi-campbell-5-year-ban-serving-charity-trustee-overturned-rcna600886
@@ -2762,6 +2772,7 @@ https://nbcnews.com/select/shopping/best-bar-soaps-rcna347134
 https://nbcnews.com/select/shopping/best-bath-towels-amazon-rcna141375
 https://nbcnews.com/select/shopping/best-bathrobes-rcna600530
 https://nbcnews.com/select/shopping/best-beauty-advent-calendars-2026-rcna605953
+https://nbcnews.com/select/shopping/best-black-friday-deals-2026-rcna610836
 https://nbcnews.com/select/shopping/best-blind-box-gifts-rcna606340
 https://nbcnews.com/select/shopping/best-body-lotions-rcna235267
 https://nbcnews.com/select/shopping/best-body-oils-rcna135696
@@ -3007,6 +3018,7 @@ https://nbcnews.com/select/shopping/millie-moon-diapers-potential-recall-rcna606
 https://nbcnews.com/select/shopping/momcozy-baby-food-maker-deal-of-the-day-rcna609283
 https://nbcnews.com/select/shopping/neck-stretchers-cervical-traction-rcna144537
 https://nbcnews.com/select/shopping/nespresso-vertuo-pop-deal-of-the-day-rcna608016
+https://nbcnews.com/select/shopping/new-balance-237-sneakers-deal-of-the-day-rcna610799
 https://nbcnews.com/select/shopping/nintendo-sale-2026-rcna597499
 https://nbcnews.com/select/shopping/no-touch-phone-law-rcna595756
 https://nbcnews.com/select/shopping/nordstrom-sneaker-sale-2026-rcna598713
@@ -3282,6 +3294,7 @@ https://nbcnews.com/sports/nfl/nfl-suspends-two-referees-unprofessional-conduct-
 https://nbcnews.com/sports/nfl/nfl-swallows-15k-fine-49ers-kyle-juszczyk-pretending-chug-beer-field-rcna602090
 https://nbcnews.com/sports/nfl/nfl-undefeated-team-minnesota-vikings-detroit-lions-rcna606888
 https://nbcnews.com/sports/nfl/nfl-week-10-roundup-san-francisco-dallas-maye-hutchinson-injuries-rcna609510
+https://nbcnews.com/sports/nfl/nfl-week-11-travis-kelce-chiefs-dak-prescott-cowboys-rcna610773
 https://nbcnews.com/sports/nfl/nfl-week-3-scores-highlights-12-one-score-games-set-history-wild-sunda-rcna600182
 https://nbcnews.com/sports/nfl/nfl-week-5-dont-count-aaron-rodgers-drake-maye-just-yet-rcna602846
 https://nbcnews.com/sports/nfl/nfl-week-6-return-caleb-williams-chicago-bears-los-angeles-rams-texans-rcna604256
@@ -3300,6 +3313,7 @@ https://nbcnews.com/sports/nfl/ravens-qb-lamar-jackson-ruled-out-thumb-injury-rc
 https://nbcnews.com/sports/nfl/ravens-quarterback-lamar-jackson-exits-game-vs-titans-ankle-injury-rcna601447
 https://nbcnews.com/sports/nfl/rocket-scientist-fueling-nfls-best-defense-rcna610015
 https://nbcnews.com/sports/nfl/san-francisco-49ers-los-angeles-rams-australia-nfl-result-rcna597163
+https://nbcnews.com/sports/nfl/san-francisco-49ers-minnesota-vikings-brock-purdy-kirk-cousins-nfl-rcna610810
 https://nbcnews.com/sports/nfl/san-francisco-49ers-seattle-seahawks-nfl-result-brock-purdy-rcna602882
 https://nbcnews.com/sports/nfl/seahawks-quarterback-sam-darnold-injury-patriots-nfl-rcna596939
 https://nbcnews.com/sports/nfl/seattle-seahawks-2026-nfl-preview-guide-sam-darnold-rcna593220
@@ -3446,6 +3460,7 @@ https://nbcnews.com/tech/tech-news/microsoft-says-services-fully-restored-global
 https://nbcnews.com/tech/tech-news/nvidia-buy-hugging-face-nearly-13-billion-big-bet-open-ai-models-rcna595868
 https://nbcnews.com/tech/tech-news/nvidia-ceo-jensen-huang-investigation-rcna608148
 https://nbcnews.com/tech/tech-news/nvidia-ceo-jensen-huang-resigns-reports-extramarital-relationships-rcna608402
+https://nbcnews.com/tech/tech-news/nvidia-reinstates-jensen-huang-rcna610864
 https://nbcnews.com/tech/tech-news/open-ai-breach-australian-health-department-website-rcna599570
 https://nbcnews.com/tech/tech-news/openai-agents-hijacked-german-website-previously-undisclosed-ai-breako-rcna596083
 https://nbcnews.com/tech/tech-news/openai-debuts-gpt-6-astra-security-measures-rcna595940
@@ -4210,6 +4225,7 @@ https://nbcnews.com/world/ukraine/ukraine-resumes-strikes-russian-oil-refineries
 https://nbcnews.com/world/ukraine/ukraine-russia-drone-war-eric-schmidt-google-rcna597661
 https://nbcnews.com/world/ukraine/ukraine-russia-emergency-app-cyberattacks-alerts-radiation-kyiv-war-rcna606964
 https://nbcnews.com/world/ukraine/ukraine-says-starlink-back-normal-week-limits-rcna605368
+https://nbcnews.com/world/ukraine/ukraine-sinks-russian-warship-merkury-libya-naval-drones-war-rcna610822
 https://nbcnews.com/world/ukraine/ukraine-starlink-restrictions-military-intel-trump-zelenskyy-russia-rcna603412
 https://nbcnews.com/world/ukraine/ukraine-starshield-limits-russia-war-trump-musk-rcna608938
 https://nbcnews.com/world/ukraine/ukraine-us-support-rubio-scandalous-zelenskyy-meeting-trump-oslo-rcna604530
@@ -4236,6 +4252,7 @@ https://nbcnews.com/world/united-kingdom/british-police-terrorist-acts-trump-all
 https://nbcnews.com/world/united-kingdom/british-prosecutors-charge-doctor-1994-rwandan-genocide-rcna599000
 https://nbcnews.com/world/united-kingdom/britons-get-chance-read-jason-ardays-story-memoir-published-uk-rcna594654
 https://nbcnews.com/world/united-kingdom/charles-left-umbrella-rainstorm-fit-king-rcna606978
+https://nbcnews.com/world/united-kingdom/don-toliver-concert-evacuated-coop-live-unknown-substance-released-rcna610820
 https://nbcnews.com/world/united-kingdom/drone-activity-us-base-britain-prompts-security-response-us-military-s-rcna609255
 https://nbcnews.com/world/united-kingdom/dual-uk-iranian-national-arrested-security-incident-us-run-air-base-rcna600979
 https://nbcnews.com/world/united-kingdom/dual-uk-iranian-national-released-bail-suspected-plot-us-run-military-rcna601263
