@@ -535,6 +535,7 @@ https://theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai
 https://theverge.com/ai-artificial-intelligence/1040255/x-grok-ai-deepfakes-oregon-virginia-lawsuit
 https://theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated
 https://theverge.com/ai-artificial-intelligence/1040819/welcome-to-elite-impunity-jensen-huang
+https://theverge.com/ai-artificial-intelligence/1041125/former-openai-employee-may-have-captured-trade-secrets-with-hidden-listening-device
 https://theverge.com/ai-artificial-intelligence/648595/anthropic-claude-research-google-workplace
 https://theverge.com/ai-artificial-intelligence/679852/trump-ai-safety-institute-name-mission-change
 https://theverge.com/ai-artificial-intelligence/708482/i-spent-24-hours-flirting-with-elon-musks-ai-girlfriend
@@ -1345,7 +1346,9 @@ https://theverge.com/gadgets/1039889/you-might-be-waiting-a-while-for-the-galaxy
 https://theverge.com/gadgets/1039978/airpods-pro-3-apple-earbuds-black-friday-2026-deal-sale
 https://theverge.com/gadgets/1039999/alienware-aw2726dm-qdoled-gaming-monitor-black-friday-2026-deal-sale
 https://theverge.com/gadgets/1040122/peacock-subscription-black-friday-2026-deal-sale
+https://theverge.com/gadgets/1040300/harman-kardon-soundsticks-4-speakers-black-friday-2026-deal-sale
 https://theverge.com/gadgets/1040357/nothing-ear-note-earbuds-ai-recording
+https://theverge.com/gadgets/1041078/honors-magic-9-pro-max-leaves-china
 https://theverge.com/gadgets/712844/today-im-toying-with
 https://theverge.com/gadgets/842702/tetris-my-play-watch-smartwatch-hands-on
 https://theverge.com/gadgets/847777/oh-snap-i-have-a-new-favorite-phone-grip
@@ -2409,6 +2412,7 @@ https://theverge.com/policy/1038516/senate-votes-to-ban-prediction-market-bets-o
 https://theverge.com/policy/1038892/trump-foreign-data-centers-tax
 https://theverge.com/policy/1040096/trump-nvidia-jensen-huang-reinstated
 https://theverge.com/policy/1040937/fcc-to-propose-rule-requiring-telecom-providers-to-block-robocalls
+https://theverge.com/policy/1041139/kalshi-halts-trading-in-utah
 https://theverge.com/policy/677373/lawyers-chatgpt-hallucinations-ai
 https://theverge.com/policy/694155/big-balls-is-still-here
 https://theverge.com/policy/799473/facebook-meta-ice-jawboning
@@ -3606,6 +3610,10 @@ https://theverge.com/tech/1040487/nvidia-ceo-jensen-huang-staff-applauds-return
 https://theverge.com/tech/1040872/ladybird-indie-browser-engine-alpha-testing
 https://theverge.com/tech/1040960/asus-co-ceo-says-its-budget-pcs-may-move-to-8gb-of-memory-due-to-ram-price-hikes
 https://theverge.com/tech/1041000/kagi-mail-email-google-gmail-alternative
+https://theverge.com/tech/1041034/bambu-p3c-3d-printer-price-release-date
+https://theverge.com/tech/1041084/metas-muse-agent-launches-in-the-uk
+https://theverge.com/tech/1041106/it-turns-out-you-can-make-a-tall-foldable-after-all
+https://theverge.com/tech/1041133/macbook-trackpad-haptics-speaker-app-cody-collier
 https://theverge.com/tech/24008239/sphere-las-vegas-experience-u2-screen
 https://theverge.com/tech/625223/book-log-read-goodreads
 https://theverge.com/tech/625409/best-robot-vacuum-mops
@@ -3726,6 +3734,7 @@ https://theverge.com/tech/930573/age-verification-bills-linux-open-source
 https://theverge.com/tech/931532/bambu-agpl-pawel-jarczak-open-source-threat-dmca-github
 https://theverge.com/tech/932153/snap-youtube-tiktok-lawsuit-social-media-addiction-schools
 https://theverge.com/tech/932312/linus-torvalds-linux-ai-security-bugs
+https://theverge.com/tech/932417/google-gmail-docs-cal-sheets-workspace-icon-redesign
 https://theverge.com/tech/933114/with-mass-layoffs-plannned-meta-reassigns-thousands-of-employees-to-ai-initiatives
 https://theverge.com/tech/933125/android-xr-samsung-warby-parker-gentle-monster-project-aura-xreal-google-io-2026
 https://theverge.com/tech/933705/google-gemini-app-updates-io-2026
@@ -4513,6 +4522,7 @@ https://theverge.com/transportation/1039153/waymo-issues-recalls-to-fix-its-high
 https://theverge.com/transportation/1039779/delta-flights-delayed-system-outage
 https://theverge.com/transportation/1039919/tesla-fsd-v15-reality-view-gta-nhtsa-safety-rollout
 https://theverge.com/transportation/1040053/everyones-recording-each-other-uber-edition
+https://theverge.com/transportation/1040676/uber-nuro-lucid-driverless-robotaxi-testing-bay-area
 https://theverge.com/transportation/760217/a-wild-miraidon-appeared
 https://theverge.com/transportation/781908/electric-cargo-bike-car-replace-bike-bus
 https://theverge.com/transportation/784461/lucid-nuro-uber-robotaxi-first-vehicle-delivery
