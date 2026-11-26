@@ -392,6 +392,7 @@ https://thehill.com/business/6239346-october-pce-inflation-data
 https://thehill.com/business/6240686-consumer-confidence-spiked-november
 https://thehill.com/business/6241021-trump-nvidia-ceo-reinstatement
 https://thehill.com/business/6241030-gas-prices-up-thanksgiving
+https://thehill.com/business/6244500-irs-audits-high-earners
 https://thehill.com/business/agriculture/6052290-ranchers-protest-foreign-imported-beef
 https://thehill.com/business/agriculture/6160126-farmers-to-get-one-time-payments-from-8-billion-program-trump-says-what-to-know
 https://thehill.com/business/budget/6118661-gao-trump-rescission-unlawful
@@ -1583,6 +1584,10 @@ https://thehill.com/homenews/administration/6243848-trump-criticizes-sand-iowa-l
 https://thehill.com/homenews/administration/6244295-middletown-shelter-order-lifted
 https://thehill.com/homenews/administration/6244342-live-updates-inclement-weather-thanksgiving-issues-iowa-detonation-fallout
 https://thehill.com/homenews/administration/6244532-trump-obama-cnn-army-iowa-lead-azide-detonation
+https://thehill.com/homenews/administration/6244608-trump-revised-gdp-data-probe
+https://thehill.com/homenews/administration/6244759-nate-silver-donald-trump-impeachment-post-midterms
+https://thehill.com/homenews/administration/6244831-trump-thanksgiving-message-critics-gdp-somali-community
+https://thehill.com/homenews/administration/6244968-petition-expel-us-ambassador-hoekstra
 https://thehill.com/homenews/analysis/6040221-democrats-leftist-win-senate-race
 https://thehill.com/homenews/analysis/6042626-treasury-secretary-bessent-buyback
 https://thehill.com/homenews/analysis/6057609-gop-campaign-centered-trump
@@ -1632,6 +1637,7 @@ https://thehill.com/homenews/analysis/6223711-duffy-pushes-air-traffic-upgrades
 https://thehill.com/homenews/analysis/6228960-trump-administration-tech-failures
 https://thehill.com/homenews/analysis/6231674-trump-post-midterm-election-reset
 https://thehill.com/homenews/analysis/6238763-trump-drives-nvidia-ceo-return
+https://thehill.com/homenews/analysis/6242015-iran-war-impact-election
 https://thehill.com/homenews/campaign/6022972-graham-wins-south-carolina-senate-primary
 https://thehill.com/homenews/campaign/6030474-live-results-oklahoma-gop-governor-primary-runoff
 https://thehill.com/homenews/campaign/6030475-live-results-south-carolina-live-results
@@ -3265,6 +3271,7 @@ https://thehill.com/homenews/house/6240192-subramanyam-calls-trump-nvidia-probe
 https://thehill.com/homenews/house/6240728-lakesha-womack-felony-charges-dropped
 https://thehill.com/homenews/house/6241454-house-democrats-skip-harvard-orientation
 https://thehill.com/homenews/house/6243439-hakeem-jeffries-trump-administration-army-iowa-lead-azide-detonation-criticism
+https://thehill.com/homenews/house/6244906-tom-emmer-republicans-economy-messaging
 https://thehill.com/homenews/lgbtq/6044688-log-cabin-republicans-transgender-support-ends
 https://thehill.com/homenews/media/6040779-alina-habba-press-secretary-karoline-leavitt
 https://thehill.com/homenews/media/6045875-scott-jennings-press-secretary-reports
@@ -3374,6 +3381,7 @@ https://thehill.com/homenews/media/6227543-vance-nyt-dealbook-summit-tech-outage
 https://thehill.com/homenews/media/6227589-kilmeade-slams-vance-iran-war
 https://thehill.com/homenews/media/6229710-china-blocks-bloomberg-reporter-trump-question
 https://thehill.com/homenews/media/6239781-donald-trump-jensen-huang-national-security-nvidia-return-wall-street-journal-editorial-board
+https://thehill.com/homenews/media/6244597-donald-trump-new-york-times-criticism-thanksgiving
 https://thehill.com/homenews/nexstar_media_wire/6033849-no-more-sunsets-before-5-p-m-how-permanent-daylight-saving-would-change-winter
 https://thehill.com/homenews/senate/6040557-jon-ossoff-white-house-feud-donald-trump-natalie-harp
 https://thehill.com/homenews/senate/6041270-live-results-massachusetts-senate-primary
@@ -5005,7 +5013,9 @@ https://thehill.com/opinion/campaign/6234440-jeffries-secures-house-leadership-v
 https://thehill.com/opinion/campaign/6234848-new-faces-american-politics
 https://thehill.com/opinion/campaign/6238198-florida-conservatism-election-results
 https://thehill.com/opinion/campaign/6239073-van-hollen-senate-leader
+https://thehill.com/opinion/campaign/6240367-california-billionaire-tax-failure
 https://thehill.com/opinion/campaign/6240673-democrats-win-young-men
+https://thehill.com/opinion/campaign/6243531-johnson-civil-rights-revolution-resurrected
 https://thehill.com/opinion/civil-rights/6042440-meaning-behind-woke-language
 https://thehill.com/opinion/civil-rights/6043787-business-refuses-service-religious-political-views
 https://thehill.com/opinion/civil-rights/6044413-debate-jewish-religion-race
@@ -5077,6 +5087,7 @@ https://thehill.com/opinion/congress-blog/6226132-new-congress-ethics-reform
 https://thehill.com/opinion/congress-blog/6227128-traceability-risk-political-power
 https://thehill.com/opinion/congress-blog/6228266-house-senate-party-shifts
 https://thehill.com/opinion/congress-blog/6233288-political-risks-hegseth-impeachment
+https://thehill.com/opinion/congress-blog/6239022-thanksgiving-partisan-politics-evolution
 https://thehill.com/opinion/congress-blog/6239055-air-traffic-control-funding-debate
 https://thehill.com/opinion/congress-blog/campaign/6136438-congressional-incentive-reform
 https://thehill.com/opinion/congress-blog/campaign/6185525-senate-race-uncertainty-projections
@@ -5249,6 +5260,7 @@ https://thehill.com/opinion/energy-environment/6226068-us-cop31-energy-targets
 https://thehill.com/opinion/energy-environment/6233586-trump-nuclear-campus-job-claims
 https://thehill.com/opinion/energy-environment/6234609-congress-permitting-reform
 https://thehill.com/opinion/energy-environment/6240832-wildlife-management-wolf-harvesting
+https://thehill.com/opinion/energy-environment/6241442-republican-defeat-energy-costs
 https://thehill.com/opinion/finance/6039678-billionaire-wealth-wealth-inequality
 https://thehill.com/opinion/finance/6043925-female-earnings-separation-risk
 https://thehill.com/opinion/finance/6044493-housing-supply-unlock-tax-cuts
@@ -5384,6 +5396,7 @@ https://thehill.com/opinion/healthcare/6226138-gas-station-kratom-opioid-danger
 https://thehill.com/opinion/healthcare/6228352-fda-glp1-blinding-warning
 https://thehill.com/opinion/healthcare/6233880-congressional-food-safety-overhaul
 https://thehill.com/opinion/healthcare/6234205-pass-elsa-health-care-bill
+https://thehill.com/opinion/healthcare/6241160-thanksgiving-gratitude-fuels-hope
 https://thehill.com/opinion/immigration/6039522-reducing-immigration-litigation-hostility
 https://thehill.com/opinion/immigration/6053193-mega-master-calendar-hearings-impact
 https://thehill.com/opinion/immigration/6058430-florida-mandatory-death-penalty
@@ -5707,6 +5720,7 @@ https://thehill.com/opinion/national-security/6237471-jensen-huang-reinstated-af
 https://thehill.com/opinion/national-security/6237737-nvidia-reinstates-jensen-huang
 https://thehill.com/opinion/national-security/6239118-nvda-ceo-reinstated-after-scandal
 https://thehill.com/opinion/national-security/6240190-trump-colby-nato-security-strategy
+https://thehill.com/opinion/national-security/6241424-vet-community-action-plan
 https://thehill.com/opinion/robbys-radar/6041771-cnn-erin-burnett-natalie-harp
 https://thehill.com/opinion/robbys-radar/6047297-data-centers-public-opposition
 https://thehill.com/opinion/robbys-radar/6049731-el-sayed-hasan-piker-distancing
@@ -5856,6 +5870,7 @@ https://thehill.com/opinion/technology/6234610-threat-nuclear-proliferation-ai
 https://thehill.com/opinion/technology/6237593-office-attendance-reality
 https://thehill.com/opinion/technology/6238353-preventing-ai-driven-job-displacement
 https://thehill.com/opinion/technology/6238570-machine-reasoning-challenges-human-intellect
+https://thehill.com/opinion/technology/6240303-disney-witchcraft-thanksgiving-controversy
 https://thehill.com/opinion/white-house/6036778-what-is-trump-afraid-we-will-see-about-how-the-tariffs-were-formulated
 https://thehill.com/opinion/white-house/6042186-trump-navy-war
 https://thehill.com/opinion/white-house/6042342-fda-food-safety-reform
@@ -6381,6 +6396,8 @@ https://thehill.com/policy/energy-environment/6240967-army-lead-explosives-iowa-
 https://thehill.com/policy/energy-environment/6242772-army-iowa-lead-detonation
 https://thehill.com/policy/energy-environment/6243540-house-permitting-reform-bill-energy-infrastructure
 https://thehill.com/policy/energy-environment/6244557-severe-weather-thanksgiving-travel-delays
+https://thehill.com/policy/energy-environment/6244772-lead-azide-airborne-epa-lee-zeldin
+https://thehill.com/policy/energy-environment/6244928-thanksgiving-storm-flight-delays-power-outages
 https://thehill.com/policy/healthcare/6036144-cases-of-scromiting-condition-tied-to-cannabis-use-spike-among-teens-young-adults-new-study
 https://thehill.com/policy/healthcare/6041007-blueberry-recall-fda-publix
 https://thehill.com/policy/healthcare/6041051-cdc-salmonella-jalapeno-outbreak
@@ -6913,8 +6930,12 @@ https://thehill.com/policy/international/6241572-kilmar-abrego-garcia-self-depor
 https://thehill.com/policy/international/6242020-kilmar-abrego-garcia-self-deport-spain-arrival
 https://thehill.com/policy/international/6242437-melania-trump-reunites-children-russia-ukraine
 https://thehill.com/policy/international/6243656-ukraine-russia-oil-refinery-attacks
+https://thehill.com/policy/international/6243997-democrats-seek-end-iran-war-questions
 https://thehill.com/policy/international/6244109-kushner-calls-putin-grandmaster
 https://thehill.com/policy/international/6244220-eu-rejects-us-tariff-proposal
+https://thehill.com/policy/international/6244629-trump-global-tariffs-china-japan-eu-fallout
+https://thehill.com/policy/international/6244695-donald-trump-mark-rutte-meeting-russia-ukraine-war
+https://thehill.com/policy/international/6244966-sheinbaum-rebukes-dea-tip-line
 https://thehill.com/policy/national-security/6049802-cia-director-ratcliffe-moscow-visit
 https://thehill.com/policy/national-security/6056134-senators-oppose-ice-shocking-gloves
 https://thehill.com/policy/national-security/6059574-homan-ice-bus-stop-arrests
@@ -7348,6 +7369,9 @@ https://thehill.com/policy/technology/6241952-donald-trump-nvidia-scandal-jensen
 https://thehill.com/policy/technology/6242120-jesse-watters-trump-nvidia-huang-benefits
 https://thehill.com/policy/technology/6242450-huawei-guilty-iran-sanctions-trade-secrets
 https://thehill.com/policy/technology/6243528-fcc-approves-spacex-orbital-ai-data-centers
+https://thehill.com/policy/technology/6244572-dennys-jensen-huang-nvidia-comeback-trump-administration
+https://thehill.com/policy/technology/6244786-fifa-cyberattack-personal-data
+https://thehill.com/policy/technology/6244857-elon-musk-pledges-spacex-shares-to-american-children
 https://thehill.com/policy/transportation/6050209-tsa-phases-out-gold-program
 https://thehill.com/policy/transportation/6050669-uber-new-family-features-teen-accounts-stream-safety
 https://thehill.com/policy/transportation/6059553-google-maps-renames-lake-america

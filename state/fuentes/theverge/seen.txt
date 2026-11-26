@@ -1025,6 +1025,10 @@ https://theverge.com/entertainment/1041937/you-can-see-everything-vod
 https://theverge.com/entertainment/1042179/silksong-news-incoming
 https://theverge.com/entertainment/1042221/google-my-channel-ai-video-patent
 https://theverge.com/entertainment/1042287/some-art-that-might-resonate-with-you
+https://theverge.com/entertainment/1042629/gta-6-city-design
+https://theverge.com/entertainment/1043249/were-not-quite-done-with-game-releases-for-the-year
+https://theverge.com/entertainment/1043425/toss-a-patch-to-your-witcher
+https://theverge.com/entertainment/1043489/midnight-diner-season3
 https://theverge.com/entertainment/803022/hbo-it-welcome-to-derry-review
 https://theverge.com/entertainment/815745/pluribus-review-apple-tv
 https://theverge.com/entertainment/845459/disclosure-day-spielberg-trailer-release-date
@@ -1391,7 +1395,10 @@ https://theverge.com/gadgets/1040357/nothing-ear-note-earbuds-ai-recording
 https://theverge.com/gadgets/1041078/honors-magic-9-pro-max-leaves-china
 https://theverge.com/gadgets/1041150/hulu-disney-plus-black-friday-ad-free-streaming-subscription-deal-sale-2026
 https://theverge.com/gadgets/1041460/fairphone-6-plus-repairable-phone-black-friday-2026-deal-sale
+https://theverge.com/gadgets/1041762/best-black-friday-streaming-deals-2026
 https://theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal
+https://theverge.com/gadgets/1042483/garmin-forerunner-265s-fitness-tracker-wearable-deal-sale-black-friday
+https://theverge.com/gadgets/1043176/more-than-enough
 https://theverge.com/gadgets/712844/today-im-toying-with
 https://theverge.com/gadgets/842702/tetris-my-play-watch-smartwatch-hands-on
 https://theverge.com/gadgets/847777/oh-snap-i-have-a-new-favorite-phone-grip
@@ -1706,6 +1713,7 @@ https://theverge.com/games/1040966/arion-kurtaj-gta-vi-leaks-sentenced-released
 https://theverge.com/games/1040989/more-than-39-million-unique-players-tried-gta-vi-on-ps5
 https://theverge.com/games/1042044/ea-sports-fc-is-resurrecting-a-deceased-commentator-with-ai
 https://theverge.com/games/1042054/who-needs-gta
+https://theverge.com/games/1043169/rockstar-games-union-vote-iwgb
 https://theverge.com/games/633885/gdc-2025-best-indie-games
 https://theverge.com/games/682063/the-new-york-times-nyt-games-crossplay-scrabble-pips
 https://theverge.com/games/684957/splitgate-2-hat-apology
@@ -2477,6 +2485,7 @@ https://theverge.com/policy/1041957/fincen-treasury-cybersecurity-incident
 https://theverge.com/policy/1042041/australia-just-passed-its-own-online-safety-law
 https://theverge.com/policy/1042102/trump-proposes-new-tariffs-across-china-india-the-eu-and-others
 https://theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats
+https://theverge.com/policy/1043116/fcc-disney-abc-broadcast-licenses-review-early-judge-block
 https://theverge.com/policy/677373/lawyers-chatgpt-hallucinations-ai
 https://theverge.com/policy/694155/big-balls-is-still-here
 https://theverge.com/policy/799473/facebook-meta-ice-jawboning
@@ -3707,6 +3716,11 @@ https://theverge.com/tech/1042870/amazon-recall-order-cpsc
 https://theverge.com/tech/1042938/google-home-familiar-faces-onn-cameras
 https://theverge.com/tech/1043111/pete-hegseth-reportedly-considered-a-cold-war-law-to-get-jensen-back
 https://theverge.com/tech/1043118/neuralink-fda-approval-implantable-brain-computer-interface-amyotrophic-lateral-sclerosis
+https://theverge.com/tech/1043122/casetify-pokemon-30th-anniversary-collection-cases-airpods
+https://theverge.com/tech/1043167/arduboy-kevin-bates-chgame-handheld-development-kit-low-cost-color-screen
+https://theverge.com/tech/1043228/android-play-store-google-developer-address-eu
+https://theverge.com/tech/1043267/safe-sand-ivan-charapanau-interactive-simulator-browser-phone-motion
+https://theverge.com/tech/1043347/xl-office-productivity-apps-atari-xl-xe-computers
 https://theverge.com/tech/24008239/sphere-las-vegas-experience-u2-screen
 https://theverge.com/tech/625223/book-log-read-goodreads
 https://theverge.com/tech/625409/best-robot-vacuum-mops
@@ -3744,6 +3758,7 @@ https://theverge.com/tech/876196/top-app-store-apps-developers
 https://theverge.com/tech/876480/meta-facebook-animate-profile-picture-restyle-ai
 https://theverge.com/tech/880756/windows-11-speed-test-build-in-update-preview
 https://theverge.com/tech/880812/ramageddon-ram-shortage-memory-crisis-price-2026-phones-laptops
+https://theverge.com/tech/881175/red-bull-media-house-game-pop-bulletin-magazine-playable-tetris-flexible-display
 https://theverge.com/tech/883225/samsung-galaxy-unpacked-s26-2026
 https://theverge.com/tech/883593/amd-forges-100-billion-deal-with-meta-for-ai-chips
 https://theverge.com/tech/883855/age-verification-internet-apps-laws-privacy-safety
