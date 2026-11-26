@@ -587,6 +587,8 @@ https://thehill.com/homenews/6236031-foxx-concedes-nc-5th
 https://thehill.com/homenews/6238620-trump-east-potomac-golf-litigation
 https://thehill.com/homenews/6238637-trump-wins-hush-money-appeal
 https://thehill.com/homenews/6241528-adam-telle-army-secretary-nomination
+https://thehill.com/homenews/6243655-hawley-urges-cassidy-labor-vote
+https://thehill.com/homenews/6244150-inflation-rises-but-economic-growth-remains-strong
 https://thehill.com/homenews/administration/5743349-who-is-katie-zacharia-new-dhs-spokesperson
 https://thehill.com/homenews/administration/6040220-live-updates-donald-trump-iran-war-economy-midterms
 https://thehill.com/homenews/administration/6040588-donald-trump-white-house-helipad-ballroom-construction
@@ -1575,7 +1577,10 @@ https://thehill.com/homenews/administration/6243397-vance-obama-iowa-munitions-l
 https://thehill.com/homenews/administration/6243432-vance-huang-nvidia-investigation
 https://thehill.com/homenews/administration/6243542-miller-praises-iowa-munitions-detonation-trump
 https://thehill.com/homenews/administration/6243654-kilmar-abrego-garcia-trump-administration-deportation-case
+https://thehill.com/homenews/administration/6243737-migrant-lottery-ice-arrest
 https://thehill.com/homenews/administration/6243798-navarro-warns-trump-investigations-civil-war
+https://thehill.com/homenews/administration/6243848-trump-criticizes-sand-iowa-lead-blast
+https://thehill.com/homenews/administration/6244295-middletown-shelter-order-lifted
 https://thehill.com/homenews/analysis/6040221-democrats-leftist-win-senate-race
 https://thehill.com/homenews/analysis/6042626-treasury-secretary-bessent-buyback
 https://thehill.com/homenews/analysis/6057609-gop-campaign-centered-trump
@@ -2731,6 +2736,7 @@ https://thehill.com/homenews/campaign/6240650-dan-sullivan-concedes-alaska-senat
 https://thehill.com/homenews/campaign/6241202-scott-jennings-urges-talarico-colom
 https://thehill.com/homenews/campaign/6241369-trump-newsom-death-row-clash
 https://thehill.com/homenews/campaign/6242554-shapiro-criticizes-biden-netanyahu
+https://thehill.com/homenews/campaign/6244013-rogan-blasts-gop-midterm-losses
 https://thehill.com/homenews/campaign/data-nerds/6040929-democratic-socialist-angie-nixon-florida-upset-what-to-know-discussion
 https://thehill.com/homenews/campaign/data-nerds/6054870-democratic-party-senate-control-division-2026-midterms-discussion
 https://thehill.com/homenews/campaign/data-nerds/6068929-abdul-el-sayed-democratic-tensions-michigan-senate-race-discussion
@@ -3780,6 +3786,7 @@ https://thehill.com/homenews/senate/6242018-democrats-target-60-seats-2028
 https://thehill.com/homenews/senate/6242808-senator-demands-measles-elimination-plan
 https://thehill.com/homenews/senate/6243237-troy-jackson-chris-van-hollen-support-senate-leadership-race
 https://thehill.com/homenews/senate/6243655-hawley-urges-cassidy-labor-vote
+https://thehill.com/homenews/senate/6243899-cruz-talarico-bipartisan-trump-space-academy
 https://thehill.com/homenews/space/6054908-where-northern-lights-may-shine-amid-geomagnetic-storm-watches
 https://thehill.com/homenews/space/6057441-americans-skeptical-ufo-origins-gallup-poll
 https://thehill.com/homenews/space/6067876-nasa-jared-isaacman-outlines-moon-base
@@ -4191,6 +4198,10 @@ https://thehill.com/homenews/state-watch/6242738-watch-live-army-iowa-lead-azide
 https://thehill.com/homenews/state-watch/6242971-nurse-alex-pretti-death-investigation
 https://thehill.com/homenews/state-watch/6243130-iowa-lead-azide-detonation-us-food-supply
 https://thehill.com/homenews/state-watch/6243709-nyc-macys-parade-set-saturday
+https://thehill.com/homenews/state-watch/6243872-bottoms-georgia-governor-swearing-in
+https://thehill.com/homenews/state-watch/6243923-nj-governor-declares-emergency
+https://thehill.com/homenews/state-watch/6244190-mamdani-misses-macys-parade
+https://thehill.com/homenews/state-watch/6244382-hochul-declares-thanksgiving-emergency
 https://thehill.com/homenews/sunday-talk-shows/6045326-sunday-shows-trump-canada-trade-republican-primaries
 https://thehill.com/homenews/sunday-talk-shows/6059207-sunday-shows-trump-gop-economic-tensions-foreign-relations
 https://thehill.com/homenews/sunday-talk-shows/6073362-sunday-shows-trump-rnc-convention-iran-war
@@ -4419,6 +4430,7 @@ https://thehill.com/newsletters/defense-national-security/6232039-uss-george-was
 https://thehill.com/newsletters/defense-national-security/6234868-dem-senators-want-swift-response-to-russian-airspace-incursions
 https://thehill.com/newsletters/defense-national-security/6238857-trump-sand-iowa-lead-detonation
 https://thehill.com/newsletters/defense-national-security/6241645-pentagon-ford-military-vehicles
+https://thehill.com/newsletters/defense-national-security/6244210-army-detonation-before-thanksgiving-americas-heartland
 https://thehill.com/newsletters/energy-environment/6042606-wetlands-policy-causes-gop-friction
 https://thehill.com/newsletters/energy-environment/6044586-doi-outlines-short-term-plan-for-water-cuts-in-ca-az-nv
 https://thehill.com/newsletters/energy-environment/6047881-politicians-aim-to-distance-themselves-from-data-centers
@@ -4705,6 +4717,7 @@ https://thehill.com/newsletters/technology/6231914-policymakers-watch-anthropic-
 https://thehill.com/newsletters/technology/6234571-trump-cairncross-white-house-leadership-shakeup
 https://thehill.com/newsletters/technology/6238707-jensens-back
 https://thehill.com/newsletters/technology/6241465-chip-restrictions-in-the-spotlight-after-huangs-return
+https://thehill.com/newsletters/technology/6243978-huawei-found-guilty-in-trade-secrets-theft-case
 https://thehill.com/newsletters/the-gavel/6050577-supreme-court-mail-in-voting-trump-policy
 https://thehill.com/newsletters/the-gavel/6064292-white-house-ballroom-trump-supreme-court-standing
 https://thehill.com/newsletters/the-gavel/6077380-supreme-court-trump-midterms
@@ -6893,6 +6906,8 @@ https://thehill.com/policy/international/6241572-kilmar-abrego-garcia-self-depor
 https://thehill.com/policy/international/6242020-kilmar-abrego-garcia-self-deport-spain-arrival
 https://thehill.com/policy/international/6242437-melania-trump-reunites-children-russia-ukraine
 https://thehill.com/policy/international/6243656-ukraine-russia-oil-refinery-attacks
+https://thehill.com/policy/international/6244109-kushner-calls-putin-grandmaster
+https://thehill.com/policy/international/6244220-eu-rejects-us-tariff-proposal
 https://thehill.com/policy/national-security/6049802-cia-director-ratcliffe-moscow-visit
 https://thehill.com/policy/national-security/6056134-senators-oppose-ice-shocking-gloves
 https://thehill.com/policy/national-security/6059574-homan-ice-bus-stop-arrests
@@ -7692,6 +7707,10 @@ https://thehill.com/regulation/court-battles/6238765-appeals-court-army-iowa-lea
 https://thehill.com/regulation/court-battles/6238953-omar-search-records-unsealed
 https://thehill.com/regulation/court-battles/6241076-doj-apologizes-house-lawyer-berry
 https://thehill.com/regulation/court-battles/6243427-second-judge-blocks-trump-birthright-citizenship
+https://thehill.com/regulation/court-battles/6244110-judge-blocks-ballot-return
+https://thehill.com/regulation/court-battles/6244265-musk-appeals-twitter-fraud-verdict-report
+https://thehill.com/regulation/court-battles/6244298-judge-blocks-fcc-from-early-renewal-of-abc-licenses
+https://thehill.com/regulation/court-battles/6244361-judge-denies-dnc-ad-challenge
 https://thehill.com/the-120/6205327-jeffries-democrat-house-majority-tests
 https://thehill.com/the-120/6208488-burchett-seeks-blackburn-senate-seat
 https://thehill.com/the-120/6208712-murkowski-seeks-senate-appropriations-ranking
